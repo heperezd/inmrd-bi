@@ -1,0 +1,5 @@
+﻿Educacion_ID,Nivel_Educativo,Orden_Nivel,Alfabetismo,Idioma_Espanol
+1,Ninguno,1,No sabe leer ni escribir,Básico
+2,Primaria / Básico,2,Sabe leer y escribir,Intermedio
+3,Secundaria / Medio,3,Sabe leer y escribir,Fluido
+4,Primaria / Básico,2,No sabe leer ni escribir,Básico

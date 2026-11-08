@@ -1,0 +1,13 @@
+﻿Anio_Ciclo_ID,Anio,Mes_Numero,Mes_Nombre,Trimestre,Ciclo_Agricola,Etiqueta_Periodo
+202201,2022,1,Enero,T1,Siembra Invierno,2022 - Enero
+202202,2022,2,Febrero,T1,Mantenimiento,2022 - Febrero
+202203,2022,3,Marzo,T1,Cosecha Primavera,2022 - Marzo
+202204,2022,4,Abril,T2,Cosecha Primavera,2022 - Abril
+202205,2022,5,Mayo,T2,Siembra Primavera,2022 - Mayo
+202206,2022,6,Junio,T2,Siembra Primavera,2022 - Junio
+202207,2022,7,Julio,T3,Mantenimiento,2022 - Julio
+202208,2022,8,Agosto,T3,Cosecha Verano/Otoño,2022 - Agosto
+202209,2022,9,Septiembre,T3,Cosecha Verano/Otoño,2022 - Septiembre
+202210,2022,10,Octubre,T4,Cosecha Verano/Otoño,2022 - Octubre
+202211,2022,11,Noviembre,T4,Preparación Invierno,2022 - Noviembre
+202212,2022,12,Diciembre,T4,Siembra Invierno,2022 - Diciembre

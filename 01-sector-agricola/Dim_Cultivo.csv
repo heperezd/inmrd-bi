@@ -1,0 +1,4 @@
+﻿Cultivo_ID,Nombre_Cultivo,Tipo_Ciclo,Unidad_Medida,Nivel_Mecanizacion,Color_Hex
+1,Arroz,Ciclo Corto (Estacional),Quintales (QQ),Alto en cosecha / Medio en preparación,#003876
+2,Plátano,Semi-permanente (Anual),Millares de unidades,Bajo (Intensivo en mano de obra),#0072CE
+3,Habichuela,Ciclo Corto (Invierno/Primavera),Quintales (QQ),Medio-Bajo,#D9232E

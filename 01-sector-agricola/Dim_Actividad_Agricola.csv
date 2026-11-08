@@ -1,0 +1,5 @@
+﻿Actividad_ID,Fase_Cultivo,Orden_Fase,Tipo_Tarea
+1,Preparación de tierra y mureo,1,Mixta (Manual / Mecanizada)
+2,Siembra y trasplante,2,Manual Intensiva
+3,Mantenimiento y desyerbo,3,Manual
+4,Cosecha y recolección,4,Mixta (Manual / Mecanizada)
