@@ -1,0 +1,17 @@
+﻿Etapa_ID,Rubro_ID,Etapa,Orden_Etapa,Etapa_Etiqueta
+11,1,Semilleros,1,(1) Semilleros
+12,1,Preparación del terreno,2,(2) Preparación del terreno
+13,1,Trasplante,3,(3) Trasplante
+14,1,Actividades culturales,4,(4) Actividades culturales
+15,1,Cosecha,5,(5) Cosecha
+21,2,Siembra,1,(1) Siembra
+22,2,Preparación del terreno,2,(2) Preparación del terreno
+23,2,Fertilización,3,(3) Fertilización
+24,2,Riego,4,(4) Riego
+25,2,Trillado,5,(5) Trillado
+26,2,Cosecha,6,(6) Cosecha
+31,3,Siembra o resiembra,1,(1) Siembra o resiembra
+32,3,Preparación del terreno,2,(2) Preparación del terreno
+33,3,Control y mantenimiento de drenaje,3,(3) Control y mantenimiento de drenaje
+34,3,Actividades culturales,4,(4) Actividades culturales
+35,3,Cosecha,5,(5) Cosecha

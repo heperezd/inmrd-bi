@@ -1,0 +1,1988 @@
+﻿Trabajador_ID,Maquinaria
+T0001,Máquina para fertilización
+T0001,Tractor(es)
+T0006,Cosechadora grande
+T0006,Fumigadora
+T0010,Fumigadora
+T0010,Tractor(es)
+T0012,Chapeadora eléctrica
+T0012,Cosechadora pequeña
+T0012,Fumigadora
+T0018,Chapeadora eléctrica
+T0019,Cosechadora grande
+T0019,Fumigadora
+T0019,Máquina para siembra
+T0024,Fumigadora
+T0024,Mureador
+T0024,Tractor(es)
+T0026,Mureador
+T0027,Fumigadora
+T0027,Máquina para fertilización
+T0032,Chapeadora eléctrica
+T0032,Mureador
+T0033,Fumigadora
+T0033,Tractor(es)
+T0036,Fumigadora
+T0036,Tractor(es)
+T0041,Fumigadora
+T0041,Mureador
+T0041,Máquina para siembra
+T0043,Cosechadora pequeña
+T0043,Fumigadora
+T0043,Mureador
+T0043,Máquina para fertilización
+T0043,Tractor(es)
+T0045,Cosechadora grande
+T0045,Fumigadora
+T0045,Mureador
+T0045,Tractor(es)
+T0050,Fumigadora
+T0050,Mureador
+T0050,Máquina para fertilización
+T0050,Máquina para siembra
+T0051,Cosechadora pequeña
+T0051,Fumigadora
+T0051,Máquina para fertilización
+T0051,Máquina para siembra
+T0051,Tractor(es)
+T0052,Fumigadora
+T0055,Fumigadora
+T0055,Tractor(es)
+T0056,Chapeadora eléctrica
+T0056,Motocultor
+T0056,Máquina para fertilización
+T0057,Fumigadora
+T0066,Cosechadora pequeña
+T0066,Tractor(es)
+T0068,Fumigadora
+T0068,Mureador
+T0068,Máquina para fertilización
+T0069,Fumigadora
+T0069,Tractor(es)
+T0071,Fumigadora
+T0071,Mureador
+T0076,Cosechadora pequeña
+T0076,Fumigadora
+T0076,Máquina para siembra
+T0078,Tractor(es)
+T0083,Cosechadora pequeña
+T0083,Fumigadora
+T0086,Cosechadora pequeña
+T0086,Fumigadora
+T0086,Máquina para siembra
+T0086,Tractor(es)
+T0087,Cosechadora pequeña
+T0087,Fumigadora
+T0088,Chapeadora eléctrica
+T0088,Fumigadora
+T0088,Motocultor
+T0088,Mureador
+T0088,Tractor(es)
+T0092,Cosechadora pequeña
+T0092,Fumigadora
+T0092,Máquina para fertilización
+T0094,Máquina para siembra
+T0107,Fumigadora
+T0107,Tractor(es)
+T0110,Fumigadora
+T0110,Tractor(es)
+T0111,Chapeadora eléctrica
+T0111,Fumigadora
+T0111,Motocultor
+T0111,Mureador
+T0111,Tractor(es)
+T0112,Chapeadora eléctrica
+T0112,Máquina para siembra
+T0112,Tractor(es)
+T0114,Cosechadora grande
+T0114,Fumigadora
+T0114,Mureador
+T0118,Cosechadora pequeña
+T0118,Fumigadora
+T0119,Máquina para fertilización
+T0120,Cosechadora grande
+T0120,Fumigadora
+T0120,Máquina para siembra
+T0123,Fumigadora
+T0126,Fumigadora
+T0126,Motocultor
+T0126,Máquina para fertilización
+T0127,Fumigadora
+T0127,Otras
+T0133,Fumigadora
+T0133,Mureador
+T0133,Máquina para fertilización
+T0133,Máquina para siembra
+T0137,Cosechadora grande
+T0137,Fumigadora
+T0137,Motocultor
+T0139,Fumigadora
+T0139,Motocultor
+T0143,Fumigadora
+T0143,Mureador
+T0143,Tractor(es)
+T0145,Fumigadora
+T0145,Otras
+T0145,Tractor(es)
+T0149,Fumigadora
+T0149,Tractor(es)
+T0151,Chapeadora eléctrica
+T0151,Cosechadora pequeña
+T0151,Fumigadora
+T0151,Tractor(es)
+T0153,Fumigadora
+T0158,Tractor(es)
+T0165,Chapeadora eléctrica
+T0165,Máquina para fertilización
+T0167,Chapeadora eléctrica
+T0167,Fumigadora
+T0167,Máquina para fertilización
+T0167,Tractor(es)
+T0170,Fumigadora
+T0170,Máquina para fertilización
+T0170,Otras
+T0170,Tractor(es)
+T0171,Fumigadora
+T0171,Tractor(es)
+T0173,Fumigadora
+T0173,Motocultor
+T0173,Mureador
+T0173,Máquina para siembra
+T0174,Tractor(es)
+T0179,Fumigadora
+T0181,Fumigadora
+T0181,Máquina para fertilización
+T0182,Motocultor
+T0182,Rolo compactador
+T0182,Tractor(es)
+T0187,Fumigadora
+T0187,Tractor(es)
+T0192,Fumigadora
+T0196,Fumigadora
+T0196,Mureador
+T0196,Máquina para siembra
+T0196,Tractor(es)
+T0197,Fumigadora
+T0197,Máquina para siembra
+T0197,Tractor(es)
+T0200,Fumigadora
+T0200,Motocultor
+T0200,Mureador
+T0200,Tractor(es)
+T0202,Cosechadora grande
+T0202,Máquina para fertilización
+T0203,Fumigadora
+T0203,Máquina para siembra
+T0203,Otras
+T0203,Tractor(es)
+T0204,Fumigadora
+T0204,Motocultor
+T0204,Tractor(es)
+T0208,Fumigadora
+T0213,Chapeadora eléctrica
+T0214,Otras
+T0215,Fumigadora
+T0215,Mureador
+T0215,Máquina para fertilización
+T0219,Fumigadora
+T0219,Mureador
+T0219,Tractor(es)
+T0222,Mureador
+T0232,Mureador
+T0232,Máquina para siembra
+T0232,Tractor(es)
+T0236,Chapeadora eléctrica
+T0236,Cosechadora grande
+T0236,Fumigadora
+T0236,Otras
+T0237,Mureador
+T0238,Máquina para fertilización
+T0246,Fumigadora
+T0246,Mureador
+T0246,Otras
+T0246,Tractor(es)
+T0261,Mureador
+T0261,Tractor(es)
+T0264,Fumigadora
+T0266,Fumigadora
+T0267,Fumigadora
+T0267,Mureador
+T0270,Tractor(es)
+T0271,Fumigadora
+T0274,Tractor(es)
+T0275,Fumigadora
+T0275,Motocultor
+T0275,Máquina para siembra
+T0279,Chapeadora eléctrica
+T0279,Cosechadora pequeña
+T0279,Mureador
+T0279,Máquina para siembra
+T0279,Tractor(es)
+T0281,Fumigadora
+T0281,Otras
+T0281,Tractor(es)
+T0282,Chapeadora eléctrica
+T0282,Máquina para fertilización
+T0282,Tractor(es)
+T0285,Ninguna
+T0289,Fumigadora
+T0289,Tractor(es)
+T0291,Fumigadora
+T0291,Mureador
+T0291,Máquina para fertilización
+T0291,Máquina para siembra
+T0291,Tractor(es)
+T0292,Chapeadora eléctrica
+T0292,Tractor(es)
+T0293,Chapeadora eléctrica
+T0293,Fumigadora
+T0293,Motocultor
+T0293,Tractor(es)
+T0296,Fumigadora
+T0303,Fumigadora
+T0303,Máquina para fertilización
+T0320,Chapeadora eléctrica
+T0320,Fumigadora
+T0320,Otras
+T0320,Rolo compactador
+T0320,Tractor(es)
+T0321,Fumigadora
+T0321,Máquina para fertilización
+T0324,Ninguna
+T0325,Fumigadora
+T0330,Fumigadora
+T0330,Mureador
+T0332,Fumigadora
+T0332,Tractor(es)
+T0337,Cosechadora grande
+T0337,Cosechadora pequeña
+T0337,Fumigadora
+T0337,Motocultor
+T0337,Mureador
+T0337,Tractor(es)
+T0342,Fumigadora
+T0343,Fumigadora
+T0343,Otras
+T0343,Tractor(es)
+T0344,Máquina para fertilización
+T0350,Fumigadora
+T0350,Rolo compactador
+T0350,Tractor(es)
+T0351,Motocultor
+T0351,Tractor(es)
+T0354,Fumigadora
+T0354,Tractor(es)
+T0362,Fumigadora
+T0362,Tractor(es)
+T0363,Fumigadora
+T0363,Otras
+T0363,Tractor(es)
+T0367,Cosechadora grande
+T0367,Cosechadora pequeña
+T0367,Máquina para siembra
+T0367,Tractor(es)
+T0372,Fumigadora
+T0372,Mureador
+T0372,Otras
+T0375,Fumigadora
+T0375,Mureador
+T0375,Máquina para fertilización
+T0375,Tractor(es)
+T0376,Fumigadora
+T0376,Mureador
+T0395,Cosechadora pequeña
+T0395,Fumigadora
+T0395,Motocultor
+T0407,Chapeadora eléctrica
+T0407,Mureador
+T0407,Rolo compactador
+T0407,Tractor(es)
+T0410,Máquina para fertilización
+T0410,Tractor(es)
+T0411,Fumigadora
+T0411,Tractor(es)
+T0413,Chapeadora eléctrica
+T0413,Cosechadora grande
+T0413,Mureador
+T0414,Cosechadora pequeña
+T0414,Mureador
+T0414,Tractor(es)
+T0415,Chapeadora eléctrica
+T0415,Tractor(es)
+T0416,Chapeadora eléctrica
+T0416,Fumigadora
+T0417,Fumigadora
+T0417,Tractor(es)
+T0418,Fumigadora
+T0418,Mureador
+T0418,Máquina para fertilización
+T0418,Rolo compactador
+T0421,Chapeadora eléctrica
+T0421,Mureador
+T0421,Tractor(es)
+T0427,Cosechadora grande
+T0427,Motocultor
+T0429,Fumigadora
+T0429,Rolo compactador
+T0430,Cosechadora pequeña
+T0430,Fumigadora
+T0430,Mureador
+T0433,Chapeadora eléctrica
+T0433,Fumigadora
+T0433,Mureador
+T0440,Fumigadora
+T0440,Mureador
+T0440,Tractor(es)
+T0444,Cosechadora grande
+T0444,Fumigadora
+T0450,Fumigadora
+T0451,Chapeadora eléctrica
+T0451,Fumigadora
+T0451,Tractor(es)
+T0453,Chapeadora eléctrica
+T0453,Fumigadora
+T0453,Motocultor
+T0453,Máquina para siembra
+T0453,Tractor(es)
+T0455,Fumigadora
+T0455,Motocultor
+T0455,Tractor(es)
+T0461,Fumigadora
+T0461,Mureador
+T0461,Máquina para fertilización
+T0466,Fumigadora
+T0466,Mureador
+T0466,Máquina para siembra
+T0467,Fumigadora
+T0467,Máquina para siembra
+T0471,Motocultor
+T0471,Máquina para siembra
+T0475,Chapeadora eléctrica
+T0475,Fumigadora
+T0475,Tractor(es)
+T0476,Cosechadora grande
+T0476,Mureador
+T0479,Chapeadora eléctrica
+T0479,Fumigadora
+T0479,Mureador
+T0479,Máquina para fertilización
+T0479,Tractor(es)
+T0484,Mureador
+T0484,Tractor(es)
+T0485,Chapeadora eléctrica
+T0485,Fumigadora
+T0489,Chapeadora eléctrica
+T0489,Fumigadora
+T0489,Mureador
+T0489,Máquina para fertilización
+T0489,Otras
+T0489,Tractor(es)
+T0490,Ninguna
+T0496,Fumigadora
+T0496,Máquina para siembra
+T0496,Tractor(es)
+T0497,Fumigadora
+T0497,Motocultor
+T0497,Máquina para siembra
+T0499,Rolo compactador
+T0499,Tractor(es)
+T0500,Motocultor
+T0500,Mureador
+T0500,Tractor(es)
+T0501,Fumigadora
+T0501,Mureador
+T0501,Tractor(es)
+T0502,Rolo compactador
+T0502,Tractor(es)
+T0503,Fumigadora
+T0503,Motocultor
+T0503,Tractor(es)
+T0504,Fumigadora
+T0508,Máquina para siembra
+T0509,Fumigadora
+T0510,Fumigadora
+T0510,Mureador
+T0510,Máquina para siembra
+T0510,Tractor(es)
+T0511,Fumigadora
+T0511,Mureador
+T0511,Otras
+T0511,Tractor(es)
+T0514,Fumigadora
+T0514,Motocultor
+T0514,Otras
+T0525,Otras
+T0525,Tractor(es)
+T0529,Fumigadora
+T0529,Motocultor
+T0529,Tractor(es)
+T0530,Fumigadora
+T0530,Otras
+T0540,Chapeadora eléctrica
+T0540,Cosechadora grande
+T0540,Fumigadora
+T0540,Tractor(es)
+T0544,Fumigadora
+T0544,Mureador
+T0544,Máquina para siembra
+T0544,Rolo compactador
+T0544,Tractor(es)
+T0545,Cosechadora pequeña
+T0545,Motocultor
+T0546,Cosechadora grande
+T0546,Máquina para siembra
+T0547,Chapeadora eléctrica
+T0547,Motocultor
+T0547,Tractor(es)
+T0548,Tractor(es)
+T0549,Fumigadora
+T0549,Mureador
+T0549,Tractor(es)
+T0551,Fumigadora
+T0553,Chapeadora eléctrica
+T0553,Fumigadora
+T0553,Máquina para siembra
+T0557,Chapeadora eléctrica
+T0557,Motocultor
+T0557,Tractor(es)
+T0558,Fumigadora
+T0560,Cosechadora pequeña
+T0560,Fumigadora
+T0560,Tractor(es)
+T0561,Cosechadora pequeña
+T0561,Fumigadora
+T0561,Máquina para fertilización
+T0561,Máquina para siembra
+T0561,Tractor(es)
+T0562,Chapeadora eléctrica
+T0562,Fumigadora
+T0562,Motocultor
+T0565,Fumigadora
+T0565,Mureador
+T0565,Máquina para siembra
+T0565,Otras
+T0568,Cosechadora pequeña
+T0568,Máquina para siembra
+T0568,Tractor(es)
+T0569,Cosechadora grande
+T0569,Fumigadora
+T0569,Tractor(es)
+T0577,Fumigadora
+T0577,Mureador
+T0577,Máquina para fertilización
+T0577,Tractor(es)
+T0580,Ninguna
+T0581,Chapeadora eléctrica
+T0581,Tractor(es)
+T0586,Fumigadora
+T0586,Máquina para siembra
+T0586,Tractor(es)
+T0596,Fumigadora
+T0596,Mureador
+T0596,Máquina para siembra
+T0596,Tractor(es)
+T0597,Tractor(es)
+T0608,Fumigadora
+T0611,Cosechadora pequeña
+T0611,Fumigadora
+T0611,Máquina para siembra
+T0613,Fumigadora
+T0613,Mureador
+T0614,Fumigadora
+T0614,Mureador
+T0615,Fumigadora
+T0619,Motocultor
+T0619,Mureador
+T0619,Tractor(es)
+T0621,Fumigadora
+T0621,Mureador
+T0622,Fumigadora
+T0622,Mureador
+T0623,Fumigadora
+T0623,Máquina para siembra
+T0623,Tractor(es)
+T0624,Fumigadora
+T0625,Fumigadora
+T0625,Motocultor
+T0625,Mureador
+T0625,Tractor(es)
+T0627,Chapeadora eléctrica
+T0627,Fumigadora
+T0627,Motocultor
+T0630,Fumigadora
+T0631,Chapeadora eléctrica
+T0631,Fumigadora
+T0631,Tractor(es)
+T0632,Otras
+T0632,Tractor(es)
+T0634,Cosechadora grande
+T0634,Fumigadora
+T0634,Máquina para fertilización
+T0636,Fumigadora
+T0640,Fumigadora
+T0641,Chapeadora eléctrica
+T0641,Fumigadora
+T0641,Motocultor
+T0641,Mureador
+T0641,Tractor(es)
+T0642,Tractor(es)
+T0644,Fumigadora
+T0644,Mureador
+T0644,Máquina para siembra
+T0645,Motocultor
+T0645,Mureador
+T0645,Máquina para siembra
+T0645,Tractor(es)
+T0649,Cosechadora grande
+T0649,Cosechadora pequeña
+T0649,Tractor(es)
+T0650,Fumigadora
+T0653,Chapeadora eléctrica
+T0659,Fumigadora
+T0659,Tractor(es)
+T0662,Fumigadora
+T0669,Cosechadora pequeña
+T0669,Fumigadora
+T0669,Mureador
+T0669,Tractor(es)
+T0678,Chapeadora eléctrica
+T0678,Fumigadora
+T0678,Mureador
+T0678,Tractor(es)
+T0679,Chapeadora eléctrica
+T0679,Cosechadora pequeña
+T0679,Fumigadora
+T0679,Tractor(es)
+T0681,Cosechadora pequeña
+T0681,Fumigadora
+T0681,Motocultor
+T0681,Mureador
+T0681,Rolo compactador
+T0681,Tractor(es)
+T0685,Chapeadora eléctrica
+T0685,Fumigadora
+T0685,Máquina para fertilización
+T0685,Máquina para siembra
+T0687,Fumigadora
+T0687,Máquina para fertilización
+T0687,Tractor(es)
+T0691,Chapeadora eléctrica
+T0691,Fumigadora
+T0691,Motocultor
+T0691,Tractor(es)
+T0692,Fumigadora
+T0695,Motocultor
+T0695,Rolo compactador
+T0707,Fumigadora
+T0709,Fumigadora
+T0709,Mureador
+T0718,Fumigadora
+T0720,Fumigadora
+T0720,Máquina para fertilización
+T0723,Otras
+T0724,Fumigadora
+T0733,Fumigadora
+T0733,Mureador
+T0733,Tractor(es)
+T0736,Cosechadora pequeña
+T0736,Fumigadora
+T0736,Tractor(es)
+T0737,Cosechadora grande
+T0737,Fumigadora
+T0737,Máquina para siembra
+T0738,Chapeadora eléctrica
+T0738,Motocultor
+T0738,Tractor(es)
+T0741,Chapeadora eléctrica
+T0741,Cosechadora pequeña
+T0741,Fumigadora
+T0741,Motocultor
+T0741,Mureador
+T0741,Tractor(es)
+T0748,Fumigadora
+T0748,Rolo compactador
+T0748,Tractor(es)
+T0751,Cosechadora pequeña
+T0752,Mureador
+T0752,Máquina para siembra
+T0755,Fumigadora
+T0755,Mureador
+T0755,Máquina para siembra
+T0755,Tractor(es)
+T0756,Fumigadora
+T0762,Fumigadora
+T0762,Mureador
+T0762,Máquina para siembra
+T0762,Rolo compactador
+T0762,Tractor(es)
+T0763,Mureador
+T0770,Fumigadora
+T0770,Tractor(es)
+T0771,Máquina para fertilización
+T0772,Mureador
+T0776,Cosechadora pequeña
+T0776,Fumigadora
+T0776,Mureador
+T0776,Tractor(es)
+T0779,Cosechadora grande
+T0779,Fumigadora
+T0779,Mureador
+T0779,Tractor(es)
+T0780,Cosechadora grande
+T0780,Fumigadora
+T0781,Fumigadora
+T0781,Motocultor
+T0781,Tractor(es)
+T0784,Cosechadora pequeña
+T0784,Motocultor
+T0784,Mureador
+T0785,Cosechadora pequeña
+T0785,Fumigadora
+T0785,Máquina para fertilización
+T0785,Rolo compactador
+T0790,Motocultor
+T0790,Tractor(es)
+T0792,Fumigadora
+T0792,Máquina para fertilización
+T0792,Otras
+T0793,Máquina para fertilización
+T0800,Fumigadora
+T0800,Rolo compactador
+T0800,Tractor(es)
+T0802,Fumigadora
+T0802,Otras
+T0802,Tractor(es)
+T0808,Fumigadora
+T0808,Otras
+T0809,Fumigadora
+T0809,Rolo compactador
+T0809,Tractor(es)
+T0810,Chapeadora eléctrica
+T0810,Fumigadora
+T0811,Fumigadora
+T0814,Chapeadora eléctrica
+T0814,Cosechadora pequeña
+T0814,Fumigadora
+T0814,Mureador
+T0814,Máquina para fertilización
+T0814,Otras
+T0816,Fumigadora
+T0816,Máquina para fertilización
+T0818,Fumigadora
+T0818,Motocultor
+T0820,Fumigadora
+T0820,Mureador
+T0820,Máquina para fertilización
+T0820,Tractor(es)
+T0822,Chapeadora eléctrica
+T0822,Fumigadora
+T0822,Tractor(es)
+T0827,Motocultor
+T0831,Cosechadora grande
+T0831,Fumigadora
+T0831,Tractor(es)
+T0834,Mureador
+T0836,Cosechadora grande
+T0836,Fumigadora
+T0836,Máquina para fertilización
+T0836,Otras
+T0837,Motocultor
+T0837,Tractor(es)
+T0839,Chapeadora eléctrica
+T0839,Máquina para fertilización
+T0840,Chapeadora eléctrica
+T0840,Mureador
+T0856,Fumigadora
+T0856,Máquina para fertilización
+T0857,Fumigadora
+T0857,Máquina para siembra
+T0857,Tractor(es)
+T0859,Chapeadora eléctrica
+T0859,Mureador
+T0859,Máquina para fertilización
+T0859,Máquina para siembra
+T0862,Fumigadora
+T0862,Mureador
+T0862,Otras
+T0862,Tractor(es)
+T0865,Fumigadora
+T0865,Otras
+T0867,Fumigadora
+T0867,Motocultor
+T0868,Fumigadora
+T0868,Tractor(es)
+T0869,Fumigadora
+T0869,Mureador
+T0869,Otras
+T0870,Fumigadora
+T0870,Máquina para fertilización
+T0871,Fumigadora
+T0871,Tractor(es)
+T0872,Chapeadora eléctrica
+T0872,Cosechadora grande
+T0872,Fumigadora
+T0872,Otras
+T0872,Tractor(es)
+T0873,Fumigadora
+T0873,Mureador
+T0878,Cosechadora pequeña
+T0878,Fumigadora
+T0878,Máquina para fertilización
+T0879,Fumigadora
+T0879,Mureador
+T0880,Chapeadora eléctrica
+T0880,Fumigadora
+T0880,Motocultor
+T0880,Tractor(es)
+T0881,Motocultor
+T0881,Mureador
+T0883,Fumigadora
+T0884,Motocultor
+T0884,Mureador
+T0884,Otras
+T0886,Chapeadora eléctrica
+T0886,Fumigadora
+T0886,Máquina para fertilización
+T0888,Fumigadora
+T0890,Cosechadora pequeña
+T0898,Chapeadora eléctrica
+T0898,Máquina para siembra
+T0900,Otras
+T0900,Tractor(es)
+T0901,Otras
+T0901,Tractor(es)
+T0902,Fumigadora
+T0902,Mureador
+T0902,Máquina para fertilización
+T0902,Otras
+T0908,Fumigadora
+T0914,Cosechadora pequeña
+T0914,Fumigadora
+T0914,Motocultor
+T0914,Mureador
+T0914,Tractor(es)
+T0920,Fumigadora
+T0920,Máquina para fertilización
+T0920,Tractor(es)
+T0924,Mureador
+T0924,Tractor(es)
+T0929,Fumigadora
+T0929,Mureador
+T0929,Tractor(es)
+T0932,Chapeadora eléctrica
+T0932,Tractor(es)
+T0943,Cosechadora grande
+T0943,Cosechadora pequeña
+T0943,Tractor(es)
+T0951,Motocultor
+T0954,Fumigadora
+T0954,Mureador
+T0955,Ninguna
+T0956,Cosechadora pequeña
+T0956,Mureador
+T0956,Otras
+T0966,Chapeadora eléctrica
+T0966,Cosechadora grande
+T0966,Fumigadora
+T0966,Mureador
+T0967,Chapeadora eléctrica
+T0967,Fumigadora
+T0967,Máquina para siembra
+T0967,Tractor(es)
+T0968,Mureador
+T0968,Tractor(es)
+T0971,Cosechadora pequeña
+T0971,Fumigadora
+T0972,Tractor(es)
+T0973,Fumigadora
+T0973,Máquina para siembra
+T0974,Fumigadora
+T0974,Máquina para siembra
+T0975,Fumigadora
+T0975,Máquina para fertilización
+T0975,Tractor(es)
+T0976,Fumigadora
+T0976,Motocultor
+T0976,Mureador
+T0976,Máquina para siembra
+T0976,Rolo compactador
+T0979,Fumigadora
+T0979,Motocultor
+T0983,Fumigadora
+T0983,Tractor(es)
+T0985,Cosechadora pequeña
+T0985,Fumigadora
+T0985,Motocultor
+T0985,Tractor(es)
+T0986,Fumigadora
+T0986,Tractor(es)
+T0987,Fumigadora
+T0987,Tractor(es)
+T0988,Tractor(es)
+T0991,Mureador
+T0999,Cosechadora pequeña
+T0999,Fumigadora
+T0999,Motocultor
+T0999,Máquina para siembra
+T1006,Cosechadora grande
+T1006,Cosechadora pequeña
+T1006,Fumigadora
+T1009,Fumigadora
+T1009,Máquina para siembra
+T1010,Cosechadora pequeña
+T1010,Fumigadora
+T1010,Motocultor
+T1010,Mureador
+T1018,Tractor(es)
+T1019,Chapeadora eléctrica
+T1019,Fumigadora
+T1024,Mureador
+T1024,Tractor(es)
+T1028,Chapeadora eléctrica
+T1028,Motocultor
+T1028,Tractor(es)
+T1030,Motocultor
+T1030,Mureador
+T1030,Tractor(es)
+T1032,Otras
+T1032,Tractor(es)
+T1033,Tractor(es)
+T1034,Fumigadora
+T1034,Mureador
+T1034,Tractor(es)
+T1036,Chapeadora eléctrica
+T1036,Fumigadora
+T1036,Mureador
+T1040,Fumigadora
+T1043,Otras
+T1044,Fumigadora
+T1044,Máquina para siembra
+T1044,Tractor(es)
+T1045,Cosechadora pequeña
+T1045,Fumigadora
+T1045,Tractor(es)
+T1046,Fumigadora
+T1046,Motocultor
+T1049,Chapeadora eléctrica
+T1049,Fumigadora
+T1049,Máquina para siembra
+T1049,Tractor(es)
+T1053,Fumigadora
+T1053,Rolo compactador
+T1057,Fumigadora
+T1057,Otras
+T1060,Fumigadora
+T1060,Tractor(es)
+T1061,Fumigadora
+T1061,Tractor(es)
+T1064,Chapeadora eléctrica
+T1064,Fumigadora
+T1064,Motocultor
+T1064,Mureador
+T1064,Tractor(es)
+T1067,Motocultor
+T1067,Tractor(es)
+T1070,Ninguna
+T1073,Fumigadora
+T1074,Fumigadora
+T1074,Tractor(es)
+T1081,Cosechadora pequeña
+T1081,Fumigadora
+T1081,Tractor(es)
+T1083,Fumigadora
+T1083,Máquina para fertilización
+T1083,Tractor(es)
+T1084,Máquina para siembra
+T1085,Cosechadora pequeña
+T1085,Fumigadora
+T1086,Fumigadora
+T1086,Mureador
+T1086,Máquina para fertilización
+T1086,Tractor(es)
+T1088,Chapeadora eléctrica
+T1088,Fumigadora
+T1088,Tractor(es)
+T1092,Fumigadora
+T1092,Máquina para fertilización
+T1092,Tractor(es)
+T1093,Otras
+T1107,Fumigadora
+T1108,Mureador
+T1108,Tractor(es)
+T1118,Cosechadora pequeña
+T1118,Fumigadora
+T1118,Otras
+T1121,Fumigadora
+T1121,Mureador
+T1121,Máquina para fertilización
+T1121,Otras
+T1121,Tractor(es)
+T1123,Otras
+T1125,Mureador
+T1126,Máquina para siembra
+T1126,Rolo compactador
+T1129,Chapeadora eléctrica
+T1129,Fumigadora
+T1133,Chapeadora eléctrica
+T1133,Mureador
+T1137,Chapeadora eléctrica
+T1137,Máquina para siembra
+T1139,Fumigadora
+T1139,Motocultor
+T1139,Tractor(es)
+T1141,Cosechadora pequeña
+T1142,Chapeadora eléctrica
+T1149,Fumigadora
+T1149,Motocultor
+T1149,Otras
+T1152,Cosechadora pequeña
+T1152,Fumigadora
+T1155,Fumigadora
+T1155,Máquina para siembra
+T1155,Tractor(es)
+T1157,Ninguna
+T1158,Cosechadora grande
+T1158,Tractor(es)
+T1159,Fumigadora
+T1162,Cosechadora grande
+T1162,Tractor(es)
+T1172,Fumigadora
+T1174,Tractor(es)
+T1178,Fumigadora
+T1178,Máquina para fertilización
+T1179,Máquina para siembra
+T1180,Fumigadora
+T1180,Tractor(es)
+T1187,Motocultor
+T1187,Máquina para fertilización
+T1187,Tractor(es)
+T1188,Fumigadora
+T1189,Fumigadora
+T1189,Máquina para siembra
+T1190,Chapeadora eléctrica
+T1190,Fumigadora
+T1190,Mureador
+T1191,Máquina para fertilización
+T1191,Máquina para siembra
+T1192,Fumigadora
+T1192,Otras
+T1195,Chapeadora eléctrica
+T1195,Cosechadora grande
+T1195,Fumigadora
+T1195,Motocultor
+T1202,Fumigadora
+T1202,Mureador
+T1207,Máquina para siembra
+T1207,Tractor(es)
+T1208,Máquina para siembra
+T1209,Rolo compactador
+T1211,Mureador
+T1218,Chapeadora eléctrica
+T1219,Cosechadora grande
+T1219,Cosechadora pequeña
+T1219,Fumigadora
+T1219,Máquina para fertilización
+T1220,Cosechadora pequeña
+T1220,Fumigadora
+T1220,Tractor(es)
+T1221,Fumigadora
+T1221,Otras
+T1227,Fumigadora
+T1227,Máquina para siembra
+T1228,Cosechadora pequeña
+T1228,Fumigadora
+T1228,Máquina para siembra
+T1239,Fumigadora
+T1239,Motocultor
+T1240,Fumigadora
+T1240,Máquina para fertilización
+T1241,Tractor(es)
+T1245,Chapeadora eléctrica
+T1245,Fumigadora
+T1245,Motocultor
+T1245,Máquina para fertilización
+T1245,Tractor(es)
+T1247,Chapeadora eléctrica
+T1249,Fumigadora
+T1249,Motocultor
+T1249,Mureador
+T1249,Tractor(es)
+T1257,Fumigadora
+T1257,Mureador
+T1257,Máquina para siembra
+T1257,Tractor(es)
+T1261,Tractor(es)
+T1267,Fumigadora
+T1267,Otras
+T1273,Fumigadora
+T1273,Máquina para fertilización
+T1273,Tractor(es)
+T1274,Mureador
+T1276,Fumigadora
+T1278,Fumigadora
+T1278,Tractor(es)
+T1279,Mureador
+T1282,Fumigadora
+T1282,Tractor(es)
+T1283,Fumigadora
+T1283,Máquina para fertilización
+T1283,Tractor(es)
+T1284,Fumigadora
+T1284,Máquina para siembra
+T1284,Tractor(es)
+T1285,Tractor(es)
+T1287,Mureador
+T1287,Tractor(es)
+T1288,Fumigadora
+T1288,Máquina para fertilización
+T1290,Fumigadora
+T1290,Motocultor
+T1291,Chapeadora eléctrica
+T1291,Fumigadora
+T1291,Máquina para siembra
+T1291,Tractor(es)
+T1292,Fumigadora
+T1292,Mureador
+T1292,Máquina para siembra
+T1294,Fumigadora
+T1294,Motocultor
+T1294,Máquina para siembra
+T1294,Tractor(es)
+T1296,Fumigadora
+T1296,Mureador
+T1296,Tractor(es)
+T1298,Fumigadora
+T1298,Rolo compactador
+T1303,Máquina para fertilización
+T1312,Fumigadora
+T1314,Fumigadora
+T1314,Máquina para fertilización
+T1317,Fumigadora
+T1317,Máquina para siembra
+T1317,Tractor(es)
+T1319,Fumigadora
+T1319,Máquina para fertilización
+T1319,Tractor(es)
+T1323,Tractor(es)
+T1324,Fumigadora
+T1330,Cosechadora pequeña
+T1331,Fumigadora
+T1333,Motocultor
+T1333,Otras
+T1337,Fumigadora
+T1337,Mureador
+T1337,Tractor(es)
+T1338,Chapeadora eléctrica
+T1338,Fumigadora
+T1339,Chapeadora eléctrica
+T1339,Motocultor
+T1339,Tractor(es)
+T1341,Fumigadora
+T1349,Cosechadora pequeña
+T1349,Fumigadora
+T1350,Fumigadora
+T1350,Máquina para siembra
+T1350,Tractor(es)
+T1353,Fumigadora
+T1353,Tractor(es)
+T1358,Chapeadora eléctrica
+T1358,Mureador
+T1360,Fumigadora
+T1366,Cosechadora pequeña
+T1366,Fumigadora
+T1367,Chapeadora eléctrica
+T1367,Fumigadora
+T1371,Chapeadora eléctrica
+T1371,Fumigadora
+T1371,Mureador
+T1374,Chapeadora eléctrica
+T1374,Fumigadora
+T1375,Chapeadora eléctrica
+T1375,Máquina para siembra
+T1375,Tractor(es)
+T1377,Mureador
+T1377,Máquina para fertilización
+T1380,Cosechadora pequeña
+T1380,Fumigadora
+T1380,Tractor(es)
+T1381,Fumigadora
+T1381,Motocultor
+T1381,Tractor(es)
+T1382,Chapeadora eléctrica
+T1382,Fumigadora
+T1386,Fumigadora
+T1386,Mureador
+T1386,Tractor(es)
+T1391,Cosechadora pequeña
+T1394,Chapeadora eléctrica
+T1394,Fumigadora
+T1394,Máquina para fertilización
+T1394,Máquina para siembra
+T1394,Tractor(es)
+T1397,Fumigadora
+T1397,Tractor(es)
+T1399,Fumigadora
+T1400,Chapeadora eléctrica
+T1404,Mureador
+T1404,Máquina para siembra
+T1404,Tractor(es)
+T1407,Cosechadora grande
+T1407,Motocultor
+T1409,Fumigadora
+T1409,Otras
+T1414,Chapeadora eléctrica
+T1414,Fumigadora
+T1414,Motocultor
+T1414,Mureador
+T1415,Chapeadora eléctrica
+T1415,Fumigadora
+T1416,Mureador
+T1416,Tractor(es)
+T1418,Mureador
+T1418,Máquina para siembra
+T1420,Fumigadora
+T1420,Motocultor
+T1421,Máquina para siembra
+T1423,Chapeadora eléctrica
+T1423,Mureador
+T1423,Tractor(es)
+T1430,Tractor(es)
+T1434,Chapeadora eléctrica
+T1434,Fumigadora
+T1434,Máquina para fertilización
+T1438,Fumigadora
+T1442,Fumigadora
+T1442,Máquina para fertilización
+T1443,Fumigadora
+T1443,Motocultor
+T1443,Tractor(es)
+T1445,Mureador
+T1445,Máquina para fertilización
+T1445,Máquina para siembra
+T1446,Chapeadora eléctrica
+T1446,Fumigadora
+T1446,Tractor(es)
+T1448,Fumigadora
+T1448,Tractor(es)
+T1449,Tractor(es)
+T1451,Fumigadora
+T1451,Motocultor
+T1451,Tractor(es)
+T1452,Motocultor
+T1452,Tractor(es)
+T1454,Fumigadora
+T1454,Tractor(es)
+T1455,Cosechadora pequeña
+T1455,Fumigadora
+T1455,Máquina para fertilización
+T1458,Fumigadora
+T1458,Otras
+T1462,Fumigadora
+T1462,Máquina para siembra
+T1462,Tractor(es)
+T1465,Cosechadora grande
+T1465,Fumigadora
+T1465,Tractor(es)
+T1467,Cosechadora pequeña
+T1467,Otras
+T1467,Tractor(es)
+T1468,Fumigadora
+T1471,Fumigadora
+T1471,Máquina para fertilización
+T1471,Tractor(es)
+T1473,Fumigadora
+T1476,Chapeadora eléctrica
+T1476,Mureador
+T1476,Otras
+T1477,Fumigadora
+T1477,Máquina para fertilización
+T1484,Fumigadora
+T1484,Motocultor
+T1484,Máquina para fertilización
+T1484,Tractor(es)
+T1486,Chapeadora eléctrica
+T1486,Fumigadora
+T1486,Mureador
+T1488,Máquina para fertilización
+T1488,Otras
+T1488,Rolo compactador
+T1488,Tractor(es)
+T1489,Mureador
+T1490,Mureador
+T1490,Máquina para siembra
+T1493,Chapeadora eléctrica
+T1493,Máquina para siembra
+T1497,Tractor(es)
+T1500,Fumigadora
+T1500,Máquina para fertilización
+T1500,Tractor(es)
+T1502,Motocultor
+T1502,Máquina para fertilización
+T1502,Tractor(es)
+T1507,Tractor(es)
+T1524,Fumigadora
+T1525,Chapeadora eléctrica
+T1525,Motocultor
+T1525,Tractor(es)
+T1531,Fumigadora
+T1531,Máquina para fertilización
+T1535,Fumigadora
+T1536,Chapeadora eléctrica
+T1536,Cosechadora grande
+T1536,Fumigadora
+T1536,Motocultor
+T1536,Rolo compactador
+T1536,Tractor(es)
+T1537,Motocultor
+T1541,Cosechadora grande
+T1541,Fumigadora
+T1541,Rolo compactador
+T1541,Tractor(es)
+T1542,Fumigadora
+T1542,Motocultor
+T1542,Tractor(es)
+T1545,Chapeadora eléctrica
+T1545,Cosechadora pequeña
+T1545,Fumigadora
+T1545,Tractor(es)
+T1548,Fumigadora
+T1548,Motocultor
+T1548,Tractor(es)
+T1552,Fumigadora
+T1552,Máquina para fertilización
+T1553,Chapeadora eléctrica
+T1553,Fumigadora
+T1556,Cosechadora pequeña
+T1556,Fumigadora
+T1556,Motocultor
+T1556,Máquina para siembra
+T1556,Tractor(es)
+T1560,Fumigadora
+T1562,Fumigadora
+T1562,Otras
+T1573,Fumigadora
+T1573,Tractor(es)
+T1579,Fumigadora
+T1579,Rolo compactador
+T1580,Fumigadora
+T1580,Máquina para siembra
+T1580,Otras
+T1586,Tractor(es)
+T1588,Mureador
+T1588,Tractor(es)
+T1593,Cosechadora pequeña
+T1593,Fumigadora
+T1593,Motocultor
+T1595,Fumigadora
+T1595,Tractor(es)
+T1596,Chapeadora eléctrica
+T1596,Cosechadora grande
+T1596,Fumigadora
+T1596,Tractor(es)
+T1603,Cosechadora pequeña
+T1603,Fumigadora
+T1604,Chapeadora eléctrica
+T1604,Fumigadora
+T1604,Mureador
+T1604,Tractor(es)
+T1605,Fumigadora
+T1605,Motocultor
+T1605,Tractor(es)
+T1620,Fumigadora
+T1620,Tractor(es)
+T1621,Chapeadora eléctrica
+T1621,Fumigadora
+T1621,Tractor(es)
+T1626,Fumigadora
+T1626,Máquina para fertilización
+T1626,Tractor(es)
+T1638,Chapeadora eléctrica
+T1638,Fumigadora
+T1638,Tractor(es)
+T1639,Chapeadora eléctrica
+T1639,Cosechadora grande
+T1639,Fumigadora
+T1639,Motocultor
+T1639,Máquina para fertilización
+T1639,Otras
+T1639,Tractor(es)
+T1647,Motocultor
+T1647,Máquina para fertilización
+T1647,Máquina para siembra
+T1650,Fumigadora
+T1650,Tractor(es)
+T1651,Fumigadora
+T1651,Tractor(es)
+T1655,Máquina para fertilización
+T1656,Chapeadora eléctrica
+T1656,Motocultor
+T1657,Máquina para fertilización
+T1658,Fumigadora
+T1658,Máquina para fertilización
+T1658,Tractor(es)
+T1660,Fumigadora
+T1663,Cosechadora pequeña
+T1667,Máquina para siembra
+T1671,Mureador
+T1671,Máquina para siembra
+T1671,Tractor(es)
+T1679,Fumigadora
+T1679,Máquina para siembra
+T1679,Tractor(es)
+T1680,Fumigadora
+T1680,Máquina para fertilización
+T1680,Rolo compactador
+T1684,Cosechadora pequeña
+T1684,Fumigadora
+T1685,Mureador
+T1687,Fumigadora
+T1688,Chapeadora eléctrica
+T1688,Cosechadora pequeña
+T1688,Tractor(es)
+T1689,Chapeadora eléctrica
+T1689,Fumigadora
+T1689,Máquina para fertilización
+T1689,Tractor(es)
+T1694,Fumigadora
+T1694,Máquina para fertilización
+T1694,Otras
+T1695,Fumigadora
+T1695,Mureador
+T1698,Chapeadora eléctrica
+T1698,Fumigadora
+T1698,Motocultor
+T1698,Mureador
+T1698,Tractor(es)
+T1700,Chapeadora eléctrica
+T1700,Fumigadora
+T1700,Máquina para fertilización
+T1700,Rolo compactador
+T1703,Fumigadora
+T1703,Mureador
+T1705,Máquina para fertilización
+T1705,Otras
+T1705,Tractor(es)
+T1707,Fumigadora
+T1709,Fumigadora
+T1709,Mureador
+T1711,Fumigadora
+T1711,Mureador
+T1711,Tractor(es)
+T1712,Cosechadora grande
+T1714,Fumigadora
+T1714,Máquina para siembra
+T1718,Cosechadora pequeña
+T1718,Fumigadora
+T1718,Tractor(es)
+T1721,Chapeadora eléctrica
+T1721,Fumigadora
+T1721,Mureador
+T1721,Tractor(es)
+T1722,Chapeadora eléctrica
+T1722,Fumigadora
+T1723,Mureador
+T1723,Tractor(es)
+T1727,Cosechadora pequeña
+T1727,Fumigadora
+T1729,Máquina para siembra
+T1729,Tractor(es)
+T1732,Cosechadora pequeña
+T1732,Fumigadora
+T1732,Tractor(es)
+T1739,Fumigadora
+T1740,Mureador
+T1740,Máquina para siembra
+T1740,Otras
+T1743,Fumigadora
+T1748,Mureador
+T1754,Fumigadora
+T1754,Mureador
+T1754,Máquina para siembra
+T1757,Fumigadora
+T1757,Motocultor
+T1757,Mureador
+T1757,Máquina para siembra
+T1757,Otras
+T1761,Cosechadora pequeña
+T1761,Fumigadora
+T1761,Máquina para siembra
+T1761,Tractor(es)
+T1765,Cosechadora grande
+T1765,Cosechadora pequeña
+T1765,Fumigadora
+T1765,Mureador
+T1765,Otras
+T1765,Tractor(es)
+T1766,Motocultor
+T1767,Máquina para siembra
+T1769,Fumigadora
+T1769,Mureador
+T1772,Cosechadora grande
+T1772,Fumigadora
+T1772,Máquina para fertilización
+T1773,Fumigadora
+T1774,Fumigadora
+T1774,Máquina para fertilización
+T1774,Tractor(es)
+T1780,Chapeadora eléctrica
+T1780,Cosechadora grande
+T1780,Motocultor
+T1780,Tractor(es)
+T1781,Chapeadora eléctrica
+T1781,Cosechadora pequeña
+T1781,Fumigadora
+T1781,Mureador
+T1784,Fumigadora
+T1784,Rolo compactador
+T1784,Tractor(es)
+T1787,Chapeadora eléctrica
+T1787,Fumigadora
+T1787,Tractor(es)
+T1789,Cosechadora pequeña
+T1789,Fumigadora
+T1789,Tractor(es)
+T1794,Tractor(es)
+T1795,Chapeadora eléctrica
+T1795,Fumigadora
+T1795,Otras
+T1797,Cosechadora grande
+T1797,Fumigadora
+T1798,Cosechadora pequeña
+T1798,Fumigadora
+T1798,Motocultor
+T1798,Mureador
+T1798,Tractor(es)
+T1799,Fumigadora
+T1799,Mureador
+T1805,Motocultor
+T1805,Mureador
+T1805,Tractor(es)
+T1812,Tractor(es)
+T1814,Fumigadora
+T1814,Mureador
+T1814,Máquina para fertilización
+T1814,Rolo compactador
+T1814,Tractor(es)
+T1817,Fumigadora
+T1820,Máquina para fertilización
+T1820,Tractor(es)
+T1825,Fumigadora
+T1825,Motocultor
+T1825,Tractor(es)
+T1826,Máquina para fertilización
+T1829,Cosechadora grande
+T1829,Fumigadora
+T1829,Motocultor
+T1829,Tractor(es)
+T1835,Chapeadora eléctrica
+T1835,Otras
+T1835,Rolo compactador
+T1835,Tractor(es)
+T1837,Mureador
+T1837,Tractor(es)
+T1839,Chapeadora eléctrica
+T1845,Chapeadora eléctrica
+T1845,Cosechadora pequeña
+T1845,Fumigadora
+T1845,Mureador
+T1845,Tractor(es)
+T1851,Fumigadora
+T1851,Máquina para fertilización
+T1851,Otras
+T1853,Fumigadora
+T1853,Máquina para siembra
+T1853,Tractor(es)
+T1856,Fumigadora
+T1856,Motocultor
+T1857,Cosechadora pequeña
+T1857,Fumigadora
+T1860,Fumigadora
+T1860,Motocultor
+T1860,Mureador
+T1866,Fumigadora
+T1866,Mureador
+T1866,Máquina para siembra
+T1866,Tractor(es)
+T1867,Fumigadora
+T1867,Máquina para siembra
+T1867,Tractor(es)
+T1870,Fumigadora
+T1870,Máquina para fertilización
+T1870,Tractor(es)
+T1874,Fumigadora
+T1874,Motocultor
+T1874,Tractor(es)
+T1876,Cosechadora grande
+T1876,Fumigadora
+T1876,Máquina para fertilización
+T1876,Otras
+T1887,Fumigadora
+T1887,Máquina para siembra
+T1893,Fumigadora
+T1893,Tractor(es)
+T1895,Cosechadora pequeña
+T1895,Fumigadora
+T1898,Cosechadora pequeña
+T1898,Fumigadora
+T1898,Máquina para siembra
+T1898,Tractor(es)
+T1899,Fumigadora
+T1899,Máquina para siembra
+T1899,Tractor(es)
+T1900,Mureador
+T1903,Fumigadora
+T1903,Tractor(es)
+T1905,Cosechadora grande
+T1905,Fumigadora
+T1905,Otras
+T1905,Rolo compactador
+T1907,Fumigadora
+T1907,Mureador
+T1909,Máquina para fertilización
+T1916,Fumigadora
+T1916,Mureador
+T1916,Máquina para fertilización
+T1917,Fumigadora
+T1923,Fumigadora
+T1923,Máquina para siembra
+T1923,Tractor(es)
+T1924,Tractor(es)
+T1929,Fumigadora
+T1929,Máquina para fertilización
+T1935,Fumigadora
+T1937,Chapeadora eléctrica
+T1937,Fumigadora
+T1937,Máquina para siembra
+T1937,Tractor(es)
+T1940,Mureador
+T1940,Tractor(es)
+T1944,Fumigadora
+T1945,Fumigadora
+T1946,Fumigadora
+T1947,Motocultor
+T1949,Fumigadora
+T1949,Tractor(es)
+T1952,Cosechadora grande
+T1952,Mureador
+T1957,Chapeadora eléctrica
+T1957,Máquina para siembra
+T1957,Rolo compactador
+T1957,Tractor(es)
+T1959,Máquina para fertilización
+T1959,Tractor(es)
+T1960,Fumigadora
+T1962,Fumigadora
+T1964,Fumigadora
+T1964,Máquina para siembra
+T1967,Chapeadora eléctrica
+T1967,Fumigadora
+T1967,Motocultor
+T1967,Máquina para fertilización
+T1967,Tractor(es)
+T1969,Cosechadora grande
+T1969,Tractor(es)
+T1972,Fumigadora
+T1972,Motocultor
+T1972,Mureador
+T1972,Tractor(es)
+T1973,Fumigadora
+T1973,Mureador
+T1973,Otras
+T1975,Máquina para fertilización
+T1976,Fumigadora
+T1976,Máquina para siembra
+T1977,Máquina para fertilización
+T1977,Máquina para siembra
+T1981,Fumigadora
+T1981,Motocultor
+T1982,Cosechadora grande
+T1982,Tractor(es)
+T1987,Fumigadora
+T1987,Motocultor
+T1987,Tractor(es)
+T1988,Fumigadora
+T1988,Mureador
+T1989,Fumigadora
+T1989,Mureador
+T1993,Cosechadora pequeña
+T1993,Fumigadora
+T1993,Motocultor
+T1993,Mureador
+T1994,Fumigadora
+T1994,Motocultor
+T1994,Mureador
+T2000,Cosechadora pequeña
+T2000,Fumigadora
+T2000,Mureador
+T2001,Fumigadora
+T2001,Tractor(es)
+T2011,Chapeadora eléctrica
+T2011,Fumigadora
+T2011,Rolo compactador
+T2018,Mureador
+T2023,Mureador
+T2026,Fumigadora
+T2027,Fumigadora
+T2027,Tractor(es)
+T2032,Fumigadora
+T2033,Motocultor
+T2033,Máquina para siembra
+T2034,Fumigadora
+T2034,Tractor(es)
+T2036,Cosechadora pequeña
+T2036,Fumigadora
+T2036,Máquina para fertilización
+T2036,Máquina para siembra
+T2036,Tractor(es)
+T2037,Fumigadora
+T2037,Mureador
+T2042,Motocultor
+T2042,Mureador
+T2042,Otras
+T2042,Tractor(es)
+T2043,Máquina para siembra
+T2046,Fumigadora
+T2046,Máquina para siembra
+T2046,Tractor(es)
+T2047,Chapeadora eléctrica
+T2047,Fumigadora
+T2047,Motocultor
+T2047,Máquina para fertilización
+T2047,Tractor(es)
+T2055,Fumigadora
+T2055,Máquina para siembra
+T2055,Tractor(es)
+T2058,Ninguna
+T2064,Mureador
+T2064,Máquina para fertilización
+T2064,Tractor(es)
+T2066,Chapeadora eléctrica
+T2066,Cosechadora grande
+T2066,Fumigadora
+T2066,Máquina para siembra
+T2076,Cosechadora pequeña
+T2076,Fumigadora
+T2076,Máquina para fertilización
+T2080,Fumigadora
+T2082,Cosechadora grande
+T2082,Fumigadora
+T2082,Motocultor
+T2095,Chapeadora eléctrica
+T2095,Fumigadora
+T2095,Máquina para fertilización
+T2095,Tractor(es)
+T2096,Cosechadora grande
+T2096,Fumigadora
+T2096,Máquina para siembra
+T2103,Fumigadora
+T2107,Fumigadora
+T2107,Tractor(es)
+T2108,Fumigadora
+T2109,Máquina para fertilización
+T2125,Fumigadora
+T2125,Tractor(es)
+T2129,Chapeadora eléctrica
+T2129,Fumigadora
+T2129,Mureador
+T2129,Tractor(es)
+T2130,Fumigadora
+T2140,Máquina para siembra
+T2140,Tractor(es)
+T2141,Chapeadora eléctrica
+T2141,Fumigadora
+T2141,Tractor(es)
+T2142,Chapeadora eléctrica
+T2142,Cosechadora grande
+T2142,Fumigadora
+T2146,Fumigadora
+T2146,Máquina para fertilización
+T2146,Rolo compactador
+T2154,Fumigadora
+T2154,Tractor(es)
+T2160,Fumigadora
+T2164,Fumigadora
+T2164,Mureador
+T2164,Máquina para fertilización
+T2164,Máquina para siembra
+T2165,Fumigadora
+T2169,Chapeadora eléctrica
+T2169,Máquina para siembra
+T2169,Tractor(es)
+T2170,Chapeadora eléctrica
+T2170,Cosechadora pequeña
+T2170,Máquina para siembra
+T2171,Mureador
+T2189,Cosechadora pequeña
+T2192,Fumigadora
+T2192,Mureador
+T2192,Máquina para siembra
+T2192,Rolo compactador
+T2192,Tractor(es)
+T2195,Tractor(es)
+T2197,Máquina para fertilización
+T2197,Otras
+T2198,Fumigadora
+T2198,Motocultor
+T2201,Otras
+T2202,Motocultor
+T2202,Tractor(es)
+T2204,Tractor(es)
+T2211,Máquina para siembra
+T2219,Mureador
+T2219,Rolo compactador
+T2220,Mureador
+T2225,Fumigadora
+T2225,Mureador
+T2225,Tractor(es)
+T2233,Chapeadora eléctrica
+T2233,Máquina para siembra
+T2233,Tractor(es)
+T2234,Ninguna
+T2236,Chapeadora eléctrica
+T2236,Cosechadora pequeña
+T2236,Fumigadora
+T2237,Chapeadora eléctrica
+T2237,Fumigadora
+T2237,Máquina para siembra
+T2237,Tractor(es)
+T2238,Chapeadora eléctrica
+T2238,Fumigadora
+T2238,Rolo compactador
+T2253,Chapeadora eléctrica
+T2253,Fumigadora
+T2253,Motocultor
+T2253,Máquina para siembra
+T2253,Tractor(es)
+T2258,Fumigadora
+T2258,Motocultor
+T2258,Máquina para siembra
+T2258,Tractor(es)
+T2260,Cosechadora pequeña
+T2260,Fumigadora
+T2261,Fumigadora
+T2261,Tractor(es)
+T2270,Fumigadora
+T2270,Tractor(es)
+T2272,Fumigadora
+T2272,Motocultor
+T2272,Mureador
+T2272,Tractor(es)
+T2273,Fumigadora
+T2277,Chapeadora eléctrica
+T2277,Motocultor
+T2277,Máquina para siembra
+T2278,Fumigadora
+T2279,Fumigadora
+T2279,Máquina para fertilización
+T2279,Tractor(es)
+T2280,Fumigadora
+T2285,Fumigadora
+T2285,Máquina para fertilización
+T2285,Tractor(es)
+T2286,Mureador
+T2289,Fumigadora
+T2289,Otras
+T2289,Tractor(es)
+T2290,Mureador
+T2290,Máquina para siembra
+T2290,Tractor(es)
+T2294,Chapeadora eléctrica
+T2294,Máquina para siembra
+T2298,Chapeadora eléctrica
+T2298,Fumigadora
+T2298,Motocultor
+T2298,Rolo compactador
+T2300,Cosechadora pequeña
+T2300,Fumigadora
+T2302,Chapeadora eléctrica
+T2302,Fumigadora
+T2306,Fumigadora
+T2313,Cosechadora grande
+T2313,Fumigadora
+T2316,Motocultor
+T2320,Mureador
+T2328,Chapeadora eléctrica
+T2328,Tractor(es)
+T2331,Fumigadora
+T2331,Máquina para fertilización
+T2331,Máquina para siembra
+T2341,Chapeadora eléctrica
+T2341,Motocultor
+T2341,Máquina para siembra
+T2343,Motocultor
+T2343,Máquina para fertilización
+T2343,Máquina para siembra
+T2343,Rolo compactador
+T2346,Tractor(es)
+T2347,Fumigadora
+T2357,Chapeadora eléctrica
+T2357,Fumigadora
+T2357,Otras
+T2358,Cosechadora pequeña
+T2358,Fumigadora
+T2358,Tractor(es)
+T2362,Fumigadora
+T2362,Motocultor
+T2362,Mureador
+T2362,Máquina para siembra
+T2362,Tractor(es)
+T2365,Chapeadora eléctrica
+T2365,Otras
+T2368,Fumigadora
+T2368,Tractor(es)
+T2370,Chapeadora eléctrica
+T2370,Cosechadora grande
+T2370,Fumigadora
+T2371,Tractor(es)
+T2376,Fumigadora
+T2378,Fumigadora
+T2380,Fumigadora
+T2380,Mureador
+T2380,Máquina para siembra
+T2384,Fumigadora
+T2392,Cosechadora pequeña
+T2392,Motocultor
+T2393,Chapeadora eléctrica
+T2393,Fumigadora
+T2393,Mureador
+T2393,Máquina para siembra
+T2393,Tractor(es)
+T2394,Fumigadora
+T2394,Máquina para siembra
+T2397,Chapeadora eléctrica
+T2397,Mureador
+T2399,Fumigadora
+T2399,Mureador
+T2399,Máquina para siembra
+T2399,Tractor(es)
+T2401,Chapeadora eléctrica
+T2404,Fumigadora
+T2404,Máquina para siembra
+T2404,Rolo compactador
+T2404,Tractor(es)
+T2407,Motocultor
+T2407,Máquina para siembra
+T2429,Fumigadora
+T2429,Motocultor
+T2429,Otras
+T2435,Cosechadora pequeña
+T2435,Fumigadora
+T2436,Fumigadora
+T2436,Mureador
+T2436,Tractor(es)
+T2441,Cosechadora grande
+T2441,Fumigadora
+T2441,Tractor(es)
+T2442,Fumigadora
+T2442,Otras
+T2450,Máquina para siembra
+T2450,Tractor(es)
+T2454,Máquina para siembra
+T2457,Cosechadora pequeña
+T2457,Fumigadora
+T2457,Motocultor
+T2457,Máquina para fertilización
+T2457,Tractor(es)
+T2459,Fumigadora
+T2459,Tractor(es)
+T2463,Tractor(es)
+T2464,Fumigadora
+T2464,Mureador
+T2464,Tractor(es)
+T2465,Cosechadora pequeña
+T2465,Fumigadora
+T2465,Tractor(es)
+T2469,Cosechadora pequeña
+T2469,Fumigadora
+T2471,Fumigadora
+T2471,Mureador
+T2471,Tractor(es)
+T2472,Mureador
+T2475,Cosechadora pequeña
+T2475,Motocultor
+T2475,Tractor(es)
+T2480,Fumigadora
+T2480,Máquina para fertilización
+T2480,Tractor(es)
+T2482,Chapeadora eléctrica
+T2482,Fumigadora
+T2482,Máquina para fertilización
+T2490,Fumigadora
+T2490,Tractor(es)
+T2496,Mureador
+T2496,Máquina para fertilización
+T2499,Fumigadora
+T2499,Mureador
+T2501,Fumigadora
+T2501,Motocultor
+T2503,Máquina para siembra
+T2503,Tractor(es)
+T2505,Mureador
+T2508,Fumigadora
+T2508,Mureador
+T2508,Tractor(es)
+T2509,Fumigadora
+T2509,Tractor(es)
+T2514,Fumigadora
+T2514,Mureador
+T2514,Máquina para siembra
+T2514,Tractor(es)
+T2517,Fumigadora
+T2517,Mureador
+T2517,Máquina para siembra
+T2517,Tractor(es)
+T2519,Chapeadora eléctrica
+T2519,Cosechadora pequeña
+T2519,Fumigadora
+T2519,Motocultor
+T2521,Fumigadora
+T2528,Fumigadora
+T2528,Tractor(es)
+T2530,Fumigadora
+T2530,Tractor(es)
+T2531,Fumigadora
+T2531,Mureador
+T2532,Fumigadora
+T2532,Motocultor
+T2532,Mureador
+T2532,Máquina para siembra
+T2532,Tractor(es)
+T2533,Máquina para siembra
+T2543,Fumigadora
+T2543,Mureador
+T2543,Máquina para siembra
+T2544,Fumigadora
+T2544,Mureador
+T2544,Tractor(es)
+T2545,Chapeadora eléctrica
+T2545,Cosechadora pequeña
+T2545,Fumigadora
+T2552,Mureador
+T2552,Máquina para siembra
+T2552,Otras
+T2552,Tractor(es)
+T2553,Fumigadora
+T2558,Fumigadora
+T2558,Rolo compactador
+T2561,Motocultor
+T2561,Mureador
+T2561,Máquina para siembra
+T2568,Fumigadora
+T2568,Mureador
+T2569,Cosechadora pequeña
+T2569,Motocultor
+T2570,Cosechadora pequeña
+T2570,Fumigadora
+T2571,Chapeadora eléctrica
+T2571,Cosechadora pequeña
+T2571,Fumigadora
+T2571,Tractor(es)
+T2576,Cosechadora pequeña
+T2576,Fumigadora
+T2576,Máquina para siembra
+T2576,Otras
+T2576,Tractor(es)
+T2577,Fumigadora
+T2577,Mureador
+T2577,Rolo compactador
+T2577,Tractor(es)

@@ -1,0 +1,5 @@
+﻿Etapa_ID,Nombre_Etapa,Exigencia_Fisica,Dependencia_Inmigrante
+1,Etapa Gris (Cimentación y Muros),Muy Alta,Alta (85-90%)
+2,Estructura y Varillaje,Alta,Alta (80%)
+3,Instalaciones Hidráulicas y Eléctricas,Media (Técnica),Media (35%)
+4,"Terminación, Yeso, Pintura y Acabados",Media (Artesanal),Media-Baja (25%)
