@@ -1,0 +1,1803 @@
+﻿Finca_ID,Maquinaria
+F0001,Cosechadora grande
+F0001,Mureador
+F0001,Tractor(es)
+F0002,Cosechadora grande
+F0002,Mureador
+F0002,Tractor(es)
+F0003,Mureador
+F0003,Tractor(es)
+F0004,Cosechadora pequeña
+F0004,Tractor(es)
+F0005,Cosechadora grande
+F0005,Cosechadora pequeña
+F0005,Mureador
+F0005,Tractor(es)
+F0006,Cosechadora grande
+F0006,Cosechadora pequeña
+F0006,Mureador
+F0006,Tractor(es)
+F0007,Otra
+F0007,Tractor(es)
+F0008,Cosechadora pequeña
+F0008,Tractor(es)
+F0009,Chapeadora eléctrica
+F0009,Cosechadora grande
+F0009,Cosechadora pequeña
+F0009,Tractor(es)
+F0010,Cosechadora grande
+F0010,Mureador
+F0010,Tractor(es)
+F0011,Cosechadora pequeña
+F0011,Mureador
+F0011,Tractor(es)
+F0012,Mureador
+F0012,Tractor(es)
+F0013,Cosechadora pequeña
+F0013,Mureador
+F0013,Tractor(es)
+F0014,Mureador
+F0014,Máquina para siembra
+F0014,Tractor(es)
+F0015,Cosechadora pequeña
+F0015,Máquina para siembra
+F0015,Otra
+F0015,Tractor(es)
+F0016,Cosechadora pequeña
+F0016,Otra
+F0016,Tractor(es)
+F0017,Cosechadora pequeña
+F0017,Mureador
+F0017,Máquina para siembra
+F0017,Otra
+F0017,Tractor(es)
+F0018,Cosechadora pequeña
+F0018,Máquina para siembra
+F0018,Otra
+F0018,Tractor(es)
+F0019,Cosechadora pequeña
+F0019,Motocultor
+F0019,Mureador
+F0019,Otra
+F0019,Tractor(es)
+F0020,Motocultor
+F0020,Tractor(es)
+F0021,Cosechadora pequeña
+F0021,Mureador
+F0021,Máquina para siembra
+F0021,Tractor(es)
+F0022,Cosechadora pequeña
+F0022,Tractor(es)
+F0023,Cosechadora grande
+F0023,Máquina para siembra
+F0024,Mureador
+F0024,Tractor(es)
+F0025,Cosechadora pequeña
+F0025,Máquina para siembra
+F0025,Tractor(es)
+F0026,Cosechadora grande
+F0026,Tractor(es)
+F0027,Cosechadora grande
+F0027,Motocultor
+F0027,Máquina para siembra
+F0028,Motocultor
+F0028,Mureador
+F0028,Máquina para siembra
+F0028,Tractor(es)
+F0029,Mureador
+F0029,Máquina para siembra
+F0029,Tractor(es)
+F0030,Tractor(es)
+F0031,Cosechadora pequeña
+F0031,Mureador
+F0031,Máquina para siembra
+F0031,Tractor(es)
+F0032,Máquina para siembra
+F0032,Tractor(es)
+F0033,Mureador
+F0033,Tractor(es)
+F0034,Tractor(es)
+F0035,Tractor(es)
+F0036,Motocultor
+F0036,Mureador
+F0036,Tractor(es)
+F0037,Cosechadora grande
+F0037,Tractor(es)
+F0038,Cosechadora pequeña
+F0038,Máquina para siembra
+F0038,Otra
+F0038,Tractor(es)
+F0039,Cosechadora pequeña
+F0039,Mureador
+F0039,Otra
+F0039,Tractor(es)
+F0040,Cosechadora pequeña
+F0040,Mureador
+F0040,Otra
+F0040,Tractor(es)
+F0041,Cosechadora pequeña
+F0041,Motocultor
+F0041,Otra
+F0041,Tractor(es)
+F0042,Chapeadora eléctrica
+F0042,Cosechadora pequeña
+F0042,Máquina para siembra
+F0042,Otra
+F0042,Tractor(es)
+F0043,Chapeadora eléctrica
+F0043,Cosechadora grande
+F0043,Motocultor
+F0043,Mureador
+F0043,Máquina para siembra
+F0043,Otra
+F0043,Rolo compactador
+F0044,Cosechadora pequeña
+F0044,Motocultor
+F0044,Mureador
+F0044,Otra
+F0044,Tractor(es)
+F0045,Cosechadora pequeña
+F0045,Mureador
+F0045,Otra
+F0045,Tractor(es)
+F0046,Chapeadora eléctrica
+F0046,Cosechadora pequeña
+F0046,Mureador
+F0046,Máquina para siembra
+F0046,Otra
+F0046,Rolo compactador
+F0046,Tractor(es)
+F0047,Chapeadora eléctrica
+F0047,Cosechadora pequeña
+F0047,Mureador
+F0047,Máquina para siembra
+F0047,Otra
+F0047,Tractor(es)
+F0048,Cosechadora pequeña
+F0048,Motocultor
+F0048,Máquina para siembra
+F0048,Otra
+F0048,Tractor(es)
+F0049,Cosechadora pequeña
+F0049,Otra
+F0049,Tractor(es)
+F0050,Cosechadora grande
+F0050,Motocultor
+F0050,Mureador
+F0050,Máquina para siembra
+F0050,Otra
+F0050,Tractor(es)
+F0051,Chapeadora eléctrica
+F0051,Cosechadora pequeña
+F0051,Otra
+F0051,Tractor(es)
+F0052,Tractor(es)
+F0053,Cosechadora grande
+F0053,Cosechadora pequeña
+F0053,Máquina para fertilización
+F0053,Tractor(es)
+F0054,Motocultor
+F0054,Máquina para siembra
+F0054,Tractor(es)
+F0055,Cosechadora grande
+F0055,Tractor(es)
+F0056,Cosechadora grande
+F0056,Tractor(es)
+F0057,Cosechadora pequeña
+F0057,Mureador
+F0057,Máquina para siembra
+F0057,Tractor(es)
+F0058,Cosechadora grande
+F0058,Cosechadora pequeña
+F0058,Máquina para fertilización
+F0058,Tractor(es)
+F0060,Chapeadora eléctrica
+F0060,Cosechadora grande
+F0060,Cosechadora pequeña
+F0060,Tractor(es)
+F0061,Cosechadora pequeña
+F0061,Máquina para siembra
+F0061,Tractor(es)
+F0062,Cosechadora grande
+F0062,Cosechadora pequeña
+F0062,Motocultor
+F0062,Mureador
+F0062,Tractor(es)
+F0063,Cosechadora pequeña
+F0063,Mureador
+F0063,Máquina para siembra
+F0063,Tractor(es)
+F0064,Cosechadora grande
+F0064,Cosechadora pequeña
+F0064,Mureador
+F0064,Máquina para fertilización
+F0064,Tractor(es)
+F0065,Cosechadora grande
+F0065,Tractor(es)
+F0066,Chapeadora eléctrica
+F0066,Cosechadora grande
+F0066,Cosechadora pequeña
+F0066,Máquina para fertilización
+F0066,Tractor(es)
+F0067,Mureador
+F0067,Máquina para fertilización
+F0067,Máquina para siembra
+F0067,Tractor(es)
+F0068,Cosechadora pequeña
+F0068,Tractor(es)
+F0069,Cosechadora grande
+F0069,Tractor(es)
+F0070,Cosechadora grande
+F0070,Cosechadora pequeña
+F0070,Tractor(es)
+F0071,Cosechadora grande
+F0071,Cosechadora pequeña
+F0071,Máquina para fertilización
+F0071,Tractor(es)
+F0072,Cosechadora grande
+F0072,Cosechadora pequeña
+F0072,Tractor(es)
+F0073,Cosechadora pequeña
+F0073,Tractor(es)
+F0074,Chapeadora eléctrica
+F0074,Cosechadora grande
+F0074,Cosechadora pequeña
+F0074,Máquina para fertilización
+F0074,Tractor(es)
+F0075,Cosechadora grande
+F0075,Tractor(es)
+F0076,Chapeadora eléctrica
+F0076,Cosechadora grande
+F0076,Cosechadora pequeña
+F0076,Máquina para fertilización
+F0076,Tractor(es)
+F0077,Cosechadora pequeña
+F0077,Máquina para siembra
+F0077,Tractor(es)
+F0078,Cosechadora grande
+F0078,Otra
+F0078,Tractor(es)
+F0079,Chapeadora eléctrica
+F0079,Cosechadora grande
+F0079,Cosechadora pequeña
+F0079,Mureador
+F0079,Tractor(es)
+F0080,Cosechadora grande
+F0080,Mureador
+F0080,Máquina para siembra
+F0080,Tractor(es)
+F0081,Cosechadora grande
+F0081,Mureador
+F0081,Máquina para siembra
+F0081,Tractor(es)
+F0082,Cosechadora grande
+F0082,Mureador
+F0082,Otra
+F0082,Tractor(es)
+F0083,Cosechadora grande
+F0083,Mureador
+F0083,Máquina para siembra
+F0083,Tractor(es)
+F0084,Chapeadora eléctrica
+F0084,Cosechadora pequeña
+F0084,Mureador
+F0084,Máquina para fertilización
+F0084,Máquina para siembra
+F0084,Tractor(es)
+F0085,Cosechadora grande
+F0086,Cosechadora grande
+F0086,Mureador
+F0086,Tractor(es)
+F0087,Cosechadora pequeña
+F0087,Tractor(es)
+F0088,Cosechadora pequeña
+F0088,Mureador
+F0088,Tractor(es)
+F0089,Cosechadora grande
+F0089,Mureador
+F0089,Máquina para siembra
+F0089,Tractor(es)
+F0090,Cosechadora grande
+F0090,Mureador
+F0090,Máquina para siembra
+F0090,Tractor(es)
+F0091,Cosechadora pequeña
+F0091,Mureador
+F0091,Máquina para siembra
+F0091,Tractor(es)
+F0092,Cosechadora grande
+F0092,Máquina para siembra
+F0092,Tractor(es)
+F0093,Cosechadora grande
+F0093,Rolo compactador
+F0093,Tractor(es)
+F0094,Cosechadora grande
+F0094,Máquina para siembra
+F0095,Cosechadora grande
+F0095,Máquina para siembra
+F0096,Cosechadora grande
+F0096,Máquina para siembra
+F0096,Tractor(es)
+F0097,Cosechadora grande
+F0097,Máquina para siembra
+F0098,Cosechadora pequeña
+F0098,Tractor(es)
+F0099,Chapeadora eléctrica
+F0099,Cosechadora grande
+F0099,Motocultor
+F0099,Mureador
+F0099,Máquina para fertilización
+F0099,Máquina para siembra
+F0099,Tractor(es)
+F0100,Cosechadora grande
+F0100,Tractor(es)
+F0101,Cosechadora pequeña
+F0101,Mureador
+F0101,Máquina para siembra
+F0101,Tractor(es)
+F0102,Mureador
+F0102,Tractor(es)
+F0103,Cosechadora grande
+F0103,Cosechadora pequeña
+F0103,Mureador
+F0103,Tractor(es)
+F0104,Cosechadora pequeña
+F0104,Tractor(es)
+F0105,Cosechadora pequeña
+F0105,Tractor(es)
+F0106,Chapeadora eléctrica
+F0106,Cosechadora grande
+F0106,Cosechadora pequeña
+F0106,Tractor(es)
+F0107,Tractor(es)
+F0108,Cosechadora grande
+F0108,Mureador
+F0108,Tractor(es)
+F0109,Cosechadora pequeña
+F0109,Mureador
+F0109,Máquina para siembra
+F0109,Tractor(es)
+F0110,Cosechadora grande
+F0110,Tractor(es)
+F0111,Cosechadora grande
+F0111,Cosechadora pequeña
+F0111,Motocultor
+F0111,Tractor(es)
+F0112,Cosechadora grande
+F0112,Cosechadora pequeña
+F0112,Motocultor
+F0112,Mureador
+F0112,Tractor(es)
+F0113,Cosechadora grande
+F0113,Mureador
+F0113,Tractor(es)
+F0114,Cosechadora pequeña
+F0114,Mureador
+F0114,Máquina para siembra
+F0114,Tractor(es)
+F0115,Chapeadora eléctrica
+F0115,Cosechadora grande
+F0115,Cosechadora pequeña
+F0115,Máquina para fertilización
+F0115,Tractor(es)
+F0116,Máquina para siembra
+F0116,Tractor(es)
+F0118,Mureador
+F0118,Tractor(es)
+F0120,Mureador
+F0120,Tractor(es)
+F0122,Mureador
+F0122,Tractor(es)
+F0123,Mureador
+F0123,Tractor(es)
+F0124,Tractor(es)
+F0125,Tractor(es)
+F0127,Tractor(es)
+F0128,Mureador
+F0128,Tractor(es)
+F0130,Mureador
+F0130,Tractor(es)
+F0131,Mureador
+F0131,Tractor(es)
+F0132,Motocultor
+F0132,Mureador
+F0132,Otra
+F0132,Tractor(es)
+F0133,Mureador
+F0133,Otra
+F0133,Tractor(es)
+F0134,Mureador
+F0134,Otra
+F0134,Tractor(es)
+F0135,Mureador
+F0135,Otra
+F0135,Tractor(es)
+F0136,Mureador
+F0136,Tractor(es)
+F0137,Mureador
+F0137,Tractor(es)
+F0139,Mureador
+F0139,Tractor(es)
+F0144,Mureador
+F0144,Tractor(es)
+F0146,Tractor(es)
+F0148,Tractor(es)
+F0149,Otra
+F0149,Tractor(es)
+F0150,Otra
+F0150,Tractor(es)
+F0151,Mureador
+F0151,Otra
+F0151,Tractor(es)
+F0152,Mureador
+F0152,Otra
+F0152,Tractor(es)
+F0153,Mureador
+F0153,Otra
+F0153,Tractor(es)
+F0156,Otra
+F0156,Tractor(es)
+F0157,Tractor(es)
+F0158,Otra
+F0158,Tractor(es)
+F0162,Otra
+F0162,Tractor(es)
+F0163,Chapeadora eléctrica
+F0163,Cosechadora grande
+F0163,Máquina para fertilización
+F0163,Máquina para siembra
+F0164,Tractor(es)
+F0168,Otra
+F0169,Motocultor
+F0169,Mureador
+F0169,Máquina para fertilización
+F0169,Máquina para siembra
+F0169,Tractor(es)
+F0170,Tractor(es)
+F0171,Mureador
+F0171,Otra
+F0171,Tractor(es)
+F0172,Mureador
+F0172,Máquina para siembra
+F0172,Tractor(es)
+F0173,Cosechadora grande
+F0173,Cosechadora pequeña
+F0173,Motocultor
+F0173,Mureador
+F0173,Máquina para siembra
+F0173,Tractor(es)
+F0174,Cosechadora pequeña
+F0174,Mureador
+F0174,Máquina para siembra
+F0174,Tractor(es)
+F0175,Mureador
+F0175,Otra
+F0175,Tractor(es)
+F0176,Mureador
+F0176,Máquina para siembra
+F0177,Máquina para siembra
+F0177,Tractor(es)
+F0178,Mureador
+F0178,Máquina para siembra
+F0179,Cosechadora pequeña
+F0179,Mureador
+F0179,Máquina para siembra
+F0179,Tractor(es)
+F0180,Chapeadora eléctrica
+F0180,Motocultor
+F0180,Mureador
+F0180,Máquina para siembra
+F0180,Tractor(es)
+F0181,Motocultor
+F0181,Máquina para siembra
+F0181,Tractor(es)
+F0182,Cosechadora pequeña
+F0182,Mureador
+F0182,Máquina para fertilización
+F0182,Máquina para siembra
+F0182,Tractor(es)
+F0183,Motocultor
+F0183,Mureador
+F0183,Otra
+F0183,Tractor(es)
+F0184,Motocultor
+F0184,Mureador
+F0184,Máquina para fertilización
+F0184,Tractor(es)
+F0185,Motocultor
+F0185,Mureador
+F0185,Máquina para fertilización
+F0185,Otra
+F0190,Motocultor
+F0190,Mureador
+F0190,Máquina para siembra
+F0190,Tractor(es)
+F0191,Cosechadora pequeña
+F0191,Mureador
+F0191,Máquina para siembra
+F0191,Tractor(es)
+F0193,Máquina para siembra
+F0193,Tractor(es)
+F0194,Cosechadora pequeña
+F0194,Máquina para siembra
+F0194,Tractor(es)
+F0196,Cosechadora grande
+F0196,Mureador
+F0196,Máquina para siembra
+F0196,Tractor(es)
+F0199,Mureador
+F0199,Máquina para siembra
+F0199,Tractor(es)
+F0200,Cosechadora grande
+F0200,Cosechadora pequeña
+F0200,Mureador
+F0200,Máquina para fertilización
+F0200,Máquina para siembra
+F0200,Tractor(es)
+F0204,Motocultor
+F0204,Tractor(es)
+F0211,Motocultor
+F0211,Mureador
+F0211,Máquina para fertilización
+F0211,Tractor(es)
+F0213,Motocultor
+F0213,Mureador
+F0213,Máquina para siembra
+F0213,Tractor(es)
+F0220,Motocultor
+F0220,Mureador
+F0220,Tractor(es)
+F0222,Otra
+F0229,Cosechadora pequeña
+F0229,Mureador
+F0229,Tractor(es)
+F0230,Chapeadora eléctrica
+F0230,Rolo compactador
+F0230,Tractor(es)
+F0232,Cosechadora pequeña
+F0232,Rolo compactador
+F0232,Tractor(es)
+F0233,Chapeadora eléctrica
+F0233,Cosechadora pequeña
+F0233,Máquina para fertilización
+F0233,Máquina para siembra
+F0233,Tractor(es)
+F0234,Cosechadora pequeña
+F0234,Tractor(es)
+F0235,Chapeadora eléctrica
+F0235,Cosechadora pequeña
+F0235,Motocultor
+F0235,Mureador
+F0235,Tractor(es)
+F0236,Cosechadora pequeña
+F0236,Motocultor
+F0236,Tractor(es)
+F0237,Chapeadora eléctrica
+F0237,Máquina para fertilización
+F0237,Tractor(es)
+F0239,Chapeadora eléctrica
+F0239,Tractor(es)
+F0240,Cosechadora pequeña
+F0240,Rolo compactador
+F0240,Tractor(es)
+F0241,Cosechadora pequeña
+F0241,Mureador
+F0241,Tractor(es)
+F0242,Chapeadora eléctrica
+F0242,Cosechadora pequeña
+F0242,Mureador
+F0242,Máquina para fertilización
+F0242,Tractor(es)
+F0243,Chapeadora eléctrica
+F0243,Cosechadora pequeña
+F0243,Máquina para fertilización
+F0243,Máquina para siembra
+F0243,Tractor(es)
+F0244,Cosechadora pequeña
+F0244,Mureador
+F0244,Tractor(es)
+F0245,Motocultor
+F0245,Mureador
+F0245,Tractor(es)
+F0246,Cosechadora pequeña
+F0246,Máquina para fertilización
+F0246,Tractor(es)
+F0247,Chapeadora eléctrica
+F0247,Cosechadora pequeña
+F0247,Motocultor
+F0247,Mureador
+F0247,Rolo compactador
+F0247,Tractor(es)
+F0248,Cosechadora pequeña
+F0248,Mureador
+F0248,Máquina para fertilización
+F0248,Tractor(es)
+F0250,Cosechadora pequeña
+F0250,Mureador
+F0250,Tractor(es)
+F0251,Chapeadora eléctrica
+F0251,Cosechadora pequeña
+F0251,Motocultor
+F0251,Mureador
+F0251,Rolo compactador
+F0251,Tractor(es)
+F0252,Cosechadora pequeña
+F0252,Motocultor
+F0252,Rolo compactador
+F0252,Tractor(es)
+F0253,Chapeadora eléctrica
+F0253,Cosechadora pequeña
+F0253,Motocultor
+F0253,Máquina para fertilización
+F0253,Rolo compactador
+F0253,Tractor(es)
+F0254,Cosechadora pequeña
+F0254,Motocultor
+F0254,Mureador
+F0254,Máquina para fertilización
+F0254,Rolo compactador
+F0254,Tractor(es)
+F0255,Motocultor
+F0255,Mureador
+F0255,Tractor(es)
+F0256,Chapeadora eléctrica
+F0256,Cosechadora pequeña
+F0256,Motocultor
+F0256,Máquina para fertilización
+F0256,Máquina para siembra
+F0256,Rolo compactador
+F0256,Tractor(es)
+F0257,Chapeadora eléctrica
+F0257,Cosechadora pequeña
+F0257,Motocultor
+F0257,Mureador
+F0257,Rolo compactador
+F0257,Tractor(es)
+F0258,Mureador
+F0258,Máquina para fertilización
+F0258,Tractor(es)
+F0259,Chapeadora eléctrica
+F0259,Cosechadora pequeña
+F0259,Motocultor
+F0259,Mureador
+F0259,Rolo compactador
+F0259,Tractor(es)
+F0260,Cosechadora grande
+F0260,Cosechadora pequeña
+F0260,Motocultor
+F0260,Mureador
+F0260,Rolo compactador
+F0260,Tractor(es)
+F0261,Cosechadora pequeña
+F0261,Motocultor
+F0261,Mureador
+F0261,Rolo compactador
+F0261,Tractor(es)
+F0262,Tractor(es)
+F0263,Chapeadora eléctrica
+F0263,Cosechadora pequeña
+F0263,Mureador
+F0263,Rolo compactador
+F0263,Tractor(es)
+F0264,Cosechadora grande
+F0264,Motocultor
+F0264,Mureador
+F0264,Máquina para fertilización
+F0264,Rolo compactador
+F0264,Tractor(es)
+F0265,Cosechadora pequeña
+F0265,Motocultor
+F0265,Mureador
+F0265,Tractor(es)
+F0266,Chapeadora eléctrica
+F0266,Cosechadora pequeña
+F0266,Mureador
+F0266,Rolo compactador
+F0266,Tractor(es)
+F0267,Mureador
+F0267,Tractor(es)
+F0268,Cosechadora pequeña
+F0268,Motocultor
+F0268,Máquina para fertilización
+F0268,Tractor(es)
+F0269,Chapeadora eléctrica
+F0269,Cosechadora pequeña
+F0269,Motocultor
+F0269,Mureador
+F0269,Máquina para fertilización
+F0269,Rolo compactador
+F0269,Tractor(es)
+F0270,Máquina para fertilización
+F0270,Tractor(es)
+F0271,Máquina para fertilización
+F0271,Rolo compactador
+F0271,Tractor(es)
+F0272,Chapeadora eléctrica
+F0272,Cosechadora grande
+F0272,Cosechadora pequeña
+F0272,Motocultor
+F0272,Mureador
+F0272,Máquina para fertilización
+F0272,Rolo compactador
+F0272,Tractor(es)
+F0273,Máquina para fertilización
+F0273,Tractor(es)
+F0274,Cosechadora pequeña
+F0274,Motocultor
+F0274,Mureador
+F0274,Rolo compactador
+F0274,Tractor(es)
+F0275,Chapeadora eléctrica
+F0275,Cosechadora pequeña
+F0275,Motocultor
+F0275,Mureador
+F0275,Máquina para fertilización
+F0275,Rolo compactador
+F0275,Tractor(es)
+F0276,Chapeadora eléctrica
+F0276,Cosechadora pequeña
+F0276,Mureador
+F0276,Máquina para fertilización
+F0276,Rolo compactador
+F0276,Tractor(es)
+F0277,Cosechadora pequeña
+F0277,Mureador
+F0277,Rolo compactador
+F0277,Tractor(es)
+F0278,Cosechadora pequeña
+F0278,Motocultor
+F0278,Mureador
+F0278,Tractor(es)
+F0279,Cosechadora pequeña
+F0279,Motocultor
+F0279,Mureador
+F0279,Rolo compactador
+F0279,Tractor(es)
+F0280,Chapeadora eléctrica
+F0280,Cosechadora pequeña
+F0280,Motocultor
+F0280,Mureador
+F0280,Rolo compactador
+F0280,Tractor(es)
+F0281,Cosechadora pequeña
+F0281,Motocultor
+F0281,Mureador
+F0281,Rolo compactador
+F0281,Tractor(es)
+F0282,Cosechadora pequeña
+F0282,Mureador
+F0282,Rolo compactador
+F0282,Tractor(es)
+F0283,Chapeadora eléctrica
+F0283,Cosechadora pequeña
+F0283,Tractor(es)
+F0284,Chapeadora eléctrica
+F0284,Cosechadora pequeña
+F0284,Rolo compactador
+F0284,Tractor(es)
+F0285,Chapeadora eléctrica
+F0285,Máquina para fertilización
+F0285,Tractor(es)
+F0286,Chapeadora eléctrica
+F0286,Cosechadora pequeña
+F0286,Motocultor
+F0286,Rolo compactador
+F0286,Tractor(es)
+F0287,Cosechadora pequeña
+F0287,Motocultor
+F0287,Mureador
+F0287,Rolo compactador
+F0287,Tractor(es)
+F0288,Cosechadora pequeña
+F0288,Mureador
+F0288,Tractor(es)
+F0289,Cosechadora grande
+F0289,Cosechadora pequeña
+F0289,Mureador
+F0289,Tractor(es)
+F0290,Chapeadora eléctrica
+F0290,Cosechadora pequeña
+F0290,Mureador
+F0290,Máquina para fertilización
+F0290,Tractor(es)
+F0291,Chapeadora eléctrica
+F0291,Cosechadora pequeña
+F0291,Máquina para siembra
+F0291,Rolo compactador
+F0291,Tractor(es)
+F0292,Chapeadora eléctrica
+F0292,Cosechadora grande
+F0292,Cosechadora pequeña
+F0292,Motocultor
+F0292,Mureador
+F0292,Máquina para fertilización
+F0292,Rolo compactador
+F0292,Tractor(es)
+F0293,Chapeadora eléctrica
+F0293,Cosechadora pequeña
+F0293,Motocultor
+F0293,Mureador
+F0293,Máquina para fertilización
+F0293,Rolo compactador
+F0293,Tractor(es)
+F0294,Chapeadora eléctrica
+F0294,Cosechadora pequeña
+F0294,Mureador
+F0294,Tractor(es)
+F0295,Cosechadora pequeña
+F0295,Mureador
+F0295,Rolo compactador
+F0295,Tractor(es)
+F0296,Chapeadora eléctrica
+F0296,Cosechadora pequeña
+F0296,Tractor(es)
+F0297,Cosechadora pequeña
+F0297,Mureador
+F0297,Rolo compactador
+F0297,Tractor(es)
+F0298,Chapeadora eléctrica
+F0298,Cosechadora pequeña
+F0298,Mureador
+F0298,Rolo compactador
+F0298,Tractor(es)
+F0299,Chapeadora eléctrica
+F0299,Cosechadora pequeña
+F0299,Motocultor
+F0299,Rolo compactador
+F0300,Chapeadora eléctrica
+F0300,Cosechadora pequeña
+F0300,Tractor(es)
+F0301,Chapeadora eléctrica
+F0301,Cosechadora pequeña
+F0301,Motocultor
+F0301,Rolo compactador
+F0301,Tractor(es)
+F0302,Chapeadora eléctrica
+F0302,Cosechadora pequeña
+F0302,Motocultor
+F0302,Mureador
+F0302,Rolo compactador
+F0302,Tractor(es)
+F0303,Chapeadora eléctrica
+F0303,Cosechadora pequeña
+F0303,Rolo compactador
+F0303,Tractor(es)
+F0304,Cosechadora pequeña
+F0304,Motocultor
+F0304,Tractor(es)
+F0305,Chapeadora eléctrica
+F0305,Cosechadora pequeña
+F0305,Mureador
+F0305,Máquina para fertilización
+F0305,Tractor(es)
+F0306,Chapeadora eléctrica
+F0306,Cosechadora pequeña
+F0306,Motocultor
+F0306,Mureador
+F0306,Rolo compactador
+F0306,Tractor(es)
+F0307,Cosechadora pequeña
+F0307,Motocultor
+F0307,Mureador
+F0307,Rolo compactador
+F0307,Tractor(es)
+F0308,Cosechadora pequeña
+F0308,Otra
+F0308,Rolo compactador
+F0308,Tractor(es)
+F0309,Cosechadora grande
+F0309,Cosechadora pequeña
+F0309,Motocultor
+F0309,Mureador
+F0309,Máquina para siembra
+F0309,Rolo compactador
+F0309,Tractor(es)
+F0310,Chapeadora eléctrica
+F0310,Cosechadora grande
+F0310,Cosechadora pequeña
+F0310,Mureador
+F0310,Otra
+F0310,Rolo compactador
+F0310,Tractor(es)
+F0311,Chapeadora eléctrica
+F0311,Cosechadora pequeña
+F0311,Mureador
+F0311,Tractor(es)
+F0312,Chapeadora eléctrica
+F0312,Cosechadora pequeña
+F0312,Máquina para fertilización
+F0312,Rolo compactador
+F0313,Cosechadora pequeña
+F0313,Tractor(es)
+F0314,Chapeadora eléctrica
+F0314,Cosechadora pequeña
+F0314,Mureador
+F0314,Rolo compactador
+F0314,Tractor(es)
+F0315,Cosechadora pequeña
+F0315,Tractor(es)
+F0316,Cosechadora pequeña
+F0316,Tractor(es)
+F0317,Chapeadora eléctrica
+F0317,Cosechadora pequeña
+F0317,Mureador
+F0317,Máquina para fertilización
+F0317,Máquina para siembra
+F0317,Tractor(es)
+F0318,Chapeadora eléctrica
+F0318,Cosechadora pequeña
+F0318,Motocultor
+F0318,Rolo compactador
+F0318,Tractor(es)
+F0319,Cosechadora pequeña
+F0319,Motocultor
+F0319,Mureador
+F0319,Máquina para fertilización
+F0319,Rolo compactador
+F0319,Tractor(es)
+F0320,Chapeadora eléctrica
+F0320,Cosechadora pequeña
+F0320,Motocultor
+F0320,Rolo compactador
+F0320,Tractor(es)
+F0321,Chapeadora eléctrica
+F0321,Cosechadora pequeña
+F0321,Motocultor
+F0321,Mureador
+F0321,Máquina para siembra
+F0321,Rolo compactador
+F0321,Tractor(es)
+F0322,Cosechadora pequeña
+F0322,Mureador
+F0322,Tractor(es)
+F0323,Chapeadora eléctrica
+F0323,Motocultor
+F0323,Máquina para fertilización
+F0323,Rolo compactador
+F0324,Cosechadora pequeña
+F0324,Motocultor
+F0324,Mureador
+F0324,Máquina para siembra
+F0324,Rolo compactador
+F0324,Tractor(es)
+F0325,Chapeadora eléctrica
+F0325,Cosechadora pequeña
+F0325,Mureador
+F0325,Tractor(es)
+F0327,Chapeadora eléctrica
+F0327,Cosechadora grande
+F0327,Cosechadora pequeña
+F0327,Rolo compactador
+F0327,Tractor(es)
+F0328,Cosechadora grande
+F0328,Cosechadora pequeña
+F0328,Mureador
+F0328,Máquina para fertilización
+F0328,Tractor(es)
+F0329,Cosechadora pequeña
+F0329,Tractor(es)
+F0330,Cosechadora pequeña
+F0330,Mureador
+F0330,Máquina para fertilización
+F0330,Rolo compactador
+F0330,Tractor(es)
+F0331,Mureador
+F0331,Máquina para fertilización
+F0331,Tractor(es)
+F0332,Máquina para fertilización
+F0332,Máquina para siembra
+F0332,Tractor(es)
+F0333,Chapeadora eléctrica
+F0333,Cosechadora pequeña
+F0333,Motocultor
+F0333,Mureador
+F0333,Rolo compactador
+F0333,Tractor(es)
+F0334,Cosechadora pequeña
+F0334,Motocultor
+F0334,Mureador
+F0334,Rolo compactador
+F0334,Tractor(es)
+F0335,Cosechadora pequeña
+F0335,Mureador
+F0335,Tractor(es)
+F0336,Cosechadora grande
+F0336,Motocultor
+F0336,Mureador
+F0337,Chapeadora eléctrica
+F0337,Cosechadora pequeña
+F0337,Mureador
+F0337,Máquina para fertilización
+F0337,Rolo compactador
+F0337,Tractor(es)
+F0338,Cosechadora grande
+F0338,Mureador
+F0338,Tractor(es)
+F0339,Cosechadora pequeña
+F0339,Rolo compactador
+F0339,Tractor(es)
+F0340,Cosechadora pequeña
+F0340,Tractor(es)
+F0341,Chapeadora eléctrica
+F0341,Cosechadora pequeña
+F0341,Motocultor
+F0341,Máquina para fertilización
+F0341,Tractor(es)
+F0342,Cosechadora pequeña
+F0342,Mureador
+F0342,Tractor(es)
+F0343,Chapeadora eléctrica
+F0343,Cosechadora pequeña
+F0343,Mureador
+F0343,Máquina para siembra
+F0343,Otra
+F0343,Rolo compactador
+F0343,Tractor(es)
+F0344,Chapeadora eléctrica
+F0344,Cosechadora pequeña
+F0344,Motocultor
+F0344,Mureador
+F0344,Rolo compactador
+F0344,Tractor(es)
+F0345,Chapeadora eléctrica
+F0345,Cosechadora pequeña
+F0345,Rolo compactador
+F0345,Tractor(es)
+F0346,Chapeadora eléctrica
+F0346,Cosechadora pequeña
+F0346,Motocultor
+F0346,Rolo compactador
+F0346,Tractor(es)
+F0347,Mureador
+F0347,Máquina para fertilización
+F0347,Tractor(es)
+F0348,Chapeadora eléctrica
+F0348,Cosechadora grande
+F0348,Cosechadora pequeña
+F0348,Motocultor
+F0348,Mureador
+F0348,Máquina para fertilización
+F0348,Rolo compactador
+F0348,Tractor(es)
+F0349,Chapeadora eléctrica
+F0349,Cosechadora pequeña
+F0349,Motocultor
+F0349,Tractor(es)
+F0350,Cosechadora grande
+F0350,Cosechadora pequeña
+F0350,Mureador
+F0350,Tractor(es)
+F0352,Chapeadora eléctrica
+F0352,Cosechadora pequeña
+F0352,Motocultor
+F0352,Mureador
+F0352,Rolo compactador
+F0352,Tractor(es)
+F0353,Cosechadora pequeña
+F0353,Motocultor
+F0353,Mureador
+F0353,Rolo compactador
+F0353,Tractor(es)
+F0354,Chapeadora eléctrica
+F0354,Cosechadora grande
+F0354,Motocultor
+F0354,Máquina para fertilización
+F0354,Rolo compactador
+F0354,Tractor(es)
+F0355,Chapeadora eléctrica
+F0355,Cosechadora pequeña
+F0355,Motocultor
+F0355,Mureador
+F0355,Rolo compactador
+F0355,Tractor(es)
+F0356,Chapeadora eléctrica
+F0356,Cosechadora pequeña
+F0356,Mureador
+F0356,Máquina para fertilización
+F0356,Rolo compactador
+F0356,Tractor(es)
+F0357,Chapeadora eléctrica
+F0357,Cosechadora pequeña
+F0357,Motocultor
+F0357,Mureador
+F0357,Tractor(es)
+F0358,Chapeadora eléctrica
+F0358,Cosechadora pequeña
+F0358,Motocultor
+F0358,Mureador
+F0358,Máquina para fertilización
+F0358,Tractor(es)
+F0359,Cosechadora pequeña
+F0359,Motocultor
+F0359,Mureador
+F0359,Tractor(es)
+F0360,Cosechadora pequeña
+F0360,Motocultor
+F0360,Tractor(es)
+F0361,Cosechadora pequeña
+F0361,Motocultor
+F0361,Tractor(es)
+F0362,Máquina para fertilización
+F0362,Tractor(es)
+F0363,Máquina para fertilización
+F0363,Tractor(es)
+F0364,Cosechadora pequeña
+F0364,Motocultor
+F0364,Mureador
+F0364,Máquina para fertilización
+F0364,Tractor(es)
+F0365,Tractor(es)
+F0366,Chapeadora eléctrica
+F0366,Cosechadora pequeña
+F0366,Motocultor
+F0366,Mureador
+F0366,Rolo compactador
+F0366,Tractor(es)
+F0367,Chapeadora eléctrica
+F0367,Cosechadora pequeña
+F0367,Máquina para fertilización
+F0367,Tractor(es)
+F0368,Chapeadora eléctrica
+F0368,Cosechadora grande
+F0368,Cosechadora pequeña
+F0368,Tractor(es)
+F0369,Cosechadora pequeña
+F0369,Máquina para fertilización
+F0369,Rolo compactador
+F0369,Tractor(es)
+F0370,Motocultor
+F0370,Mureador
+F0370,Rolo compactador
+F0370,Tractor(es)
+F0371,Cosechadora grande
+F0371,Mureador
+F0371,Máquina para siembra
+F0371,Rolo compactador
+F0371,Tractor(es)
+F0372,Cosechadora grande
+F0372,Motocultor
+F0372,Mureador
+F0372,Máquina para fertilización
+F0372,Máquina para siembra
+F0372,Tractor(es)
+F0373,Chapeadora eléctrica
+F0373,Cosechadora grande
+F0373,Motocultor
+F0373,Máquina para fertilización
+F0373,Máquina para siembra
+F0373,Tractor(es)
+F0374,Cosechadora grande
+F0374,Mureador
+F0374,Tractor(es)
+F0375,Cosechadora pequeña
+F0375,Motocultor
+F0375,Mureador
+F0375,Tractor(es)
+F0376,Chapeadora eléctrica
+F0376,Cosechadora pequeña
+F0376,Mureador
+F0376,Rolo compactador
+F0376,Tractor(es)
+F0377,Chapeadora eléctrica
+F0377,Cosechadora pequeña
+F0377,Motocultor
+F0377,Mureador
+F0377,Otra
+F0377,Rolo compactador
+F0377,Tractor(es)
+F0378,Motocultor
+F0378,Mureador
+F0378,Máquina para fertilización
+F0378,Tractor(es)
+F0379,Cosechadora pequeña
+F0379,Motocultor
+F0379,Mureador
+F0379,Rolo compactador
+F0379,Tractor(es)
+F0380,Chapeadora eléctrica
+F0380,Cosechadora grande
+F0380,Motocultor
+F0380,Mureador
+F0380,Rolo compactador
+F0380,Tractor(es)
+F0381,Cosechadora pequeña
+F0381,Mureador
+F0381,Tractor(es)
+F0382,Cosechadora grande
+F0382,Máquina para fertilización
+F0382,Tractor(es)
+F0383,Chapeadora eléctrica
+F0383,Cosechadora pequeña
+F0383,Motocultor
+F0383,Mureador
+F0383,Otra
+F0383,Rolo compactador
+F0383,Tractor(es)
+F0384,Chapeadora eléctrica
+F0384,Cosechadora grande
+F0384,Mureador
+F0384,Rolo compactador
+F0384,Tractor(es)
+F0385,Cosechadora grande
+F0385,Motocultor
+F0385,Mureador
+F0385,Rolo compactador
+F0385,Tractor(es)
+F0386,Cosechadora pequeña
+F0386,Motocultor
+F0386,Mureador
+F0386,Rolo compactador
+F0386,Tractor(es)
+F0387,Cosechadora pequeña
+F0387,Motocultor
+F0387,Tractor(es)
+F0388,Motocultor
+F0388,Tractor(es)
+F0389,Cosechadora pequeña
+F0389,Motocultor
+F0389,Mureador
+F0389,Máquina para fertilización
+F0389,Tractor(es)
+F0390,Chapeadora eléctrica
+F0390,Cosechadora pequeña
+F0390,Mureador
+F0390,Rolo compactador
+F0390,Tractor(es)
+F0391,Cosechadora grande
+F0391,Cosechadora pequeña
+F0391,Motocultor
+F0391,Mureador
+F0391,Máquina para fertilización
+F0391,Rolo compactador
+F0391,Tractor(es)
+F0392,Chapeadora eléctrica
+F0392,Cosechadora grande
+F0392,Mureador
+F0392,Rolo compactador
+F0392,Tractor(es)
+F0393,Cosechadora pequeña
+F0393,Motocultor
+F0393,Mureador
+F0393,Otra
+F0393,Rolo compactador
+F0393,Tractor(es)
+F0394,Cosechadora grande
+F0394,Motocultor
+F0394,Mureador
+F0394,Tractor(es)
+F0395,Cosechadora pequeña
+F0395,Motocultor
+F0395,Mureador
+F0395,Rolo compactador
+F0395,Tractor(es)
+F0396,Cosechadora grande
+F0396,Cosechadora pequeña
+F0396,Motocultor
+F0396,Mureador
+F0396,Tractor(es)
+F0397,Cosechadora pequeña
+F0397,Motocultor
+F0397,Tractor(es)
+F0398,Chapeadora eléctrica
+F0398,Tractor(es)
+F0399,Cosechadora pequeña
+F0399,Motocultor
+F0399,Tractor(es)
+F0400,Cosechadora grande
+F0400,Motocultor
+F0400,Mureador
+F0400,Otra
+F0400,Tractor(es)
+F0401,Cosechadora pequeña
+F0401,Mureador
+F0401,Máquina para siembra
+F0401,Tractor(es)
+F0402,Chapeadora eléctrica
+F0402,Cosechadora pequeña
+F0402,Mureador
+F0402,Máquina para fertilización
+F0402,Rolo compactador
+F0403,Cosechadora pequeña
+F0403,Motocultor
+F0403,Mureador
+F0403,Rolo compactador
+F0403,Tractor(es)
+F0404,Tractor(es)
+F0406,Tractor(es)
+F0408,Mureador
+F0408,Tractor(es)
+F0409,Tractor(es)
+F0410,Otra
+F0413,Tractor(es)
+F0416,Motocultor
+F0416,Tractor(es)
+F0417,Mureador
+F0417,Tractor(es)
+F0419,Mureador
+F0419,Tractor(es)
+F0420,Tractor(es)
+F0421,Mureador
+F0421,Tractor(es)
+F0422,Máquina para fertilización
+F0422,Tractor(es)
+F0424,Tractor(es)
+F0425,Mureador
+F0425,Tractor(es)
+F0427,Mureador
+F0427,Tractor(es)
+F0431,Tractor(es)
+F0432,Tractor(es)
+F0433,Mureador
+F0433,Máquina para fertilización
+F0433,Tractor(es)
+F0435,Mureador
+F0435,Tractor(es)
+F0436,Máquina para fertilización
+F0436,Otra
+F0437,Chapeadora eléctrica
+F0437,Tractor(es)
+F0438,Chapeadora eléctrica
+F0438,Motocultor
+F0438,Mureador
+F0438,Tractor(es)
+F0440,Chapeadora eléctrica
+F0440,Motocultor
+F0440,Mureador
+F0440,Máquina para fertilización
+F0440,Tractor(es)
+F0441,Tractor(es)
+F0442,Mureador
+F0442,Máquina para fertilización
+F0442,Máquina para siembra
+F0442,Tractor(es)
+F0443,Mureador
+F0443,Tractor(es)
+F0444,Mureador
+F0444,Tractor(es)
+F0445,Motocultor
+F0445,Mureador
+F0445,Tractor(es)
+F0446,Motocultor
+F0446,Mureador
+F0446,Máquina para fertilización
+F0446,Tractor(es)
+F0448,Máquina para fertilización
+F0448,Tractor(es)
+F0450,Tractor(es)
+F0451,Motocultor
+F0451,Mureador
+F0451,Tractor(es)
+F0452,Motocultor
+F0452,Tractor(es)
+F0454,Motocultor
+F0454,Mureador
+F0454,Tractor(es)
+F0455,Motocultor
+F0455,Tractor(es)
+F0456,Mureador
+F0456,Máquina para fertilización
+F0456,Tractor(es)
+F0459,Motocultor
+F0461,Tractor(es)
+F0462,Otra
+F0463,Tractor(es)
+F0464,Tractor(es)
+F0466,Motocultor
+F0467,Tractor(es)
+F0468,Tractor(es)
+F0469,Otra
+F0469,Tractor(es)
+F0470,Otra
+F0470,Tractor(es)
+F0474,Tractor(es)
+F0476,Tractor(es)
+F0478,Otra
+F0479,Otra
+F0479,Tractor(es)
+F0480,Tractor(es)
+F0481,Tractor(es)
+F0482,Mureador
+F0482,Tractor(es)
+F0486,Máquina para fertilización
+F0486,Tractor(es)
+F0493,Tractor(es)
+F0497,Motocultor
+F0497,Mureador
+F0497,Tractor(es)
+F0499,Motocultor
+F0499,Mureador
+F0499,Tractor(es)
+F0500,Motocultor
+F0500,Mureador
+F0500,Tractor(es)
+F0501,Motocultor
+F0501,Mureador
+F0501,Tractor(es)
+F0502,Tractor(es)
+F0503,Tractor(es)
+F0504,Tractor(es)
+F0505,Máquina para siembra
+F0505,Tractor(es)
+F0506,Tractor(es)
+F0507,Tractor(es)
+F0508,Motocultor
+F0508,Máquina para fertilización
+F0508,Tractor(es)
+F0509,Chapeadora eléctrica
+F0509,Mureador
+F0509,Tractor(es)
+F0510,Chapeadora eléctrica
+F0510,Motocultor
+F0510,Tractor(es)
+F0511,Motocultor
+F0511,Mureador
+F0511,Tractor(es)
+F0512,Chapeadora eléctrica
+F0512,Mureador
+F0512,Tractor(es)
+F0513,Chapeadora eléctrica
+F0513,Motocultor
+F0513,Mureador
+F0513,Máquina para fertilización
+F0513,Tractor(es)
+F0514,Chapeadora eléctrica
+F0514,Mureador
+F0514,Máquina para fertilización
+F0514,Tractor(es)
+F0515,Chapeadora eléctrica
+F0515,Motocultor
+F0515,Mureador
+F0515,Tractor(es)
+F0516,Motocultor
+F0516,Tractor(es)
+F0521,Tractor(es)
+F0523,Tractor(es)
+F0524,Tractor(es)
+F0525,Tractor(es)
+F0526,Mureador
+F0526,Máquina para fertilización
+F0526,Tractor(es)
+F0527,Motocultor
+F0527,Mureador
+F0527,Tractor(es)
+F0528,Motocultor
+F0528,Mureador
+F0528,Tractor(es)
+F0529,Motocultor
+F0529,Máquina para fertilización
+F0529,Tractor(es)
+F0531,Máquina para fertilización
+F0531,Tractor(es)
+F0532,Tractor(es)
+F0534,Mureador
+F0534,Tractor(es)
+F0536,Máquina para fertilización
+F0536,Tractor(es)
+F0539,Motocultor
+F0539,Mureador
+F0539,Tractor(es)
+F0541,Motocultor
+F0541,Mureador
+F0541,Máquina para fertilización
+F0541,Tractor(es)
+F0542,Motocultor
+F0542,Mureador
+F0542,Tractor(es)
+F0543,Motocultor
+F0543,Mureador
+F0543,Tractor(es)
+F0544,Motocultor
+F0544,Mureador
+F0544,Máquina para fertilización
+F0544,Tractor(es)
+F0545,Mureador
+F0545,Máquina para fertilización
+F0545,Tractor(es)
+F0546,Motocultor
+F0546,Otra
+F0546,Tractor(es)
+F0547,Tractor(es)
+F0548,Mureador
+F0548,Tractor(es)
+F0549,Tractor(es)
+F0551,Motocultor
+F0551,Mureador
+F0551,Otra
+F0551,Tractor(es)
+F0552,Motocultor
+F0552,Mureador
+F0552,Tractor(es)
+F0553,Motocultor
+F0553,Otra
+F0553,Tractor(es)
+F0554,Mureador
+F0554,Tractor(es)
+F0555,Otra
+F0555,Tractor(es)
+F0556,Mureador
+F0556,Tractor(es)
+F0557,Mureador
+F0557,Otra
+F0557,Tractor(es)
+F0558,Tractor(es)
+F0559,Tractor(es)
+F0560,Mureador
+F0560,Tractor(es)
+F0563,Mureador
+F0563,Máquina para fertilización
+F0564,Motocultor
+F0564,Mureador
+F0564,Otra
+F0564,Tractor(es)
+F0565,Motocultor
+F0565,Máquina para fertilización
+F0565,Rolo compactador
+F0565,Tractor(es)
+F0568,Motocultor
+F0568,Mureador
+F0568,Tractor(es)
+F0569,Cosechadora pequeña
+F0569,Motocultor
+F0569,Mureador
+F0569,Máquina para fertilización
+F0569,Máquina para siembra
+F0569,Tractor(es)
+F0570,Motocultor
+F0570,Mureador
+F0570,Máquina para fertilización
+F0570,Máquina para siembra
+F0570,Tractor(es)
+F0571,Cosechadora grande
+F0571,Motocultor
+F0571,Máquina para fertilización
+F0571,Máquina para siembra
+F0571,Tractor(es)
+F0572,Motocultor
+F0572,Mureador
+F0572,Otra
+F0572,Tractor(es)
+F0573,Motocultor
+F0573,Mureador
+F0573,Otra
+F0573,Tractor(es)
+F0574,Motocultor
+F0574,Mureador
+F0574,Máquina para fertilización
+F0574,Tractor(es)
+F0575,Motocultor
+F0575,Tractor(es)
+F0576,Motocultor
+F0576,Mureador
+F0576,Máquina para fertilización
+F0576,Máquina para siembra
+F0576,Tractor(es)
+F0577,Motocultor
+F0577,Mureador
+F0577,Otra
+F0577,Tractor(es)
+F0578,Tractor(es)
+F0579,Cosechadora grande
+F0579,Motocultor
+F0579,Mureador
+F0579,Máquina para fertilización
+F0579,Tractor(es)
+F0580,Motocultor
+F0580,Tractor(es)
+F0581,Motocultor
+F0581,Mureador
+F0581,Otra
+F0581,Tractor(es)
+F0582,Cosechadora grande
+F0582,Mureador
+F0582,Máquina para fertilización
+F0582,Máquina para siembra
+F0582,Tractor(es)
+F0583,Chapeadora eléctrica
+F0583,Cosechadora grande
+F0583,Motocultor
+F0583,Máquina para fertilización
+F0583,Tractor(es)
+F0584,Mureador
+F0584,Máquina para fertilización
+F0584,Tractor(es)
+F0585,Motocultor
+F0585,Mureador
+F0585,Máquina para fertilización
+F0585,Tractor(es)
+F0586,Cosechadora grande
+F0586,Mureador
+F0586,Máquina para fertilización
+F0586,Máquina para siembra
+F0586,Tractor(es)
+F0587,Motocultor
+F0587,Máquina para fertilización
+F0587,Tractor(es)
+F0588,Motocultor
+F0588,Otra
+F0588,Tractor(es)
+F0589,Motocultor
+F0589,Mureador
+F0589,Tractor(es)
+F0590,Cosechadora grande
+F0590,Motocultor
+F0590,Mureador
+F0590,Máquina para fertilización
+F0590,Máquina para siembra
+F0590,Tractor(es)
+F0591,Motocultor
+F0591,Máquina para fertilización
+F0591,Tractor(es)
+F0592,Cosechadora grande
+F0592,Motocultor
+F0592,Mureador
+F0592,Máquina para fertilización
+F0592,Máquina para siembra
+F0592,Tractor(es)
+F0593,Motocultor
+F0593,Mureador
+F0593,Máquina para fertilización
+F0593,Otra
+F0593,Tractor(es)
+F0594,Chapeadora eléctrica
+F0594,Tractor(es)
+F0595,Cosechadora grande
+F0595,Motocultor
+F0595,Máquina para fertilización
+F0595,Máquina para siembra
+F0595,Tractor(es)
+F0597,Tractor(es)
+F0598,Otra
+F0598,Tractor(es)
+F0600,Mureador
+F0600,Otra
+F0600,Tractor(es)
+F0601,Chapeadora eléctrica
+F0601,Tractor(es)
+F0602,Chapeadora eléctrica
+F0602,Tractor(es)
+F0603,Chapeadora eléctrica
+F0603,Tractor(es)
+F0604,Chapeadora eléctrica
+F0604,Tractor(es)
+F0605,Chapeadora eléctrica
+F0605,Tractor(es)
+F0606,Chapeadora eléctrica
+F0606,Tractor(es)
+F0607,Chapeadora eléctrica
+F0607,Tractor(es)
+F0608,Chapeadora eléctrica
+F0608,Mureador
+F0608,Tractor(es)
+F0609,Chapeadora eléctrica
+F0609,Motocultor
+F0609,Mureador
+F0609,Máquina para fertilización
+F0609,Tractor(es)
+F0610,Chapeadora eléctrica
+F0610,Motocultor
+F0610,Mureador
+F0610,Tractor(es)
+F0611,Chapeadora eléctrica
+F0611,Mureador
+F0611,Tractor(es)
+F0612,Chapeadora eléctrica
+F0612,Mureador
+F0612,Tractor(es)
+F0613,Máquina para fertilización
+F0613,Tractor(es)
+F0614,Motocultor
+F0614,Mureador
+F0614,Máquina para fertilización
+F0614,Otra
+F0614,Rolo compactador
+F0614,Tractor(es)
+F0616,Tractor(es)
+F0617,Máquina para fertilización
+F0617,Tractor(es)
+F0618,Tractor(es)
+F0619,Tractor(es)
+F0620,Tractor(es)
+F0621,Motocultor
+F0621,Mureador
+F0621,Tractor(es)
+F0623,Motocultor
+F0623,Mureador
+F0623,Rolo compactador
+F0623,Tractor(es)
+F0624,Motocultor
+F0624,Mureador
+F0624,Rolo compactador
+F0624,Tractor(es)
+F0625,Tractor(es)
+F0627,Motocultor
+F0627,Mureador
+F0627,Rolo compactador
+F0627,Tractor(es)
+F0628,Tractor(es)
+F0629,Mureador
+F0629,Tractor(es)
+F0631,Tractor(es)
+F0632,Tractor(es)
+F0633,Tractor(es)
+F0634,Tractor(es)
+F0635,Chapeadora eléctrica
+F0635,Mureador
+F0635,Tractor(es)
+F0636,Chapeadora eléctrica
+F0636,Mureador
+F0636,Tractor(es)
+F0637,Tractor(es)
+F0638,Mureador
+F0638,Máquina para fertilización
+F0638,Rolo compactador
+F0638,Tractor(es)
+F0639,Cosechadora grande
+F0639,Motocultor
+F0639,Máquina para fertilización
+F0639,Tractor(es)
+F0642,Máquina para fertilización
+F0642,Otra
+F0643,Tractor(es)
+F0646,Tractor(es)
+F0648,Tractor(es)
+F0649,Tractor(es)
+F0650,Tractor(es)
+F0651,Tractor(es)
+F0657,Tractor(es)
+F0662,Tractor(es)
+F0665,Tractor(es)
+F0666,Mureador
+F0666,Tractor(es)
+F0667,Máquina para siembra
+F0667,Tractor(es)
+F0669,Tractor(es)
+F0670,Tractor(es)
+F0671,Máquina para fertilización
+F0671,Máquina para siembra
+F0671,Tractor(es)
+F0672,Tractor(es)
+F0673,Máquina para fertilización
+F0673,Máquina para siembra
+F0673,Tractor(es)
+F0674,Tractor(es)
+F0675,Tractor(es)
+F0676,Tractor(es)
+F0677,Tractor(es)
+F0678,Tractor(es)
+F0679,Tractor(es)
+F0681,Tractor(es)
+F0683,Tractor(es)
+F0684,Cosechadora pequeña
+F0684,Máquina para siembra
+F0684,Tractor(es)
+F0686,Cosechadora grande
+F0686,Máquina para siembra
+F0686,Tractor(es)
+F0687,Tractor(es)
+F0688,Máquina para siembra
+F0688,Tractor(es)
+F0689,Tractor(es)
+F0690,Máquina para fertilización
+F0690,Tractor(es)
+F0691,Tractor(es)
+F0692,Tractor(es)
+F0695,Cosechadora grande
+F0695,Máquina para fertilización
+F0695,Tractor(es)
+F0696,Cosechadora grande
+F0696,Máquina para fertilización
+F0696,Máquina para siembra
+F0696,Tractor(es)
+F0697,Tractor(es)
+F0698,Tractor(es)
+F0699,Chapeadora eléctrica
+F0700,Tractor(es)
+F0701,Tractor(es)
+F0702,Tractor(es)
+F0703,Tractor(es)
+F0705,Tractor(es)
+F0706,Tractor(es)
+F0707,Tractor(es)
+F0708,Tractor(es)
+F1002,Tractor(es)
+F1003,Tractor(es)

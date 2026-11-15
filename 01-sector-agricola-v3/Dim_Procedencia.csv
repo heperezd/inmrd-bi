@@ -1,0 +1,4 @@
+﻿Procedencia_ID,Procedencia,Procedencia_Corta,Nacido_Extranjero
+1,Nacido en el extranjero,Extranjero,1
+2,Nacido en RD de padres nacidos en el extranjero,"RD, padres extranjeros",0
+3,Nacido en RD de padres nacidos en RD,"RD, padres dominicanos",0

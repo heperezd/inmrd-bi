@@ -1,0 +1,3449 @@
+﻿Trabajador_ID,Facilidad_Salud
+T0001-01,Lo transportan hasta un centro de salud
+T0001-02,Lo transportan hasta un centro de salud
+T0002-01,Lo transportan hasta un centro de salud
+T0002-02,Ninguno
+T0003-01,El trabajador paga la atención
+T0003-01,Lo transportan hasta un centro de salud
+T0003-02,El trabajador paga la atención
+T0003-02,Lo transportan hasta un centro de salud
+T0004-01,Ninguno
+T0004-02,Lo transportan hasta un centro de salud
+T0005-01,Le compran las medicinas
+T0005-01,Lo transportan hasta un centro de salud
+T0005-02,Le compran las medicinas
+T0006-01,Le compran las medicinas
+T0006-01,Lo transportan hasta un centro de salud
+T0006-02,Le compran las medicinas
+T0006-02,Lo transportan hasta un centro de salud
+T0007-01,Le compran las medicinas
+T0007-01,Lo transportan hasta un centro de salud
+T0007-02,Le compran las medicinas
+T0007-02,Lo transportan hasta un centro de salud
+T0008-01,Lo transportan hasta un centro de salud
+T0008-02,Lo transportan hasta un centro de salud
+T0009-01,Le compran las medicinas
+T0009-02,Le compran las medicinas
+T0010-02,Ninguno
+T0011-01,Le compran las medicinas
+T0011-01,Lo transportan hasta un centro de salud
+T0011-02,Le compran las medicinas
+T0011-02,Lo transportan hasta un centro de salud
+T0012-01,Le compran las medicinas
+T0012-01,Lo transportan hasta un centro de salud
+T0012-02,Le compran las medicinas
+T0012-02,Lo transportan hasta un centro de salud
+T0013-01,Ninguno
+T0013-02,Ninguno
+T0014-01,Ninguno
+T0014-02,Ninguno
+T0014-03,Ninguno
+T0015-01,Lo transportan hasta un centro de salud
+T0015-01,Ninguno
+T0015-02,Ninguno
+T0016-01,Lo transportan hasta un centro de salud
+T0016-02,Lo transportan hasta un centro de salud
+T0017-01,Ninguno
+T0017-02,Ninguno
+T0018-01,Lo transportan hasta un centro de salud
+T0018-02,Lo transportan hasta un centro de salud
+T0019-01,Le compran las medicinas
+T0019-01,Le pagan la consulta médica
+T0019-01,Lo transportan hasta un centro de salud
+T0019-02,Ninguno
+T0020-01,Le compran las medicinas
+T0020-01,Lo transportan hasta un centro de salud
+T0020-02,Le compran las medicinas
+T0020-02,Lo transportan hasta un centro de salud
+T0020-03,Le compran las medicinas
+T0021-01,Lo transportan hasta un centro de salud
+T0021-02,Lo transportan hasta un centro de salud
+T0021-03,Lo transportan hasta un centro de salud
+T0022-01,Lo transportan hasta un centro de salud
+T0022-02,El trabajador paga la atención
+T0022-03,El trabajador paga la atención
+T0023-01,El trabajador paga la atención
+T0023-02,El trabajador paga la atención
+T0023-03,El trabajador paga la atención
+T0024-01,Ninguno
+T0024-02,Ninguno
+T0024-03,Ninguno
+T0025-01,Ninguno
+T0025-02,El trabajador paga la atención
+T0025-03,El trabajador paga la atención
+T0026-01,El trabajador paga la atención
+T0026-01,Ninguno
+T0026-02,Ninguno
+T0026-03,El trabajador paga la atención
+T0027-01,Ninguno
+T0027-02,Le dan seguro médico
+T0027-03,Ninguno
+T0028-01,Ninguno
+T0028-02,Ninguno
+T0028-03,Ninguno
+T0029-01,Le dan seguro médico
+T0029-02,Lo transportan hasta un centro de salud
+T0029-03,Lo transportan hasta un centro de salud
+T0030-01,El trabajador paga la atención
+T0030-01,Lo transportan hasta un centro de salud
+T0030-02,Ninguno
+T0030-03,Lo transportan hasta un centro de salud
+T0031-01,El trabajador paga la atención
+T0031-02,Lo transportan hasta un centro de salud
+T0031-03,Lo transportan hasta un centro de salud
+T0032-01,Le compran las medicinas
+T0032-01,Lo transportan hasta un centro de salud
+T0032-02,Le compran las medicinas
+T0032-02,Lo transportan hasta un centro de salud
+T0032-03,Le compran las medicinas
+T0032-03,Lo transportan hasta un centro de salud
+T0033-01,El trabajador paga la atención
+T0033-02,El trabajador paga la atención
+T0033-03,Ninguno
+T0034-01,El trabajador paga la atención
+T0034-01,Lo transportan hasta un centro de salud
+T0034-02,El trabajador paga la atención
+T0034-02,Lo transportan hasta un centro de salud
+T0034-03,Ninguno
+T0035-01,El trabajador paga la atención
+T0035-02,Ninguno
+T0035-03,Lo transportan hasta un centro de salud
+T0036-01,Le dan seguro médico
+T0036-02,El trabajador paga la atención
+T0036-02,Lo transportan hasta un centro de salud
+T0036-03,El trabajador paga la atención
+T0036-03,Lo transportan hasta un centro de salud
+T0037-01,Le compran las medicinas
+T0037-01,Le pagan la consulta médica
+T0037-01,Lo transportan hasta un centro de salud
+T0037-02,Le compran las medicinas
+T0037-02,Le pagan la consulta médica
+T0037-03,El trabajador paga la atención
+T0037-04,Lo transportan hasta un centro de salud
+T0037-05,Ninguno
+T0038-01,Lo transportan hasta un centro de salud
+T0038-02,Lo transportan hasta un centro de salud
+T0038-03,Lo transportan hasta un centro de salud
+T0039-01,Lo transportan hasta un centro de salud
+T0039-02,Lo transportan hasta un centro de salud
+T0039-03,Lo transportan hasta un centro de salud
+T0040-01,Le compran las medicinas
+T0040-02,Le compran las medicinas
+T0040-02,Lo transportan hasta un centro de salud
+T0040-03,Lo transportan hasta un centro de salud
+T0040-04,Lo transportan hasta un centro de salud
+T0040-05,Lo transportan hasta un centro de salud
+T0041-01,Le pagan la consulta médica
+T0041-01,Lo transportan hasta un centro de salud
+T0041-02,Ninguno
+T0041-03,Lo transportan hasta un centro de salud
+T0042-01,Le compran las medicinas
+T0042-01,Le dan seguro médico
+T0042-01,Le pagan la consulta médica
+T0042-01,Lo transportan hasta un centro de salud
+T0042-02,Le compran las medicinas
+T0042-02,Le pagan la consulta médica
+T0042-02,Lo transportan hasta un centro de salud
+T0042-03,Le compran las medicinas
+T0042-03,Le pagan la consulta médica
+T0042-03,Lo transportan hasta un centro de salud
+T0043-01,Le compran las medicinas
+T0043-01,Le pagan la consulta médica
+T0043-01,Lo transportan hasta un centro de salud
+T0043-02,Ninguno
+T0043-03,Ninguno
+T0044-01,Ninguno
+T0044-02,Lo transportan hasta un centro de salud
+T0044-03,Ninguno
+T0045-01,Le dan seguro médico
+T0045-01,Lo transportan hasta un centro de salud
+T0045-02,Lo transportan hasta un centro de salud
+T0045-03,Lo transportan hasta un centro de salud
+T0046-01,Le compran las medicinas
+T0046-01,Lo transportan hasta un centro de salud
+T0046-02,Lo transportan hasta un centro de salud
+T0046-03,Lo transportan hasta un centro de salud
+T0047-01,Ninguno
+T0047-02,Lo transportan hasta un centro de salud
+T0047-03,Ninguno
+T0047-04,Ninguno
+T0048-01,Lo transportan hasta un centro de salud
+T0048-02,Lo transportan hasta un centro de salud
+T0048-03,Lo transportan hasta un centro de salud
+T0049-01,Lo transportan hasta un centro de salud
+T0049-02,Lo transportan hasta un centro de salud
+T0049-03,Lo transportan hasta un centro de salud
+T0050-01,El trabajador paga la atención
+T0050-01,Lo transportan hasta un centro de salud
+T0050-02,Lo transportan hasta un centro de salud
+T0050-03,Lo transportan hasta un centro de salud
+T0051-01,Lo transportan hasta un centro de salud
+T0051-02,Lo transportan hasta un centro de salud
+T0051-03,Lo transportan hasta un centro de salud
+T0051-04,Ninguno
+T0052-01,Le compran las medicinas
+T0052-01,Lo transportan hasta un centro de salud
+T0052-02,Le compran las medicinas
+T0052-02,Lo transportan hasta un centro de salud
+T0052-03,Le compran las medicinas
+T0052-03,Lo transportan hasta un centro de salud
+T0052-04,Le compran las medicinas
+T0052-04,Lo transportan hasta un centro de salud
+T0053-01,Ninguno
+T0053-02,Ninguno
+T0053-03,Ninguno
+T0053-04,Lo transportan hasta un centro de salud
+T0054-01,Lo transportan hasta un centro de salud
+T0054-02,Ninguno
+T0054-03,Ninguno
+T0055-01,Ninguno
+T0055-02,Ninguno
+T0055-03,Ninguno
+T0055-04,Le pagan la consulta médica
+T0056-01,Lo transportan hasta un centro de salud
+T0056-02,Lo transportan hasta un centro de salud
+T0056-03,Lo transportan hasta un centro de salud
+T0056-04,Lo transportan hasta un centro de salud
+T0057-01,Lo transportan hasta un centro de salud
+T0057-02,Lo transportan hasta un centro de salud
+T0057-03,Lo transportan hasta un centro de salud
+T0057-04,Lo transportan hasta un centro de salud
+T0058-01,Ninguno
+T0058-02,Ninguno
+T0058-03,Ninguno
+T0058-04,Ninguno
+T0058-05,Ninguno
+T0059-01,El trabajador paga la atención
+T0059-02,El trabajador paga la atención
+T0059-03,Lo transportan hasta un centro de salud
+T0059-04,El trabajador paga la atención
+T0059-05,El trabajador paga la atención
+T0060-01,Ninguno
+T0060-02,Ninguno
+T0060-03,Ninguno
+T0060-04,Lo transportan hasta un centro de salud
+T0061-01,Le compran las medicinas
+T0061-02,Ninguno
+T0061-03,Ninguno
+T0061-04,Ninguno
+T0062-01,Lo transportan hasta un centro de salud
+T0062-02,El trabajador paga la atención
+T0062-03,El trabajador paga la atención
+T0062-03,Lo transportan hasta un centro de salud
+T0063-01,El trabajador paga la atención
+T0063-01,Le dan seguro médico
+T0063-01,Lo transportan hasta un centro de salud
+T0063-02,Lo transportan hasta un centro de salud
+T0063-03,Lo transportan hasta un centro de salud
+T0063-04,El trabajador paga la atención
+T0063-04,Lo transportan hasta un centro de salud
+T0064-01,Lo transportan hasta un centro de salud
+T0064-02,Ninguno
+T0064-03,Ninguno
+T0064-04,Lo transportan hasta un centro de salud
+T0065-01,Le compran las medicinas
+T0065-02,Ninguno
+T0065-03,Le compran las medicinas
+T0065-04,Ninguno
+T0065-05,Ninguno
+T0066-01,Ninguno
+T0066-02,Ninguno
+T0066-03,Ninguno
+T0066-04,Ninguno
+T0067-01,Lo transportan hasta un centro de salud
+T0067-02,Lo transportan hasta un centro de salud
+T0067-03,Ninguno
+T0067-04,Lo transportan hasta un centro de salud
+T0068-01,El trabajador paga la atención
+T0068-02,El trabajador paga la atención
+T0068-03,El trabajador paga la atención
+T0068-03,Le compran las medicinas
+T0068-03,Le pagan la consulta médica
+T0068-04,El trabajador paga la atención
+T0068-05,El trabajador paga la atención
+T0069-01,El trabajador paga la atención
+T0069-02,El trabajador paga la atención
+T0069-03,El trabajador paga la atención
+T0069-04,Ninguno
+T0070-01,Le compran las medicinas
+T0070-02,El trabajador paga la atención
+T0070-03,El trabajador paga la atención
+T0070-04,El trabajador paga la atención
+T0070-05,El trabajador paga la atención
+T0071-01,Lo transportan hasta un centro de salud
+T0071-02,Ninguno
+T0071-03,Ninguno
+T0071-04,Lo transportan hasta un centro de salud
+T0072-01,El trabajador paga la atención
+T0072-02,El trabajador paga la atención
+T0072-03,El trabajador paga la atención
+T0072-04,El trabajador paga la atención
+T0073-01,Ninguno
+T0073-02,El trabajador paga la atención
+T0073-03,El trabajador paga la atención
+T0073-04,Ninguno
+T0074-01,Ninguno
+T0074-02,Ninguno
+T0074-03,Ninguno
+T0074-04,Lo transportan hasta un centro de salud
+T0074-05,Ninguno
+T0075-01,Le compran las medicinas
+T0075-02,Le pagan la consulta médica
+T0075-03,Ninguno
+T0076-01,Ninguno
+T0076-02,Ninguno
+T0076-03,Ninguno
+T0076-04,Ninguno
+T0076-05,Lo transportan hasta un centro de salud
+T0077-01,Lo transportan hasta un centro de salud
+T0077-02,Lo transportan hasta un centro de salud
+T0077-03,Lo transportan hasta un centro de salud
+T0077-04,Le dan seguro médico
+T0078-01,Lo transportan hasta un centro de salud
+T0078-02,Lo transportan hasta un centro de salud
+T0078-03,Ninguno
+T0078-04,Ninguno
+T0078-05,Lo transportan hasta un centro de salud
+T0079-01,Le compran las medicinas
+T0079-02,El trabajador paga la atención
+T0079-02,Le pagan la consulta médica
+T0079-03,El trabajador paga la atención
+T0079-04,Le compran las medicinas
+T0080-01,El trabajador paga la atención
+T0080-02,El trabajador paga la atención
+T0080-02,Lo transportan hasta un centro de salud
+T0080-03,El trabajador paga la atención
+T0080-03,Lo transportan hasta un centro de salud
+T0080-04,El trabajador paga la atención
+T0080-04,Lo transportan hasta un centro de salud
+T0081-01,El trabajador paga la atención
+T0081-01,Lo transportan hasta un centro de salud
+T0081-02,El trabajador paga la atención
+T0081-03,El trabajador paga la atención
+T0081-03,Lo transportan hasta un centro de salud
+T0081-04,El trabajador paga la atención
+T0082-01,Le compran las medicinas
+T0082-01,Le pagan la consulta médica
+T0082-01,Lo transportan hasta un centro de salud
+T0082-02,Le compran las medicinas
+T0082-02,Lo transportan hasta un centro de salud
+T0082-03,Le compran las medicinas
+T0082-03,Lo transportan hasta un centro de salud
+T0082-04,Le compran las medicinas
+T0082-04,Lo transportan hasta un centro de salud
+T0083-01,El trabajador paga la atención
+T0083-01,Lo transportan hasta un centro de salud
+T0083-02,El trabajador paga la atención
+T0083-02,Lo transportan hasta un centro de salud
+T0083-03,El trabajador paga la atención
+T0083-03,Lo transportan hasta un centro de salud
+T0083-04,El trabajador paga la atención
+T0083-04,Lo transportan hasta un centro de salud
+T0085-01,Lo transportan hasta un centro de salud
+T0085-02,Lo transportan hasta un centro de salud
+T0085-03,Lo transportan hasta un centro de salud
+T0086-01,Ninguno
+T0086-02,Lo transportan hasta un centro de salud
+T0086-03,Ninguno
+T0086-04,El trabajador paga la atención
+T0087-01,Lo transportan hasta un centro de salud
+T0087-02,Le compran las medicinas
+T0087-03,Ninguno
+T0088-01,Ninguno
+T0088-02,Ninguno
+T0088-03,Ninguno
+T0089-01,El trabajador paga la atención
+T0089-01,Lo transportan hasta un centro de salud
+T0089-02,El trabajador paga la atención
+T0089-03,El trabajador paga la atención
+T0089-04,El trabajador paga la atención
+T0089-04,Lo transportan hasta un centro de salud
+T0090-01,El trabajador paga la atención
+T0090-01,Lo transportan hasta un centro de salud
+T0090-02,El trabajador paga la atención
+T0090-02,Lo transportan hasta un centro de salud
+T0090-03,El trabajador paga la atención
+T0090-03,Lo transportan hasta un centro de salud
+T0090-04,El trabajador paga la atención
+T0090-04,Lo transportan hasta un centro de salud
+T0092-01,Lo transportan hasta un centro de salud
+T0092-02,Lo transportan hasta un centro de salud
+T0092-03,Le dan seguro médico
+T0092-04,El trabajador paga la atención
+T0093-01,Lo transportan hasta un centro de salud
+T0093-02,Lo transportan hasta un centro de salud
+T0093-03,El trabajador paga la atención
+T0093-04,Lo transportan hasta un centro de salud
+T0094-01,El trabajador paga la atención
+T0094-02,El trabajador paga la atención
+T0094-03,El trabajador paga la atención
+T0094-04,El trabajador paga la atención
+T0095-01,El trabajador paga la atención
+T0095-02,Lo transportan hasta un centro de salud
+T0095-03,Lo transportan hasta un centro de salud
+T0095-04,Lo transportan hasta un centro de salud
+T0096-01,Le dan seguro médico
+T0096-02,Lo transportan hasta un centro de salud
+T0096-03,Lo transportan hasta un centro de salud
+T0096-04,Lo transportan hasta un centro de salud
+T0097-01,Lo transportan hasta un centro de salud
+T0097-02,Lo transportan hasta un centro de salud
+T0097-03,Lo transportan hasta un centro de salud
+T0097-04,Lo transportan hasta un centro de salud
+T0098-01,El trabajador paga la atención
+T0098-01,Lo transportan hasta un centro de salud
+T0098-02,Lo transportan hasta un centro de salud
+T0098-03,Lo transportan hasta un centro de salud
+T0098-04,El trabajador paga la atención
+T0098-04,Lo transportan hasta un centro de salud
+T0099-01,Le pagan la consulta médica
+T0099-02,Ninguno
+T0099-03,Ninguno
+T0099-04,Ninguno
+T0100-01,El trabajador paga la atención
+T0100-02,El trabajador paga la atención
+T0100-03,El trabajador paga la atención
+T0100-04,El trabajador paga la atención
+T0101-01,Le dan seguro médico
+T0101-01,Lo transportan hasta un centro de salud
+T0101-02,El trabajador paga la atención
+T0101-03,El trabajador paga la atención
+T0101-04,El trabajador paga la atención
+T0102-01,Le compran las medicinas
+T0102-01,Lo transportan hasta un centro de salud
+T0102-02,Le compran las medicinas
+T0102-02,Lo transportan hasta un centro de salud
+T0102-03,Le compran las medicinas
+T0102-03,Lo transportan hasta un centro de salud
+T0102-04,Le compran las medicinas
+T0102-04,Lo transportan hasta un centro de salud
+T0103-01,El trabajador paga la atención
+T0103-02,Le compran las medicinas
+T0104-01,Lo transportan hasta un centro de salud
+T0104-02,Lo transportan hasta un centro de salud
+T0104-03,Lo transportan hasta un centro de salud
+T0104-04,El trabajador paga la atención
+T0104-04,Lo transportan hasta un centro de salud
+T0105-01,El trabajador paga la atención
+T0105-02,El trabajador paga la atención
+T0105-03,El trabajador paga la atención
+T0105-04,El trabajador paga la atención
+T0106-01,Ninguno
+T0106-02,Ninguno
+T0106-03,Ninguno
+T0106-04,Lo transportan hasta un centro de salud
+T0107-01,El trabajador paga la atención
+T0107-01,Lo transportan hasta un centro de salud
+T0107-02,El trabajador paga la atención
+T0107-03,Ninguno
+T0107-04,Ninguno
+T0108-01,Le compran las medicinas
+T0108-01,Lo transportan hasta un centro de salud
+T0108-02,Le compran las medicinas
+T0108-03,Lo transportan hasta un centro de salud
+T0108-04,Le compran las medicinas
+T0108-04,Lo transportan hasta un centro de salud
+T0109-01,Lo transportan hasta un centro de salud
+T0109-02,Lo transportan hasta un centro de salud
+T0109-03,Lo transportan hasta un centro de salud
+T0109-04,Lo transportan hasta un centro de salud
+T0110-01,El trabajador paga la atención
+T0110-02,El trabajador paga la atención
+T0110-03,Lo transportan hasta un centro de salud
+T0110-04,Lo transportan hasta un centro de salud
+T0111-01,Le compran las medicinas
+T0111-01,Lo transportan hasta un centro de salud
+T0111-02,Le compran las medicinas
+T0111-02,Lo transportan hasta un centro de salud
+T0111-03,Le compran las medicinas
+T0111-03,Lo transportan hasta un centro de salud
+T0111-04,Le compran las medicinas
+T0111-04,Lo transportan hasta un centro de salud
+T0112-01,Le compran las medicinas
+T0112-01,Lo transportan hasta un centro de salud
+T0112-02,Le compran las medicinas
+T0112-02,Lo transportan hasta un centro de salud
+T0112-03,Le compran las medicinas
+T0112-03,Lo transportan hasta un centro de salud
+T0112-04,Le compran las medicinas
+T0112-04,Lo transportan hasta un centro de salud
+T0113-01,Lo transportan hasta un centro de salud
+T0113-02,Lo transportan hasta un centro de salud
+T0113-03,Lo transportan hasta un centro de salud
+T0113-04,El trabajador paga la atención
+T0114-01,Lo transportan hasta un centro de salud
+T0114-02,Lo transportan hasta un centro de salud
+T0114-03,Le compran las medicinas
+T0115-01,Ninguno
+T0115-02,Ninguno
+T0115-03,Ninguno
+T0115-04,Ninguno
+T0116-01,Ninguno
+T0116-02,Ninguno
+T0116-03,Ninguno
+T0116-04,Ninguno
+T0117-01,Ninguno
+T0117-02,Ninguno
+T0118-01,Le compran las medicinas
+T0118-01,Lo transportan hasta un centro de salud
+T0118-02,Lo transportan hasta un centro de salud
+T0119-01,Ninguno
+T0119-02,Ninguno
+T0120-01,Lo transportan hasta un centro de salud
+T0120-02,Lo transportan hasta un centro de salud
+T0121-01,Lo transportan hasta un centro de salud
+T0121-02,Lo transportan hasta un centro de salud
+T0122-01,Le compran las medicinas
+T0122-01,Lo transportan hasta un centro de salud
+T0122-02,Le compran las medicinas
+T0122-02,Lo transportan hasta un centro de salud
+T0123-01,Le compran las medicinas
+T0123-01,Lo transportan hasta un centro de salud
+T0123-02,Lo transportan hasta un centro de salud
+T0124-01,Le compran las medicinas
+T0124-01,Lo transportan hasta un centro de salud
+T0124-02,Le compran las medicinas
+T0124-02,Lo transportan hasta un centro de salud
+T0125-01,Le compran las medicinas
+T0125-01,Lo transportan hasta un centro de salud
+T0125-02,Le compran las medicinas
+T0125-02,Lo transportan hasta un centro de salud
+T0126-01,Ninguno
+T0126-02,Ninguno
+T0127-01,Ninguno
+T0127-02,Ninguno
+T0128-01,Lo transportan hasta un centro de salud
+T0128-02,Le compran las medicinas
+T0128-02,Lo transportan hasta un centro de salud
+T0129-01,Ninguno
+T0129-02,El trabajador paga la atención
+T0130-01,Le compran las medicinas
+T0130-01,Lo transportan hasta un centro de salud
+T0130-02,Le compran las medicinas
+T0130-02,Lo transportan hasta un centro de salud
+T0131-01,Le compran las medicinas
+T0131-01,Lo transportan hasta un centro de salud
+T0131-02,Le compran las medicinas
+T0131-02,Lo transportan hasta un centro de salud
+T0132-01,Lo transportan hasta un centro de salud
+T0132-02,Lo transportan hasta un centro de salud
+T0133-01,Lo transportan hasta un centro de salud
+T0133-02,Lo transportan hasta un centro de salud
+T0134-01,Lo transportan hasta un centro de salud
+T0134-02,Lo transportan hasta un centro de salud
+T0135-01,Lo transportan hasta un centro de salud
+T0135-02,Ninguno
+T0136-01,Le compran las medicinas
+T0136-01,Lo transportan hasta un centro de salud
+T0136-02,Le compran las medicinas
+T0136-02,Lo transportan hasta un centro de salud
+T0136-03,Lo transportan hasta un centro de salud
+T0137-01,El trabajador paga la atención
+T0137-01,Lo transportan hasta un centro de salud
+T0137-02,Lo transportan hasta un centro de salud
+T0137-03,Ninguno
+T0138-01,Ninguno
+T0138-02,Ninguno
+T0138-03,Ninguno
+T0139-01,Lo transportan hasta un centro de salud
+T0139-02,Le compran las medicinas
+T0139-02,Lo transportan hasta un centro de salud
+T0139-03,Le compran las medicinas
+T0139-03,Lo transportan hasta un centro de salud
+T0140-01,Le compran las medicinas
+T0140-02,Ninguno
+T0140-03,Ninguno
+T0141-01,Ninguno
+T0141-02,Ninguno
+T0141-03,Ninguno
+T0142-01,El trabajador paga la atención
+T0142-02,El trabajador paga la atención
+T0142-03,El trabajador paga la atención
+T0143-01,Ninguno
+T0143-02,Ninguno
+T0143-03,Ninguno
+T0144-01,Lo transportan hasta un centro de salud
+T0144-02,Lo transportan hasta un centro de salud
+T0144-03,Lo transportan hasta un centro de salud
+T0145-01,Le compran las medicinas
+T0145-02,Ninguno
+T0145-03,Ninguno
+T0146-01,Ninguno
+T0146-02,Ninguno
+T0146-03,Le compran las medicinas
+T0147-01,Ninguno
+T0147-02,El trabajador paga la atención
+T0147-03,Ninguno
+T0148-01,Le compran las medicinas
+T0148-01,Lo transportan hasta un centro de salud
+T0148-02,Ninguno
+T0148-03,Ninguno
+T0149-01,Le compran las medicinas
+T0149-01,Lo transportan hasta un centro de salud
+T0149-02,Le compran las medicinas
+T0149-02,Lo transportan hasta un centro de salud
+T0149-03,Le compran las medicinas
+T0149-03,Lo transportan hasta un centro de salud
+T0150-01,Le compran las medicinas
+T0150-01,Lo transportan hasta un centro de salud
+T0150-02,Le compran las medicinas
+T0150-02,Lo transportan hasta un centro de salud
+T0150-03,Le compran las medicinas
+T0150-03,Lo transportan hasta un centro de salud
+T0151-01,Le compran las medicinas
+T0151-01,Le pagan la consulta médica
+T0151-01,Lo transportan hasta un centro de salud
+T0151-02,Le compran las medicinas
+T0151-02,Le pagan la consulta médica
+T0151-02,Lo transportan hasta un centro de salud
+T0151-03,El trabajador paga la atención
+T0151-03,Le compran las medicinas
+T0151-03,Le pagan la consulta médica
+T0151-03,Lo transportan hasta un centro de salud
+T0152-01,Ninguno
+T0152-02,Ninguno
+T0153-01,Le compran las medicinas
+T0153-01,Le pagan la consulta médica
+T0153-01,Lo transportan hasta un centro de salud
+T0154-01,El trabajador paga la atención
+T0154-02,Ninguno
+T0154-03,Ninguno
+T0154-04,Ninguno
+T0155-01,El trabajador paga la atención
+T0155-02,El trabajador paga la atención
+T0155-03,Ninguno
+T0155-04,Ninguno
+T0156-01,Le compran las medicinas
+T0156-01,Lo transportan hasta un centro de salud
+T0156-02,Le compran las medicinas
+T0156-02,Lo transportan hasta un centro de salud
+T0156-03,Le compran las medicinas
+T0156-03,Lo transportan hasta un centro de salud
+T0156-04,Le compran las medicinas
+T0156-04,Lo transportan hasta un centro de salud
+T0157-01,Le compran las medicinas
+T0157-01,Lo transportan hasta un centro de salud
+T0157-02,Lo transportan hasta un centro de salud
+T0157-03,Le compran las medicinas
+T0157-04,Le compran las medicinas
+T0157-04,Lo transportan hasta un centro de salud
+T0158-01,Le compran las medicinas
+T0158-01,Lo transportan hasta un centro de salud
+T0158-02,Le compran las medicinas
+T0158-02,Lo transportan hasta un centro de salud
+T0158-03,Le compran las medicinas
+T0158-03,Lo transportan hasta un centro de salud
+T0158-04,Le compran las medicinas
+T0158-04,Lo transportan hasta un centro de salud
+T0159-01,Le compran las medicinas
+T0159-01,Le pagan la consulta médica
+T0159-01,Lo transportan hasta un centro de salud
+T0159-02,Le compran las medicinas
+T0159-02,Le pagan la consulta médica
+T0159-02,Lo transportan hasta un centro de salud
+T0159-03,Le compran las medicinas
+T0159-03,Le pagan la consulta médica
+T0159-03,Lo transportan hasta un centro de salud
+T0159-04,Le compran las medicinas
+T0159-04,Le pagan la consulta médica
+T0159-04,Lo transportan hasta un centro de salud
+T0160-01,Le compran las medicinas
+T0160-01,Le pagan la consulta médica
+T0160-01,Lo transportan hasta un centro de salud
+T0160-02,Le compran las medicinas
+T0160-02,Le pagan la consulta médica
+T0160-02,Lo transportan hasta un centro de salud
+T0160-03,Le compran las medicinas
+T0160-03,Le pagan la consulta médica
+T0160-03,Lo transportan hasta un centro de salud
+T0160-04,Le compran las medicinas
+T0160-04,Le pagan la consulta médica
+T0160-04,Lo transportan hasta un centro de salud
+T0161-01,El trabajador paga la atención
+T0161-02,El trabajador paga la atención
+T0161-03,El trabajador paga la atención
+T0161-04,El trabajador paga la atención
+T0162-01,Lo transportan hasta un centro de salud
+T0162-02,Le compran las medicinas
+T0162-02,Lo transportan hasta un centro de salud
+T0162-03,Le compran las medicinas
+T0162-03,Lo transportan hasta un centro de salud
+T0162-04,Le compran las medicinas
+T0162-04,Lo transportan hasta un centro de salud
+T0163-01,Ninguno
+T0163-02,Le compran las medicinas
+T0163-02,Lo transportan hasta un centro de salud
+T0163-03,Ninguno
+T0163-04,Ninguno
+T0164-01,Le compran las medicinas
+T0164-02,Le compran las medicinas
+T0164-03,Ninguno
+T0164-04,Ninguno
+T0165-01,Ninguno
+T0165-02,Ninguno
+T0165-03,Ninguno
+T0165-04,Ninguno
+T0166-01,Ninguno
+T0166-02,El trabajador paga la atención
+T0166-02,Ninguno
+T0166-03,Ninguno
+T0166-04,Ninguno
+T0167-01,Le compran las medicinas
+T0167-02,Lo transportan hasta un centro de salud
+T0167-03,Le compran las medicinas
+T0167-03,Lo transportan hasta un centro de salud
+T0167-04,Ninguno
+T0168-01,Lo transportan hasta un centro de salud
+T0168-02,Le compran las medicinas
+T0168-02,Lo transportan hasta un centro de salud
+T0168-03,Le compran las medicinas
+T0168-03,Lo transportan hasta un centro de salud
+T0168-04,Le compran las medicinas
+T0168-04,Lo transportan hasta un centro de salud
+T0169-01,Le compran las medicinas
+T0169-02,Le compran las medicinas
+T0169-02,Lo transportan hasta un centro de salud
+T0169-03,Le compran las medicinas
+T0169-03,Lo transportan hasta un centro de salud
+T0169-04,Lo transportan hasta un centro de salud
+T0170-01,Le compran las medicinas
+T0170-01,Lo transportan hasta un centro de salud
+T0170-02,Le compran las medicinas
+T0170-02,Lo transportan hasta un centro de salud
+T0170-03,Le compran las medicinas
+T0170-03,Lo transportan hasta un centro de salud
+T0170-04,Le compran las medicinas
+T0170-04,Lo transportan hasta un centro de salud
+T0171-01,Le compran las medicinas
+T0171-01,Le pagan la consulta médica
+T0171-01,Lo transportan hasta un centro de salud
+T0171-02,Le compran las medicinas
+T0171-02,Lo transportan hasta un centro de salud
+T0171-03,Le compran las medicinas
+T0171-03,Lo transportan hasta un centro de salud
+T0171-04,Le compran las medicinas
+T0171-04,Lo transportan hasta un centro de salud
+T0172-01,Ninguno
+T0172-02,Lo transportan hasta un centro de salud
+T0173-01,Ninguno
+T0173-02,Ninguno
+T0174-01,El trabajador paga la atención
+T0174-02,El trabajador paga la atención
+T0175-01,Le compran las medicinas
+T0175-01,Lo transportan hasta un centro de salud
+T0175-02,Le compran las medicinas
+T0175-02,Lo transportan hasta un centro de salud
+T0176-01,Le pagan la consulta médica
+T0176-02,Lo transportan hasta un centro de salud
+T0177-01,Ninguno
+T0177-02,Ninguno
+T0178-01,Le compran las medicinas
+T0178-01,Lo transportan hasta un centro de salud
+T0178-02,Ninguno
+T0179-01,Ninguno
+T0179-02,Ninguno
+T0180-01,Ninguno
+T0180-02,Ninguno
+T0181-01,Lo transportan hasta un centro de salud
+T0181-02,Lo transportan hasta un centro de salud
+T0182-01,Ninguno
+T0182-02,El trabajador paga la atención
+T0183-01,Le compran las medicinas
+T0183-01,Lo transportan hasta un centro de salud
+T0183-02,Le compran las medicinas
+T0183-02,Lo transportan hasta un centro de salud
+T0183-03,Le compran las medicinas
+T0183-03,Lo transportan hasta un centro de salud
+T0184-01,Le compran las medicinas
+T0184-01,Lo transportan hasta un centro de salud
+T0184-02,Lo transportan hasta un centro de salud
+T0184-03,Le compran las medicinas
+T0185-01,Le compran las medicinas
+T0185-01,Lo transportan hasta un centro de salud
+T0185-02,Le compran las medicinas
+T0185-02,Lo transportan hasta un centro de salud
+T0185-03,Le compran las medicinas
+T0185-03,Lo transportan hasta un centro de salud
+T0186-01,Le compran las medicinas
+T0186-01,Lo transportan hasta un centro de salud
+T0186-02,Le compran las medicinas
+T0186-02,Lo transportan hasta un centro de salud
+T0186-03,Le compran las medicinas
+T0186-03,Lo transportan hasta un centro de salud
+T0187-01,Le compran las medicinas
+T0187-01,Le dan seguro médico
+T0187-02,Le compran las medicinas
+T0187-02,Lo transportan hasta un centro de salud
+T0187-03,Le compran las medicinas
+T0187-03,Lo transportan hasta un centro de salud
+T0188-01,Le compran las medicinas
+T0188-01,Lo transportan hasta un centro de salud
+T0188-02,Le compran las medicinas
+T0188-02,Lo transportan hasta un centro de salud
+T0188-03,Le compran las medicinas
+T0188-03,Lo transportan hasta un centro de salud
+T0189-01,Le compran las medicinas
+T0189-01,Lo transportan hasta un centro de salud
+T0189-02,Le compran las medicinas
+T0189-02,Lo transportan hasta un centro de salud
+T0189-03,Le compran las medicinas
+T0189-03,Lo transportan hasta un centro de salud
+T0190-01,Le compran las medicinas
+T0190-01,Lo transportan hasta un centro de salud
+T0190-02,Le compran las medicinas
+T0190-02,Lo transportan hasta un centro de salud
+T0190-03,Le compran las medicinas
+T0190-03,Lo transportan hasta un centro de salud
+T0191-01,El trabajador paga la atención
+T0191-01,Ninguno
+T0191-02,Ninguno
+T0191-03,Ninguno
+T0192-01,Le compran las medicinas
+T0192-01,Lo transportan hasta un centro de salud
+T0192-02,Le compran las medicinas
+T0192-02,Lo transportan hasta un centro de salud
+T0192-03,Le compran las medicinas
+T0192-03,Lo transportan hasta un centro de salud
+T0193-01,El trabajador paga la atención
+T0193-02,Ninguno
+T0193-03,Ninguno
+T0193-04,Ninguno
+T0194-01,El trabajador paga la atención
+T0194-01,Lo transportan hasta un centro de salud
+T0194-02,Lo transportan hasta un centro de salud
+T0194-03,Lo transportan hasta un centro de salud
+T0194-03,Ninguno
+T0194-04,Lo transportan hasta un centro de salud
+T0195-01,Le compran las medicinas
+T0195-01,Lo transportan hasta un centro de salud
+T0195-02,Le compran las medicinas
+T0195-02,Lo transportan hasta un centro de salud
+T0195-03,Le compran las medicinas
+T0195-03,Lo transportan hasta un centro de salud
+T0196-01,Lo transportan hasta un centro de salud
+T0196-02,Ninguno
+T0196-03,El trabajador paga la atención
+T0196-04,El trabajador paga la atención
+T0197-01,Le compran las medicinas
+T0197-01,Lo transportan hasta un centro de salud
+T0197-02,Le compran las medicinas
+T0197-02,Lo transportan hasta un centro de salud
+T0197-03,Le compran las medicinas
+T0197-03,Lo transportan hasta un centro de salud
+T0197-04,Le compran las medicinas
+T0197-04,Lo transportan hasta un centro de salud
+T0198-01,Le compran las medicinas
+T0198-01,Lo transportan hasta un centro de salud
+T0198-02,Le compran las medicinas
+T0198-02,Lo transportan hasta un centro de salud
+T0198-03,Le compran las medicinas
+T0198-03,Lo transportan hasta un centro de salud
+T0198-04,Le compran las medicinas
+T0198-04,Lo transportan hasta un centro de salud
+T0199-01,El trabajador paga la atención
+T0199-01,Lo transportan hasta un centro de salud
+T0199-02,El trabajador paga la atención
+T0199-03,El trabajador paga la atención
+T0199-03,Lo transportan hasta un centro de salud
+T0199-04,El trabajador paga la atención
+T0200-01,Lo transportan hasta un centro de salud
+T0200-02,El trabajador paga la atención
+T0200-02,Lo transportan hasta un centro de salud
+T0200-03,Lo transportan hasta un centro de salud
+T0200-04,Lo transportan hasta un centro de salud
+T0201-01,Le compran las medicinas
+T0201-01,Lo transportan hasta un centro de salud
+T0201-02,Le compran las medicinas
+T0201-02,Lo transportan hasta un centro de salud
+T0201-03,Le compran las medicinas
+T0201-03,Lo transportan hasta un centro de salud
+T0201-04,Le compran las medicinas
+T0201-04,Lo transportan hasta un centro de salud
+T0202-01,Le compran las medicinas
+T0202-01,Lo transportan hasta un centro de salud
+T0202-02,Le compran las medicinas
+T0202-02,Lo transportan hasta un centro de salud
+T0202-03,Le compran las medicinas
+T0202-03,Lo transportan hasta un centro de salud
+T0202-04,Le compran las medicinas
+T0202-04,Lo transportan hasta un centro de salud
+T0203-01,Le compran las medicinas
+T0203-01,Lo transportan hasta un centro de salud
+T0203-02,Le compran las medicinas
+T0203-02,Le dan seguro médico
+T0203-03,Le compran las medicinas
+T0203-03,Lo transportan hasta un centro de salud
+T0203-04,Le compran las medicinas
+T0203-04,Lo transportan hasta un centro de salud
+T0204-01,Le compran las medicinas
+T0204-01,Lo transportan hasta un centro de salud
+T0204-02,Le compran las medicinas
+T0204-02,Lo transportan hasta un centro de salud
+T0204-03,Le compran las medicinas
+T0204-03,Lo transportan hasta un centro de salud
+T0204-04,Le compran las medicinas
+T0204-04,Lo transportan hasta un centro de salud
+T0205-01,Le compran las medicinas
+T0205-01,Lo transportan hasta un centro de salud
+T0205-02,Le compran las medicinas
+T0205-02,Lo transportan hasta un centro de salud
+T0205-03,Le compran las medicinas
+T0205-03,Lo transportan hasta un centro de salud
+T0205-04,Le compran las medicinas
+T0205-04,Lo transportan hasta un centro de salud
+T0206-01,Le compran las medicinas
+T0206-01,Lo transportan hasta un centro de salud
+T0206-02,Le compran las medicinas
+T0206-02,Lo transportan hasta un centro de salud
+T0206-03,Le compran las medicinas
+T0206-03,Lo transportan hasta un centro de salud
+T0206-04,El trabajador paga la atención
+T0206-04,Le pagan la consulta médica
+T0207-01,Le compran las medicinas
+T0207-01,Lo transportan hasta un centro de salud
+T0207-02,Le compran las medicinas
+T0207-02,Lo transportan hasta un centro de salud
+T0207-03,Le compran las medicinas
+T0207-03,Lo transportan hasta un centro de salud
+T0207-04,Le compran las medicinas
+T0207-04,Lo transportan hasta un centro de salud
+T0208-01,Le compran las medicinas
+T0208-01,Lo transportan hasta un centro de salud
+T0208-02,Le compran las medicinas
+T0208-02,Lo transportan hasta un centro de salud
+T0208-03,Le compran las medicinas
+T0208-03,Lo transportan hasta un centro de salud
+T0208-04,Le compran las medicinas
+T0208-04,Lo transportan hasta un centro de salud
+T0209-01,Le compran las medicinas
+T0209-01,Lo transportan hasta un centro de salud
+T0209-02,Le compran las medicinas
+T0209-02,Lo transportan hasta un centro de salud
+T0209-03,Le compran las medicinas
+T0209-03,Lo transportan hasta un centro de salud
+T0209-04,Le compran las medicinas
+T0209-04,Lo transportan hasta un centro de salud
+T0210-01,Le compran las medicinas
+T0210-01,Lo transportan hasta un centro de salud
+T0210-02,Le compran las medicinas
+T0210-02,Lo transportan hasta un centro de salud
+T0210-03,Le compran las medicinas
+T0210-03,Lo transportan hasta un centro de salud
+T0210-04,Le compran las medicinas
+T0210-04,Lo transportan hasta un centro de salud
+T0211-01,Le compran las medicinas
+T0211-01,Lo transportan hasta un centro de salud
+T0211-02,Le compran las medicinas
+T0211-03,Le compran las medicinas
+T0211-04,Le compran las medicinas
+T0212-01,Le compran las medicinas
+T0212-01,Lo transportan hasta un centro de salud
+T0212-02,Le compran las medicinas
+T0212-02,Lo transportan hasta un centro de salud
+T0212-03,Le compran las medicinas
+T0212-03,Lo transportan hasta un centro de salud
+T0212-04,Le compran las medicinas
+T0212-04,Lo transportan hasta un centro de salud
+T0213-01,Le compran las medicinas
+T0213-01,Lo transportan hasta un centro de salud
+T0213-02,Le compran las medicinas
+T0213-02,Lo transportan hasta un centro de salud
+T0213-03,Le compran las medicinas
+T0213-03,Lo transportan hasta un centro de salud
+T0213-04,Le compran las medicinas
+T0213-04,Lo transportan hasta un centro de salud
+T0214-01,Le compran las medicinas
+T0214-01,Lo transportan hasta un centro de salud
+T0214-02,Le compran las medicinas
+T0214-02,Lo transportan hasta un centro de salud
+T0214-03,Le compran las medicinas
+T0214-03,Lo transportan hasta un centro de salud
+T0214-04,Le compran las medicinas
+T0214-04,Lo transportan hasta un centro de salud
+T0215-01,Lo transportan hasta un centro de salud
+T0215-02,Le compran las medicinas
+T0215-02,Lo transportan hasta un centro de salud
+T0215-03,Le compran las medicinas
+T0215-03,Lo transportan hasta un centro de salud
+T0215-04,Le compran las medicinas
+T0215-04,Lo transportan hasta un centro de salud
+T0216-01,Le compran las medicinas
+T0216-01,Lo transportan hasta un centro de salud
+T0216-02,Le compran las medicinas
+T0216-02,Lo transportan hasta un centro de salud
+T0216-03,Le compran las medicinas
+T0216-03,Lo transportan hasta un centro de salud
+T0216-04,Le compran las medicinas
+T0216-04,Lo transportan hasta un centro de salud
+T0217-01,Le compran las medicinas
+T0217-01,Lo transportan hasta un centro de salud
+T0217-02,Le compran las medicinas
+T0217-02,Lo transportan hasta un centro de salud
+T0217-03,Le compran las medicinas
+T0217-03,Lo transportan hasta un centro de salud
+T0217-04,Le compran las medicinas
+T0217-04,Lo transportan hasta un centro de salud
+T0218-01,Le compran las medicinas
+T0218-01,Lo transportan hasta un centro de salud
+T0218-02,Le pagan la consulta médica
+T0218-02,Lo transportan hasta un centro de salud
+T0218-03,Le compran las medicinas
+T0218-03,Lo transportan hasta un centro de salud
+T0218-04,Le compran las medicinas
+T0218-04,Lo transportan hasta un centro de salud
+T0219-01,Le compran las medicinas
+T0219-01,Lo transportan hasta un centro de salud
+T0219-02,Le compran las medicinas
+T0219-02,Lo transportan hasta un centro de salud
+T0219-03,Le compran las medicinas
+T0219-03,Lo transportan hasta un centro de salud
+T0219-04,Le compran las medicinas
+T0219-04,Lo transportan hasta un centro de salud
+T0220-01,Le compran las medicinas
+T0220-01,Lo transportan hasta un centro de salud
+T0220-02,Le compran las medicinas
+T0220-02,Lo transportan hasta un centro de salud
+T0220-03,Le compran las medicinas
+T0220-03,Lo transportan hasta un centro de salud
+T0220-04,Le compran las medicinas
+T0220-04,Lo transportan hasta un centro de salud
+T0221-01,Le compran las medicinas
+T0221-01,Lo transportan hasta un centro de salud
+T0221-02,Le compran las medicinas
+T0221-02,Lo transportan hasta un centro de salud
+T0221-03,Le compran las medicinas
+T0221-03,Lo transportan hasta un centro de salud
+T0221-04,Le compran las medicinas
+T0221-04,Lo transportan hasta un centro de salud
+T0222-01,Le compran las medicinas
+T0222-01,Lo transportan hasta un centro de salud
+T0222-02,Le compran las medicinas
+T0222-02,Lo transportan hasta un centro de salud
+T0222-03,Le compran las medicinas
+T0222-03,Lo transportan hasta un centro de salud
+T0222-04,Le compran las medicinas
+T0222-04,Lo transportan hasta un centro de salud
+T0223-01,Le compran las medicinas
+T0223-01,Lo transportan hasta un centro de salud
+T0223-02,Le compran las medicinas
+T0223-02,Lo transportan hasta un centro de salud
+T0223-03,Le compran las medicinas
+T0223-03,Lo transportan hasta un centro de salud
+T0223-04,Le compran las medicinas
+T0223-04,Lo transportan hasta un centro de salud
+T0224-01,Le compran las medicinas
+T0224-01,Lo transportan hasta un centro de salud
+T0224-02,Le compran las medicinas
+T0224-02,Lo transportan hasta un centro de salud
+T0224-03,Le compran las medicinas
+T0224-03,Lo transportan hasta un centro de salud
+T0224-04,Le compran las medicinas
+T0224-04,Lo transportan hasta un centro de salud
+T0225-01,Le compran las medicinas
+T0225-01,Lo transportan hasta un centro de salud
+T0225-02,Lo transportan hasta un centro de salud
+T0225-03,Le compran las medicinas
+T0225-03,Lo transportan hasta un centro de salud
+T0225-04,Le compran las medicinas
+T0225-04,Lo transportan hasta un centro de salud
+T0226-01,Le compran las medicinas
+T0226-01,Lo transportan hasta un centro de salud
+T0226-02,Le compran las medicinas
+T0226-02,Lo transportan hasta un centro de salud
+T0226-03,Le compran las medicinas
+T0226-03,Lo transportan hasta un centro de salud
+T0226-04,Le compran las medicinas
+T0226-04,Lo transportan hasta un centro de salud
+T0227-01,Le compran las medicinas
+T0227-01,Lo transportan hasta un centro de salud
+T0227-02,Le compran las medicinas
+T0227-02,Lo transportan hasta un centro de salud
+T0227-03,Le compran las medicinas
+T0227-03,Lo transportan hasta un centro de salud
+T0227-04,Le compran las medicinas
+T0227-04,Lo transportan hasta un centro de salud
+T0228-01,Le compran las medicinas
+T0228-01,Lo transportan hasta un centro de salud
+T0228-02,Le compran las medicinas
+T0228-02,Lo transportan hasta un centro de salud
+T0228-03,Le compran las medicinas
+T0228-03,Lo transportan hasta un centro de salud
+T0228-04,Lo transportan hasta un centro de salud
+T0229-01,Lo transportan hasta un centro de salud
+T0229-02,Ninguno
+T0229-03,El trabajador paga la atención
+T0229-03,Ninguno
+T0229-04,Ninguno
+T0230-01,Le compran las medicinas
+T0230-01,Lo transportan hasta un centro de salud
+T0230-02,Lo transportan hasta un centro de salud
+T0231-01,Ninguno
+T0231-02,Ninguno
+T0232-01,Ninguno
+T0232-02,Ninguno
+T0233-01,Ninguno
+T0233-02,Ninguno
+T0234-01,Lo transportan hasta un centro de salud
+T0234-02,Ninguno
+T0235-01,Ninguno
+T0235-02,Ninguno
+T0236-01,Le compran las medicinas
+T0236-01,Le pagan la consulta médica
+T0236-02,Ninguno
+T0237-01,Lo transportan hasta un centro de salud
+T0237-02,Lo transportan hasta un centro de salud
+T0238-01,Ninguno
+T0238-02,Ninguno
+T0239-01,Lo transportan hasta un centro de salud
+T0239-02,Ninguno
+T0240-01,El trabajador paga la atención
+T0240-02,Le compran las medicinas
+T0240-02,Lo transportan hasta un centro de salud
+T0241-01,Ninguno
+T0241-02,Ninguno
+T0242-01,El trabajador paga la atención
+T0242-01,Lo transportan hasta un centro de salud
+T0242-02,El trabajador paga la atención
+T0242-02,Lo transportan hasta un centro de salud
+T0243-01,Lo transportan hasta un centro de salud
+T0243-02,Lo transportan hasta un centro de salud
+T0244-01,Le compran las medicinas
+T0244-02,El trabajador paga la atención
+T0245-01,Le compran las medicinas
+T0245-01,Le pagan la consulta médica
+T0245-01,Lo transportan hasta un centro de salud
+T0245-02,Le compran las medicinas
+T0245-02,Le pagan la consulta médica
+T0245-02,Lo transportan hasta un centro de salud
+T0246-01,El trabajador paga la atención
+T0246-02,El trabajador paga la atención
+T0247-01,Lo transportan hasta un centro de salud
+T0247-02,Lo transportan hasta un centro de salud
+T0248-01,Ninguno
+T0248-02,Ninguno
+T0249-01,Lo transportan hasta un centro de salud
+T0249-02,Lo transportan hasta un centro de salud
+T0250-01,Lo transportan hasta un centro de salud
+T0250-02,Lo transportan hasta un centro de salud
+T0250-03,Lo transportan hasta un centro de salud
+T0251-01,Lo transportan hasta un centro de salud
+T0251-02,Lo transportan hasta un centro de salud
+T0251-03,Lo transportan hasta un centro de salud
+T0252-01,Ninguno
+T0252-02,Ninguno
+T0252-03,Ninguno
+T0253-01,Lo transportan hasta un centro de salud
+T0253-02,Lo transportan hasta un centro de salud
+T0254-01,Ninguno
+T0254-02,Lo transportan hasta un centro de salud
+T0254-03,Ninguno
+T0255-01,Lo transportan hasta un centro de salud
+T0255-02,Ninguno
+T0255-03,Ninguno
+T0256-01,Lo transportan hasta un centro de salud
+T0256-02,Lo transportan hasta un centro de salud
+T0256-03,Lo transportan hasta un centro de salud
+T0257-01,Lo transportan hasta un centro de salud
+T0257-02,Lo transportan hasta un centro de salud
+T0257-03,Lo transportan hasta un centro de salud
+T0258-01,Lo transportan hasta un centro de salud
+T0258-02,Le compran las medicinas
+T0258-02,Lo transportan hasta un centro de salud
+T0258-03,Lo transportan hasta un centro de salud
+T0259-01,Le compran las medicinas
+T0259-01,Lo transportan hasta un centro de salud
+T0259-02,Le compran las medicinas
+T0259-02,Lo transportan hasta un centro de salud
+T0259-03,Le compran las medicinas
+T0259-03,Lo transportan hasta un centro de salud
+T0260-01,Ninguno
+T0260-02,Lo transportan hasta un centro de salud
+T0260-03,Lo transportan hasta un centro de salud
+T0261-01,Ninguno
+T0261-02,Ninguno
+T0261-03,Lo transportan hasta un centro de salud
+T0262-01,Le compran las medicinas
+T0262-01,Le dan seguro médico
+T0262-01,Le pagan la consulta médica
+T0262-01,Lo transportan hasta un centro de salud
+T0262-02,Le compran las medicinas
+T0262-02,Le dan seguro médico
+T0262-02,Le pagan la consulta médica
+T0262-02,Lo transportan hasta un centro de salud
+T0262-03,Lo transportan hasta un centro de salud
+T0263-01,Lo transportan hasta un centro de salud
+T0263-02,Lo transportan hasta un centro de salud
+T0263-03,Le compran las medicinas
+T0264-01,Lo transportan hasta un centro de salud
+T0264-02,Lo transportan hasta un centro de salud
+T0264-03,Lo transportan hasta un centro de salud
+T0265-01,Le pagan la consulta médica
+T0265-02,Ninguno
+T0265-03,Le compran las medicinas
+T0266-01,Ninguno
+T0266-02,Le compran las medicinas
+T0266-02,Le pagan la consulta médica
+T0266-02,Lo transportan hasta un centro de salud
+T0266-03,Le compran las medicinas
+T0266-03,Le pagan la consulta médica
+T0266-03,Lo transportan hasta un centro de salud
+T0267-01,Lo transportan hasta un centro de salud
+T0267-02,Lo transportan hasta un centro de salud
+T0267-03,Lo transportan hasta un centro de salud
+T0267-04,Lo transportan hasta un centro de salud
+T0268-01,Ninguno
+T0268-02,Ninguno
+T0268-03,Ninguno
+T0268-04,Le compran las medicinas
+T0268-04,Le pagan la consulta médica
+T0268-04,Lo transportan hasta un centro de salud
+T0269-01,Ninguno
+T0269-02,Ninguno
+T0269-03,Ninguno
+T0269-04,Ninguno
+T0270-01,Lo transportan hasta un centro de salud
+T0270-02,Lo transportan hasta un centro de salud
+T0270-03,Lo transportan hasta un centro de salud
+T0270-04,Lo transportan hasta un centro de salud
+T0271-01,Lo transportan hasta un centro de salud
+T0271-02,Lo transportan hasta un centro de salud
+T0271-03,Lo transportan hasta un centro de salud
+T0271-04,Lo transportan hasta un centro de salud
+T0272-01,Le compran las medicinas
+T0272-01,Le dan seguro médico
+T0272-01,Le pagan la consulta médica
+T0272-01,Lo transportan hasta un centro de salud
+T0272-02,El trabajador paga la atención
+T0272-03,El trabajador paga la atención
+T0272-03,Lo transportan hasta un centro de salud
+T0272-04,Lo transportan hasta un centro de salud
+T0273-01,Lo transportan hasta un centro de salud
+T0273-02,Lo transportan hasta un centro de salud
+T0273-03,Lo transportan hasta un centro de salud
+T0273-04,Ninguno
+T0274-01,Ninguno
+T0274-02,Ninguno
+T0274-03,Ninguno
+T0274-04,Ninguno
+T0275-01,Le compran las medicinas
+T0275-01,Le pagan la consulta médica
+T0275-01,Lo transportan hasta un centro de salud
+T0275-02,Le compran las medicinas
+T0275-02,Le pagan la consulta médica
+T0275-03,Le compran las medicinas
+T0275-03,Le pagan la consulta médica
+T0275-03,Lo transportan hasta un centro de salud
+T0275-04,Le compran las medicinas
+T0275-04,Le pagan la consulta médica
+T0275-04,Lo transportan hasta un centro de salud
+T0275-05,Le compran las medicinas
+T0275-05,Le pagan la consulta médica
+T0275-05,Lo transportan hasta un centro de salud
+T0276-01,Ninguno
+T0276-02,Ninguno
+T0276-03,Ninguno
+T0276-04,Ninguno
+T0277-01,Ninguno
+T0277-02,Ninguno
+T0277-03,Ninguno
+T0277-04,Ninguno
+T0278-01,Ninguno
+T0278-02,Ninguno
+T0278-03,Ninguno
+T0278-04,Ninguno
+T0279-01,Ninguno
+T0279-02,Lo transportan hasta un centro de salud
+T0279-03,Lo transportan hasta un centro de salud
+T0279-04,Ninguno
+T0280-01,Ninguno
+T0280-02,Ninguno
+T0280-03,Ninguno
+T0280-04,Le compran las medicinas
+T0280-04,Le pagan la consulta médica
+T0281-01,Ninguno
+T0281-02,Ninguno
+T0281-03,Ninguno
+T0281-04,Ninguno
+T0282-01,Le compran las medicinas
+T0282-01,Le pagan la consulta médica
+T0282-01,Lo transportan hasta un centro de salud
+T0282-02,Ninguno
+T0282-03,Ninguno
+T0282-04,Ninguno
+T0283-01,Ninguno
+T0283-02,Ninguno
+T0283-03,Ninguno
+T0283-04,Ninguno
+T0284-01,Ninguno
+T0284-02,Ninguno
+T0284-03,Ninguno
+T0284-04,Ninguno
+T0285-01,Lo transportan hasta un centro de salud
+T0285-02,Lo transportan hasta un centro de salud
+T0285-03,Ninguno
+T0285-04,Lo transportan hasta un centro de salud
+T0286-01,Lo transportan hasta un centro de salud
+T0286-02,Lo transportan hasta un centro de salud
+T0286-03,Lo transportan hasta un centro de salud
+T0286-04,Lo transportan hasta un centro de salud
+T0287-01,Ninguno
+T0287-02,Ninguno
+T0287-03,Ninguno
+T0287-04,Ninguno
+T0288-01,Le compran las medicinas
+T0288-01,Le pagan la consulta médica
+T0288-02,Ninguno
+T0288-03,Ninguno
+T0288-04,Ninguno
+T0289-01,Le compran las medicinas
+T0289-01,Le pagan la consulta médica
+T0289-01,Lo transportan hasta un centro de salud
+T0289-02,Ninguno
+T0289-03,Ninguno
+T0289-04,Ninguno
+T0290-01,Lo transportan hasta un centro de salud
+T0290-01,Ninguno
+T0290-02,Ninguno
+T0290-03,Lo transportan hasta un centro de salud
+T0290-04,Lo transportan hasta un centro de salud
+T0291-01,Ninguno
+T0291-02,Ninguno
+T0291-03,Ninguno
+T0291-04,Lo transportan hasta un centro de salud
+T0292-01,Lo transportan hasta un centro de salud
+T0292-02,Ninguno
+T0292-03,Ninguno
+T0292-04,Lo transportan hasta un centro de salud
+T0293-01,Ninguno
+T0293-02,Lo transportan hasta un centro de salud
+T0293-03,Ninguno
+T0293-04,Ninguno
+T0294-01,Ninguno
+T0294-02,Ninguno
+T0294-03,Ninguno
+T0294-04,Ninguno
+T0295-01,Lo transportan hasta un centro de salud
+T0295-02,Lo transportan hasta un centro de salud
+T0295-03,Lo transportan hasta un centro de salud
+T0295-04,Le compran las medicinas
+T0296-01,Ninguno
+T0296-02,Ninguno
+T0296-03,Ninguno
+T0296-04,Ninguno
+T0297-01,Ninguno
+T0297-02,Ninguno
+T0297-03,Ninguno
+T0297-04,Ninguno
+T0298-01,Ninguno
+T0298-02,Le dan seguro médico
+T0298-03,Lo transportan hasta un centro de salud
+T0298-04,Ninguno
+T0299-01,El trabajador paga la atención
+T0299-01,Lo transportan hasta un centro de salud
+T0299-02,Le compran las medicinas
+T0299-02,Lo transportan hasta un centro de salud
+T0299-03,Le compran las medicinas
+T0299-03,Lo transportan hasta un centro de salud
+T0299-04,El trabajador paga la atención
+T0299-04,Le compran las medicinas
+T0299-04,Lo transportan hasta un centro de salud
+T0300-01,Le compran las medicinas
+T0300-01,Lo transportan hasta un centro de salud
+T0300-02,El trabajador paga la atención
+T0300-02,Lo transportan hasta un centro de salud
+T0300-03,Le compran las medicinas
+T0300-03,Lo transportan hasta un centro de salud
+T0300-04,Le compran las medicinas
+T0300-04,Le pagan la consulta médica
+T0300-04,Lo transportan hasta un centro de salud
+T0301-01,Lo transportan hasta un centro de salud
+T0301-02,Lo transportan hasta un centro de salud
+T0301-03,Lo transportan hasta un centro de salud
+T0301-04,Lo transportan hasta un centro de salud
+T0302-01,El trabajador paga la atención
+T0302-01,Lo transportan hasta un centro de salud
+T0302-02,Lo transportan hasta un centro de salud
+T0302-03,Lo transportan hasta un centro de salud
+T0302-04,Lo transportan hasta un centro de salud
+T0303-01,Lo transportan hasta un centro de salud
+T0303-02,Lo transportan hasta un centro de salud
+T0303-03,Lo transportan hasta un centro de salud
+T0303-04,Lo transportan hasta un centro de salud
+T0304-01,Lo transportan hasta un centro de salud
+T0304-02,Lo transportan hasta un centro de salud
+T0304-03,Ninguno
+T0304-04,Ninguno
+T0305-01,Lo transportan hasta un centro de salud
+T0305-02,Ninguno
+T0305-03,Ninguno
+T0305-04,Ninguno
+T0306-01,Lo transportan hasta un centro de salud
+T0306-02,Lo transportan hasta un centro de salud
+T0306-03,Ninguno
+T0306-04,Lo transportan hasta un centro de salud
+T0307-01,Ninguno
+T0307-02,Ninguno
+T0307-03,Lo transportan hasta un centro de salud
+T0307-04,Ninguno
+T0308-01,Ninguno
+T0308-02,Ninguno
+T0308-03,Ninguno
+T0308-04,Ninguno
+T0309-01,Ninguno
+T0309-02,Ninguno
+T0309-03,Ninguno
+T0309-04,Ninguno
+T0310-01,El trabajador paga la atención
+T0310-02,Ninguno
+T0310-03,Ninguno
+T0310-04,Lo transportan hasta un centro de salud
+T0311-01,Lo transportan hasta un centro de salud
+T0311-02,Ninguno
+T0311-03,Ninguno
+T0311-04,Lo transportan hasta un centro de salud
+T0312-01,Lo transportan hasta un centro de salud
+T0312-02,Lo transportan hasta un centro de salud
+T0312-03,Lo transportan hasta un centro de salud
+T0312-04,Lo transportan hasta un centro de salud
+T0313-01,Le compran las medicinas
+T0313-02,Le compran las medicinas
+T0313-03,El trabajador paga la atención
+T0313-04,Lo transportan hasta un centro de salud
+T0314-01,Ninguno
+T0314-02,Lo transportan hasta un centro de salud
+T0314-03,Ninguno
+T0315-01,Ninguno
+T0315-02,Ninguno
+T0315-03,Ninguno
+T0315-04,Ninguno
+T0316-01,Lo transportan hasta un centro de salud
+T0316-02,Ninguno
+T0316-03,Ninguno
+T0316-04,Ninguno
+T0317-01,Lo transportan hasta un centro de salud
+T0317-02,Lo transportan hasta un centro de salud
+T0317-03,Lo transportan hasta un centro de salud
+T0317-04,Ninguno
+T0318-01,Lo transportan hasta un centro de salud
+T0318-02,Lo transportan hasta un centro de salud
+T0318-03,Lo transportan hasta un centro de salud
+T0318-04,Lo transportan hasta un centro de salud
+T0319-01,Ninguno
+T0319-02,Ninguno
+T0319-03,Ninguno
+T0319-04,Ninguno
+T0320-01,Lo transportan hasta un centro de salud
+T0320-02,Lo transportan hasta un centro de salud
+T0320-03,Lo transportan hasta un centro de salud
+T0320-04,Lo transportan hasta un centro de salud
+T0321-01,Ninguno
+T0321-02,Ninguno
+T0321-03,Ninguno
+T0321-04,Lo transportan hasta un centro de salud
+T0322-01,Le compran las medicinas
+T0322-02,Le compran las medicinas
+T0322-03,Ninguno
+T0322-04,Lo transportan hasta un centro de salud
+T0323-01,Lo transportan hasta un centro de salud
+T0323-02,Lo transportan hasta un centro de salud
+T0323-03,Lo transportan hasta un centro de salud
+T0323-04,Lo transportan hasta un centro de salud
+T0324-01,Lo transportan hasta un centro de salud
+T0324-02,Lo transportan hasta un centro de salud
+T0324-03,Lo transportan hasta un centro de salud
+T0324-04,Lo transportan hasta un centro de salud
+T0325-01,El trabajador paga la atención
+T0325-01,Lo transportan hasta un centro de salud
+T0325-02,El trabajador paga la atención
+T0325-02,Lo transportan hasta un centro de salud
+T0325-03,El trabajador paga la atención
+T0325-03,Lo transportan hasta un centro de salud
+T0325-04,El trabajador paga la atención
+T0325-04,Lo transportan hasta un centro de salud
+T0326-01,Le compran las medicinas
+T0326-01,Lo transportan hasta un centro de salud
+T0326-02,El trabajador paga la atención
+T0326-02,Lo transportan hasta un centro de salud
+T0326-03,Le compran las medicinas
+T0326-03,Le pagan la consulta médica
+T0326-03,Lo transportan hasta un centro de salud
+T0326-04,Le pagan la consulta médica
+T0326-04,Lo transportan hasta un centro de salud
+T0327-01,Ninguno
+T0327-02,Ninguno
+T0327-03,Ninguno
+T0327-04,Ninguno
+T0328-01,Le dan seguro médico
+T0328-02,Ninguno
+T0328-03,Le dan seguro médico
+T0328-04,Ninguno
+T0328-05,Ninguno
+T0329-01,El trabajador paga la atención
+T0329-01,Lo transportan hasta un centro de salud
+T0329-02,Lo transportan hasta un centro de salud
+T0329-03,Ninguno
+T0329-04,Ninguno
+T0330-01,Le compran las medicinas
+T0330-01,Le pagan la consulta médica
+T0330-01,Lo transportan hasta un centro de salud
+T0330-02,Le compran las medicinas
+T0330-02,Lo transportan hasta un centro de salud
+T0330-03,Lo transportan hasta un centro de salud
+T0330-04,Le compran las medicinas
+T0330-04,Lo transportan hasta un centro de salud
+T0331-01,Ninguno
+T0331-02,Lo transportan hasta un centro de salud
+T0331-03,Ninguno
+T0331-04,Lo transportan hasta un centro de salud
+T0332-01,Lo transportan hasta un centro de salud
+T0332-02,Lo transportan hasta un centro de salud
+T0332-03,Lo transportan hasta un centro de salud
+T0332-04,Lo transportan hasta un centro de salud
+T0333-01,Le compran las medicinas
+T0333-01,Lo transportan hasta un centro de salud
+T0333-02,Lo transportan hasta un centro de salud
+T0333-03,Lo transportan hasta un centro de salud
+T0333-04,Lo transportan hasta un centro de salud
+T0334-01,Ninguno
+T0334-02,Ninguno
+T0334-03,Ninguno
+T0334-04,Ninguno
+T0335-01,Ninguno
+T0335-02,Ninguno
+T0335-03,Ninguno
+T0335-04,Ninguno
+T0336-01,Le compran las medicinas
+T0336-01,Lo transportan hasta un centro de salud
+T0336-02,El trabajador paga la atención
+T0336-02,Le compran las medicinas
+T0336-03,Le compran las medicinas
+T0336-03,Lo transportan hasta un centro de salud
+T0336-03,Ninguno
+T0336-04,Lo transportan hasta un centro de salud
+T0337-01,El trabajador paga la atención
+T0337-01,Lo transportan hasta un centro de salud
+T0337-02,El trabajador paga la atención
+T0337-03,El trabajador paga la atención
+T0337-04,Lo transportan hasta un centro de salud
+T0338-01,Ninguno
+T0338-02,Ninguno
+T0338-03,Le compran las medicinas
+T0338-03,Lo transportan hasta un centro de salud
+T0338-04,Ninguno
+T0339-01,Ninguno
+T0339-02,Ninguno
+T0339-03,El trabajador paga la atención
+T0339-03,Lo transportan hasta un centro de salud
+T0339-04,El trabajador paga la atención
+T0339-04,Lo transportan hasta un centro de salud
+T0340-01,Le compran las medicinas
+T0340-01,Le dan seguro médico
+T0340-01,Le pagan la consulta médica
+T0340-01,Lo transportan hasta un centro de salud
+T0340-02,Le compran las medicinas
+T0340-02,Le pagan la consulta médica
+T0340-02,Lo transportan hasta un centro de salud
+T0340-03,Le compran las medicinas
+T0340-03,Le dan seguro médico
+T0340-03,Le pagan la consulta médica
+T0340-03,Lo transportan hasta un centro de salud
+T0340-04,El trabajador paga la atención
+T0341-01,Le dan seguro médico
+T0341-02,El trabajador paga la atención
+T0341-03,Lo transportan hasta un centro de salud
+T0341-04,Ninguno
+T0342-01,Le compran las medicinas
+T0342-01,Lo transportan hasta un centro de salud
+T0342-02,Ninguno
+T0342-03,Ninguno
+T0342-04,Le compran las medicinas
+T0343-01,Lo transportan hasta un centro de salud
+T0343-02,Ninguno
+T0343-03,Ninguno
+T0343-04,Ninguno
+T0343-05,Le compran las medicinas
+T0343-06,Le compran las medicinas
+T0343-07,Ninguno
+T0343-08,Ninguno
+T0344-01,Lo transportan hasta un centro de salud
+T0344-02,Le compran las medicinas
+T0344-02,Lo transportan hasta un centro de salud
+T0344-03,Lo transportan hasta un centro de salud
+T0345-01,Lo transportan hasta un centro de salud
+T0345-02,Lo transportan hasta un centro de salud
+T0345-03,Lo transportan hasta un centro de salud
+T0345-04,Lo transportan hasta un centro de salud
+T0346-01,Lo transportan hasta un centro de salud
+T0346-02,Lo transportan hasta un centro de salud
+T0346-03,Lo transportan hasta un centro de salud
+T0346-04,Lo transportan hasta un centro de salud
+T0347-01,Lo transportan hasta un centro de salud
+T0347-02,Ninguno
+T0347-03,Ninguno
+T0347-04,Ninguno
+T0348-01,Le compran las medicinas
+T0348-01,Lo transportan hasta un centro de salud
+T0348-02,Lo transportan hasta un centro de salud
+T0349-01,Lo transportan hasta un centro de salud
+T0349-02,Lo transportan hasta un centro de salud
+T0349-03,Le compran las medicinas
+T0349-03,Lo transportan hasta un centro de salud
+T0349-04,Lo transportan hasta un centro de salud
+T0350-01,Lo transportan hasta un centro de salud
+T0350-02,Lo transportan hasta un centro de salud
+T0350-03,Ninguno
+T0350-04,Ninguno
+T0351-01,Ninguno
+T0351-02,Ninguno
+T0351-03,Ninguno
+T0351-04,Ninguno
+T0352-01,Ninguno
+T0352-02,Ninguno
+T0352-03,Ninguno
+T0352-04,Ninguno
+T0353-01,Le compran las medicinas
+T0353-01,Le pagan la consulta médica
+T0353-01,Lo transportan hasta un centro de salud
+T0353-02,Lo transportan hasta un centro de salud
+T0353-03,Lo transportan hasta un centro de salud
+T0353-04,Le compran las medicinas
+T0353-04,Le pagan la consulta médica
+T0353-04,Lo transportan hasta un centro de salud
+T0354-01,Ninguno
+T0354-02,El trabajador paga la atención
+T0354-03,Ninguno
+T0354-04,Ninguno
+T0355-01,Ninguno
+T0355-02,Ninguno
+T0355-03,Ninguno
+T0355-04,Ninguno
+T0356-01,Ninguno
+T0356-02,Ninguno
+T0356-03,Ninguno
+T0356-04,Ninguno
+T0357-01,Ninguno
+T0357-02,Ninguno
+T0357-03,Ninguno
+T0357-04,Ninguno
+T0358-01,Ninguno
+T0358-02,Ninguno
+T0358-03,Ninguno
+T0358-04,Ninguno
+T0359-01,Ninguno
+T0359-02,Ninguno
+T0359-03,Ninguno
+T0359-04,Ninguno
+T0360-04,Ninguno
+T0360-05,Ninguno
+T0360-06,Ninguno
+T0360-07,Ninguno
+T0361-01,Ninguno
+T0361-02,Ninguno
+T0361-03,Ninguno
+T0361-04,Ninguno
+T0362-01,Lo transportan hasta un centro de salud
+T0362-02,Lo transportan hasta un centro de salud
+T0362-03,Lo transportan hasta un centro de salud
+T0362-04,Lo transportan hasta un centro de salud
+T0363-01,Lo transportan hasta un centro de salud
+T0363-02,Lo transportan hasta un centro de salud
+T0363-03,Lo transportan hasta un centro de salud
+T0363-04,Lo transportan hasta un centro de salud
+T0364-01,Le compran las medicinas
+T0364-01,Le pagan la consulta médica
+T0364-01,Lo transportan hasta un centro de salud
+T0364-02,Ninguno
+T0364-03,Ninguno
+T0364-04,Ninguno
+T0365-01,Lo transportan hasta un centro de salud
+T0365-02,Lo transportan hasta un centro de salud
+T0365-03,Lo transportan hasta un centro de salud
+T0365-04,Lo transportan hasta un centro de salud
+T0366-01,Ninguno
+T0366-02,Ninguno
+T0366-03,Ninguno
+T0366-04,Le compran las medicinas
+T0366-04,Le pagan la consulta médica
+T0366-04,Lo transportan hasta un centro de salud
+T0367-01,El trabajador paga la atención
+T0367-02,Le compran las medicinas
+T0367-02,Lo transportan hasta un centro de salud
+T0367-03,El trabajador paga la atención
+T0367-04,El trabajador paga la atención
+T0367-04,Lo transportan hasta un centro de salud
+T0368-01,Le compran las medicinas
+T0368-01,Lo transportan hasta un centro de salud
+T0368-02,Le compran las medicinas
+T0368-02,Lo transportan hasta un centro de salud
+T0368-03,Le compran las medicinas
+T0368-03,Lo transportan hasta un centro de salud
+T0368-04,Le compran las medicinas
+T0368-04,Lo transportan hasta un centro de salud
+T0369-01,Le compran las medicinas
+T0369-01,Le dan seguro médico
+T0369-01,Le pagan la consulta médica
+T0369-01,Lo transportan hasta un centro de salud
+T0369-02,El trabajador paga la atención
+T0369-02,Lo transportan hasta un centro de salud
+T0369-03,El trabajador paga la atención
+T0369-03,Le compran las medicinas
+T0369-03,Lo transportan hasta un centro de salud
+T0369-04,El trabajador paga la atención
+T0369-04,Le compran las medicinas
+T0369-04,Lo transportan hasta un centro de salud
+T0370-01,Le pagan la consulta médica
+T0370-02,El trabajador paga la atención
+T0370-03,Lo transportan hasta un centro de salud
+T0370-04,Lo transportan hasta un centro de salud
+T0371-01,Ninguno
+T0371-02,Ninguno
+T0371-03,Ninguno
+T0371-04,Ninguno
+T0372-01,El trabajador paga la atención
+T0372-02,Lo transportan hasta un centro de salud
+T0372-03,Le compran las medicinas
+T0372-03,Le pagan la consulta médica
+T0372-03,Lo transportan hasta un centro de salud
+T0372-04,Le compran las medicinas
+T0372-04,Le pagan la consulta médica
+T0372-04,Lo transportan hasta un centro de salud
+T0373-01,Le compran las medicinas
+T0373-01,Lo transportan hasta un centro de salud
+T0373-02,El trabajador paga la atención
+T0373-02,Lo transportan hasta un centro de salud
+T0373-03,El trabajador paga la atención
+T0373-03,Lo transportan hasta un centro de salud
+T0373-04,Lo transportan hasta un centro de salud
+T0374-01,Le compran las medicinas
+T0374-01,Lo transportan hasta un centro de salud
+T0374-02,Ninguno
+T0374-03,Ninguno
+T0374-04,Ninguno
+T0375-01,Le compran las medicinas
+T0375-01,Le pagan la consulta médica
+T0375-01,Lo transportan hasta un centro de salud
+T0375-02,Le compran las medicinas
+T0375-02,Le pagan la consulta médica
+T0375-02,Lo transportan hasta un centro de salud
+T0375-03,Le compran las medicinas
+T0375-03,Le pagan la consulta médica
+T0375-03,Lo transportan hasta un centro de salud
+T0375-04,Le compran las medicinas
+T0375-04,Le pagan la consulta médica
+T0375-04,Lo transportan hasta un centro de salud
+T0376-01,Ninguno
+T0376-02,Ninguno
+T0376-03,Ninguno
+T0376-04,Le compran las medicinas
+T0376-04,Le pagan la consulta médica
+T0376-04,Lo transportan hasta un centro de salud
+T0377-01,Le dan seguro médico
+T0377-02,Le compran las medicinas
+T0377-02,Le pagan la consulta médica
+T0377-02,Lo transportan hasta un centro de salud
+T0377-03,Le compran las medicinas
+T0377-03,Le pagan la consulta médica
+T0377-03,Lo transportan hasta un centro de salud
+T0377-04,Le compran las medicinas
+T0377-04,Le pagan la consulta médica
+T0377-04,Lo transportan hasta un centro de salud
+T0378-01,Le compran las medicinas
+T0378-01,Le pagan la consulta médica
+T0378-01,Lo transportan hasta un centro de salud
+T0378-02,Le compran las medicinas
+T0378-02,Le pagan la consulta médica
+T0378-02,Lo transportan hasta un centro de salud
+T0378-03,Ninguno
+T0378-04,Ninguno
+T0379-01,Le pagan la consulta médica
+T0379-02,Le pagan la consulta médica
+T0379-03,Le compran las medicinas
+T0379-03,Le dan seguro médico
+T0379-03,Le pagan la consulta médica
+T0379-03,Lo transportan hasta un centro de salud
+T0379-04,Ninguno
+T0380-01,Le compran las medicinas
+T0380-01,Le pagan la consulta médica
+T0380-02,Le compran las medicinas
+T0380-02,Le pagan la consulta médica
+T0380-02,Lo transportan hasta un centro de salud
+T0380-03,Le compran las medicinas
+T0380-03,Le pagan la consulta médica
+T0380-04,Le compran las medicinas
+T0380-04,Le pagan la consulta médica
+T0381-01,Ninguno
+T0381-02,Ninguno
+T0381-03,Ninguno
+T0381-04,Ninguno
+T0382-01,Le compran las medicinas
+T0382-02,Ninguno
+T0382-03,Ninguno
+T0382-04,Ninguno
+T0383-01,Ninguno
+T0383-02,Ninguno
+T0383-03,Le compran las medicinas
+T0383-04,Lo transportan hasta un centro de salud
+T0384-01,Le compran las medicinas
+T0384-01,Le pagan la consulta médica
+T0384-01,Lo transportan hasta un centro de salud
+T0384-02,Le compran las medicinas
+T0384-02,Le pagan la consulta médica
+T0384-02,Lo transportan hasta un centro de salud
+T0384-03,Ninguno
+T0384-04,Ninguno
+T0385-01,Ninguno
+T0385-02,Le compran las medicinas
+T0385-03,Le compran las medicinas
+T0385-03,Lo transportan hasta un centro de salud
+T0385-04,Ninguno
+T0386-01,Lo transportan hasta un centro de salud
+T0386-02,Le compran las medicinas
+T0386-02,Le pagan la consulta médica
+T0386-02,Lo transportan hasta un centro de salud
+T0387-01,Lo transportan hasta un centro de salud
+T0387-02,Le compran las medicinas
+T0387-02,Le pagan la consulta médica
+T0387-02,Lo transportan hasta un centro de salud
+T0387-03,Le compran las medicinas
+T0387-03,Le dan seguro médico
+T0387-03,Le pagan la consulta médica
+T0387-03,Lo transportan hasta un centro de salud
+T0387-04,Le compran las medicinas
+T0387-04,Le pagan la consulta médica
+T0387-04,Lo transportan hasta un centro de salud
+T0388-01,Ninguno
+T0388-02,Ninguno
+T0388-03,Le compran las medicinas
+T0388-03,Le pagan la consulta médica
+T0388-03,Lo transportan hasta un centro de salud
+T0388-04,Le compran las medicinas
+T0388-04,Le pagan la consulta médica
+T0388-04,Lo transportan hasta un centro de salud
+T0389-01,Le compran las medicinas
+T0389-01,Le pagan la consulta médica
+T0389-01,Lo transportan hasta un centro de salud
+T0389-02,Le compran las medicinas
+T0389-02,Le pagan la consulta médica
+T0389-02,Lo transportan hasta un centro de salud
+T0389-03,Lo transportan hasta un centro de salud
+T0389-04,Le compran las medicinas
+T0389-04,Le pagan la consulta médica
+T0389-04,Lo transportan hasta un centro de salud
+T0390-01,Ninguno
+T0390-02,Ninguno
+T0390-03,Ninguno
+T0390-04,Ninguno
+T0391-01,Le compran las medicinas
+T0391-01,Le pagan la consulta médica
+T0391-01,Lo transportan hasta un centro de salud
+T0391-02,Le compran las medicinas
+T0391-02,Le pagan la consulta médica
+T0391-02,Lo transportan hasta un centro de salud
+T0391-03,Le compran las medicinas
+T0391-03,Le pagan la consulta médica
+T0391-03,Lo transportan hasta un centro de salud
+T0391-04,Le compran las medicinas
+T0391-04,Le pagan la consulta médica
+T0391-04,Lo transportan hasta un centro de salud
+T0392-01,Ninguno
+T0392-02,Ninguno
+T0392-03,Ninguno
+T0392-04,Ninguno
+T0393-01,Ninguno
+T0393-02,Ninguno
+T0393-03,Le compran las medicinas
+T0393-03,Lo transportan hasta un centro de salud
+T0393-04,Le compran las medicinas
+T0394-01,Le compran las medicinas
+T0394-01,Le pagan la consulta médica
+T0394-01,Lo transportan hasta un centro de salud
+T0394-02,Le compran las medicinas
+T0394-02,Lo transportan hasta un centro de salud
+T0394-03,Le compran las medicinas
+T0394-03,Lo transportan hasta un centro de salud
+T0394-04,Le compran las medicinas
+T0394-04,Le pagan la consulta médica
+T0394-04,Lo transportan hasta un centro de salud
+T0395-01,Lo transportan hasta un centro de salud
+T0395-02,Lo transportan hasta un centro de salud
+T0395-03,Le compran las medicinas
+T0395-03,Lo transportan hasta un centro de salud
+T0395-04,Le compran las medicinas
+T0395-04,Lo transportan hasta un centro de salud
+T0396-01,Le compran las medicinas
+T0396-01,Le pagan la consulta médica
+T0396-02,Le compran las medicinas
+T0396-02,Le pagan la consulta médica
+T0396-02,Lo transportan hasta un centro de salud
+T0396-03,Lo transportan hasta un centro de salud
+T0396-04,Lo transportan hasta un centro de salud
+T0397-01,Le compran las medicinas
+T0397-01,Le pagan la consulta médica
+T0397-01,Lo transportan hasta un centro de salud
+T0397-02,Ninguno
+T0397-03,Le compran las medicinas
+T0397-03,Le pagan la consulta médica
+T0397-03,Lo transportan hasta un centro de salud
+T0397-04,Le compran las medicinas
+T0397-04,Le pagan la consulta médica
+T0397-04,Lo transportan hasta un centro de salud
+T0398-01,Ninguno
+T0398-02,Ninguno
+T0398-03,El trabajador paga la atención
+T0398-03,Le compran las medicinas
+T0398-03,Lo transportan hasta un centro de salud
+T0398-04,Le compran las medicinas
+T0399-01,Ninguno
+T0399-02,Lo transportan hasta un centro de salud
+T0399-03,Lo transportan hasta un centro de salud
+T0399-04,El trabajador paga la atención
+T0400-01,Le compran las medicinas
+T0400-01,Le pagan la consulta médica
+T0400-01,Lo transportan hasta un centro de salud
+T0400-02,Le compran las medicinas
+T0400-02,Le pagan la consulta médica
+T0400-02,Lo transportan hasta un centro de salud
+T0400-03,Le compran las medicinas
+T0400-03,Le pagan la consulta médica
+T0400-03,Lo transportan hasta un centro de salud
+T0400-04,Le compran las medicinas
+T0400-04,Le pagan la consulta médica
+T0400-04,Lo transportan hasta un centro de salud
+T0401-01,Lo transportan hasta un centro de salud
+T0401-02,Lo transportan hasta un centro de salud
+T0401-03,Lo transportan hasta un centro de salud
+T0401-04,Lo transportan hasta un centro de salud
+T0402-01,Lo transportan hasta un centro de salud
+T0402-02,Lo transportan hasta un centro de salud
+T0402-03,Lo transportan hasta un centro de salud
+T0402-04,Lo transportan hasta un centro de salud
+T0403-01,Le compran las medicinas
+T0403-01,Le dan seguro médico
+T0403-01,Le pagan la consulta médica
+T0403-02,Le pagan la consulta médica
+T0403-03,Le pagan la consulta médica
+T0403-04,Le pagan la consulta médica
+T0404-01,Lo transportan hasta un centro de salud
+T0404-02,Lo transportan hasta un centro de salud
+T0405-01,Le pagan la consulta médica
+T0405-01,Lo transportan hasta un centro de salud
+T0405-02,Le pagan la consulta médica
+T0405-02,Lo transportan hasta un centro de salud
+T0406-01,Lo transportan hasta un centro de salud
+T0406-02,Ninguno
+T0406-03,Ninguno
+T0407-01,Le compran las medicinas
+T0407-02,Ninguno
+T0408-01,Le compran las medicinas
+T0408-02,Lo transportan hasta un centro de salud
+T0409-01,Ninguno
+T0409-02,El trabajador paga la atención
+T0410-01,Lo transportan hasta un centro de salud
+T0410-02,Lo transportan hasta un centro de salud
+T0411-01,Le compran las medicinas
+T0411-01,Le pagan la consulta médica
+T0411-01,Lo transportan hasta un centro de salud
+T0411-02,Le compran las medicinas
+T0411-02,Lo transportan hasta un centro de salud
+T0412-01,Lo transportan hasta un centro de salud
+T0412-02,Lo transportan hasta un centro de salud
+T0413-01,El trabajador paga la atención
+T0413-02,El trabajador paga la atención
+T0414-01,Lo transportan hasta un centro de salud
+T0414-02,Lo transportan hasta un centro de salud
+T0415-01,Le compran las medicinas
+T0415-01,Lo transportan hasta un centro de salud
+T0415-02,Le compran las medicinas
+T0415-02,Lo transportan hasta un centro de salud
+T0416-01,Le compran las medicinas
+T0416-01,Le pagan la consulta médica
+T0416-01,Lo transportan hasta un centro de salud
+T0416-02,Le compran las medicinas
+T0416-02,Le pagan la consulta médica
+T0416-02,Lo transportan hasta un centro de salud
+T0417-01,Ninguno
+T0417-02,Ninguno
+T0418-01,Le compran las medicinas
+T0418-01,Le pagan la consulta médica
+T0418-01,Lo transportan hasta un centro de salud
+T0418-02,Le compran las medicinas
+T0418-02,Le pagan la consulta médica
+T0418-02,Lo transportan hasta un centro de salud
+T0419-01,Le dan seguro médico
+T0419-02,Ninguno
+T0420-01,Ninguno
+T0420-02,Ninguno
+T0421-01,Ninguno
+T0421-02,Le compran las medicinas
+T0421-02,Lo transportan hasta un centro de salud
+T0421-03,Lo transportan hasta un centro de salud
+T0422-01,Le compran las medicinas
+T0422-01,Lo transportan hasta un centro de salud
+T0422-02,Le compran las medicinas
+T0422-02,Lo transportan hasta un centro de salud
+T0422-03,Ninguno
+T0423-01,Ninguno
+T0423-02,Ninguno
+T0423-03,Ninguno
+T0424-01,Le compran las medicinas
+T0424-01,Le dan seguro médico
+T0424-01,Le pagan la consulta médica
+T0424-01,Lo transportan hasta un centro de salud
+T0424-02,Le compran las medicinas
+T0424-02,Le pagan la consulta médica
+T0424-02,Lo transportan hasta un centro de salud
+T0424-03,Lo transportan hasta un centro de salud
+T0425-01,Lo transportan hasta un centro de salud
+T0425-02,Lo transportan hasta un centro de salud
+T0425-03,Lo transportan hasta un centro de salud
+T0425-04,Ninguno
+T0426-01,Ninguno
+T0426-02,Ninguno
+T0426-03,Ninguno
+T0427-01,Le compran las medicinas
+T0427-01,Lo transportan hasta un centro de salud
+T0427-02,Lo transportan hasta un centro de salud
+T0427-03,Lo transportan hasta un centro de salud
+T0428-01,Le compran las medicinas
+T0428-01,Lo transportan hasta un centro de salud
+T0428-02,Le compran las medicinas
+T0428-02,Lo transportan hasta un centro de salud
+T0428-03,Le compran las medicinas
+T0428-03,Lo transportan hasta un centro de salud
+T0429-01,El trabajador paga la atención
+T0429-02,El trabajador paga la atención
+T0429-02,Lo transportan hasta un centro de salud
+T0429-03,Le compran las medicinas
+T0429-03,Lo transportan hasta un centro de salud
+T0430-01,Lo transportan hasta un centro de salud
+T0430-02,Lo transportan hasta un centro de salud
+T0430-03,Lo transportan hasta un centro de salud
+T0431-01,Lo transportan hasta un centro de salud
+T0431-02,Lo transportan hasta un centro de salud
+T0431-03,Lo transportan hasta un centro de salud
+T0432-01,Ninguno
+T0432-02,Lo transportan hasta un centro de salud
+T0432-03,Lo transportan hasta un centro de salud
+T0433-01,Lo transportan hasta un centro de salud
+T0433-02,Lo transportan hasta un centro de salud
+T0433-03,El trabajador paga la atención
+T0434-01,Ninguno
+T0435-01,Le dan seguro médico
+T0435-02,Ninguno
+T0435-03,Ninguno
+T0436-01,Le compran las medicinas
+T0436-01,Le dan seguro médico
+T0436-01,Le pagan la consulta médica
+T0436-02,Le compran las medicinas
+T0436-02,Le pagan la consulta médica
+T0436-03,Le compran las medicinas
+T0436-03,Le pagan la consulta médica
+T0437-01,Le compran las medicinas
+T0437-01,Lo transportan hasta un centro de salud
+T0437-02,Lo transportan hasta un centro de salud
+T0437-03,Lo transportan hasta un centro de salud
+T0437-04,Ninguno
+T0438-01,Le compran las medicinas
+T0438-01,Lo transportan hasta un centro de salud
+T0438-02,Le compran las medicinas
+T0438-02,Lo transportan hasta un centro de salud
+T0438-03,Le compran las medicinas
+T0438-03,Lo transportan hasta un centro de salud
+T0438-04,Le compran las medicinas
+T0438-04,Lo transportan hasta un centro de salud
+T0439-01,Lo transportan hasta un centro de salud
+T0439-02,Le compran las medicinas
+T0439-02,Le pagan la consulta médica
+T0439-02,Lo transportan hasta un centro de salud
+T0439-03,Lo transportan hasta un centro de salud
+T0439-04,Lo transportan hasta un centro de salud
+T0440-01,Ninguno
+T0440-02,Ninguno
+T0440-03,Ninguno
+T0440-04,Ninguno
+T0441-01,Le compran las medicinas
+T0441-01,Le pagan la consulta médica
+T0441-01,Lo transportan hasta un centro de salud
+T0441-02,Lo transportan hasta un centro de salud
+T0441-03,Le pagan la consulta médica
+T0441-03,Lo transportan hasta un centro de salud
+T0441-04,Le compran las medicinas
+T0441-04,Le pagan la consulta médica
+T0441-04,Lo transportan hasta un centro de salud
+T0442-01,Le dan seguro médico
+T0442-01,Le pagan la consulta médica
+T0442-02,Le compran las medicinas
+T0442-02,Lo transportan hasta un centro de salud
+T0442-03,Le compran las medicinas
+T0442-04,Le compran las medicinas
+T0443-01,Lo transportan hasta un centro de salud
+T0443-02,Ninguno
+T0443-03,Ninguno
+T0443-04,Ninguno
+T0444-01,Lo transportan hasta un centro de salud
+T0444-02,Lo transportan hasta un centro de salud
+T0444-03,Lo transportan hasta un centro de salud
+T0444-04,Lo transportan hasta un centro de salud
+T0445-01,Lo transportan hasta un centro de salud
+T0445-02,Lo transportan hasta un centro de salud
+T0445-03,Lo transportan hasta un centro de salud
+T0445-04,Lo transportan hasta un centro de salud
+T0445-05,Lo transportan hasta un centro de salud
+T0446-01,Le pagan la consulta médica
+T0446-01,Lo transportan hasta un centro de salud
+T0446-02,Le pagan la consulta médica
+T0446-02,Lo transportan hasta un centro de salud
+T0446-03,Lo transportan hasta un centro de salud
+T0446-04,Le pagan la consulta médica
+T0446-04,Lo transportan hasta un centro de salud
+T0447-01,Le compran las medicinas
+T0447-01,Lo transportan hasta un centro de salud
+T0447-02,Le compran las medicinas
+T0447-02,Lo transportan hasta un centro de salud
+T0447-03,Le compran las medicinas
+T0447-03,Lo transportan hasta un centro de salud
+T0447-04,Ninguno
+T0447-05,Lo transportan hasta un centro de salud
+T0448-02,Ninguno
+T0448-03,Ninguno
+T0448-04,Ninguno
+T0449-01,Ninguno
+T0449-02,Ninguno
+T0449-03,Ninguno
+T0449-04,Ninguno
+T0450-01,Ninguno
+T0450-02,Ninguno
+T0450-03,Ninguno
+T0450-04,Ninguno
+T0451-01,Ninguno
+T0451-02,Ninguno
+T0451-03,Ninguno
+T0451-04,Ninguno
+T0452-01,Le compran las medicinas
+T0452-01,Lo transportan hasta un centro de salud
+T0452-02,Ninguno
+T0452-03,Lo transportan hasta un centro de salud
+T0452-04,Lo transportan hasta un centro de salud
+T0452-05,Lo transportan hasta un centro de salud
+T0453-01,Lo transportan hasta un centro de salud
+T0453-02,Lo transportan hasta un centro de salud
+T0453-03,Lo transportan hasta un centro de salud
+T0453-04,Lo transportan hasta un centro de salud
+T0454-01,Lo transportan hasta un centro de salud
+T0454-02,Lo transportan hasta un centro de salud
+T0454-03,Lo transportan hasta un centro de salud
+T0454-04,Lo transportan hasta un centro de salud
+T0455-01,Lo transportan hasta un centro de salud
+T0455-02,Lo transportan hasta un centro de salud
+T0455-03,Lo transportan hasta un centro de salud
+T0455-04,Lo transportan hasta un centro de salud
+T0456-01,Lo transportan hasta un centro de salud
+T0456-02,Le compran las medicinas
+T0456-02,Le dan seguro médico
+T0456-02,Le pagan la consulta médica
+T0456-02,Lo transportan hasta un centro de salud
+T0456-03,Ninguno
+T0456-04,Lo transportan hasta un centro de salud
+T0457-01,Ninguno
+T0457-02,Ninguno
+T0457-03,Ninguno
+T0457-04,Ninguno
+T0458-01,Ninguno
+T0458-02,El trabajador paga la atención
+T0458-03,Ninguno
+T0458-04,Ninguno
+T0459-01,Ninguno
+T0459-02,Ninguno
+T0459-03,El trabajador paga la atención
+T0459-04,El trabajador paga la atención
+T0460-01,Ninguno
+T0460-02,Ninguno
+T0460-03,Ninguno
+T0460-04,Ninguno
+T0461-01,Lo transportan hasta un centro de salud
+T0461-02,Lo transportan hasta un centro de salud
+T0461-03,Lo transportan hasta un centro de salud
+T0461-04,Lo transportan hasta un centro de salud
+T0461-05,Lo transportan hasta un centro de salud
+T0462-01,Lo transportan hasta un centro de salud
+T0462-02,Lo transportan hasta un centro de salud
+T0462-03,Lo transportan hasta un centro de salud
+T0462-04,Lo transportan hasta un centro de salud
+T0462-05,Lo transportan hasta un centro de salud
+T0463-01,Lo transportan hasta un centro de salud
+T0463-02,Lo transportan hasta un centro de salud
+T0463-03,Lo transportan hasta un centro de salud
+T0463-04,Lo transportan hasta un centro de salud
+T0464-01,Ninguno
+T0464-02,Ninguno
+T0464-03,Ninguno
+T0464-04,Ninguno
+T0464-05,Ninguno
+T0465-01,Lo transportan hasta un centro de salud
+T0465-02,Le compran las medicinas
+T0465-02,Lo transportan hasta un centro de salud
+T0465-03,Ninguno
+T0465-04,Ninguno
+T0466-01,Ninguno
+T0466-02,Ninguno
+T0466-03,Ninguno
+T0466-04,Ninguno
+T0466-05,Ninguno
+T0467-01,Ninguno
+T0467-02,El trabajador paga la atención
+T0467-02,Ninguno
+T0467-03,El trabajador paga la atención
+T0467-03,Ninguno
+T0467-04,Ninguno
+T0468-01,El trabajador paga la atención
+T0468-02,El trabajador paga la atención
+T0468-03,El trabajador paga la atención
+T0468-04,El trabajador paga la atención
+T0468-05,El trabajador paga la atención
+T0469-01,Lo transportan hasta un centro de salud
+T0469-02,Lo transportan hasta un centro de salud
+T0469-03,Le compran las medicinas
+T0469-03,Lo transportan hasta un centro de salud
+T0469-04,Lo transportan hasta un centro de salud
+T0469-05,Lo transportan hasta un centro de salud
+T0470-01,Le compran las medicinas
+T0470-02,Le pagan la consulta médica
+T0470-03,Lo transportan hasta un centro de salud
+T0470-04,Lo transportan hasta un centro de salud
+T0470-05,Lo transportan hasta un centro de salud
+T0471-01,El trabajador paga la atención
+T0471-02,El trabajador paga la atención
+T0471-03,El trabajador paga la atención
+T0471-04,El trabajador paga la atención
+T0471-05,El trabajador paga la atención
+T0472-01,Lo transportan hasta un centro de salud
+T0472-02,Lo transportan hasta un centro de salud
+T0472-03,Lo transportan hasta un centro de salud
+T0472-04,Lo transportan hasta un centro de salud
+T0473-01,Le compran las medicinas
+T0473-01,Lo transportan hasta un centro de salud
+T0473-02,Ninguno
+T0473-03,Ninguno
+T0473-04,Le compran las medicinas
+T0473-04,Lo transportan hasta un centro de salud
+T0474-01,Ninguno
+T0474-02,Ninguno
+T0474-03,Ninguno
+T0474-04,Ninguno
+T0475-01,Ninguno
+T0475-02,Ninguno
+T0475-03,Lo transportan hasta un centro de salud
+T0475-04,Lo transportan hasta un centro de salud
+T0476-01,El trabajador paga la atención
+T0476-02,El trabajador paga la atención
+T0476-03,El trabajador paga la atención
+T0476-04,El trabajador paga la atención
+T0476-05,El trabajador paga la atención
+T0477-01,Le compran las medicinas
+T0477-01,Lo transportan hasta un centro de salud
+T0477-02,Le compran las medicinas
+T0477-02,Lo transportan hasta un centro de salud
+T0477-03,Le compran las medicinas
+T0477-03,Lo transportan hasta un centro de salud
+T0477-04,Ninguno
+T0478-01,Lo transportan hasta un centro de salud
+T0478-02,Lo transportan hasta un centro de salud
+T0478-03,Lo transportan hasta un centro de salud
+T0478-04,Lo transportan hasta un centro de salud
+T0478-05,Lo transportan hasta un centro de salud
+T0479-01,Lo transportan hasta un centro de salud
+T0479-02,Lo transportan hasta un centro de salud
+T0479-03,Lo transportan hasta un centro de salud
+T0479-04,Lo transportan hasta un centro de salud
+T0479-05,Lo transportan hasta un centro de salud
+T0480-01,Le compran las medicinas
+T0480-01,Le pagan la consulta médica
+T0480-01,Lo transportan hasta un centro de salud
+T0480-02,Ninguno
+T0480-03,Le compran las medicinas
+T0480-03,Lo transportan hasta un centro de salud
+T0480-04,Ninguno
+T0481-01,El trabajador paga la atención
+T0481-02,El trabajador paga la atención
+T0481-02,Ninguno
+T0481-03,Ninguno
+T0481-04,El trabajador paga la atención
+T0481-05,El trabajador paga la atención
+T0481-06,El trabajador paga la atención
+T0481-07,El trabajador paga la atención
+T0482-01,Lo transportan hasta un centro de salud
+T0482-02,Lo transportan hasta un centro de salud
+T0482-03,Lo transportan hasta un centro de salud
+T0482-04,Lo transportan hasta un centro de salud
+T0482-05,Lo transportan hasta un centro de salud
+T0483-01,Lo transportan hasta un centro de salud
+T0483-02,Lo transportan hasta un centro de salud
+T0483-03,Lo transportan hasta un centro de salud
+T0483-04,Lo transportan hasta un centro de salud
+T0483-05,Lo transportan hasta un centro de salud
+T0484-01,Ninguno
+T0484-02,Lo transportan hasta un centro de salud
+T0484-03,Lo transportan hasta un centro de salud
+T0484-04,Lo transportan hasta un centro de salud
+T0485-01,Lo transportan hasta un centro de salud
+T0485-02,Lo transportan hasta un centro de salud
+T0485-03,Lo transportan hasta un centro de salud
+T0485-04,Lo transportan hasta un centro de salud
+T0485-05,Lo transportan hasta un centro de salud
+T0486-01,Lo transportan hasta un centro de salud
+T0486-02,Lo transportan hasta un centro de salud
+T0486-03,Lo transportan hasta un centro de salud
+T0486-04,Lo transportan hasta un centro de salud
+T0486-05,Lo transportan hasta un centro de salud
+T0487-01,Lo transportan hasta un centro de salud
+T0487-02,Lo transportan hasta un centro de salud
+T0487-03,Lo transportan hasta un centro de salud
+T0487-04,Lo transportan hasta un centro de salud
+T0487-05,Lo transportan hasta un centro de salud
+T0488-01,Ninguno
+T0488-02,Ninguno
+T0488-03,Le compran las medicinas
+T0488-04,Le compran las medicinas
+T0489-01,Le compran las medicinas
+T0489-02,Le compran las medicinas
+T0489-03,Le compran las medicinas
+T0489-04,Le compran las medicinas
+T0490-01,Le compran las medicinas
+T0490-02,Le compran las medicinas
+T0490-03,Le compran las medicinas
+T0490-04,Le compran las medicinas
+T0491-01,Ninguno
+T0491-02,Ninguno
+T0491-03,Le compran las medicinas
+T0491-03,Lo transportan hasta un centro de salud
+T0491-04,Le compran las medicinas
+T0491-04,Lo transportan hasta un centro de salud
+T0492-01,Ninguno
+T0492-02,Ninguno
+T0492-03,Ninguno
+T0492-04,Ninguno
+T0493-01,Le compran las medicinas
+T0493-02,Le compran las medicinas
+T0493-03,Le compran las medicinas
+T0493-04,Le compran las medicinas
+T0494-01,Le compran las medicinas
+T0494-02,Le compran las medicinas
+T0494-03,Le compran las medicinas
+T0494-04,Le compran las medicinas
+T0495-01,Lo transportan hasta un centro de salud
+T0495-02,Le compran las medicinas
+T0495-03,Lo transportan hasta un centro de salud
+T0495-04,Lo transportan hasta un centro de salud
+T0496-01,Le compran las medicinas
+T0496-02,Le compran las medicinas
+T0496-03,Le compran las medicinas
+T0496-04,Le compran las medicinas
+T0497-01,Le compran las medicinas
+T0497-01,Le dan seguro médico
+T0497-01,Le pagan la consulta médica
+T0497-01,Lo transportan hasta un centro de salud
+T0497-02,Le compran las medicinas
+T0497-02,Le pagan la consulta médica
+T0497-02,Lo transportan hasta un centro de salud
+T0497-03,Le compran las medicinas
+T0497-03,Le dan seguro médico
+T0497-03,Le pagan la consulta médica
+T0497-03,Lo transportan hasta un centro de salud
+T0497-04,Le compran las medicinas
+T0497-04,Le pagan la consulta médica
+T0497-04,Lo transportan hasta un centro de salud
+T0497-05,Le compran las medicinas
+T0497-05,Le pagan la consulta médica
+T0497-05,Lo transportan hasta un centro de salud
+T0498-01,Lo transportan hasta un centro de salud
+T0498-02,Le compran las medicinas
+T0498-02,Lo transportan hasta un centro de salud
+T0498-03,Lo transportan hasta un centro de salud
+T0498-04,Lo transportan hasta un centro de salud
+T0499-01,Le compran las medicinas
+T0499-01,Le pagan la consulta médica
+T0499-01,Lo transportan hasta un centro de salud
+T0499-02,Le compran las medicinas
+T0499-02,Le pagan la consulta médica
+T0499-02,Lo transportan hasta un centro de salud
+T0499-03,Le compran las medicinas
+T0499-03,Le pagan la consulta médica
+T0499-03,Lo transportan hasta un centro de salud
+T0499-04,Le compran las medicinas
+T0499-04,Le pagan la consulta médica
+T0499-04,Lo transportan hasta un centro de salud
+T0500-01,Le compran las medicinas
+T0500-01,Le pagan la consulta médica
+T0500-01,Lo transportan hasta un centro de salud
+T0500-02,Le compran las medicinas
+T0500-02,Le pagan la consulta médica
+T0500-02,Lo transportan hasta un centro de salud
+T0500-03,Le compran las medicinas
+T0500-03,Le pagan la consulta médica
+T0500-03,Lo transportan hasta un centro de salud
+T0500-04,Le compran las medicinas
+T0500-04,Le pagan la consulta médica
+T0500-04,Lo transportan hasta un centro de salud
+T0501-01,Le compran las medicinas
+T0501-01,Le pagan la consulta médica
+T0501-01,Lo transportan hasta un centro de salud
+T0501-02,Le compran las medicinas
+T0501-02,Le pagan la consulta médica
+T0501-02,Lo transportan hasta un centro de salud
+T0501-03,Le pagan la consulta médica
+T0501-03,Lo transportan hasta un centro de salud
+T0501-04,Le compran las medicinas
+T0501-04,Le dan seguro médico
+T0501-04,Le pagan la consulta médica
+T0501-04,Lo transportan hasta un centro de salud
+T0502-01,Ninguno
+T0502-02,Le compran las medicinas
+T0502-02,Le pagan la consulta médica
+T0502-02,Lo transportan hasta un centro de salud
+T0502-03,Le compran las medicinas
+T0502-03,Le pagan la consulta médica
+T0502-03,Lo transportan hasta un centro de salud
+T0502-04,Le compran las medicinas
+T0502-04,Le pagan la consulta médica
+T0502-04,Lo transportan hasta un centro de salud
+T0503-01,Ninguno
+T0503-02,Le compran las medicinas
+T0503-02,Le pagan la consulta médica
+T0503-02,Lo transportan hasta un centro de salud
+T0503-03,Le compran las medicinas
+T0503-03,Le pagan la consulta médica
+T0503-03,Lo transportan hasta un centro de salud
+T0503-04,Ninguno
+T0504-01,Le compran las medicinas
+T0504-01,Le dan seguro médico
+T0504-01,Le pagan la consulta médica
+T0504-01,Lo transportan hasta un centro de salud
+T0504-02,Le compran las medicinas
+T0504-02,Le pagan la consulta médica
+T0504-02,Lo transportan hasta un centro de salud
+T0504-03,Le compran las medicinas
+T0504-03,Le pagan la consulta médica
+T0504-03,Lo transportan hasta un centro de salud
+T0504-04,Le compran las medicinas
+T0504-04,Le pagan la consulta médica
+T0504-04,Lo transportan hasta un centro de salud
+T0505-01,Le compran las medicinas
+T0505-01,Le pagan la consulta médica
+T0505-01,Lo transportan hasta un centro de salud
+T0505-02,Le compran las medicinas
+T0505-02,Le pagan la consulta médica
+T0505-02,Lo transportan hasta un centro de salud
+T0505-03,Le compran las medicinas
+T0505-03,Le pagan la consulta médica
+T0505-03,Lo transportan hasta un centro de salud
+T0505-04,Le compran las medicinas
+T0505-04,Le pagan la consulta médica
+T0505-04,Lo transportan hasta un centro de salud
+T0506-01,Le compran las medicinas
+T0506-01,Le pagan la consulta médica
+T0506-01,Lo transportan hasta un centro de salud
+T0506-02,Le compran las medicinas
+T0506-02,Le pagan la consulta médica
+T0506-02,Lo transportan hasta un centro de salud
+T0506-03,Le compran las medicinas
+T0506-03,Le pagan la consulta médica
+T0506-03,Lo transportan hasta un centro de salud
+T0506-04,Le compran las medicinas
+T0506-04,Le pagan la consulta médica
+T0506-04,Lo transportan hasta un centro de salud
+T0507-01,Le compran las medicinas
+T0507-01,Le pagan la consulta médica
+T0507-01,Lo transportan hasta un centro de salud
+T0507-02,Le compran las medicinas
+T0507-02,Le pagan la consulta médica
+T0507-02,Lo transportan hasta un centro de salud
+T0507-03,Le compran las medicinas
+T0507-03,Le pagan la consulta médica
+T0507-03,Lo transportan hasta un centro de salud
+T0507-04,Le compran las medicinas
+T0507-04,Le pagan la consulta médica
+T0507-04,Lo transportan hasta un centro de salud
+T0508-01,Le compran las medicinas
+T0508-01,Le pagan la consulta médica
+T0508-01,Lo transportan hasta un centro de salud
+T0508-02,Le compran las medicinas
+T0508-02,Le pagan la consulta médica
+T0508-02,Lo transportan hasta un centro de salud
+T0508-03,Le compran las medicinas
+T0508-03,Le pagan la consulta médica
+T0508-03,Lo transportan hasta un centro de salud
+T0509-01,Le compran las medicinas
+T0509-02,Ninguno
+T0509-03,Ninguno
+T0509-04,Ninguno
+T0510-01,Ninguno
+T0510-02,Ninguno
+T0510-03,Ninguno
+T0510-04,Ninguno
+T0511-01,Le compran las medicinas
+T0511-02,Ninguno
+T0511-03,El trabajador paga la atención
+T0511-04,Ninguno
+T0512-01,Le compran las medicinas
+T0512-02,Ninguno
+T0512-03,Ninguno
+T0512-04,Ninguno
+T0512-05,Ninguno
+T0513-01,Le compran las medicinas
+T0513-02,Ninguno
+T0513-03,Ninguno
+T0513-04,Ninguno
+T0513-05,Ninguno
+T0514-01,Le compran las medicinas
+T0514-02,Ninguno
+T0514-03,Ninguno
+T0514-04,Ninguno
+T0514-05,Ninguno
+T0515-01,Ninguno
+T0515-02,Ninguno
+T0515-03,Ninguno
+T0515-04,Ninguno
+T0515-05,Ninguno
+T0516-01,Le compran las medicinas
+T0516-02,Le compran las medicinas
+T0516-03,Le compran las medicinas
+T0516-04,Le compran las medicinas
+T0517-01,Le compran las medicinas
+T0517-02,Le compran las medicinas
+T0517-03,Le pagan la consulta médica
+T0517-04,Le compran las medicinas
+T0518-01,Le compran las medicinas
+T0518-02,Le compran las medicinas
+T0518-03,Le compran las medicinas
+T0518-04,Le compran las medicinas
+T0519-01,Le compran las medicinas
+T0519-02,Ninguno
+T0519-03,Ninguno
+T0519-04,Ninguno
+T0520-01,Le compran las medicinas
+T0520-02,Le compran las medicinas
+T0520-03,Le compran las medicinas
+T0520-04,Le compran las medicinas
+T0521-01,Ninguno
+T0521-02,Ninguno
+T0521-03,Ninguno
+T0521-04,Ninguno
+T0522-01,Le compran las medicinas
+T0522-02,Le compran las medicinas
+T0522-03,Le compran las medicinas
+T0522-04,Le compran las medicinas
+T0523-01,Ninguno
+T0523-02,Ninguno
+T0523-03,Ninguno
+T0523-04,Ninguno
+T0524-01,Le compran las medicinas
+T0524-02,Le compran las medicinas
+T0524-03,Le compran las medicinas
+T0524-04,Le compran las medicinas
+T0525-01,Le compran las medicinas
+T0525-01,Lo transportan hasta un centro de salud
+T0525-02,Ninguno
+T0525-03,Ninguno
+T0525-04,Ninguno
+T0526-01,Le pagan la consulta médica
+T0526-01,Lo transportan hasta un centro de salud
+T0526-02,Lo transportan hasta un centro de salud
+T0526-03,Lo transportan hasta un centro de salud
+T0526-04,Le compran las medicinas
+T0526-04,Le dan seguro médico
+T0526-04,Le pagan la consulta médica
+T0526-04,Lo transportan hasta un centro de salud
+T0527-01,Le compran las medicinas
+T0527-01,Le dan seguro médico
+T0527-01,Le pagan la consulta médica
+T0527-01,Lo transportan hasta un centro de salud
+T0527-02,Le compran las medicinas
+T0527-02,Le dan seguro médico
+T0527-02,Le pagan la consulta médica
+T0527-02,Lo transportan hasta un centro de salud
+T0527-03,Le compran las medicinas
+T0527-03,Le dan seguro médico
+T0527-03,Le pagan la consulta médica
+T0527-03,Lo transportan hasta un centro de salud
+T0527-04,Le compran las medicinas
+T0527-04,Le dan seguro médico
+T0527-04,Le pagan la consulta médica
+T0527-04,Lo transportan hasta un centro de salud
+T0528-01,Le compran las medicinas
+T0528-01,Le pagan la consulta médica
+T0528-01,Lo transportan hasta un centro de salud
+T0528-02,Le compran las medicinas
+T0528-02,Le pagan la consulta médica
+T0528-02,Lo transportan hasta un centro de salud
+T0528-03,Le compran las medicinas
+T0528-03,Le pagan la consulta médica
+T0528-03,Lo transportan hasta un centro de salud
+T0528-04,Le compran las medicinas
+T0528-04,Le pagan la consulta médica
+T0528-04,Lo transportan hasta un centro de salud
+T0529-01,Ninguno
+T0529-02,Ninguno
+T0529-03,Ninguno
+T0529-04,Le compran las medicinas
+T0529-05,Ninguno
+T0530-01,Le compran las medicinas
+T0530-02,Le compran las medicinas
+T0530-03,Le compran las medicinas
+T0530-04,Le compran las medicinas
+T0531-01,Ninguno
+T0531-02,Ninguno
+T0531-03,Ninguno
+T0531-04,Ninguno
+T0532-01,Le compran las medicinas
+T0532-01,Le pagan la consulta médica
+T0532-01,Lo transportan hasta un centro de salud
+T0532-02,Ninguno
+T0532-03,Le compran las medicinas
+T0532-03,Le pagan la consulta médica
+T0532-03,Lo transportan hasta un centro de salud
+T0532-04,Le compran las medicinas
+T0532-04,Le pagan la consulta médica
+T0532-04,Lo transportan hasta un centro de salud
+T0533-01,Le compran las medicinas
+T0533-01,Le dan seguro médico
+T0533-01,Le pagan la consulta médica
+T0533-01,Lo transportan hasta un centro de salud
+T0533-02,Le compran las medicinas
+T0533-02,Le dan seguro médico
+T0533-02,Le pagan la consulta médica
+T0533-02,Lo transportan hasta un centro de salud
+T0533-03,Le compran las medicinas
+T0533-03,Le dan seguro médico
+T0533-03,Le pagan la consulta médica
+T0533-03,Lo transportan hasta un centro de salud
+T0533-04,Le compran las medicinas
+T0533-04,Le dan seguro médico
+T0533-04,Le pagan la consulta médica
+T0533-04,Lo transportan hasta un centro de salud
+T0534-01,Le compran las medicinas
+T0534-01,Le pagan la consulta médica
+T0534-01,Lo transportan hasta un centro de salud
+T0534-02,Ninguno
+T0534-03,Ninguno
+T0534-04,Ninguno
+T0535-01,Le compran las medicinas
+T0535-01,Le dan seguro médico
+T0535-01,Le pagan la consulta médica
+T0535-01,Lo transportan hasta un centro de salud
+T0535-02,Le compran las medicinas
+T0535-02,Le pagan la consulta médica
+T0535-02,Lo transportan hasta un centro de salud
+T0535-03,Le compran las medicinas
+T0535-03,Le pagan la consulta médica
+T0535-03,Lo transportan hasta un centro de salud
+T0535-04,Le compran las medicinas
+T0535-04,Le pagan la consulta médica
+T0535-04,Lo transportan hasta un centro de salud
+T0536-01,Ninguno
+T0536-02,Ninguno
+T0536-03,Ninguno
+T0536-04,Ninguno
+T0537-01,Ninguno
+T0537-02,Le compran las medicinas
+T0537-03,Ninguno
+T0537-04,Ninguno
+T0538-01,Le compran las medicinas
+T0538-01,Le dan seguro médico
+T0538-01,Le pagan la consulta médica
+T0538-01,Lo transportan hasta un centro de salud
+T0538-02,El trabajador paga la atención
+T0538-03,Ninguno
+T0539-01,Le compran las medicinas
+T0539-01,Le pagan la consulta médica
+T0539-01,Lo transportan hasta un centro de salud
+T0539-02,Le compran las medicinas
+T0539-02,Le dan seguro médico
+T0539-02,Le pagan la consulta médica
+T0539-02,Lo transportan hasta un centro de salud
+T0539-03,Le compran las medicinas
+T0539-03,Le dan seguro médico
+T0539-03,Le pagan la consulta médica
+T0539-03,Lo transportan hasta un centro de salud
+T0539-04,Le compran las medicinas
+T0539-04,Le dan seguro médico
+T0539-04,Le pagan la consulta médica
+T0539-04,Lo transportan hasta un centro de salud
+T0540-01,Le compran las medicinas
+T0540-01,Le pagan la consulta médica
+T0540-01,Lo transportan hasta un centro de salud
+T0540-02,Le compran las medicinas
+T0540-02,Le dan seguro médico
+T0540-02,Le pagan la consulta médica
+T0540-02,Lo transportan hasta un centro de salud
+T0540-03,Le compran las medicinas
+T0540-03,Le dan seguro médico
+T0540-03,Le pagan la consulta médica
+T0540-03,Lo transportan hasta un centro de salud
+T0540-04,Le compran las medicinas
+T0540-04,Le dan seguro médico
+T0540-04,Le pagan la consulta médica
+T0540-04,Lo transportan hasta un centro de salud
+T0541-01,Le compran las medicinas
+T0541-01,Le pagan la consulta médica
+T0541-01,Lo transportan hasta un centro de salud
+T0541-02,Le compran las medicinas
+T0541-02,Le pagan la consulta médica
+T0541-03,Le compran las medicinas
+T0541-03,Le dan seguro médico
+T0541-03,Le pagan la consulta médica
+T0541-03,Lo transportan hasta un centro de salud
+T0541-04,Le compran las medicinas
+T0541-04,Le pagan la consulta médica
+T0541-04,Lo transportan hasta un centro de salud
+T0542-01,Lo transportan hasta un centro de salud
+T0542-02,El trabajador paga la atención
+T0542-03,Ninguno
+T0542-04,Ninguno
+T0543-01,Le compran las medicinas
+T0543-01,Le pagan la consulta médica
+T0543-01,Lo transportan hasta un centro de salud
+T0543-02,Le compran las medicinas
+T0543-02,Le pagan la consulta médica
+T0543-02,Lo transportan hasta un centro de salud
+T0543-03,Le compran las medicinas
+T0543-03,Le dan seguro médico
+T0543-03,Le pagan la consulta médica
+T0543-03,Lo transportan hasta un centro de salud
+T0543-04,Le compran las medicinas
+T0543-04,Le dan seguro médico
+T0543-04,Le pagan la consulta médica
+T0543-04,Lo transportan hasta un centro de salud
+T0544-01,Le compran las medicinas
+T0544-01,Le pagan la consulta médica
+T0544-02,Ninguno
+T0544-03,Ninguno
+T0544-04,Ninguno
+T0545-01,Ninguno
+T0545-02,Le compran las medicinas
+T0545-02,Le pagan la consulta médica
+T0545-02,Lo transportan hasta un centro de salud
+T0545-03,Le compran las medicinas
+T0545-03,Le pagan la consulta médica
+T0545-03,Lo transportan hasta un centro de salud
+T0545-04,Ninguno
+T0546-01,Ninguno
+T0546-02,Le dan seguro médico
+T0546-03,Ninguno
+T0546-04,Le compran las medicinas
+T0546-04,Le pagan la consulta médica
+T0546-04,Lo transportan hasta un centro de salud
+T0547-01,Ninguno
+T0547-02,Lo transportan hasta un centro de salud
+T0547-03,Lo transportan hasta un centro de salud
+T0547-04,Lo transportan hasta un centro de salud
+T0548-01,Lo transportan hasta un centro de salud
+T0548-02,Lo transportan hasta un centro de salud
+T0548-03,Lo transportan hasta un centro de salud
+T0548-04,Lo transportan hasta un centro de salud
+T0549-01,Lo transportan hasta un centro de salud
+T0549-02,Ninguno
+T0549-03,Ninguno
+T0549-04,Ninguno
+T0550-01,Ninguno
+T0550-02,Ninguno
+T0550-03,Ninguno
+T0550-04,Ninguno
+T0551-01,Le compran las medicinas
+T0551-02,Ninguno
+T0551-03,Ninguno
+T0551-04,Ninguno
+T0552-01,Ninguno
+T0552-02,Ninguno
+T0552-03,Ninguno
+T0552-04,Ninguno
+T0553-01,Lo transportan hasta un centro de salud
+T0553-02,Lo transportan hasta un centro de salud
+T0553-03,Lo transportan hasta un centro de salud
+T0553-04,Lo transportan hasta un centro de salud
+T0554-01,Lo transportan hasta un centro de salud
+T0554-02,Lo transportan hasta un centro de salud
+T0554-03,Lo transportan hasta un centro de salud
+T0554-04,Lo transportan hasta un centro de salud
+T0555-01,Lo transportan hasta un centro de salud
+T0555-02,Lo transportan hasta un centro de salud
+T0555-03,Lo transportan hasta un centro de salud
+T0555-04,Lo transportan hasta un centro de salud
+T0556-01,Lo transportan hasta un centro de salud
+T0556-02,Lo transportan hasta un centro de salud
+T0556-03,Le dan seguro médico
+T0556-04,Lo transportan hasta un centro de salud
+T0557-01,Lo transportan hasta un centro de salud
+T0557-02,Lo transportan hasta un centro de salud
+T0557-03,Lo transportan hasta un centro de salud
+T0557-04,Lo transportan hasta un centro de salud
+T0558-01,Lo transportan hasta un centro de salud
+T0558-02,Lo transportan hasta un centro de salud
+T0558-03,Lo transportan hasta un centro de salud
+T0558-04,Lo transportan hasta un centro de salud
+T0559-01,Lo transportan hasta un centro de salud
+T0559-02,Lo transportan hasta un centro de salud
+T0559-03,Lo transportan hasta un centro de salud
+T0559-04,Lo transportan hasta un centro de salud
+T0560-01,Lo transportan hasta un centro de salud
+T0560-02,Lo transportan hasta un centro de salud
+T0560-03,Lo transportan hasta un centro de salud
+T0560-04,Lo transportan hasta un centro de salud
+T0561-01,Le compran las medicinas
+T0561-01,Le pagan la consulta médica
+T0561-01,Lo transportan hasta un centro de salud
+T0561-02,Le compran las medicinas
+T0561-02,Le pagan la consulta médica
+T0561-02,Lo transportan hasta un centro de salud
+T0561-03,Ninguno
+T0561-04,Ninguno
+T0562-01,Ninguno
+T0562-02,Ninguno
+T0562-03,Le compran las medicinas
+T0562-03,Le dan seguro médico
+T0562-03,Le pagan la consulta médica
+T0562-03,Lo transportan hasta un centro de salud
+T0562-04,Ninguno
+T0563-01,Ninguno
+T0563-02,Le compran las medicinas
+T0563-02,Le pagan la consulta médica
+T0563-02,Lo transportan hasta un centro de salud
+T0563-03,Ninguno
+T0563-04,Ninguno
+T0564-01,Ninguno
+T0564-02,Ninguno
+T0564-03,Ninguno
+T0564-04,Ninguno
+T0565-01,Le compran las medicinas
+T0565-01,Le pagan la consulta médica
+T0565-01,Lo transportan hasta un centro de salud
+T0565-02,Le compran las medicinas
+T0565-02,Le pagan la consulta médica
+T0565-02,Lo transportan hasta un centro de salud
+T0565-03,Le compran las medicinas
+T0565-03,Le pagan la consulta médica
+T0565-03,Lo transportan hasta un centro de salud
+T0565-04,Le compran las medicinas
+T0565-04,Le pagan la consulta médica
+T0565-04,Lo transportan hasta un centro de salud
+T0566-01,Ninguno
+T0566-02,Ninguno
+T0566-03,Ninguno
+T0566-04,Ninguno
+T0567-01,Ninguno
+T0567-02,Ninguno
+T0567-03,Ninguno
+T0567-04,Ninguno
+T0568-01,Ninguno
+T0568-02,Ninguno
+T0568-03,Ninguno
+T0568-04,Ninguno
+T0569-01,Ninguno
+T0569-02,Le compran las medicinas
+T0569-03,El trabajador paga la atención
+T0569-04,Ninguno
+T0570-01,Ninguno
+T0570-02,Le pagan la consulta médica
+T0570-03,Ninguno
+T0570-04,Ninguno
+T0571-01,Le pagan la consulta médica
+T0571-02,Lo transportan hasta un centro de salud
+T0571-03,Lo transportan hasta un centro de salud
+T0571-04,Le pagan la consulta médica
+T0572-01,Ninguno
+T0572-02,Ninguno
+T0572-03,Ninguno
+T0572-04,Ninguno
+T0573-01,Lo transportan hasta un centro de salud
+T0573-02,Lo transportan hasta un centro de salud
+T0573-03,Lo transportan hasta un centro de salud
+T0573-04,Lo transportan hasta un centro de salud
+T0574-01,Lo transportan hasta un centro de salud
+T0574-02,Le pagan la consulta médica
+T0574-03,Lo transportan hasta un centro de salud
+T0574-04,Ninguno
+T0574-05,Lo transportan hasta un centro de salud
+T0575-01,Ninguno
+T0575-02,Ninguno
+T0575-03,Ninguno
+T0575-04,Ninguno
+T0576-01,Le pagan la consulta médica
+T0576-02,El trabajador paga la atención
+T0576-03,Ninguno
+T0576-04,Ninguno
+T0577-01,Ninguno
+T0577-02,Ninguno
+T0577-03,Ninguno
+T0577-04,Ninguno
+T0578-01,Le compran las medicinas
+T0578-02,Lo transportan hasta un centro de salud
+T0578-03,Lo transportan hasta un centro de salud
+T0578-04,Lo transportan hasta un centro de salud
+T0579-01,Ninguno
+T0579-02,Le compran las medicinas
+T0579-03,Ninguno
+T0579-04,Le compran las medicinas
+T0580-01,El trabajador paga la atención
+T0580-01,Le compran las medicinas
+T0580-01,Le dan seguro médico
+T0580-01,Le pagan la consulta médica
+T0580-01,Lo transportan hasta un centro de salud
+T0580-02,El trabajador paga la atención
+T0580-02,Le compran las medicinas
+T0580-02,Le dan seguro médico
+T0580-02,Le pagan la consulta médica
+T0580-02,Lo transportan hasta un centro de salud
+T0580-03,Ninguno
+T0580-04,Le compran las medicinas
+T0580-04,Le pagan la consulta médica
+T0580-04,Lo transportan hasta un centro de salud
+T0581-01,Ninguno
+T0581-02,Ninguno
+T0581-03,Ninguno
+T0581-04,Ninguno
+T0582-01,Le compran las medicinas
+T0582-02,Lo transportan hasta un centro de salud
+T0582-03,Lo transportan hasta un centro de salud
+T0582-04,Lo transportan hasta un centro de salud
+T0583-01,Le compran las medicinas
+T0583-02,Le compran las medicinas
+T0583-02,Lo transportan hasta un centro de salud
+T0583-03,Ninguno
+T0583-04,Le compran las medicinas
+T0583-04,Lo transportan hasta un centro de salud
+T0584-01,Ninguno
+T0584-02,Ninguno
+T0584-03,Le compran las medicinas
+T0584-03,Le pagan la consulta médica
+T0584-03,Lo transportan hasta un centro de salud
+T0584-04,Le compran las medicinas
+T0585-01,Lo transportan hasta un centro de salud
+T0585-02,Lo transportan hasta un centro de salud
+T0585-03,Le compran las medicinas
+T0585-03,Lo transportan hasta un centro de salud
+T0585-04,Lo transportan hasta un centro de salud
+T0586-01,Ninguno
+T0586-02,Lo transportan hasta un centro de salud
+T0586-03,Ninguno
+T0586-04,Le pagan la consulta médica
+T0587-01,Ninguno
+T0587-02,Ninguno
+T0587-03,Ninguno
+T0587-04,Le compran las medicinas
+T0587-04,Lo transportan hasta un centro de salud
+T0588-01,Ninguno
+T0588-02,Ninguno
+T0588-03,Ninguno
+T0588-04,Ninguno
+T0589-01,Ninguno
+T0589-02,Ninguno
+T0589-03,Ninguno
+T0589-04,Ninguno
+T0590-01,Lo transportan hasta un centro de salud
+T0590-02,Ninguno
+T0590-03,Lo transportan hasta un centro de salud
+T0590-04,Lo transportan hasta un centro de salud
+T0591-01,Lo transportan hasta un centro de salud
+T0591-02,Ninguno
+T0591-03,Ninguno
+T0591-04,Ninguno
+T0592-01,El trabajador paga la atención
+T0592-02,Ninguno
+T0592-03,Lo transportan hasta un centro de salud
+T0592-04,Ninguno
+T0593-01,Lo transportan hasta un centro de salud
+T0593-02,Ninguno
+T0593-03,Ninguno
+T0593-04,Ninguno
+T0594-01,Lo transportan hasta un centro de salud
+T0594-02,Lo transportan hasta un centro de salud
+T0594-03,Ninguno
+T0594-04,Ninguno
+T0595-01,Lo transportan hasta un centro de salud
+T0595-02,Le pagan la consulta médica
+T0595-02,Lo transportan hasta un centro de salud
+T0595-03,Le compran las medicinas
+T0595-03,Lo transportan hasta un centro de salud
+T0595-04,Lo transportan hasta un centro de salud
+T0596-01,Ninguno
+T0596-02,Ninguno
+T0596-03,Ninguno
+T0596-04,Ninguno
+T0597-01,Lo transportan hasta un centro de salud
+T0597-02,Lo transportan hasta un centro de salud
+T0597-03,Lo transportan hasta un centro de salud
+T0597-04,Lo transportan hasta un centro de salud
+T0598-01,Le compran las medicinas
+T0598-01,Lo transportan hasta un centro de salud
+T0598-02,Le compran las medicinas
+T0598-02,Lo transportan hasta un centro de salud
+T0598-03,Le compran las medicinas
+T0598-03,Lo transportan hasta un centro de salud
+T0598-04,Le compran las medicinas
+T0598-04,Le pagan la consulta médica
+T0598-04,Lo transportan hasta un centro de salud
+T0599-01,Le compran las medicinas
+T0599-02,Lo transportan hasta un centro de salud
+T0599-03,Ninguno
+T0599-04,Ninguno
+T0599-05,El trabajador paga la atención
+T0600-01,Lo transportan hasta un centro de salud
+T0600-02,Lo transportan hasta un centro de salud
+T0600-03,Lo transportan hasta un centro de salud
+T0600-04,Lo transportan hasta un centro de salud
+T0601-01,El trabajador paga la atención
+T0601-02,Ninguno
+T0601-03,Ninguno
+T0601-04,Ninguno
+T0602-01,Le compran las medicinas
+T0602-02,Ninguno
+T0602-03,Ninguno
+T0602-04,Ninguno
+T0603-01,Ninguno
+T0603-02,Ninguno
+T0603-03,Ninguno
+T0603-04,Ninguno
+T0604-01,Le compran las medicinas
+T0604-02,Ninguno
+T0604-03,Ninguno
+T0604-04,Ninguno
+T0605-01,Le compran las medicinas
+T0605-02,Ninguno
+T0605-03,El trabajador paga la atención
+T0605-04,Ninguno
+T0605-05,Ninguno
+T0606-01,Le compran las medicinas
+T0606-02,Ninguno
+T0606-03,Ninguno
+T0606-04,Ninguno
+T0607-01,Le compran las medicinas
+T0607-02,Ninguno
+T0607-03,Ninguno
+T0607-04,Ninguno
+T0608-01,El trabajador paga la atención
+T0608-01,Le compran las medicinas
+T0608-02,Ninguno
+T0608-03,Ninguno
+T0608-04,Ninguno
+T0609-01,Le compran las medicinas
+T0609-02,Ninguno
+T0609-03,Ninguno
+T0609-04,Ninguno
+T0610-01,Ninguno
+T0610-02,Ninguno
+T0610-03,Ninguno
+T0610-04,Ninguno
+T0611-01,Le compran las medicinas
+T0611-02,Ninguno
+T0611-03,Ninguno
+T0611-04,Ninguno
+T0612-01,Ninguno
+T0612-02,Le compran las medicinas
+T0612-03,Ninguno
+T0612-04,Ninguno
+T0612-05,Le compran las medicinas
+T0612-06,Ninguno
+T0612-07,Ninguno
+T0612-08,Ninguno
+T0613-01,Le pagan la consulta médica
+T0613-01,Lo transportan hasta un centro de salud
+T0613-02,Lo transportan hasta un centro de salud
+T0613-03,Lo transportan hasta un centro de salud
+T0613-04,Lo transportan hasta un centro de salud
+T0614-01,Ninguno
+T0614-02,Ninguno
+T0614-03,Ninguno
+T0614-04,Ninguno
+T0615-01,Ninguno
+T0615-02,Ninguno
+T0615-03,Ninguno
+T0615-04,Ninguno
+T0616-01,Lo transportan hasta un centro de salud
+T0616-02,Lo transportan hasta un centro de salud
+T0616-03,Lo transportan hasta un centro de salud
+T0616-04,Lo transportan hasta un centro de salud
+T0617-01,Le dan seguro médico
+T0617-01,Lo transportan hasta un centro de salud
+T0617-02,Lo transportan hasta un centro de salud
+T0617-03,Lo transportan hasta un centro de salud
+T0617-04,Le dan seguro médico
+T0617-04,Lo transportan hasta un centro de salud
+T0618-01,Le pagan la consulta médica
+T0618-01,Lo transportan hasta un centro de salud
+T0618-02,Lo transportan hasta un centro de salud
+T0618-03,Lo transportan hasta un centro de salud
+T0618-04,Lo transportan hasta un centro de salud
+T0619-01,Lo transportan hasta un centro de salud
+T0619-02,Lo transportan hasta un centro de salud
+T0619-03,Lo transportan hasta un centro de salud
+T0619-04,Lo transportan hasta un centro de salud
+T0620-01,Lo transportan hasta un centro de salud
+T0620-02,Lo transportan hasta un centro de salud
+T0620-03,Lo transportan hasta un centro de salud
+T0620-04,Lo transportan hasta un centro de salud
+T0621-01,Le compran las medicinas
+T0621-01,Lo transportan hasta un centro de salud
+T0621-02,Le compran las medicinas
+T0621-02,Lo transportan hasta un centro de salud
+T0621-03,Le compran las medicinas
+T0621-03,Lo transportan hasta un centro de salud
+T0621-04,Le compran las medicinas
+T0621-04,Le dan seguro médico
+T0622-01,Lo transportan hasta un centro de salud
+T0622-02,Lo transportan hasta un centro de salud
+T0622-03,Le compran las medicinas
+T0622-04,Lo transportan hasta un centro de salud
+T0623-01,Le compran las medicinas
+T0623-01,Lo transportan hasta un centro de salud
+T0623-02,Le compran las medicinas
+T0623-02,Lo transportan hasta un centro de salud
+T0623-03,Le compran las medicinas
+T0623-03,Le pagan la consulta médica
+T0623-03,Lo transportan hasta un centro de salud
+T0623-04,Le compran las medicinas
+T0623-04,Le pagan la consulta médica
+T0623-04,Lo transportan hasta un centro de salud
+T0624-01,Le compran las medicinas
+T0624-01,Lo transportan hasta un centro de salud
+T0624-02,Le compran las medicinas
+T0624-02,Lo transportan hasta un centro de salud
+T0624-03,Le compran las medicinas
+T0624-03,Lo transportan hasta un centro de salud
+T0624-04,Le compran las medicinas
+T0624-04,Lo transportan hasta un centro de salud
+T0625-01,Le pagan la consulta médica
+T0625-01,Lo transportan hasta un centro de salud
+T0625-02,Lo transportan hasta un centro de salud
+T0625-03,Lo transportan hasta un centro de salud
+T0625-04,Lo transportan hasta un centro de salud
+T0626-01,Lo transportan hasta un centro de salud
+T0626-02,Lo transportan hasta un centro de salud
+T0626-03,Lo transportan hasta un centro de salud
+T0626-04,Lo transportan hasta un centro de salud
+T0627-01,Le compran las medicinas
+T0627-01,Le dan seguro médico
+T0627-01,Lo transportan hasta un centro de salud
+T0627-02,Le compran las medicinas
+T0627-02,Le pagan la consulta médica
+T0627-02,Lo transportan hasta un centro de salud
+T0627-03,Le compran las medicinas
+T0627-03,Lo transportan hasta un centro de salud
+T0627-04,Le compran las medicinas
+T0627-04,Lo transportan hasta un centro de salud
+T0628-01,Le pagan la consulta médica
+T0628-01,Lo transportan hasta un centro de salud
+T0628-02,Lo transportan hasta un centro de salud
+T0628-03,Lo transportan hasta un centro de salud
+T0628-04,Lo transportan hasta un centro de salud
+T0629-01,Ninguno
+T0629-02,Ninguno
+T0629-03,Ninguno
+T0629-04,Ninguno
+T0630-01,Lo transportan hasta un centro de salud
+T0630-02,Lo transportan hasta un centro de salud
+T0630-03,Lo transportan hasta un centro de salud
+T0630-04,Lo transportan hasta un centro de salud
+T0631-01,Ninguno
+T0631-02,Ninguno
+T0631-03,Ninguno
+T0631-04,Ninguno
+T0631-05,Ninguno
+T0632-01,Ninguno
+T0632-02,Ninguno
+T0632-03,Ninguno
+T0632-04,Le dan seguro médico
+T0632-05,Ninguno
+T0633-01,Ninguno
+T0633-02,Ninguno
+T0633-03,Ninguno
+T0633-04,Ninguno
+T0633-05,Ninguno
+T0634-01,Ninguno
+T0634-02,Ninguno
+T0634-03,Ninguno
+T0634-04,Ninguno
+T0635-01,Ninguno
+T0635-02,Le compran las medicinas
+T0635-02,Lo transportan hasta un centro de salud
+T0635-03,Ninguno
+T0635-04,Ninguno
+T0635-05,Ninguno
+T0636-01,Le compran las medicinas
+T0636-01,Le pagan la consulta médica
+T0636-02,Lo transportan hasta un centro de salud
+T0636-03,Lo transportan hasta un centro de salud
+T0636-04,Ninguno
+T0637-01,Le compran las medicinas
+T0637-02,Ninguno
+T0637-03,Ninguno
+T0637-04,Ninguno
+T0638-01,Ninguno
+T0638-02,Ninguno
+T0638-03,Ninguno
+T0638-04,Ninguno
+T0639-01,Lo transportan hasta un centro de salud
+T0639-02,Le pagan la consulta médica
+T0639-03,Le pagan la consulta médica
+T0639-04,Le pagan la consulta médica
+T0640-01,Le compran las medicinas
+T0640-01,Le pagan la consulta médica
+T0640-01,Lo transportan hasta un centro de salud
+T0640-02,Le compran las medicinas
+T0640-02,Le pagan la consulta médica
+T0640-02,Lo transportan hasta un centro de salud
+T0641-01,Lo transportan hasta un centro de salud
+T0641-02,Lo transportan hasta un centro de salud
+T0642-01,Lo transportan hasta un centro de salud
+T0642-02,Lo transportan hasta un centro de salud
+T0642-03,Lo transportan hasta un centro de salud
+T0643-01,Lo transportan hasta un centro de salud
+T0643-02,Lo transportan hasta un centro de salud
+T0644-01,Ninguno
+T0644-02,Ninguno
+T0645-01,Le compran las medicinas
+T0645-02,Le compran las medicinas
+T0646-01,Ninguno
+T0646-02,Ninguno
+T0647-01,Le compran las medicinas
+T0647-02,Le compran las medicinas
+T0648-01,Ninguno
+T0648-02,Le dan seguro médico
+T0649-01,Lo transportan hasta un centro de salud
+T0649-02,Lo transportan hasta un centro de salud
+T0650-01,Ninguno
+T0650-02,Lo transportan hasta un centro de salud
+T0651-01,Lo transportan hasta un centro de salud
+T0651-02,Lo transportan hasta un centro de salud
+T0652-01,Ninguno
+T0652-02,Ninguno
+T0653-01,Le compran las medicinas
+T0653-02,Le pagan la consulta médica
+T0654-01,Lo transportan hasta un centro de salud
+T0654-02,Lo transportan hasta un centro de salud
+T0655-01,Lo transportan hasta un centro de salud
+T0655-02,Lo transportan hasta un centro de salud
+T0655-03,Lo transportan hasta un centro de salud
+T0656-01,Lo transportan hasta un centro de salud
+T0656-02,Lo transportan hasta un centro de salud
+T0656-03,Lo transportan hasta un centro de salud
+T0657-01,Ninguno
+T0657-02,Lo transportan hasta un centro de salud
+T0658-01,Ninguno
+T0658-02,Ninguno
+T0659-01,Ninguno
+T0659-02,Ninguno
+T0659-03,Ninguno
+T0660-01,Lo transportan hasta un centro de salud
+T0660-02,Lo transportan hasta un centro de salud
+T0661-01,Lo transportan hasta un centro de salud
+T0661-02,Lo transportan hasta un centro de salud
+T0662-01,Ninguno
+T0662-02,Ninguno
+T0662-03,Ninguno
+T0663-01,Lo transportan hasta un centro de salud
+T0663-02,Lo transportan hasta un centro de salud
+T0663-03,Lo transportan hasta un centro de salud
+T0664-01,Ninguno
+T0664-02,Ninguno
+T0664-03,Le compran las medicinas
+T0664-03,Lo transportan hasta un centro de salud
+T0665-01,Ninguno
+T0665-02,El trabajador paga la atención
+T0665-03,Ninguno
+T0666-01,Ninguno
+T0666-02,Ninguno
+T0666-03,Ninguno
+T0667-01,Ninguno
+T0667-02,Ninguno
+T0667-03,Ninguno
+T0668-01,Lo transportan hasta un centro de salud
+T0668-02,Lo transportan hasta un centro de salud
+T0668-03,Lo transportan hasta un centro de salud
+T0669-01,Lo transportan hasta un centro de salud
+T0669-02,Lo transportan hasta un centro de salud
+T0669-03,Lo transportan hasta un centro de salud
+T0670-01,Le dan seguro médico
+T0670-01,Le pagan la consulta médica
+T0670-01,Lo transportan hasta un centro de salud
+T0670-02,Le compran las medicinas
+T0670-02,Le pagan la consulta médica
+T0670-02,Lo transportan hasta un centro de salud
+T0670-03,Le pagan la consulta médica
+T0670-03,Lo transportan hasta un centro de salud
+T0671-01,Lo transportan hasta un centro de salud
+T0671-02,Lo transportan hasta un centro de salud
+T0671-03,Lo transportan hasta un centro de salud
+T0672-01,Ninguno
+T0672-02,Ninguno
+T0672-03,Ninguno
+T0672-04,Ninguno
+T0673-01,Ninguno
+T0673-02,Ninguno
+T0673-03,Ninguno
+T0673-04,Le dan seguro médico
+T0673-04,Lo transportan hasta un centro de salud
+T0673-04,Ninguno
+T0674-01,Le dan seguro médico
+T0674-02,Ninguno
+T0674-03,Ninguno
+T0675-01,Ninguno
+T0675-02,Ninguno
+T0675-03,Ninguno
+T0675-04,Ninguno
+T0676-01,Ninguno
+T0676-02,Ninguno
+T0676-03,Ninguno
+T0676-04,Ninguno
+T0677-01,Ninguno
+T0677-02,Ninguno
+T0677-03,Ninguno
+T0677-04,Ninguno
+T0678-01,Lo transportan hasta un centro de salud
+T0678-02,Lo transportan hasta un centro de salud
+T0678-03,Lo transportan hasta un centro de salud
+T0679-01,Lo transportan hasta un centro de salud
+T0679-02,Ninguno
+T0679-03,Ninguno
+T0680-01,Lo transportan hasta un centro de salud
+T0680-02,Lo transportan hasta un centro de salud
+T0680-03,Lo transportan hasta un centro de salud
+T0680-04,Lo transportan hasta un centro de salud
+T0681-01,Le dan seguro médico
+T0681-02,Ninguno
+T0681-03,Ninguno
+T0682-01,Ninguno
+T0682-02,Le compran las medicinas
+T0682-03,Le compran las medicinas
+T0682-04,Le compran las medicinas
+T0683-01,Ninguno
+T0683-02,Ninguno
+T0683-03,Ninguno
+T0684-01,Ninguno
+T0684-02,Ninguno
+T0684-03,Ninguno
+T0685-01,Le compran las medicinas
+T0685-02,Le compran las medicinas
+T0685-03,Le compran las medicinas
+T0686-01,Ninguno
+T0686-02,Ninguno
+T0686-03,Ninguno
+T0686-04,Ninguno
+T0687-01,Lo transportan hasta un centro de salud
+T0687-02,Lo transportan hasta un centro de salud
+T0687-03,Lo transportan hasta un centro de salud
+T0687-04,Lo transportan hasta un centro de salud
+T0688-01,Ninguno
+T0688-02,Ninguno
+T0688-03,Ninguno
+T0688-04,Ninguno
+T0689-01,Lo transportan hasta un centro de salud
+T0689-02,Lo transportan hasta un centro de salud
+T0689-03,Lo transportan hasta un centro de salud
+T0689-04,Lo transportan hasta un centro de salud
+T0690-01,El trabajador paga la atención
+T0690-01,Le compran las medicinas
+T0690-01,Le pagan la consulta médica
+T0690-03,Le compran las medicinas
+T0690-03,Le pagan la consulta médica
+T0690-03,Lo transportan hasta un centro de salud
+T0690-04,Le compran las medicinas
+T0690-04,Le pagan la consulta médica
+T0690-04,Lo transportan hasta un centro de salud
+T0691-01,Le dan seguro médico
+T0691-02,Ninguno
+T0691-03,Ninguno
+T0691-04,Ninguno
+T0692-01,Ninguno
+T0692-02,Ninguno
+T0692-03,Ninguno
+T0692-04,Ninguno
+T0692-05,Ninguno
+T0693-01,Le compran las medicinas
+T0693-02,Le compran las medicinas
+T0693-03,Le compran las medicinas
+T0693-04,Le compran las medicinas
+T0694-01,Le compran las medicinas
+T0694-02,Le compran las medicinas
+T0694-03,Le compran las medicinas
+T0694-04,Le compran las medicinas
+T0695-01,Ninguno
+T0695-02,Ninguno
+T0695-03,Ninguno
+T0695-04,Ninguno
+T0695-05,Ninguno
+T0696-01,Ninguno
+T0696-02,Ninguno
+T0696-03,Lo transportan hasta un centro de salud
+T0696-03,Ninguno
+T0696-04,Ninguno
+T0696-05,Ninguno
+T0697-01,Ninguno
+T0697-02,Ninguno
+T0697-03,Ninguno
+T0697-04,Ninguno
+T0697-05,Ninguno
+T0698-01,Ninguno
+T0698-02,Ninguno
+T0698-03,Ninguno
+T0698-04,Ninguno
+T0698-05,Ninguno
+T0699-01,Le compran las medicinas
+T0699-02,Le compran las medicinas
+T0699-03,Le compran las medicinas
+T0699-04,Le compran las medicinas
+T0700-01,Lo transportan hasta un centro de salud
+T0700-02,Le pagan la consulta médica
+T0700-02,Lo transportan hasta un centro de salud
+T0700-03,Lo transportan hasta un centro de salud
+T0700-04,Lo transportan hasta un centro de salud
+T0700-05,Lo transportan hasta un centro de salud
+T0701-01,Lo transportan hasta un centro de salud
+T0701-02,Lo transportan hasta un centro de salud
+T0701-03,Lo transportan hasta un centro de salud
+T0701-04,Lo transportan hasta un centro de salud
+T0702-01,Ninguno
+T0702-02,Ninguno
+T0702-03,Ninguno
+T0702-04,Ninguno
+T0703-01,Le dan seguro médico
+T0703-01,Ninguno
+T0703-02,Ninguno
+T0703-03,Ninguno
+T0703-04,Ninguno
+T0704-01,Le compran las medicinas
+T0704-02,Le compran las medicinas
+T0704-03,Le compran las medicinas
+T0704-04,Le compran las medicinas
+T0705-01,Ninguno
+T0705-02,Ninguno
+T0705-03,Ninguno
+T0705-04,Ninguno
+T0705-05,Ninguno
+T0706-01,Lo transportan hasta un centro de salud
+T0706-02,Lo transportan hasta un centro de salud
+T0706-03,Lo transportan hasta un centro de salud
+T0706-04,Lo transportan hasta un centro de salud
+T0706-05,Lo transportan hasta un centro de salud
+T0707-01,Ninguno
+T0707-02,El trabajador paga la atención
+T0707-03,Ninguno
+T0707-04,Ninguno
+T0707-05,Ninguno
+T0708-01,Ninguno
+T0708-02,Ninguno
+T0708-03,Ninguno
+T0708-04,Ninguno
+T0708-05,Ninguno
+T1001-01,Le compran las medicinas
+T1001-01,Le pagan la consulta médica
+T1001-01,Lo transportan hasta un centro de salud
+T1001-02,Ninguno
+T1002-01,Ninguno
+T1002-02,Ninguno
+T1002-03,Le compran las medicinas
+T1002-04,Ninguno
+T1003-01,Le compran las medicinas
+T1003-01,Le pagan la consulta médica
+T1003-01,Lo transportan hasta un centro de salud
+T1003-02,Le pagan la consulta médica
+T1003-02,Lo transportan hasta un centro de salud
+T1003-03,Ninguno

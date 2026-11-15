@@ -1,0 +1,17 @@
+﻿Labor_ID,Rubro_ID,Labor,Orden_Labor,Labor_Etiqueta
+1,1,Preparación de semilleros,1,(1) Preparación de semilleros
+2,1,Preparación del terreno,2,(2) Preparación del terreno
+3,1,Trasplante,3,(3) Trasplante
+4,1,"Labores culturales (riego, control y seguimiento)",4,"(4) Labores culturales (riego, control y seguimiento)"
+5,1,Cosecha,5,(5) Cosecha
+6,3,Siembra o resiembra,1,(1) Siembra o resiembra
+7,3,Preparación del terreno,2,(2) Preparación del terreno
+8,3,Control y mantenimiento de drenaje,3,(3) Control y mantenimiento de drenaje
+9,3,Labores culturales,4,(4) Labores culturales
+10,3,Cosecha,5,(5) Cosecha
+11,2,Siembra,1,(1) Siembra
+12,2,Preparación del terreno,2,(2) Preparación del terreno
+13,2,Fertilización,3,(3) Fertilización
+14,2,Riego,4,(4) Riego
+15,2,Cosecha,5,(5) Cosecha
+16,2,Trillado,6,(6) Trillado
