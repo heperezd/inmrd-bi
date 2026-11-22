@@ -1,0 +1,4157 @@
+﻿Obra_ID,Nacionalidad_ID,Beneficio,Beneficio_Orden
+O0001,2,Servicio sanitario,3
+O0001,2,Asistencia médica,4
+O0002,1,Ninguno,900
+O0002,2,Ninguno,900
+O0003,1,Agua potable,2
+O0003,1,Servicio sanitario,3
+O0003,1,Asistencia médica,4
+O0003,1,Herramientas de trabajo,5
+O0003,1,Equipo de protección,6
+O0003,2,Agua potable,2
+O0003,2,Servicio sanitario,3
+O0003,2,Asistencia médica,4
+O0003,2,Herramientas de trabajo,5
+O0003,2,Equipo de protección,6
+O0004,1,Agua potable,2
+O0004,1,Servicio sanitario,3
+O0004,1,Asistencia médica,4
+O0004,1,Herramientas de trabajo,5
+O0004,1,Equipo de protección,6
+O0004,2,Vivienda,1
+O0004,2,Agua potable,2
+O0004,2,Servicio sanitario,3
+O0004,2,Asistencia médica,4
+O0004,2,Herramientas de trabajo,5
+O0004,2,Transporte,7
+O0005,1,Ninguno,900
+O0005,2,Agua potable,2
+O0006,1,Agua potable,2
+O0006,1,Servicio sanitario,3
+O0006,1,Asistencia médica,4
+O0006,1,Herramientas de trabajo,5
+O0006,1,Equipo de protección,6
+O0006,2,Agua potable,2
+O0006,2,Servicio sanitario,3
+O0006,2,Asistencia médica,4
+O0006,2,Herramientas de trabajo,5
+O0006,2,Equipo de protección,6
+O0007,1,Agua potable,2
+O0007,1,Servicio sanitario,3
+O0007,1,Asistencia médica,4
+O0007,1,Herramientas de trabajo,5
+O0007,1,Equipo de protección,6
+O0007,1,Transporte,7
+O0007,2,Agua potable,2
+O0007,2,Servicio sanitario,3
+O0007,2,Asistencia médica,4
+O0007,2,Herramientas de trabajo,5
+O0007,2,Equipo de protección,6
+O0007,2,Transporte,7
+O0008,1,Agua potable,2
+O0008,1,Servicio sanitario,3
+O0008,1,Asistencia médica,4
+O0008,1,Herramientas de trabajo,5
+O0008,2,Agua potable,2
+O0008,2,Servicio sanitario,3
+O0008,2,Asistencia médica,4
+O0008,2,Herramientas de trabajo,5
+O0009,1,Agua potable,2
+O0009,1,Servicio sanitario,3
+O0009,1,Asistencia médica,4
+O0009,1,Equipo de protección,6
+O0009,2,Vivienda,1
+O0009,2,Agua potable,2
+O0009,2,Servicio sanitario,3
+O0009,2,Asistencia médica,4
+O0009,2,Herramientas de trabajo,5
+O0009,2,Equipo de protección,6
+O0009,2,Transporte,7
+O0010,1,Agua potable,2
+O0010,1,Servicio sanitario,3
+O0010,1,Asistencia médica,4
+O0010,1,Herramientas de trabajo,5
+O0010,1,Equipo de protección,6
+O0010,1,Transporte,7
+O0010,1,Comida,8
+O0010,2,Agua potable,2
+O0010,2,Servicio sanitario,3
+O0010,2,Asistencia médica,4
+O0010,2,Herramientas de trabajo,5
+O0010,2,Equipo de protección,6
+O0010,2,Transporte,7
+O0010,2,Comida,8
+O0011,1,Agua potable,2
+O0011,1,Servicio sanitario,3
+O0011,1,Herramientas de trabajo,5
+O0011,1,Equipo de protección,6
+O0011,2,Agua potable,2
+O0011,2,Servicio sanitario,3
+O0011,2,Herramientas de trabajo,5
+O0011,2,Equipo de protección,6
+O0012,1,Agua potable,2
+O0012,1,Servicio sanitario,3
+O0012,1,Asistencia médica,4
+O0012,1,Equipo de protección,6
+O0012,2,Agua potable,2
+O0012,2,Servicio sanitario,3
+O0012,2,Asistencia médica,4
+O0012,2,Herramientas de trabajo,5
+O0012,2,Equipo de protección,6
+O0013,1,Agua potable,2
+O0013,1,Servicio sanitario,3
+O0013,1,Herramientas de trabajo,5
+O0013,2,Agua potable,2
+O0013,2,Asistencia médica,4
+O0013,2,Herramientas de trabajo,5
+O0013,2,Equipo de protección,6
+O0014,2,Vivienda,1
+O0014,2,Agua potable,2
+O0014,2,Servicio sanitario,3
+O0014,2,Herramientas de trabajo,5
+O0014,2,Equipo de protección,6
+O0015,1,Agua potable,2
+O0015,1,Servicio sanitario,3
+O0015,1,Asistencia médica,4
+O0015,2,Agua potable,2
+O0015,2,Servicio sanitario,3
+O0015,2,Equipo de protección,6
+O0016,1,Agua potable,2
+O0016,1,Servicio sanitario,3
+O0016,1,Asistencia médica,4
+O0016,1,Herramientas de trabajo,5
+O0016,1,Equipo de protección,6
+O0016,2,Agua potable,2
+O0016,2,Servicio sanitario,3
+O0016,2,Asistencia médica,4
+O0016,2,Equipo de protección,6
+O0017,1,Agua potable,2
+O0017,1,Servicio sanitario,3
+O0017,1,Asistencia médica,4
+O0017,1,Herramientas de trabajo,5
+O0017,1,Equipo de protección,6
+O0017,1,Transporte,7
+O0017,1,Comida,8
+O0017,2,Agua potable,2
+O0017,2,Servicio sanitario,3
+O0017,2,Asistencia médica,4
+O0017,2,Herramientas de trabajo,5
+O0017,2,Equipo de protección,6
+O0017,2,Comida,8
+O0018,1,Agua potable,2
+O0018,1,Servicio sanitario,3
+O0018,1,Asistencia médica,4
+O0018,1,Herramientas de trabajo,5
+O0018,1,Equipo de protección,6
+O0018,2,Agua potable,2
+O0018,2,Servicio sanitario,3
+O0018,2,Equipo de protección,6
+O0018,2,Transporte,7
+O0019,1,Agua potable,2
+O0019,1,Servicio sanitario,3
+O0019,1,Asistencia médica,4
+O0019,1,Equipo de protección,6
+O0019,2,Vivienda,1
+O0019,2,Agua potable,2
+O0019,2,Servicio sanitario,3
+O0019,2,Asistencia médica,4
+O0019,2,Equipo de protección,6
+O0020,1,Agua potable,2
+O0020,1,Servicio sanitario,3
+O0020,1,Asistencia médica,4
+O0020,1,Herramientas de trabajo,5
+O0020,1,Equipo de protección,6
+O0020,2,Agua potable,2
+O0020,2,Servicio sanitario,3
+O0020,2,Asistencia médica,4
+O0020,2,Herramientas de trabajo,5
+O0020,2,Equipo de protección,6
+O0020,2,Transporte,7
+O0020,3,Vivienda,1
+O0020,3,Agua potable,2
+O0020,3,Servicio sanitario,3
+O0020,3,Asistencia médica,4
+O0020,3,Herramientas de trabajo,5
+O0021,1,Vivienda,1
+O0021,1,Agua potable,2
+O0021,1,Servicio sanitario,3
+O0021,1,Herramientas de trabajo,5
+O0021,2,Vivienda,1
+O0021,2,Agua potable,2
+O0021,2,Herramientas de trabajo,5
+O0022,1,Agua potable,2
+O0022,1,Servicio sanitario,3
+O0022,1,Asistencia médica,4
+O0022,1,Herramientas de trabajo,5
+O0022,1,Equipo de protección,6
+O0022,1,Transporte,7
+O0022,2,Agua potable,2
+O0022,2,Servicio sanitario,3
+O0022,2,Asistencia médica,4
+O0022,2,Herramientas de trabajo,5
+O0022,2,Equipo de protección,6
+O0023,1,Agua potable,2
+O0023,1,Servicio sanitario,3
+O0023,1,Asistencia médica,4
+O0023,1,Herramientas de trabajo,5
+O0023,1,Equipo de protección,6
+O0023,2,Agua potable,2
+O0023,2,Servicio sanitario,3
+O0023,2,Asistencia médica,4
+O0023,2,Herramientas de trabajo,5
+O0023,2,Equipo de protección,6
+O0024,2,Agua potable,2
+O0024,2,Servicio sanitario,3
+O0024,2,Asistencia médica,4
+O0024,2,Herramientas de trabajo,5
+O0024,2,Equipo de protección,6
+O0025,1,Agua potable,2
+O0025,1,Servicio sanitario,3
+O0025,1,Asistencia médica,4
+O0025,1,Herramientas de trabajo,5
+O0025,1,Equipo de protección,6
+O0025,2,Agua potable,2
+O0025,2,Servicio sanitario,3
+O0025,2,Asistencia médica,4
+O0025,2,Herramientas de trabajo,5
+O0025,2,Equipo de protección,6
+O0025,3,Agua potable,2
+O0025,3,Servicio sanitario,3
+O0025,3,Asistencia médica,4
+O0025,3,Herramientas de trabajo,5
+O0025,3,Equipo de protección,6
+O0026,1,Agua potable,2
+O0026,1,Servicio sanitario,3
+O0026,1,Asistencia médica,4
+O0026,1,Herramientas de trabajo,5
+O0026,1,Equipo de protección,6
+O0026,2,Agua potable,2
+O0026,2,Servicio sanitario,3
+O0026,2,Asistencia médica,4
+O0026,2,Herramientas de trabajo,5
+O0026,2,Equipo de protección,6
+O0027,1,Agua potable,2
+O0027,1,Servicio sanitario,3
+O0027,1,Asistencia médica,4
+O0027,1,Herramientas de trabajo,5
+O0027,1,Equipo de protección,6
+O0027,2,Vivienda,1
+O0027,2,Agua potable,2
+O0027,2,Servicio sanitario,3
+O0027,2,Asistencia médica,4
+O0027,2,Herramientas de trabajo,5
+O0027,2,Equipo de protección,6
+O0028,1,Agua potable,2
+O0028,1,Servicio sanitario,3
+O0028,1,Asistencia médica,4
+O0028,1,Herramientas de trabajo,5
+O0028,1,Equipo de protección,6
+O0028,2,Vivienda,1
+O0028,2,Agua potable,2
+O0028,2,Servicio sanitario,3
+O0028,2,Asistencia médica,4
+O0028,2,Herramientas de trabajo,5
+O0028,2,Equipo de protección,6
+O0029,1,Agua potable,2
+O0029,1,Servicio sanitario,3
+O0029,2,Vivienda,1
+O0029,2,Agua potable,2
+O0029,2,Servicio sanitario,3
+O0029,2,Asistencia médica,4
+O0029,2,Herramientas de trabajo,5
+O0029,2,Equipo de protección,6
+O0029,2,Transporte,7
+O0029,2,Comida,8
+O0030,1,Agua potable,2
+O0030,1,Servicio sanitario,3
+O0030,1,Asistencia médica,4
+O0030,1,Herramientas de trabajo,5
+O0030,1,Equipo de protección,6
+O0030,2,Agua potable,2
+O0030,2,Herramientas de trabajo,5
+O0030,2,Equipo de protección,6
+O0030,2,Transporte,7
+O0031,1,Agua potable,2
+O0031,1,Servicio sanitario,3
+O0031,1,Asistencia médica,4
+O0031,1,Herramientas de trabajo,5
+O0031,1,Equipo de protección,6
+O0031,1,Transporte,7
+O0031,1,Comida,8
+O0031,2,Agua potable,2
+O0031,2,Servicio sanitario,3
+O0031,2,Asistencia médica,4
+O0031,2,Herramientas de trabajo,5
+O0032,1,Agua potable,2
+O0032,1,Servicio sanitario,3
+O0032,1,Asistencia médica,4
+O0032,1,Herramientas de trabajo,5
+O0032,1,Equipo de protección,6
+O0032,2,Agua potable,2
+O0032,2,Servicio sanitario,3
+O0032,2,Asistencia médica,4
+O0032,2,Herramientas de trabajo,5
+O0032,2,Transporte,7
+O0033,1,Agua potable,2
+O0033,1,Servicio sanitario,3
+O0033,1,Asistencia médica,4
+O0033,1,Herramientas de trabajo,5
+O0033,1,Equipo de protección,6
+O0033,2,Agua potable,2
+O0033,2,Asistencia médica,4
+O0033,2,Herramientas de trabajo,5
+O0033,2,Equipo de protección,6
+O0033,2,Transporte,7
+O0034,1,Agua potable,2
+O0034,1,Servicio sanitario,3
+O0034,1,Asistencia médica,4
+O0034,1,Herramientas de trabajo,5
+O0034,1,Equipo de protección,6
+O0034,2,Agua potable,2
+O0034,2,Servicio sanitario,3
+O0034,2,Asistencia médica,4
+O0034,2,Herramientas de trabajo,5
+O0034,2,Equipo de protección,6
+O0034,2,Transporte,7
+O0034,2,Comida,8
+O0035,1,Agua potable,2
+O0035,1,Servicio sanitario,3
+O0035,1,Asistencia médica,4
+O0035,1,Herramientas de trabajo,5
+O0035,1,Equipo de protección,6
+O0035,2,Agua potable,2
+O0035,2,Servicio sanitario,3
+O0035,2,Asistencia médica,4
+O0035,2,Herramientas de trabajo,5
+O0035,2,Equipo de protección,6
+O0036,1,Agua potable,2
+O0036,1,Servicio sanitario,3
+O0036,1,Asistencia médica,4
+O0036,1,Herramientas de trabajo,5
+O0036,1,Equipo de protección,6
+O0036,2,Agua potable,2
+O0036,2,Servicio sanitario,3
+O0036,2,Asistencia médica,4
+O0036,2,Herramientas de trabajo,5
+O0036,2,Equipo de protección,6
+O0037,1,Agua potable,2
+O0037,1,Servicio sanitario,3
+O0037,1,Asistencia médica,4
+O0037,1,Herramientas de trabajo,5
+O0037,1,Equipo de protección,6
+O0037,2,Agua potable,2
+O0037,2,Servicio sanitario,3
+O0037,2,Asistencia médica,4
+O0037,2,Herramientas de trabajo,5
+O0037,2,Equipo de protección,6
+O0038,1,Agua potable,2
+O0038,1,Herramientas de trabajo,5
+O0038,1,Transporte,7
+O0038,2,Servicio sanitario,3
+O0038,2,Asistencia médica,4
+O0038,2,Herramientas de trabajo,5
+O0039,1,Vivienda,1
+O0039,1,Agua potable,2
+O0039,1,Servicio sanitario,3
+O0039,1,Herramientas de trabajo,5
+O0039,1,Equipo de protección,6
+O0039,1,Transporte,7
+O0039,1,Comida,8
+O0039,2,Vivienda,1
+O0039,2,Agua potable,2
+O0039,2,Servicio sanitario,3
+O0039,2,Herramientas de trabajo,5
+O0039,2,Equipo de protección,6
+O0039,2,Transporte,7
+O0039,2,Comida,8
+O0040,1,Agua potable,2
+O0040,1,Servicio sanitario,3
+O0040,1,Asistencia médica,4
+O0040,1,Herramientas de trabajo,5
+O0040,1,Equipo de protección,6
+O0040,1,Comida,8
+O0040,2,Agua potable,2
+O0040,2,Servicio sanitario,3
+O0040,2,Asistencia médica,4
+O0040,2,Herramientas de trabajo,5
+O0040,2,Equipo de protección,6
+O0040,2,Transporte,7
+O0040,2,Comida,8
+O0040,3,Vivienda,1
+O0040,3,Servicio sanitario,3
+O0040,3,Asistencia médica,4
+O0041,1,Agua potable,2
+O0041,1,Servicio sanitario,3
+O0041,1,Asistencia médica,4
+O0041,1,Herramientas de trabajo,5
+O0041,1,Equipo de protección,6
+O0041,1,Comida,8
+O0041,2,Vivienda,1
+O0041,2,Agua potable,2
+O0041,2,Servicio sanitario,3
+O0041,2,Asistencia médica,4
+O0041,2,Herramientas de trabajo,5
+O0041,2,Equipo de protección,6
+O0042,1,Agua potable,2
+O0042,1,Herramientas de trabajo,5
+O0042,1,Equipo de protección,6
+O0042,2,Agua potable,2
+O0042,2,Servicio sanitario,3
+O0042,2,Asistencia médica,4
+O0042,2,Herramientas de trabajo,5
+O0043,1,Agua potable,2
+O0043,1,Servicio sanitario,3
+O0043,1,Asistencia médica,4
+O0043,1,Herramientas de trabajo,5
+O0043,1,Equipo de protección,6
+O0043,2,Agua potable,2
+O0043,2,Servicio sanitario,3
+O0043,2,Asistencia médica,4
+O0043,2,Herramientas de trabajo,5
+O0043,2,Equipo de protección,6
+O0044,1,Agua potable,2
+O0044,1,Servicio sanitario,3
+O0044,1,Asistencia médica,4
+O0044,1,Herramientas de trabajo,5
+O0044,1,Equipo de protección,6
+O0044,2,Agua potable,2
+O0044,2,Servicio sanitario,3
+O0044,2,Asistencia médica,4
+O0044,2,Herramientas de trabajo,5
+O0044,2,Equipo de protección,6
+O0045,1,Agua potable,2
+O0045,1,Servicio sanitario,3
+O0045,1,Asistencia médica,4
+O0045,1,Herramientas de trabajo,5
+O0045,1,Equipo de protección,6
+O0045,1,Transporte,7
+O0045,1,Comida,8
+O0045,2,Agua potable,2
+O0045,2,Servicio sanitario,3
+O0045,2,Asistencia médica,4
+O0045,2,Herramientas de trabajo,5
+O0045,2,Equipo de protección,6
+O0045,2,Transporte,7
+O0045,2,Comida,8
+O0046,1,Servicio sanitario,3
+O0046,2,Servicio sanitario,3
+O0047,1,Agua potable,2
+O0047,1,Servicio sanitario,3
+O0047,1,Asistencia médica,4
+O0047,1,Herramientas de trabajo,5
+O0047,1,Equipo de protección,6
+O0047,2,Vivienda,1
+O0047,2,Agua potable,2
+O0047,2,Servicio sanitario,3
+O0047,2,Asistencia médica,4
+O0047,2,Herramientas de trabajo,5
+O0047,2,Equipo de protección,6
+O0048,1,Agua potable,2
+O0048,1,Servicio sanitario,3
+O0048,1,Asistencia médica,4
+O0048,1,Herramientas de trabajo,5
+O0048,1,Equipo de protección,6
+O0048,2,Vivienda,1
+O0048,2,Agua potable,2
+O0048,2,Servicio sanitario,3
+O0048,2,Asistencia médica,4
+O0048,2,Herramientas de trabajo,5
+O0048,2,Equipo de protección,6
+O0049,1,Agua potable,2
+O0049,1,Servicio sanitario,3
+O0049,1,Asistencia médica,4
+O0049,1,Herramientas de trabajo,5
+O0049,1,Equipo de protección,6
+O0049,2,Agua potable,2
+O0049,2,Servicio sanitario,3
+O0049,2,Asistencia médica,4
+O0049,2,Herramientas de trabajo,5
+O0049,2,Equipo de protección,6
+O0050,1,Agua potable,2
+O0050,1,Servicio sanitario,3
+O0050,1,Asistencia médica,4
+O0050,1,Herramientas de trabajo,5
+O0050,1,Equipo de protección,6
+O0050,2,Agua potable,2
+O0050,2,Servicio sanitario,3
+O0050,2,Asistencia médica,4
+O0050,2,Equipo de protección,6
+O0051,1,Agua potable,2
+O0051,1,Servicio sanitario,3
+O0051,1,Transporte,7
+O0051,2,Vivienda,1
+O0051,2,Agua potable,2
+O0051,2,Servicio sanitario,3
+O0052,1,Agua potable,2
+O0052,1,Servicio sanitario,3
+O0052,1,Asistencia médica,4
+O0052,1,Equipo de protección,6
+O0052,2,Servicio sanitario,3
+O0052,2,Asistencia médica,4
+O0053,1,Agua potable,2
+O0053,1,Comida,8
+O0053,2,Vivienda,1
+O0053,2,Agua potable,2
+O0053,2,Servicio sanitario,3
+O0053,2,Asistencia médica,4
+O0053,2,Herramientas de trabajo,5
+O0053,2,Equipo de protección,6
+O0053,2,Transporte,7
+O0053,2,Comida,8
+O0054,1,Agua potable,2
+O0054,1,Servicio sanitario,3
+O0054,1,Asistencia médica,4
+O0054,1,Herramientas de trabajo,5
+O0054,1,Equipo de protección,6
+O0054,2,Agua potable,2
+O0054,2,Servicio sanitario,3
+O0054,2,Asistencia médica,4
+O0054,2,Herramientas de trabajo,5
+O0054,2,Equipo de protección,6
+O0055,1,Servicio sanitario,3
+O0055,1,Asistencia médica,4
+O0055,1,Herramientas de trabajo,5
+O0055,1,Equipo de protección,6
+O0055,2,Agua potable,2
+O0055,2,Servicio sanitario,3
+O0055,2,Asistencia médica,4
+O0055,2,Herramientas de trabajo,5
+O0055,2,Equipo de protección,6
+O0056,2,Ninguno,900
+O0057,1,Agua potable,2
+O0057,2,Agua potable,2
+O0057,2,Servicio sanitario,3
+O0058,1,Ninguno,900
+O0058,2,Servicio sanitario,3
+O0059,1,Ninguno,900
+O0059,2,Ninguno,900
+O0060,1,Agua potable,2
+O0060,1,Servicio sanitario,3
+O0060,1,Asistencia médica,4
+O0060,1,Herramientas de trabajo,5
+O0060,1,Equipo de protección,6
+O0060,1,Transporte,7
+O0060,2,Herramientas de trabajo,5
+O0060,2,Equipo de protección,6
+O0060,2,Transporte,7
+O0060,2,Comida,8
+O0061,1,Agua potable,2
+O0061,1,Servicio sanitario,3
+O0061,1,Asistencia médica,4
+O0061,1,Herramientas de trabajo,5
+O0061,1,Equipo de protección,6
+O0061,2,Agua potable,2
+O0061,2,Servicio sanitario,3
+O0061,2,Asistencia médica,4
+O0061,2,Herramientas de trabajo,5
+O0061,2,Equipo de protección,6
+O0062,1,Agua potable,2
+O0062,1,Servicio sanitario,3
+O0062,1,Asistencia médica,4
+O0062,1,Equipo de protección,6
+O0062,2,Vivienda,1
+O0062,2,Agua potable,2
+O0062,2,Servicio sanitario,3
+O0062,2,Asistencia médica,4
+O0062,2,Equipo de protección,6
+O0063,1,Herramientas de trabajo,5
+O0063,2,Agua potable,2
+O0063,2,Servicio sanitario,3
+O0063,2,Herramientas de trabajo,5
+O0063,2,Equipo de protección,6
+O0064,1,Vivienda,1
+O0064,1,Agua potable,2
+O0064,1,Servicio sanitario,3
+O0064,1,Asistencia médica,4
+O0064,1,Herramientas de trabajo,5
+O0064,1,Equipo de protección,6
+O0064,2,Vivienda,1
+O0064,2,Agua potable,2
+O0064,2,Servicio sanitario,3
+O0064,2,Asistencia médica,4
+O0064,2,Herramientas de trabajo,5
+O0064,2,Equipo de protección,6
+O0065,1,Agua potable,2
+O0065,1,Servicio sanitario,3
+O0065,1,Asistencia médica,4
+O0065,1,Herramientas de trabajo,5
+O0065,2,Agua potable,2
+O0065,2,Servicio sanitario,3
+O0065,2,Asistencia médica,4
+O0065,2,Herramientas de trabajo,5
+O0065,2,Equipo de protección,6
+O0066,1,Asistencia médica,4
+O0066,1,Herramientas de trabajo,5
+O0066,2,Asistencia médica,4
+O0066,2,Herramientas de trabajo,5
+O0066,3,Asistencia médica,4
+O0066,3,Herramientas de trabajo,5
+O0067,1,Vivienda,1
+O0067,1,Agua potable,2
+O0067,1,Servicio sanitario,3
+O0067,1,Asistencia médica,4
+O0067,1,Herramientas de trabajo,5
+O0067,1,Equipo de protección,6
+O0067,2,Agua potable,2
+O0067,2,Servicio sanitario,3
+O0067,2,Asistencia médica,4
+O0067,2,Herramientas de trabajo,5
+O0067,2,Equipo de protección,6
+O0068,1,Agua potable,2
+O0068,1,Servicio sanitario,3
+O0068,1,Asistencia médica,4
+O0068,1,Herramientas de trabajo,5
+O0068,1,Equipo de protección,6
+O0068,2,Agua potable,2
+O0068,2,Servicio sanitario,3
+O0068,2,Asistencia médica,4
+O0068,2,Herramientas de trabajo,5
+O0068,2,Equipo de protección,6
+O0068,3,Agua potable,2
+O0068,3,Servicio sanitario,3
+O0068,3,Asistencia médica,4
+O0068,3,Herramientas de trabajo,5
+O0068,3,Equipo de protección,6
+O0069,1,Servicio sanitario,3
+O0069,1,Asistencia médica,4
+O0069,1,Herramientas de trabajo,5
+O0069,1,Equipo de protección,6
+O0069,2,Agua potable,2
+O0069,2,Servicio sanitario,3
+O0069,2,Asistencia médica,4
+O0069,2,Herramientas de trabajo,5
+O0069,2,Equipo de protección,6
+O0070,1,Servicio sanitario,3
+O0070,1,Equipo de protección,6
+O0070,2,Vivienda,1
+O0070,2,Servicio sanitario,3
+O0070,2,Herramientas de trabajo,5
+O0071,1,Agua potable,2
+O0071,1,Servicio sanitario,3
+O0071,1,Equipo de protección,6
+O0071,2,Vivienda,1
+O0071,2,Agua potable,2
+O0071,2,Servicio sanitario,3
+O0071,2,Herramientas de trabajo,5
+O0071,2,Equipo de protección,6
+O0072,1,Servicio sanitario,3
+O0072,1,Asistencia médica,4
+O0072,1,Equipo de protección,6
+O0072,1,Transporte,7
+O0072,2,Agua potable,2
+O0072,2,Servicio sanitario,3
+O0072,2,Asistencia médica,4
+O0072,2,Herramientas de trabajo,5
+O0072,2,Equipo de protección,6
+O0072,3,No responde,999
+O0073,1,Servicio sanitario,3
+O0073,1,Asistencia médica,4
+O0073,1,Equipo de protección,6
+O0073,2,Vivienda,1
+O0073,2,Servicio sanitario,3
+O0073,2,Asistencia médica,4
+O0073,2,Equipo de protección,6
+O0074,1,Agua potable,2
+O0074,1,Servicio sanitario,3
+O0074,1,Asistencia médica,4
+O0074,1,Herramientas de trabajo,5
+O0074,1,Equipo de protección,6
+O0074,2,Agua potable,2
+O0074,2,Servicio sanitario,3
+O0074,2,Asistencia médica,4
+O0074,2,Herramientas de trabajo,5
+O0074,2,Equipo de protección,6
+O0074,2,Transporte,7
+O0075,1,Agua potable,2
+O0075,1,Servicio sanitario,3
+O0075,1,Equipo de protección,6
+O0075,2,Agua potable,2
+O0075,2,Servicio sanitario,3
+O0075,2,Asistencia médica,4
+O0075,2,Herramientas de trabajo,5
+O0075,2,Equipo de protección,6
+O0076,1,Agua potable,2
+O0076,1,Servicio sanitario,3
+O0076,2,Vivienda,1
+O0076,2,Agua potable,2
+O0076,2,Servicio sanitario,3
+O0076,2,Comida,8
+O0077,1,Servicio sanitario,3
+O0077,2,Servicio sanitario,3
+O0078,1,Agua potable,2
+O0078,1,Herramientas de trabajo,5
+O0078,1,Equipo de protección,6
+O0078,2,Agua potable,2
+O0078,2,Servicio sanitario,3
+O0078,2,Equipo de protección,6
+O0079,1,Servicio sanitario,3
+O0079,1,Asistencia médica,4
+O0079,1,Herramientas de trabajo,5
+O0079,1,Equipo de protección,6
+O0079,2,Servicio sanitario,3
+O0079,2,Asistencia médica,4
+O0079,2,Herramientas de trabajo,5
+O0079,2,Equipo de protección,6
+O0080,1,Agua potable,2
+O0080,1,Servicio sanitario,3
+O0080,1,Asistencia médica,4
+O0080,1,Herramientas de trabajo,5
+O0080,1,Equipo de protección,6
+O0080,2,Agua potable,2
+O0080,2,Servicio sanitario,3
+O0080,2,Herramientas de trabajo,5
+O0080,2,Equipo de protección,6
+O0081,1,Agua potable,2
+O0081,1,Servicio sanitario,3
+O0081,1,Asistencia médica,4
+O0081,1,Comida,8
+O0081,2,Vivienda,1
+O0081,2,Agua potable,2
+O0081,2,Servicio sanitario,3
+O0081,2,Asistencia médica,4
+O0081,2,Herramientas de trabajo,5
+O0081,2,Equipo de protección,6
+O0081,2,Transporte,7
+O0081,2,Comida,8
+O0082,1,Agua potable,2
+O0082,1,Servicio sanitario,3
+O0082,1,Herramientas de trabajo,5
+O0082,1,Equipo de protección,6
+O0082,2,Vivienda,1
+O0082,2,Agua potable,2
+O0082,2,Servicio sanitario,3
+O0082,2,Herramientas de trabajo,5
+O0082,2,Equipo de protección,6
+O0083,1,Servicio sanitario,3
+O0083,1,Asistencia médica,4
+O0083,1,Herramientas de trabajo,5
+O0083,1,Equipo de protección,6
+O0083,2,Agua potable,2
+O0083,2,Asistencia médica,4
+O0083,2,Herramientas de trabajo,5
+O0084,1,Servicio sanitario,3
+O0084,2,Servicio sanitario,3
+O0084,2,Equipo de protección,6
+O0085,1,Agua potable,2
+O0085,1,Servicio sanitario,3
+O0085,1,Asistencia médica,4
+O0085,1,Herramientas de trabajo,5
+O0085,1,Equipo de protección,6
+O0085,2,Vivienda,1
+O0085,2,Agua potable,2
+O0085,2,Servicio sanitario,3
+O0085,2,Asistencia médica,4
+O0085,2,Herramientas de trabajo,5
+O0085,2,Equipo de protección,6
+O0086,1,Agua potable,2
+O0086,2,Agua potable,2
+O0087,2,Vivienda,1
+O0087,2,Agua potable,2
+O0087,2,Servicio sanitario,3
+O0087,2,Asistencia médica,4
+O0087,2,Herramientas de trabajo,5
+O0087,2,Equipo de protección,6
+O0088,2,Agua potable,2
+O0088,2,Asistencia médica,4
+O0088,2,Herramientas de trabajo,5
+O0088,2,Equipo de protección,6
+O0089,1,Equipo de protección,6
+O0089,2,Comida,8
+O0090,1,Agua potable,2
+O0090,1,Servicio sanitario,3
+O0090,1,Asistencia médica,4
+O0090,1,Herramientas de trabajo,5
+O0090,1,Equipo de protección,6
+O0090,2,Vivienda,1
+O0090,2,Agua potable,2
+O0090,2,Servicio sanitario,3
+O0090,2,Asistencia médica,4
+O0090,2,Herramientas de trabajo,5
+O0090,2,Equipo de protección,6
+O0091,1,Agua potable,2
+O0091,1,Servicio sanitario,3
+O0091,2,Agua potable,2
+O0091,2,Servicio sanitario,3
+O0092,1,Agua potable,2
+O0092,1,Servicio sanitario,3
+O0092,1,Asistencia médica,4
+O0092,1,Herramientas de trabajo,5
+O0092,1,Equipo de protección,6
+O0092,1,Transporte,7
+O0092,1,Comida,8
+O0092,2,Agua potable,2
+O0092,2,Servicio sanitario,3
+O0092,2,Asistencia médica,4
+O0092,2,Herramientas de trabajo,5
+O0092,2,Equipo de protección,6
+O0092,2,Transporte,7
+O0092,2,Comida,8
+O0093,1,Vivienda,1
+O0093,1,Agua potable,2
+O0093,1,Servicio sanitario,3
+O0093,1,Asistencia médica,4
+O0093,1,Herramientas de trabajo,5
+O0093,1,Equipo de protección,6
+O0093,2,Agua potable,2
+O0093,2,Servicio sanitario,3
+O0093,2,Asistencia médica,4
+O0093,2,Herramientas de trabajo,5
+O0093,2,Equipo de protección,6
+O0094,1,Agua potable,2
+O0094,1,Servicio sanitario,3
+O0094,1,Asistencia médica,4
+O0094,1,Herramientas de trabajo,5
+O0094,1,Equipo de protección,6
+O0094,1,Transporte,7
+O0094,2,Vivienda,1
+O0094,2,Agua potable,2
+O0094,2,Servicio sanitario,3
+O0094,2,Asistencia médica,4
+O0094,2,Herramientas de trabajo,5
+O0094,2,Equipo de protección,6
+O0095,1,Herramientas de trabajo,5
+O0095,1,Equipo de protección,6
+O0095,2,Vivienda,1
+O0095,2,Agua potable,2
+O0095,2,Servicio sanitario,3
+O0095,2,Asistencia médica,4
+O0095,2,Herramientas de trabajo,5
+O0095,2,Equipo de protección,6
+O0095,2,Comida,8
+O0096,1,Agua potable,2
+O0096,1,Servicio sanitario,3
+O0096,1,Asistencia médica,4
+O0096,1,Equipo de protección,6
+O0096,2,Agua potable,2
+O0096,2,Servicio sanitario,3
+O0096,2,Asistencia médica,4
+O0096,2,Equipo de protección,6
+O0097,1,Ninguno,900
+O0097,2,Ninguno,900
+O0098,2,Agua potable,2
+O0098,2,Servicio sanitario,3
+O0098,2,Herramientas de trabajo,5
+O0098,2,Equipo de protección,6
+O0099,1,Servicio sanitario,3
+O0099,1,Herramientas de trabajo,5
+O0099,1,Equipo de protección,6
+O0099,2,Servicio sanitario,3
+O0099,2,Herramientas de trabajo,5
+O0099,2,Equipo de protección,6
+O0100,1,Ninguno,900
+O0100,2,Servicio sanitario,3
+O0100,2,Asistencia médica,4
+O0100,2,Herramientas de trabajo,5
+O0100,2,Equipo de protección,6
+O0101,1,Vivienda,1
+O0101,1,Servicio sanitario,3
+O0101,1,Herramientas de trabajo,5
+O0101,1,Comida,8
+O0101,2,Vivienda,1
+O0101,2,Agua potable,2
+O0101,2,Servicio sanitario,3
+O0101,2,Asistencia médica,4
+O0101,2,Herramientas de trabajo,5
+O0101,2,Equipo de protección,6
+O0101,2,Transporte,7
+O0101,2,Comida,8
+O0102,1,Agua potable,2
+O0102,1,Servicio sanitario,3
+O0102,1,Asistencia médica,4
+O0102,1,Herramientas de trabajo,5
+O0102,1,Equipo de protección,6
+O0102,2,Agua potable,2
+O0102,2,Servicio sanitario,3
+O0102,2,Asistencia médica,4
+O0102,2,Herramientas de trabajo,5
+O0102,3,Agua potable,2
+O0102,3,Servicio sanitario,3
+O0102,3,Asistencia médica,4
+O0102,3,Herramientas de trabajo,5
+O0103,1,Agua potable,2
+O0103,1,Servicio sanitario,3
+O0103,1,Asistencia médica,4
+O0103,1,Herramientas de trabajo,5
+O0103,1,Equipo de protección,6
+O0103,1,Comida,8
+O0103,2,Agua potable,2
+O0103,2,Servicio sanitario,3
+O0103,2,Asistencia médica,4
+O0103,2,Herramientas de trabajo,5
+O0103,2,Equipo de protección,6
+O0103,2,Comida,8
+O0104,1,Agua potable,2
+O0104,1,Servicio sanitario,3
+O0104,1,Asistencia médica,4
+O0104,1,Herramientas de trabajo,5
+O0104,1,Equipo de protección,6
+O0104,2,Agua potable,2
+O0104,2,Servicio sanitario,3
+O0104,2,Asistencia médica,4
+O0104,2,Herramientas de trabajo,5
+O0104,2,Equipo de protección,6
+O0104,2,Transporte,7
+O0105,1,Agua potable,2
+O0105,1,Servicio sanitario,3
+O0105,1,Asistencia médica,4
+O0105,1,Herramientas de trabajo,5
+O0105,1,Equipo de protección,6
+O0105,2,Vivienda,1
+O0105,2,Agua potable,2
+O0105,2,Servicio sanitario,3
+O0105,2,Asistencia médica,4
+O0105,2,Herramientas de trabajo,5
+O0105,2,Equipo de protección,6
+O0105,2,Transporte,7
+O0106,1,Agua potable,2
+O0106,1,Servicio sanitario,3
+O0106,1,Asistencia médica,4
+O0106,1,Herramientas de trabajo,5
+O0106,1,Equipo de protección,6
+O0106,2,Agua potable,2
+O0106,2,Servicio sanitario,3
+O0106,2,Asistencia médica,4
+O0106,2,Herramientas de trabajo,5
+O0106,2,Equipo de protección,6
+O0107,1,Agua potable,2
+O0107,1,Servicio sanitario,3
+O0107,1,Asistencia médica,4
+O0107,1,Herramientas de trabajo,5
+O0107,1,Equipo de protección,6
+O0107,2,Agua potable,2
+O0107,2,Servicio sanitario,3
+O0107,2,Asistencia médica,4
+O0107,2,Herramientas de trabajo,5
+O0107,2,Equipo de protección,6
+O0108,1,Agua potable,2
+O0108,1,Servicio sanitario,3
+O0108,1,Asistencia médica,4
+O0108,1,Herramientas de trabajo,5
+O0108,1,Equipo de protección,6
+O0108,2,Vivienda,1
+O0108,2,Agua potable,2
+O0108,2,Servicio sanitario,3
+O0108,2,Asistencia médica,4
+O0108,2,Herramientas de trabajo,5
+O0108,2,Equipo de protección,6
+O0109,1,Agua potable,2
+O0109,1,Servicio sanitario,3
+O0109,1,Asistencia médica,4
+O0109,1,Herramientas de trabajo,5
+O0109,1,Equipo de protección,6
+O0109,1,Comida,8
+O0109,2,Agua potable,2
+O0109,2,Servicio sanitario,3
+O0109,2,Asistencia médica,4
+O0109,2,Herramientas de trabajo,5
+O0109,2,Equipo de protección,6
+O0109,2,Comida,8
+O0110,1,Agua potable,2
+O0110,1,Servicio sanitario,3
+O0110,1,Asistencia médica,4
+O0110,1,Herramientas de trabajo,5
+O0110,1,Equipo de protección,6
+O0110,2,Agua potable,2
+O0110,2,Servicio sanitario,3
+O0110,2,Asistencia médica,4
+O0110,2,Herramientas de trabajo,5
+O0110,2,Equipo de protección,6
+O0111,1,Agua potable,2
+O0111,1,Servicio sanitario,3
+O0111,1,Asistencia médica,4
+O0111,1,Herramientas de trabajo,5
+O0111,1,Equipo de protección,6
+O0111,2,Agua potable,2
+O0111,2,Servicio sanitario,3
+O0111,2,Asistencia médica,4
+O0111,2,Herramientas de trabajo,5
+O0111,2,Equipo de protección,6
+O0112,1,Agua potable,2
+O0112,1,Servicio sanitario,3
+O0112,1,Asistencia médica,4
+O0112,1,Herramientas de trabajo,5
+O0112,1,Equipo de protección,6
+O0112,2,Agua potable,2
+O0112,2,Servicio sanitario,3
+O0112,2,Asistencia médica,4
+O0112,2,Herramientas de trabajo,5
+O0112,2,Equipo de protección,6
+O0113,1,Agua potable,2
+O0113,1,Servicio sanitario,3
+O0113,1,Asistencia médica,4
+O0113,1,Herramientas de trabajo,5
+O0113,1,Equipo de protección,6
+O0113,2,Agua potable,2
+O0113,2,Servicio sanitario,3
+O0113,2,Asistencia médica,4
+O0113,2,Herramientas de trabajo,5
+O0113,2,Equipo de protección,6
+O0113,3,Agua potable,2
+O0113,3,Servicio sanitario,3
+O0113,3,Asistencia médica,4
+O0113,3,Herramientas de trabajo,5
+O0113,3,Equipo de protección,6
+O0114,1,Agua potable,2
+O0114,1,Servicio sanitario,3
+O0114,1,Asistencia médica,4
+O0114,1,Herramientas de trabajo,5
+O0114,1,Equipo de protección,6
+O0114,2,Agua potable,2
+O0114,2,Servicio sanitario,3
+O0114,2,Asistencia médica,4
+O0114,2,Herramientas de trabajo,5
+O0114,2,Equipo de protección,6
+O0114,2,Transporte,7
+O0115,1,Servicio sanitario,3
+O0115,1,Herramientas de trabajo,5
+O0115,1,Equipo de protección,6
+O0115,2,Agua potable,2
+O0115,2,Servicio sanitario,3
+O0115,2,Herramientas de trabajo,5
+O0115,2,Equipo de protección,6
+O0116,1,Agua potable,2
+O0116,1,Servicio sanitario,3
+O0116,1,Asistencia médica,4
+O0116,1,Equipo de protección,6
+O0116,2,Vivienda,1
+O0116,2,Agua potable,2
+O0116,2,Servicio sanitario,3
+O0116,2,Asistencia médica,4
+O0116,2,Equipo de protección,6
+O0117,1,Agua potable,2
+O0117,2,Agua potable,2
+O0117,2,Servicio sanitario,3
+O0117,2,Asistencia médica,4
+O0117,2,Herramientas de trabajo,5
+O0117,2,Equipo de protección,6
+O0118,1,Agua potable,2
+O0118,1,Servicio sanitario,3
+O0118,1,Asistencia médica,4
+O0118,1,Herramientas de trabajo,5
+O0118,1,Equipo de protección,6
+O0118,1,Comida,8
+O0118,2,Agua potable,2
+O0118,2,Servicio sanitario,3
+O0118,2,Asistencia médica,4
+O0118,2,Herramientas de trabajo,5
+O0118,2,Equipo de protección,6
+O0118,2,Comida,8
+O0119,1,Agua potable,2
+O0119,1,Servicio sanitario,3
+O0119,1,Asistencia médica,4
+O0119,1,Herramientas de trabajo,5
+O0119,1,Equipo de protección,6
+O0119,2,Vivienda,1
+O0119,2,Agua potable,2
+O0119,2,Servicio sanitario,3
+O0119,2,Asistencia médica,4
+O0119,2,Herramientas de trabajo,5
+O0119,2,Equipo de protección,6
+O0120,2,Asistencia médica,4
+O0120,2,Herramientas de trabajo,5
+O0120,2,Equipo de protección,6
+O0121,1,Agua potable,2
+O0121,1,Servicio sanitario,3
+O0121,1,Asistencia médica,4
+O0121,1,Herramientas de trabajo,5
+O0121,1,Equipo de protección,6
+O0121,2,Vivienda,1
+O0121,2,Agua potable,2
+O0121,2,Servicio sanitario,3
+O0121,2,Asistencia médica,4
+O0121,2,Herramientas de trabajo,5
+O0122,1,Servicio sanitario,3
+O0122,1,Asistencia médica,4
+O0122,1,Herramientas de trabajo,5
+O0122,1,Equipo de protección,6
+O0122,1,Transporte,7
+O0122,2,Servicio sanitario,3
+O0122,2,Herramientas de trabajo,5
+O0122,2,Equipo de protección,6
+O0123,1,Agua potable,2
+O0123,1,Servicio sanitario,3
+O0123,1,Asistencia médica,4
+O0123,1,Herramientas de trabajo,5
+O0123,1,Equipo de protección,6
+O0123,2,Agua potable,2
+O0123,2,Servicio sanitario,3
+O0123,2,Asistencia médica,4
+O0123,2,Herramientas de trabajo,5
+O0123,2,Equipo de protección,6
+O0124,1,Agua potable,2
+O0124,1,Servicio sanitario,3
+O0124,2,Vivienda,1
+O0124,2,Agua potable,2
+O0124,2,Servicio sanitario,3
+O0125,1,Agua potable,2
+O0125,1,Servicio sanitario,3
+O0125,1,Asistencia médica,4
+O0125,1,Herramientas de trabajo,5
+O0125,1,Equipo de protección,6
+O0125,2,Agua potable,2
+O0125,2,Servicio sanitario,3
+O0125,2,Asistencia médica,4
+O0125,2,Herramientas de trabajo,5
+O0125,2,Equipo de protección,6
+O0126,1,Agua potable,2
+O0126,1,Servicio sanitario,3
+O0126,2,Agua potable,2
+O0126,2,Servicio sanitario,3
+O0126,2,Asistencia médica,4
+O0126,2,Herramientas de trabajo,5
+O0126,2,Equipo de protección,6
+O0127,1,Agua potable,2
+O0127,1,Servicio sanitario,3
+O0127,1,Asistencia médica,4
+O0127,1,Herramientas de trabajo,5
+O0127,1,Equipo de protección,6
+O0127,2,Vivienda,1
+O0127,2,Agua potable,2
+O0127,2,Servicio sanitario,3
+O0127,2,Asistencia médica,4
+O0127,2,Herramientas de trabajo,5
+O0127,2,Equipo de protección,6
+O0128,1,Agua potable,2
+O0128,1,Servicio sanitario,3
+O0128,2,Agua potable,2
+O0128,2,Servicio sanitario,3
+O0129,1,Agua potable,2
+O0129,1,Servicio sanitario,3
+O0129,1,Equipo de protección,6
+O0129,1,Transporte,7
+O0129,2,Agua potable,2
+O0129,2,Servicio sanitario,3
+O0130,1,Agua potable,2
+O0130,1,Servicio sanitario,3
+O0130,1,Asistencia médica,4
+O0130,1,Herramientas de trabajo,5
+O0130,1,Equipo de protección,6
+O0130,1,Comida,8
+O0130,2,Agua potable,2
+O0130,2,Servicio sanitario,3
+O0130,2,Asistencia médica,4
+O0130,2,Herramientas de trabajo,5
+O0130,2,Equipo de protección,6
+O0130,2,Comida,8
+O0131,1,Vivienda,1
+O0131,1,Agua potable,2
+O0131,1,Servicio sanitario,3
+O0131,1,Asistencia médica,4
+O0131,1,Herramientas de trabajo,5
+O0131,1,Equipo de protección,6
+O0131,2,Vivienda,1
+O0131,2,Agua potable,2
+O0131,2,Servicio sanitario,3
+O0131,2,Asistencia médica,4
+O0131,2,Herramientas de trabajo,5
+O0131,2,Equipo de protección,6
+O0132,1,Ninguno,900
+O0132,2,Ninguno,900
+O0133,1,Vivienda,1
+O0133,1,Agua potable,2
+O0133,1,Servicio sanitario,3
+O0133,1,Herramientas de trabajo,5
+O0133,1,Transporte,7
+O0133,2,Vivienda,1
+O0133,2,Agua potable,2
+O0133,2,Servicio sanitario,3
+O0133,2,Equipo de protección,6
+O0134,1,Agua potable,2
+O0134,1,Servicio sanitario,3
+O0134,1,Asistencia médica,4
+O0134,1,Herramientas de trabajo,5
+O0134,1,Equipo de protección,6
+O0134,2,Vivienda,1
+O0134,2,Agua potable,2
+O0134,2,Servicio sanitario,3
+O0134,2,Asistencia médica,4
+O0134,2,Herramientas de trabajo,5
+O0134,2,Equipo de protección,6
+O0134,2,Transporte,7
+O0135,2,Vivienda,1
+O0135,2,Transporte,7
+O0136,1,Agua potable,2
+O0136,1,Servicio sanitario,3
+O0136,1,Asistencia médica,4
+O0136,1,Herramientas de trabajo,5
+O0136,1,Equipo de protección,6
+O0136,2,Agua potable,2
+O0136,2,Servicio sanitario,3
+O0136,2,Asistencia médica,4
+O0136,2,Herramientas de trabajo,5
+O0136,2,Equipo de protección,6
+O0137,1,Agua potable,2
+O0137,1,Servicio sanitario,3
+O0137,1,Asistencia médica,4
+O0137,1,Herramientas de trabajo,5
+O0137,1,Equipo de protección,6
+O0137,1,Comida,8
+O0137,2,Agua potable,2
+O0137,2,Servicio sanitario,3
+O0137,2,Asistencia médica,4
+O0137,2,Herramientas de trabajo,5
+O0137,2,Equipo de protección,6
+O0138,1,Servicio sanitario,3
+O0138,2,Servicio sanitario,3
+O0139,1,Agua potable,2
+O0139,1,Servicio sanitario,3
+O0139,1,Equipo de protección,6
+O0139,2,Agua potable,2
+O0139,2,Servicio sanitario,3
+O0140,1,Ninguno,900
+O0140,2,Agua potable,2
+O0140,2,Equipo de protección,6
+O0141,1,Agua potable,2
+O0141,1,Servicio sanitario,3
+O0141,1,Comida,8
+O0141,2,Agua potable,2
+O0141,2,Servicio sanitario,3
+O0142,1,Vivienda,1
+O0142,1,Servicio sanitario,3
+O0142,1,Asistencia médica,4
+O0142,1,Herramientas de trabajo,5
+O0142,1,Equipo de protección,6
+O0142,2,Vivienda,1
+O0142,2,Agua potable,2
+O0142,2,Servicio sanitario,3
+O0142,2,Asistencia médica,4
+O0142,2,Equipo de protección,6
+O0143,1,Agua potable,2
+O0143,1,Servicio sanitario,3
+O0143,1,Asistencia médica,4
+O0143,1,Herramientas de trabajo,5
+O0143,1,Equipo de protección,6
+O0143,2,Vivienda,1
+O0143,2,Agua potable,2
+O0143,2,Asistencia médica,4
+O0143,2,Herramientas de trabajo,5
+O0143,2,Equipo de protección,6
+O0144,1,Agua potable,2
+O0144,1,Servicio sanitario,3
+O0144,1,Asistencia médica,4
+O0144,1,Herramientas de trabajo,5
+O0144,1,Equipo de protección,6
+O0144,1,Comida,8
+O0144,2,Servicio sanitario,3
+O0144,2,Asistencia médica,4
+O0144,2,Herramientas de trabajo,5
+O0144,2,Equipo de protección,6
+O0145,1,Servicio sanitario,3
+O0145,2,Servicio sanitario,3
+O0145,2,Asistencia médica,4
+O0145,2,Herramientas de trabajo,5
+O0145,2,Equipo de protección,6
+O0145,2,Comida,8
+O0146,2,Asistencia médica,4
+O0146,2,Herramientas de trabajo,5
+O0147,1,Servicio sanitario,3
+O0147,1,Asistencia médica,4
+O0147,1,Herramientas de trabajo,5
+O0147,1,Equipo de protección,6
+O0147,2,Servicio sanitario,3
+O0147,2,Asistencia médica,4
+O0147,2,Herramientas de trabajo,5
+O0147,2,Equipo de protección,6
+O0148,1,Agua potable,2
+O0148,1,Asistencia médica,4
+O0148,1,Herramientas de trabajo,5
+O0148,1,Equipo de protección,6
+O0148,2,Vivienda,1
+O0148,2,Agua potable,2
+O0148,2,Asistencia médica,4
+O0148,2,Herramientas de trabajo,5
+O0148,2,Equipo de protección,6
+O0149,1,Servicio sanitario,3
+O0149,1,Asistencia médica,4
+O0149,1,Herramientas de trabajo,5
+O0149,1,Equipo de protección,6
+O0149,1,Transporte,7
+O0149,2,Servicio sanitario,3
+O0149,2,Asistencia médica,4
+O0149,2,Herramientas de trabajo,5
+O0149,2,Equipo de protección,6
+O0150,1,Agua potable,2
+O0150,1,Servicio sanitario,3
+O0150,1,Equipo de protección,6
+O0150,2,Vivienda,1
+O0150,2,Agua potable,2
+O0150,2,Servicio sanitario,3
+O0150,2,Asistencia médica,4
+O0150,2,Herramientas de trabajo,5
+O0150,2,Equipo de protección,6
+O0151,1,Agua potable,2
+O0151,1,Servicio sanitario,3
+O0151,1,Asistencia médica,4
+O0151,1,Herramientas de trabajo,5
+O0151,1,Equipo de protección,6
+O0151,1,Comida,8
+O0151,2,Servicio sanitario,3
+O0151,2,Asistencia médica,4
+O0151,2,Herramientas de trabajo,5
+O0151,2,Equipo de protección,6
+O0151,2,Comida,8
+O0152,1,Agua potable,2
+O0152,1,Servicio sanitario,3
+O0152,1,Asistencia médica,4
+O0152,1,Herramientas de trabajo,5
+O0152,1,Equipo de protección,6
+O0152,2,Vivienda,1
+O0152,2,Agua potable,2
+O0152,2,Servicio sanitario,3
+O0152,2,Asistencia médica,4
+O0152,2,Herramientas de trabajo,5
+O0152,2,Equipo de protección,6
+O0153,1,Agua potable,2
+O0153,1,Servicio sanitario,3
+O0153,1,Equipo de protección,6
+O0153,2,Agua potable,2
+O0153,2,Servicio sanitario,3
+O0153,2,Herramientas de trabajo,5
+O0153,2,Equipo de protección,6
+O0154,2,Agua potable,2
+O0154,2,Servicio sanitario,3
+O0154,2,Asistencia médica,4
+O0154,2,Herramientas de trabajo,5
+O0154,2,Equipo de protección,6
+O0155,1,Ninguno,900
+O0155,2,Agua potable,2
+O0155,2,Servicio sanitario,3
+O0156,1,Agua potable,2
+O0156,1,Servicio sanitario,3
+O0156,1,Asistencia médica,4
+O0156,1,Herramientas de trabajo,5
+O0156,1,Equipo de protección,6
+O0156,1,Transporte,7
+O0156,2,Vivienda,1
+O0156,2,Agua potable,2
+O0156,2,Servicio sanitario,3
+O0156,2,Asistencia médica,4
+O0156,2,Herramientas de trabajo,5
+O0156,2,Equipo de protección,6
+O0157,1,Agua potable,2
+O0157,1,Servicio sanitario,3
+O0157,1,Asistencia médica,4
+O0157,1,Herramientas de trabajo,5
+O0157,1,Equipo de protección,6
+O0157,2,Agua potable,2
+O0157,2,Herramientas de trabajo,5
+O0157,2,Equipo de protección,6
+O0158,2,Equipo de protección,6
+O0159,1,Agua potable,2
+O0159,1,Servicio sanitario,3
+O0159,1,Asistencia médica,4
+O0159,1,Herramientas de trabajo,5
+O0159,1,Equipo de protección,6
+O0159,1,Transporte,7
+O0159,1,Comida,8
+O0159,2,Ninguno,900
+O0160,1,Agua potable,2
+O0160,1,Servicio sanitario,3
+O0160,1,Asistencia médica,4
+O0160,1,Equipo de protección,6
+O0160,2,Agua potable,2
+O0160,2,Servicio sanitario,3
+O0160,2,Asistencia médica,4
+O0160,2,Equipo de protección,6
+O0161,1,Agua potable,2
+O0161,1,Servicio sanitario,3
+O0161,1,Asistencia médica,4
+O0161,1,Herramientas de trabajo,5
+O0161,1,Equipo de protección,6
+O0161,2,Agua potable,2
+O0161,2,Servicio sanitario,3
+O0161,2,Asistencia médica,4
+O0161,2,Herramientas de trabajo,5
+O0161,2,Equipo de protección,6
+O0162,1,Agua potable,2
+O0162,1,Servicio sanitario,3
+O0162,1,Herramientas de trabajo,5
+O0162,1,Equipo de protección,6
+O0162,1,Transporte,7
+O0162,1,Comida,8
+O0162,2,Agua potable,2
+O0162,2,Servicio sanitario,3
+O0162,2,Herramientas de trabajo,5
+O0162,2,Equipo de protección,6
+O0162,2,Transporte,7
+O0162,2,Comida,8
+O0163,1,Ninguno,900
+O0163,2,Ninguno,900
+O0164,1,Agua potable,2
+O0164,1,Servicio sanitario,3
+O0164,1,Asistencia médica,4
+O0164,1,Comida,8
+O0164,2,Agua potable,2
+O0164,2,Servicio sanitario,3
+O0164,2,Asistencia médica,4
+O0164,2,Comida,8
+O0165,1,Agua potable,2
+O0165,1,Servicio sanitario,3
+O0165,1,Asistencia médica,4
+O0165,1,Herramientas de trabajo,5
+O0165,1,Equipo de protección,6
+O0165,2,Agua potable,2
+O0165,2,Servicio sanitario,3
+O0165,2,Asistencia médica,4
+O0165,2,Herramientas de trabajo,5
+O0165,2,Equipo de protección,6
+O0165,2,Transporte,7
+O0166,1,Equipo de protección,6
+O0166,2,Agua potable,2
+O0166,2,Servicio sanitario,3
+O0166,2,Asistencia médica,4
+O0166,2,Herramientas de trabajo,5
+O0166,2,Equipo de protección,6
+O0167,1,Servicio sanitario,3
+O0167,1,Asistencia médica,4
+O0167,1,Herramientas de trabajo,5
+O0167,1,Equipo de protección,6
+O0167,2,Servicio sanitario,3
+O0167,2,Asistencia médica,4
+O0167,2,Herramientas de trabajo,5
+O0167,2,Equipo de protección,6
+O0168,1,Agua potable,2
+O0168,1,Servicio sanitario,3
+O0168,1,Herramientas de trabajo,5
+O0168,1,Equipo de protección,6
+O0168,2,Agua potable,2
+O0168,2,Servicio sanitario,3
+O0168,2,Herramientas de trabajo,5
+O0168,2,Equipo de protección,6
+O0169,1,Agua potable,2
+O0169,1,Servicio sanitario,3
+O0169,1,Herramientas de trabajo,5
+O0169,1,Equipo de protección,6
+O0169,1,Comida,8
+O0169,2,Agua potable,2
+O0169,2,Servicio sanitario,3
+O0169,2,Herramientas de trabajo,5
+O0169,2,Equipo de protección,6
+O0170,1,Agua potable,2
+O0170,1,Servicio sanitario,3
+O0170,1,Asistencia médica,4
+O0170,1,Herramientas de trabajo,5
+O0170,1,Equipo de protección,6
+O0170,1,Transporte,7
+O0170,2,Servicio sanitario,3
+O0170,2,Asistencia médica,4
+O0170,2,Herramientas de trabajo,5
+O0170,2,Equipo de protección,6
+O0171,1,Servicio sanitario,3
+O0171,2,Servicio sanitario,3
+O0172,1,Agua potable,2
+O0172,1,Servicio sanitario,3
+O0172,1,Asistencia médica,4
+O0172,1,Herramientas de trabajo,5
+O0172,1,Equipo de protección,6
+O0172,2,Agua potable,2
+O0172,2,Servicio sanitario,3
+O0172,2,Asistencia médica,4
+O0172,2,Herramientas de trabajo,5
+O0172,2,Equipo de protección,6
+O0173,1,Agua potable,2
+O0173,1,Servicio sanitario,3
+O0173,1,Equipo de protección,6
+O0173,2,Agua potable,2
+O0173,2,Servicio sanitario,3
+O0173,2,Asistencia médica,4
+O0173,2,Herramientas de trabajo,5
+O0173,2,Equipo de protección,6
+O0174,1,Agua potable,2
+O0174,1,Servicio sanitario,3
+O0174,1,Asistencia médica,4
+O0174,1,Herramientas de trabajo,5
+O0174,1,Equipo de protección,6
+O0174,2,Agua potable,2
+O0174,2,Servicio sanitario,3
+O0174,2,Asistencia médica,4
+O0174,2,Herramientas de trabajo,5
+O0174,2,Equipo de protección,6
+O0175,1,Agua potable,2
+O0175,1,Servicio sanitario,3
+O0175,1,Asistencia médica,4
+O0175,1,Herramientas de trabajo,5
+O0175,1,Equipo de protección,6
+O0175,2,Agua potable,2
+O0175,2,Servicio sanitario,3
+O0175,2,Asistencia médica,4
+O0175,2,Herramientas de trabajo,5
+O0175,2,Equipo de protección,6
+O0176,1,Agua potable,2
+O0176,1,Servicio sanitario,3
+O0176,1,Asistencia médica,4
+O0176,1,Herramientas de trabajo,5
+O0176,1,Equipo de protección,6
+O0176,2,Agua potable,2
+O0176,2,Servicio sanitario,3
+O0176,2,Asistencia médica,4
+O0176,2,Herramientas de trabajo,5
+O0176,2,Equipo de protección,6
+O0177,1,Agua potable,2
+O0177,1,Servicio sanitario,3
+O0177,1,Asistencia médica,4
+O0177,1,Herramientas de trabajo,5
+O0177,1,Equipo de protección,6
+O0177,2,Agua potable,2
+O0177,2,Asistencia médica,4
+O0177,2,Herramientas de trabajo,5
+O0177,2,Equipo de protección,6
+O0178,1,Agua potable,2
+O0178,1,Servicio sanitario,3
+O0178,1,Asistencia médica,4
+O0178,1,Herramientas de trabajo,5
+O0178,1,Comida,8
+O0178,2,Agua potable,2
+O0178,2,Servicio sanitario,3
+O0178,2,Asistencia médica,4
+O0178,2,Herramientas de trabajo,5
+O0178,2,Comida,8
+O0179,1,Servicio sanitario,3
+O0179,1,Asistencia médica,4
+O0179,2,Servicio sanitario,3
+O0179,2,Asistencia médica,4
+O0180,1,Agua potable,2
+O0180,1,Servicio sanitario,3
+O0180,1,Asistencia médica,4
+O0180,1,Equipo de protección,6
+O0180,2,Vivienda,1
+O0180,2,Agua potable,2
+O0180,2,Servicio sanitario,3
+O0180,2,Asistencia médica,4
+O0180,2,Herramientas de trabajo,5
+O0180,2,Equipo de protección,6
+O0180,2,Transporte,7
+O0180,2,Comida,8
+O0180,3,Agua potable,2
+O0180,3,Servicio sanitario,3
+O0180,3,Asistencia médica,4
+O0180,3,Herramientas de trabajo,5
+O0180,3,Equipo de protección,6
+O0180,3,Comida,8
+O0181,1,Agua potable,2
+O0181,1,Comida,8
+O0181,2,Agua potable,2
+O0181,2,Servicio sanitario,3
+O0181,2,Asistencia médica,4
+O0181,2,Comida,8
+O0182,1,Agua potable,2
+O0182,1,Servicio sanitario,3
+O0182,1,Asistencia médica,4
+O0182,1,Herramientas de trabajo,5
+O0182,1,Equipo de protección,6
+O0182,2,Agua potable,2
+O0182,2,Servicio sanitario,3
+O0182,2,Asistencia médica,4
+O0182,2,Herramientas de trabajo,5
+O0182,2,Equipo de protección,6
+O0183,1,Agua potable,2
+O0183,1,Servicio sanitario,3
+O0183,1,Asistencia médica,4
+O0183,1,Herramientas de trabajo,5
+O0183,1,Equipo de protección,6
+O0183,2,Agua potable,2
+O0183,2,Servicio sanitario,3
+O0183,2,Asistencia médica,4
+O0183,2,Equipo de protección,6
+O0184,1,Servicio sanitario,3
+O0184,1,Asistencia médica,4
+O0184,2,Agua potable,2
+O0184,2,Servicio sanitario,3
+O0184,2,Asistencia médica,4
+O0184,2,Herramientas de trabajo,5
+O0184,2,Equipo de protección,6
+O0185,1,Equipo de protección,6
+O0185,2,Agua potable,2
+O0185,2,Equipo de protección,6
+O0186,1,Agua potable,2
+O0186,1,Servicio sanitario,3
+O0186,1,Asistencia médica,4
+O0186,1,Herramientas de trabajo,5
+O0186,1,Equipo de protección,6
+O0186,2,Agua potable,2
+O0186,2,Servicio sanitario,3
+O0186,2,Asistencia médica,4
+O0186,2,Herramientas de trabajo,5
+O0186,2,Equipo de protección,6
+O0186,3,Agua potable,2
+O0186,3,Servicio sanitario,3
+O0186,3,Asistencia médica,4
+O0186,3,Herramientas de trabajo,5
+O0186,3,Equipo de protección,6
+O0187,1,Vivienda,1
+O0187,1,Agua potable,2
+O0187,1,Servicio sanitario,3
+O0187,1,Asistencia médica,4
+O0187,1,Herramientas de trabajo,5
+O0187,1,Equipo de protección,6
+O0187,2,Vivienda,1
+O0187,2,Agua potable,2
+O0187,2,Servicio sanitario,3
+O0187,2,Asistencia médica,4
+O0187,2,Herramientas de trabajo,5
+O0187,2,Equipo de protección,6
+O0188,1,Servicio sanitario,3
+O0188,1,Asistencia médica,4
+O0188,1,Herramientas de trabajo,5
+O0188,2,Agua potable,2
+O0188,2,Servicio sanitario,3
+O0188,2,Asistencia médica,4
+O0188,2,Herramientas de trabajo,5
+O0189,1,Agua potable,2
+O0189,1,Servicio sanitario,3
+O0189,1,Herramientas de trabajo,5
+O0189,1,Equipo de protección,6
+O0189,2,Agua potable,2
+O0189,2,Servicio sanitario,3
+O0189,2,Asistencia médica,4
+O0189,2,Herramientas de trabajo,5
+O0189,2,Equipo de protección,6
+O0190,1,Agua potable,2
+O0190,1,Servicio sanitario,3
+O0190,1,Asistencia médica,4
+O0190,1,Herramientas de trabajo,5
+O0190,1,Equipo de protección,6
+O0190,1,Transporte,7
+O0190,2,Agua potable,2
+O0190,2,Servicio sanitario,3
+O0190,2,Asistencia médica,4
+O0190,2,Herramientas de trabajo,5
+O0190,2,Equipo de protección,6
+O0190,2,Transporte,7
+O0191,1,Agua potable,2
+O0191,1,Servicio sanitario,3
+O0191,1,Asistencia médica,4
+O0191,1,Herramientas de trabajo,5
+O0191,1,Comida,8
+O0191,2,Agua potable,2
+O0191,2,Servicio sanitario,3
+O0191,2,Asistencia médica,4
+O0191,2,Equipo de protección,6
+O0191,2,Comida,8
+O0191,3,Vivienda,1
+O0191,3,Agua potable,2
+O0191,3,Servicio sanitario,3
+O0191,3,Asistencia médica,4
+O0191,3,Herramientas de trabajo,5
+O0191,3,Equipo de protección,6
+O0191,3,Transporte,7
+O0191,3,Comida,8
+O0192,1,Servicio sanitario,3
+O0192,1,Asistencia médica,4
+O0192,1,Equipo de protección,6
+O0192,2,Agua potable,2
+O0192,2,Servicio sanitario,3
+O0192,2,Equipo de protección,6
+O0193,1,Servicio sanitario,3
+O0193,1,Asistencia médica,4
+O0193,1,Herramientas de trabajo,5
+O0193,1,Equipo de protección,6
+O0193,2,Agua potable,2
+O0193,2,Servicio sanitario,3
+O0193,2,Asistencia médica,4
+O0193,2,Herramientas de trabajo,5
+O0193,2,Equipo de protección,6
+O0194,1,Ninguno,900
+O0194,2,Ninguno,900
+O0195,1,Ninguno,900
+O0195,2,Ninguno,900
+O0196,1,Ninguno,900
+O0196,2,Ninguno,900
+O0197,2,Vivienda,1
+O0197,2,Agua potable,2
+O0197,2,Servicio sanitario,3
+O0197,2,Asistencia médica,4
+O0197,2,Herramientas de trabajo,5
+O0197,2,Equipo de protección,6
+O0197,2,Transporte,7
+O0198,1,Ninguno,900
+O0198,2,Agua potable,2
+O0198,2,Servicio sanitario,3
+O0198,2,Herramientas de trabajo,5
+O0198,2,Equipo de protección,6
+O0199,1,Agua potable,2
+O0199,1,Servicio sanitario,3
+O0199,1,Comida,8
+O0199,2,Agua potable,2
+O0199,2,Servicio sanitario,3
+O0199,2,Asistencia médica,4
+O0199,2,Herramientas de trabajo,5
+O0199,2,Equipo de protección,6
+O0200,2,Servicio sanitario,3
+O0201,1,Servicio sanitario,3
+O0201,1,Asistencia médica,4
+O0201,1,Herramientas de trabajo,5
+O0201,1,Equipo de protección,6
+O0201,2,Agua potable,2
+O0201,2,Servicio sanitario,3
+O0201,2,Asistencia médica,4
+O0201,2,Equipo de protección,6
+O0202,1,Agua potable,2
+O0202,1,Servicio sanitario,3
+O0202,1,Asistencia médica,4
+O0202,1,Herramientas de trabajo,5
+O0202,2,Agua potable,2
+O0202,2,Servicio sanitario,3
+O0202,2,Asistencia médica,4
+O0202,2,Herramientas de trabajo,5
+O0202,2,Equipo de protección,6
+O0203,1,Agua potable,2
+O0203,1,Servicio sanitario,3
+O0203,1,Asistencia médica,4
+O0203,1,Herramientas de trabajo,5
+O0203,1,Equipo de protección,6
+O0203,2,Vivienda,1
+O0203,2,Agua potable,2
+O0203,2,Servicio sanitario,3
+O0203,2,Asistencia médica,4
+O0203,2,Herramientas de trabajo,5
+O0203,2,Equipo de protección,6
+O0204,1,Agua potable,2
+O0204,1,Servicio sanitario,3
+O0204,1,Asistencia médica,4
+O0204,1,Herramientas de trabajo,5
+O0204,1,Equipo de protección,6
+O0204,2,Agua potable,2
+O0204,2,Servicio sanitario,3
+O0204,2,Asistencia médica,4
+O0204,2,Herramientas de trabajo,5
+O0204,2,Equipo de protección,6
+O0205,1,Agua potable,2
+O0205,1,Servicio sanitario,3
+O0205,1,Asistencia médica,4
+O0205,1,Herramientas de trabajo,5
+O0205,1,Equipo de protección,6
+O0205,2,Agua potable,2
+O0205,2,Servicio sanitario,3
+O0205,2,Asistencia médica,4
+O0205,2,Herramientas de trabajo,5
+O0205,2,Equipo de protección,6
+O0205,3,Vivienda,1
+O0205,3,Agua potable,2
+O0205,3,Servicio sanitario,3
+O0205,3,Asistencia médica,4
+O0205,3,Herramientas de trabajo,5
+O0205,3,Equipo de protección,6
+O0205,3,Transporte,7
+O0206,1,Servicio sanitario,3
+O0206,1,Asistencia médica,4
+O0206,1,Herramientas de trabajo,5
+O0206,2,Ninguno,900
+O0207,1,Agua potable,2
+O0207,1,Servicio sanitario,3
+O0207,1,Asistencia médica,4
+O0207,1,Equipo de protección,6
+O0207,1,Transporte,7
+O0207,2,Agua potable,2
+O0207,2,Servicio sanitario,3
+O0207,2,Asistencia médica,4
+O0207,2,Herramientas de trabajo,5
+O0207,2,Equipo de protección,6
+O0208,1,Agua potable,2
+O0208,1,Servicio sanitario,3
+O0208,1,Asistencia médica,4
+O0208,1,Herramientas de trabajo,5
+O0208,1,Equipo de protección,6
+O0208,2,Agua potable,2
+O0208,2,Servicio sanitario,3
+O0208,2,Asistencia médica,4
+O0208,2,Herramientas de trabajo,5
+O0208,2,Equipo de protección,6
+O0209,1,Servicio sanitario,3
+O0209,1,Asistencia médica,4
+O0209,1,Herramientas de trabajo,5
+O0209,1,Equipo de protección,6
+O0209,2,Agua potable,2
+O0209,2,Servicio sanitario,3
+O0209,2,Asistencia médica,4
+O0209,2,Herramientas de trabajo,5
+O0209,2,Equipo de protección,6
+O0210,1,Servicio sanitario,3
+O0210,2,Vivienda,1
+O0210,2,Servicio sanitario,3
+O0211,1,Herramientas de trabajo,5
+O0211,1,Equipo de protección,6
+O0211,2,Herramientas de trabajo,5
+O0211,2,Equipo de protección,6
+O0212,1,Agua potable,2
+O0212,1,Servicio sanitario,3
+O0212,1,Equipo de protección,6
+O0212,2,Agua potable,2
+O0212,2,Servicio sanitario,3
+O0212,2,Herramientas de trabajo,5
+O0212,2,Equipo de protección,6
+O0213,1,Agua potable,2
+O0213,1,Servicio sanitario,3
+O0213,1,Asistencia médica,4
+O0213,1,Herramientas de trabajo,5
+O0213,1,Equipo de protección,6
+O0213,1,Comida,8
+O0213,2,Equipo de protección,6
+O0214,1,Servicio sanitario,3
+O0214,1,Asistencia médica,4
+O0214,1,Equipo de protección,6
+O0214,2,Vivienda,1
+O0214,2,Servicio sanitario,3
+O0214,2,Asistencia médica,4
+O0214,2,Equipo de protección,6
+O0215,1,Agua potable,2
+O0215,1,Servicio sanitario,3
+O0215,1,Asistencia médica,4
+O0215,1,Herramientas de trabajo,5
+O0215,1,Transporte,7
+O0215,2,Agua potable,2
+O0215,2,Servicio sanitario,3
+O0215,2,Asistencia médica,4
+O0215,2,Herramientas de trabajo,5
+O0215,2,Equipo de protección,6
+O0216,1,Agua potable,2
+O0216,1,Servicio sanitario,3
+O0216,1,Asistencia médica,4
+O0216,1,Herramientas de trabajo,5
+O0216,1,Equipo de protección,6
+O0216,2,Agua potable,2
+O0216,2,Servicio sanitario,3
+O0216,2,Asistencia médica,4
+O0216,2,Herramientas de trabajo,5
+O0216,2,Equipo de protección,6
+O0217,1,Agua potable,2
+O0217,1,Servicio sanitario,3
+O0217,1,Asistencia médica,4
+O0217,1,Herramientas de trabajo,5
+O0217,1,Equipo de protección,6
+O0217,2,Agua potable,2
+O0217,2,Servicio sanitario,3
+O0217,2,Asistencia médica,4
+O0217,2,Herramientas de trabajo,5
+O0217,2,Equipo de protección,6
+O0217,2,Transporte,7
+O0218,1,Agua potable,2
+O0218,1,Servicio sanitario,3
+O0218,1,Asistencia médica,4
+O0218,1,Herramientas de trabajo,5
+O0218,1,Transporte,7
+O0218,2,Agua potable,2
+O0218,2,Comida,8
+O0219,1,Agua potable,2
+O0219,1,Herramientas de trabajo,5
+O0219,2,Agua potable,2
+O0219,2,Herramientas de trabajo,5
+O0219,2,Comida,8
+O0220,1,Ninguno,900
+O0220,2,Ninguno,900
+O0221,1,Agua potable,2
+O0221,2,Agua potable,2
+O0222,1,Vivienda,1
+O0222,2,Vivienda,1
+O0222,3,Vivienda,1
+O0223,2,Comida,8
+O0224,1,Servicio sanitario,3
+O0224,1,Asistencia médica,4
+O0224,1,Herramientas de trabajo,5
+O0224,1,Equipo de protección,6
+O0224,1,Transporte,7
+O0224,1,Comida,8
+O0224,2,Servicio sanitario,3
+O0224,2,Asistencia médica,4
+O0224,2,Herramientas de trabajo,5
+O0224,2,Equipo de protección,6
+O0224,2,Transporte,7
+O0224,2,Comida,8
+O0225,1,Ninguno,900
+O0225,2,Ninguno,900
+O0226,1,Agua potable,2
+O0226,1,Servicio sanitario,3
+O0226,1,Herramientas de trabajo,5
+O0226,1,Equipo de protección,6
+O0226,2,Agua potable,2
+O0226,2,Servicio sanitario,3
+O0226,2,Asistencia médica,4
+O0226,2,Herramientas de trabajo,5
+O0226,2,Equipo de protección,6
+O0227,2,Agua potable,2
+O0227,2,Herramientas de trabajo,5
+O0228,1,Agua potable,2
+O0228,1,Comida,8
+O0228,2,Agua potable,2
+O0228,2,Comida,8
+O0229,2,Ninguno,900
+O0230,2,Agua potable,2
+O0231,1,Agua potable,2
+O0231,1,Servicio sanitario,3
+O0231,1,Asistencia médica,4
+O0231,2,Vivienda,1
+O0231,2,Agua potable,2
+O0231,2,Servicio sanitario,3
+O0232,1,Agua potable,2
+O0232,1,Asistencia médica,4
+O0232,1,Herramientas de trabajo,5
+O0232,1,Equipo de protección,6
+O0232,1,Transporte,7
+O0232,2,Agua potable,2
+O0232,2,Servicio sanitario,3
+O0232,2,Asistencia médica,4
+O0232,2,Herramientas de trabajo,5
+O0232,2,Transporte,7
+O0233,1,Herramientas de trabajo,5
+O0233,2,Herramientas de trabajo,5
+O0234,1,Vivienda,1
+O0234,1,Agua potable,2
+O0234,1,Servicio sanitario,3
+O0234,1,Asistencia médica,4
+O0234,1,Herramientas de trabajo,5
+O0234,1,Equipo de protección,6
+O0234,2,Agua potable,2
+O0234,2,Herramientas de trabajo,5
+O0234,2,Equipo de protección,6
+O0235,2,Transporte,7
+O0236,2,Ninguno,900
+O0237,1,Agua potable,2
+O0237,1,Servicio sanitario,3
+O0237,1,Asistencia médica,4
+O0237,1,Herramientas de trabajo,5
+O0237,1,Equipo de protección,6
+O0237,2,Ninguno,900
+O0238,2,Transporte,7
+O0239,2,Herramientas de trabajo,5
+O0239,2,Comida,8
+O0240,1,Agua potable,2
+O0240,1,Servicio sanitario,3
+O0240,1,Asistencia médica,4
+O0240,1,Herramientas de trabajo,5
+O0240,1,Equipo de protección,6
+O0240,1,Comida,8
+O0240,2,Agua potable,2
+O0240,2,Servicio sanitario,3
+O0240,2,Asistencia médica,4
+O0240,2,Herramientas de trabajo,5
+O0240,2,Equipo de protección,6
+O0240,2,Comida,8
+O0241,1,Asistencia médica,4
+O0241,1,Equipo de protección,6
+O0241,1,Transporte,7
+O0241,2,Asistencia médica,4
+O0241,2,Equipo de protección,6
+O0241,2,Transporte,7
+O0242,1,Vivienda,1
+O0242,1,Servicio sanitario,3
+O0242,1,Asistencia médica,4
+O0242,1,Herramientas de trabajo,5
+O0242,1,Equipo de protección,6
+O0242,2,Agua potable,2
+O0242,2,Servicio sanitario,3
+O0243,1,Ninguno,900
+O0243,2,Herramientas de trabajo,5
+O0244,1,Vivienda,1
+O0244,1,Agua potable,2
+O0244,1,Servicio sanitario,3
+O0244,1,Asistencia médica,4
+O0244,1,Herramientas de trabajo,5
+O0244,1,Equipo de protección,6
+O0244,1,Transporte,7
+O0244,1,Comida,8
+O0244,2,Agua potable,2
+O0244,2,Servicio sanitario,3
+O0244,2,Asistencia médica,4
+O0244,2,Herramientas de trabajo,5
+O0244,2,Equipo de protección,6
+O0244,2,Comida,8
+O0245,1,Agua potable,2
+O0245,2,Transporte,7
+O0246,2,Ninguno,900
+O0247,1,Ninguno,900
+O0247,2,Ninguno,900
+O0248,2,Agua potable,2
+O0248,2,Comida,8
+O0249,1,Vivienda,1
+O0249,2,Agua potable,2
+O0249,2,Comida,8
+O0250,1,Ninguno,900
+O0250,2,Vivienda,1
+O0251,1,Ninguno,900
+O0251,2,Ninguno,900
+O0252,1,Ninguno,900
+O0252,2,Ninguno,900
+O0253,1,Agua potable,2
+O0253,1,Servicio sanitario,3
+O0253,1,Herramientas de trabajo,5
+O0253,1,Equipo de protección,6
+O0253,1,Comida,8
+O0253,2,Agua potable,2
+O0253,2,Servicio sanitario,3
+O0253,2,Herramientas de trabajo,5
+O0253,2,Equipo de protección,6
+O0253,2,Comida,8
+O0254,1,Equipo de protección,6
+O0254,1,Comida,8
+O0254,2,Equipo de protección,6
+O0254,2,Comida,8
+O0255,1,Ninguno,900
+O0255,2,Agua potable,2
+O0256,1,Agua potable,2
+O0256,1,Transporte,7
+O0256,1,Comida,8
+O0256,2,Agua potable,2
+O0257,2,Agua potable,2
+O0257,2,Comida,8
+O0258,1,Vivienda,1
+O0258,1,Agua potable,2
+O0258,2,Vivienda,1
+O0259,1,Vivienda,1
+O0259,2,Vivienda,1
+O0260,2,Agua potable,2
+O0260,2,Transporte,7
+O0260,2,Comida,8
+O0261,1,Agua potable,2
+O0261,2,Agua potable,2
+O0261,2,Servicio sanitario,3
+O0261,2,Herramientas de trabajo,5
+O0261,2,Equipo de protección,6
+O0261,2,Transporte,7
+O0261,2,Comida,8
+O0262,1,Vivienda,1
+O0262,2,Agua potable,2
+O0262,2,Servicio sanitario,3
+O0263,1,Agua potable,2
+O0263,1,Transporte,7
+O0263,1,Comida,8
+O0263,2,Agua potable,2
+O0263,2,Transporte,7
+O0263,2,Comida,8
+O0264,2,Vivienda,1
+O0265,1,Vivienda,1
+O0265,1,Agua potable,2
+O0265,1,Servicio sanitario,3
+O0265,1,Transporte,7
+O0265,1,Comida,8
+O0265,2,Vivienda,1
+O0265,2,Agua potable,2
+O0265,2,Servicio sanitario,3
+O0265,2,Transporte,7
+O0265,2,Comida,8
+O0266,1,Comida,8
+O0266,2,Comida,8
+O0267,1,Servicio sanitario,3
+O0267,2,Agua potable,2
+O0268,1,Transporte,7
+O0268,1,Comida,8
+O0268,2,Transporte,7
+O0268,2,Comida,8
+O0269,1,Agua potable,2
+O0269,1,Transporte,7
+O0269,2,Agua potable,2
+O0269,2,Equipo de protección,6
+O0269,2,Transporte,7
+O0270,1,Asistencia médica,4
+O0270,1,Equipo de protección,6
+O0270,1,Transporte,7
+O0270,2,Vivienda,1
+O0270,2,Agua potable,2
+O0270,2,Servicio sanitario,3
+O0270,2,Asistencia médica,4
+O0270,2,Herramientas de trabajo,5
+O0270,2,Equipo de protección,6
+O0271,1,Agua potable,2
+O0271,1,Transporte,7
+O0271,2,Agua potable,2
+O0271,2,Transporte,7
+O0272,2,Asistencia médica,4
+O0272,2,Comida,8
+O0273,1,Ninguno,900
+O0273,2,Ninguno,900
+O0274,2,No responde,999
+O0275,1,Otro,980
+O0275,2,Otro,980
+O0276,1,Agua potable,2
+O0276,1,Servicio sanitario,3
+O0276,2,Agua potable,2
+O0277,1,Agua potable,2
+O0277,1,Comida,8
+O0277,2,Agua potable,2
+O0277,2,Comida,8
+O0278,2,Vivienda,1
+O0279,1,Ninguno,900
+O0279,2,Ninguno,900
+O0280,1,Agua potable,2
+O0280,1,Transporte,7
+O0280,2,Ninguno,900
+O0281,1,Agua potable,2
+O0281,2,Agua potable,2
+O0281,2,Comida,8
+O0282,1,Agua potable,2
+O0282,1,Comida,8
+O0282,2,Agua potable,2
+O0282,2,Comida,8
+O0283,2,Ninguno,900
+O0284,2,Agua potable,2
+O0285,1,Agua potable,2
+O0285,2,Agua potable,2
+O0286,1,Ninguno,900
+O0286,2,Ninguno,900
+O0287,1,Ninguno,900
+O0287,2,Ninguno,900
+O0288,1,Vivienda,1
+O0288,2,Vivienda,1
+O0289,1,Agua potable,2
+O0289,1,Servicio sanitario,3
+O0289,1,Asistencia médica,4
+O0289,1,Herramientas de trabajo,5
+O0289,2,Agua potable,2
+O0289,2,Servicio sanitario,3
+O0289,2,Asistencia médica,4
+O0289,2,Herramientas de trabajo,5
+O0289,2,Equipo de protección,6
+O0289,2,Comida,8
+O0290,2,Agua potable,2
+O0291,1,Agua potable,2
+O0291,2,Agua potable,2
+O0292,2,Ninguno,900
+O0293,1,Agua potable,2
+O0293,1,Servicio sanitario,3
+O0293,1,Asistencia médica,4
+O0293,1,Equipo de protección,6
+O0293,1,Comida,8
+O0293,2,Agua potable,2
+O0293,2,Asistencia médica,4
+O0293,2,Herramientas de trabajo,5
+O0293,2,Equipo de protección,6
+O0293,2,Comida,8
+O0294,1,Asistencia médica,4
+O0294,2,Asistencia médica,4
+O0295,1,Asistencia médica,4
+O0295,1,Herramientas de trabajo,5
+O0295,1,Comida,8
+O0295,2,Asistencia médica,4
+O0296,1,Agua potable,2
+O0296,1,Servicio sanitario,3
+O0296,1,Asistencia médica,4
+O0296,1,Equipo de protección,6
+O0296,1,Comida,8
+O0296,2,Agua potable,2
+O0296,2,Herramientas de trabajo,5
+O0296,2,Equipo de protección,6
+O0297,1,Ninguno,900
+O0297,2,Ninguno,900
+O0298,1,Agua potable,2
+O0298,1,Servicio sanitario,3
+O0298,1,Asistencia médica,4
+O0298,1,Herramientas de trabajo,5
+O0298,1,Equipo de protección,6
+O0298,2,Agua potable,2
+O0298,2,Servicio sanitario,3
+O0298,2,Asistencia médica,4
+O0298,2,Herramientas de trabajo,5
+O0298,2,Equipo de protección,6
+O0298,3,Agua potable,2
+O0298,3,Servicio sanitario,3
+O0298,3,Asistencia médica,4
+O0298,3,Herramientas de trabajo,5
+O0298,3,Equipo de protección,6
+O0299,1,Vivienda,1
+O0299,1,Agua potable,2
+O0299,1,Servicio sanitario,3
+O0299,1,Asistencia médica,4
+O0299,1,Herramientas de trabajo,5
+O0299,1,Equipo de protección,6
+O0299,1,Transporte,7
+O0299,1,Comida,8
+O0299,2,Vivienda,1
+O0299,2,Agua potable,2
+O0299,2,Servicio sanitario,3
+O0299,2,Asistencia médica,4
+O0299,2,Herramientas de trabajo,5
+O0299,2,Equipo de protección,6
+O0299,2,Transporte,7
+O0299,2,Comida,8
+O0300,1,Agua potable,2
+O0300,1,Servicio sanitario,3
+O0300,2,Agua potable,2
+O0300,2,Servicio sanitario,3
+O0301,1,Agua potable,2
+O0301,1,Servicio sanitario,3
+O0301,1,Asistencia médica,4
+O0301,1,Herramientas de trabajo,5
+O0301,1,Equipo de protección,6
+O0301,2,Agua potable,2
+O0301,2,Servicio sanitario,3
+O0301,2,Asistencia médica,4
+O0301,2,Herramientas de trabajo,5
+O0301,2,Equipo de protección,6
+O0302,2,Servicio sanitario,3
+O0303,1,Agua potable,2
+O0303,1,Servicio sanitario,3
+O0303,1,Herramientas de trabajo,5
+O0303,2,Agua potable,2
+O0303,2,Servicio sanitario,3
+O0303,2,Herramientas de trabajo,5
+O0303,3,Agua potable,2
+O0303,3,Servicio sanitario,3
+O0303,3,Herramientas de trabajo,5
+O0304,1,Servicio sanitario,3
+O0304,1,Asistencia médica,4
+O0304,1,Comida,8
+O0304,2,Asistencia médica,4
+O0304,2,Comida,8
+O0305,1,Equipo de protección,6
+O0305,1,Otro,980
+O0305,2,Herramientas de trabajo,5
+O0305,2,Equipo de protección,6
+O0305,2,Otro,980
+O0306,1,Asistencia médica,4
+O0306,2,Asistencia médica,4
+O0307,2,Agua potable,2
+O0307,2,Servicio sanitario,3
+O0307,2,Asistencia médica,4
+O0307,2,Herramientas de trabajo,5
+O0307,2,Equipo de protección,6
+O0308,1,Asistencia médica,4
+O0308,1,Herramientas de trabajo,5
+O0308,1,Equipo de protección,6
+O0308,2,Servicio sanitario,3
+O0308,2,Asistencia médica,4
+O0308,2,Herramientas de trabajo,5
+O0308,2,Equipo de protección,6
+O0308,3,Servicio sanitario,3
+O0308,3,Asistencia médica,4
+O0308,3,Herramientas de trabajo,5
+O0308,3,Equipo de protección,6
+O0309,1,Agua potable,2
+O0309,1,Servicio sanitario,3
+O0309,1,Herramientas de trabajo,5
+O0309,1,Equipo de protección,6
+O0309,2,Agua potable,2
+O0309,2,Servicio sanitario,3
+O0309,2,Equipo de protección,6
+O0309,2,Otro,980
+O0309,3,Agua potable,2
+O0309,3,Servicio sanitario,3
+O0309,3,Equipo de protección,6
+O0310,1,Agua potable,2
+O0310,1,Servicio sanitario,3
+O0310,1,Herramientas de trabajo,5
+O0310,1,Equipo de protección,6
+O0310,1,Transporte,7
+O0310,2,Agua potable,2
+O0310,2,Servicio sanitario,3
+O0310,2,Asistencia médica,4
+O0310,2,Herramientas de trabajo,5
+O0310,2,Equipo de protección,6
+O0311,1,Agua potable,2
+O0311,1,Servicio sanitario,3
+O0311,1,Asistencia médica,4
+O0311,1,Herramientas de trabajo,5
+O0311,1,Equipo de protección,6
+O0311,2,Vivienda,1
+O0311,2,Agua potable,2
+O0311,2,Servicio sanitario,3
+O0311,2,Asistencia médica,4
+O0311,2,Herramientas de trabajo,5
+O0311,2,Equipo de protección,6
+O0312,1,Servicio sanitario,3
+O0312,1,Herramientas de trabajo,5
+O0312,2,Servicio sanitario,3
+O0312,2,Herramientas de trabajo,5
+O0313,1,Ninguno,900
+O0313,2,Ninguno,900
+O0314,1,Agua potable,2
+O0314,1,Comida,8
+O0314,2,Agua potable,2
+O0314,2,Comida,8
+O0315,1,Agua potable,2
+O0315,1,Servicio sanitario,3
+O0315,1,Herramientas de trabajo,5
+O0315,1,Equipo de protección,6
+O0315,1,Transporte,7
+O0315,1,Comida,8
+O0315,2,Agua potable,2
+O0315,2,Servicio sanitario,3
+O0315,2,Asistencia médica,4
+O0315,2,Herramientas de trabajo,5
+O0315,2,Equipo de protección,6
+O0315,2,Transporte,7
+O0315,2,Comida,8
+O0316,1,Agua potable,2
+O0316,1,Servicio sanitario,3
+O0316,1,Herramientas de trabajo,5
+O0316,1,Transporte,7
+O0316,1,Comida,8
+O0316,2,Agua potable,2
+O0316,2,Servicio sanitario,3
+O0316,2,Herramientas de trabajo,5
+O0316,2,Transporte,7
+O0316,2,Comida,8
+O0317,1,Herramientas de trabajo,5
+O0317,1,Equipo de protección,6
+O0317,2,Herramientas de trabajo,5
+O0317,2,Equipo de protección,6
+O0318,1,Agua potable,2
+O0318,1,Comida,8
+O0318,2,Agua potable,2
+O0318,2,Comida,8
+O0319,2,Agua potable,2
+O0320,1,Agua potable,2
+O0320,1,Servicio sanitario,3
+O0320,1,Asistencia médica,4
+O0320,1,Herramientas de trabajo,5
+O0320,1,Equipo de protección,6
+O0320,2,Agua potable,2
+O0320,2,Servicio sanitario,3
+O0320,2,Asistencia médica,4
+O0320,2,Herramientas de trabajo,5
+O0320,2,Equipo de protección,6
+O0321,1,Agua potable,2
+O0321,1,Servicio sanitario,3
+O0321,1,Asistencia médica,4
+O0321,1,Herramientas de trabajo,5
+O0321,1,Equipo de protección,6
+O0321,2,Agua potable,2
+O0321,2,Servicio sanitario,3
+O0321,2,Asistencia médica,4
+O0321,2,Herramientas de trabajo,5
+O0321,2,Equipo de protección,6
+O0322,1,Agua potable,2
+O0322,1,Servicio sanitario,3
+O0322,1,Herramientas de trabajo,5
+O0322,1,Equipo de protección,6
+O0322,2,Servicio sanitario,3
+O0322,2,Herramientas de trabajo,5
+O0322,2,Equipo de protección,6
+O0323,1,Asistencia médica,4
+O0323,1,Comida,8
+O0323,2,Comida,8
+O0324,1,Agua potable,2
+O0324,1,Servicio sanitario,3
+O0324,1,Asistencia médica,4
+O0324,2,Agua potable,2
+O0324,2,Servicio sanitario,3
+O0324,2,Asistencia médica,4
+O0325,1,Agua potable,2
+O0325,1,Asistencia médica,4
+O0325,1,Comida,8
+O0325,2,Agua potable,2
+O0325,2,Servicio sanitario,3
+O0325,2,Asistencia médica,4
+O0325,2,Equipo de protección,6
+O0325,2,Transporte,7
+O0325,2,Comida,8
+O0326,1,Ninguno,900
+O0326,2,Ninguno,900
+O0327,1,Agua potable,2
+O0327,1,Servicio sanitario,3
+O0327,1,Asistencia médica,4
+O0327,1,Herramientas de trabajo,5
+O0327,1,Equipo de protección,6
+O0327,2,Agua potable,2
+O0327,2,Servicio sanitario,3
+O0327,2,Asistencia médica,4
+O0327,2,Herramientas de trabajo,5
+O0327,2,Equipo de protección,6
+O0328,1,No responde,999
+O0328,2,No responde,999
+O0329,2,Agua potable,2
+O0329,2,Servicio sanitario,3
+O0329,2,Comida,8
+O0330,1,Agua potable,2
+O0330,1,Servicio sanitario,3
+O0330,1,Herramientas de trabajo,5
+O0330,1,Equipo de protección,6
+O0330,2,Servicio sanitario,3
+O0331,1,Agua potable,2
+O0331,1,Servicio sanitario,3
+O0331,1,Asistencia médica,4
+O0331,1,Herramientas de trabajo,5
+O0331,1,Equipo de protección,6
+O0331,1,Transporte,7
+O0331,2,Agua potable,2
+O0331,2,Servicio sanitario,3
+O0331,2,Asistencia médica,4
+O0331,2,Herramientas de trabajo,5
+O0331,2,Equipo de protección,6
+O0331,2,Transporte,7
+O0332,1,Ninguno,900
+O0332,2,Vivienda,1
+O0332,2,Agua potable,2
+O0332,2,Transporte,7
+O0332,2,Comida,8
+O0333,2,Ninguno,900
+O0334,1,Agua potable,2
+O0334,1,Servicio sanitario,3
+O0334,1,Asistencia médica,4
+O0334,1,Equipo de protección,6
+O0334,2,Vivienda,1
+O0334,2,Agua potable,2
+O0334,2,Servicio sanitario,3
+O0334,2,Asistencia médica,4
+O0334,2,Herramientas de trabajo,5
+O0334,2,Equipo de protección,6
+O0335,2,Vivienda,1
+O0335,2,Agua potable,2
+O0335,2,Servicio sanitario,3
+O0335,2,Asistencia médica,4
+O0335,2,Herramientas de trabajo,5
+O0336,1,Agua potable,2
+O0336,1,Servicio sanitario,3
+O0336,1,Asistencia médica,4
+O0336,1,Herramientas de trabajo,5
+O0336,1,Equipo de protección,6
+O0336,1,Transporte,7
+O0336,1,Comida,8
+O0336,2,Agua potable,2
+O0336,2,Servicio sanitario,3
+O0336,2,Asistencia médica,4
+O0336,2,Herramientas de trabajo,5
+O0336,2,Equipo de protección,6
+O0336,2,Transporte,7
+O0336,2,Comida,8
+O0337,1,Agua potable,2
+O0337,1,Servicio sanitario,3
+O0337,1,Herramientas de trabajo,5
+O0337,1,Equipo de protección,6
+O0337,2,Agua potable,2
+O0337,2,Servicio sanitario,3
+O0337,2,Asistencia médica,4
+O0337,2,Herramientas de trabajo,5
+O0337,2,Equipo de protección,6
+O0338,1,Agua potable,2
+O0338,1,Servicio sanitario,3
+O0338,1,Asistencia médica,4
+O0338,1,Herramientas de trabajo,5
+O0338,1,Equipo de protección,6
+O0338,2,Vivienda,1
+O0338,2,Agua potable,2
+O0338,2,Servicio sanitario,3
+O0338,2,Asistencia médica,4
+O0338,2,Herramientas de trabajo,5
+O0338,2,Equipo de protección,6
+O0338,3,Agua potable,2
+O0338,3,Servicio sanitario,3
+O0338,3,Asistencia médica,4
+O0338,3,Herramientas de trabajo,5
+O0338,3,Equipo de protección,6
+O0338,3,Transporte,7
+O0338,3,Comida,8
+O0339,1,Agua potable,2
+O0339,1,Servicio sanitario,3
+O0339,1,Equipo de protección,6
+O0339,2,Agua potable,2
+O0339,2,Servicio sanitario,3
+O0339,2,Herramientas de trabajo,5
+O0339,2,Equipo de protección,6
+O0340,1,Agua potable,2
+O0340,1,Servicio sanitario,3
+O0340,1,Asistencia médica,4
+O0340,1,Herramientas de trabajo,5
+O0340,1,Equipo de protección,6
+O0340,2,Agua potable,2
+O0340,2,Servicio sanitario,3
+O0340,2,Asistencia médica,4
+O0340,2,Herramientas de trabajo,5
+O0340,2,Equipo de protección,6
+O0341,1,Agua potable,2
+O0341,1,Servicio sanitario,3
+O0341,1,Asistencia médica,4
+O0341,1,Herramientas de trabajo,5
+O0341,1,Equipo de protección,6
+O0341,2,Agua potable,2
+O0341,2,Servicio sanitario,3
+O0341,2,Asistencia médica,4
+O0341,2,Herramientas de trabajo,5
+O0341,2,Equipo de protección,6
+O0342,1,Agua potable,2
+O0342,1,Servicio sanitario,3
+O0342,2,Vivienda,1
+O0342,2,Agua potable,2
+O0342,2,Servicio sanitario,3
+O0343,1,Agua potable,2
+O0343,1,Servicio sanitario,3
+O0343,1,Asistencia médica,4
+O0343,1,Equipo de protección,6
+O0343,2,Agua potable,2
+O0343,2,Servicio sanitario,3
+O0343,2,Asistencia médica,4
+O0343,2,Herramientas de trabajo,5
+O0343,2,Equipo de protección,6
+O0343,2,Transporte,7
+O0344,1,Ninguno,900
+O0344,2,Ninguno,900
+O0345,1,Agua potable,2
+O0345,1,Servicio sanitario,3
+O0345,1,Asistencia médica,4
+O0345,1,Herramientas de trabajo,5
+O0345,1,Equipo de protección,6
+O0345,2,Agua potable,2
+O0345,2,Servicio sanitario,3
+O0345,2,Asistencia médica,4
+O0345,2,Herramientas de trabajo,5
+O0345,2,Equipo de protección,6
+O0346,1,Agua potable,2
+O0346,1,Servicio sanitario,3
+O0346,1,Asistencia médica,4
+O0346,1,Herramientas de trabajo,5
+O0346,1,Equipo de protección,6
+O0346,1,Transporte,7
+O0346,1,Comida,8
+O0346,2,Agua potable,2
+O0346,2,Servicio sanitario,3
+O0346,2,Asistencia médica,4
+O0346,2,Herramientas de trabajo,5
+O0346,2,Equipo de protección,6
+O0346,2,Transporte,7
+O0346,2,Comida,8
+O0347,1,Vivienda,1
+O0347,1,Servicio sanitario,3
+O0347,1,Asistencia médica,4
+O0347,1,Herramientas de trabajo,5
+O0347,1,Equipo de protección,6
+O0347,2,Vivienda,1
+O0347,2,Agua potable,2
+O0347,2,Servicio sanitario,3
+O0347,2,Asistencia médica,4
+O0347,2,Herramientas de trabajo,5
+O0347,2,Equipo de protección,6
+O0347,2,Transporte,7
+O0347,2,Comida,8
+O0348,1,Equipo de protección,6
+O0348,2,Equipo de protección,6
+O0349,1,Agua potable,2
+O0349,1,Servicio sanitario,3
+O0349,1,Asistencia médica,4
+O0349,1,Herramientas de trabajo,5
+O0349,1,Equipo de protección,6
+O0349,2,Agua potable,2
+O0349,2,Servicio sanitario,3
+O0349,2,Asistencia médica,4
+O0349,2,Herramientas de trabajo,5
+O0349,2,Equipo de protección,6
+O0350,1,Agua potable,2
+O0350,1,Servicio sanitario,3
+O0350,2,Agua potable,2
+O0350,2,Servicio sanitario,3
+O0351,1,Agua potable,2
+O0351,1,Asistencia médica,4
+O0351,1,Herramientas de trabajo,5
+O0351,1,Transporte,7
+O0351,2,Agua potable,2
+O0351,2,Asistencia médica,4
+O0351,2,Herramientas de trabajo,5
+O0351,2,Equipo de protección,6
+O0351,2,Transporte,7
+O0352,1,Agua potable,2
+O0352,1,Servicio sanitario,3
+O0352,1,Herramientas de trabajo,5
+O0352,1,Equipo de protección,6
+O0352,2,Agua potable,2
+O0352,2,Servicio sanitario,3
+O0352,2,Herramientas de trabajo,5
+O0353,1,Agua potable,2
+O0353,1,Servicio sanitario,3
+O0353,2,Agua potable,2
+O0353,2,Servicio sanitario,3
+O0354,1,Equipo de protección,6
+O0354,2,Equipo de protección,6
+O0355,1,Agua potable,2
+O0355,1,Servicio sanitario,3
+O0355,1,Asistencia médica,4
+O0355,1,Herramientas de trabajo,5
+O0355,1,Equipo de protección,6
+O0355,1,Transporte,7
+O0355,2,Agua potable,2
+O0355,2,Servicio sanitario,3
+O0355,2,Asistencia médica,4
+O0355,2,Herramientas de trabajo,5
+O0355,2,Equipo de protección,6
+O0355,2,Transporte,7
+O0356,1,Agua potable,2
+O0356,1,Herramientas de trabajo,5
+O0356,1,Comida,8
+O0356,2,Agua potable,2
+O0356,2,Servicio sanitario,3
+O0356,2,Herramientas de trabajo,5
+O0356,2,Comida,8
+O0357,1,Agua potable,2
+O0357,1,Comida,8
+O0357,2,Agua potable,2
+O0357,2,Comida,8
+O0358,2,Comida,8
+O0359,1,Transporte,7
+O0359,2,Herramientas de trabajo,5
+O0360,1,Transporte,7
+O0360,1,Comida,8
+O0360,2,Servicio sanitario,3
+O0360,2,Asistencia médica,4
+O0360,2,Comida,8
+O0361,1,Servicio sanitario,3
+O0361,1,Comida,8
+O0361,2,Agua potable,2
+O0361,2,Comida,8
+O0362,2,Transporte,7
+O0362,2,Comida,8
+O0363,1,Agua potable,2
+O0363,1,Servicio sanitario,3
+O0363,1,Asistencia médica,4
+O0363,1,Herramientas de trabajo,5
+O0363,1,Equipo de protección,6
+O0363,1,Transporte,7
+O0363,2,Agua potable,2
+O0363,2,Servicio sanitario,3
+O0363,2,Asistencia médica,4
+O0363,2,Herramientas de trabajo,5
+O0363,2,Equipo de protección,6
+O0363,2,Transporte,7
+O0364,1,Agua potable,2
+O0364,1,Servicio sanitario,3
+O0364,1,Asistencia médica,4
+O0364,1,Herramientas de trabajo,5
+O0364,1,Equipo de protección,6
+O0364,2,Vivienda,1
+O0364,2,Agua potable,2
+O0364,2,Servicio sanitario,3
+O0364,2,Asistencia médica,4
+O0364,2,Herramientas de trabajo,5
+O0364,2,Equipo de protección,6
+O0364,2,Otro,980
+O0364,3,Agua potable,2
+O0364,3,Servicio sanitario,3
+O0364,3,Asistencia médica,4
+O0365,1,Agua potable,2
+O0365,1,Servicio sanitario,3
+O0365,1,Herramientas de trabajo,5
+O0365,1,Equipo de protección,6
+O0365,2,Agua potable,2
+O0365,2,Servicio sanitario,3
+O0365,2,Herramientas de trabajo,5
+O0365,2,Equipo de protección,6
+O0366,1,Vivienda,1
+O0366,1,Agua potable,2
+O0366,1,Servicio sanitario,3
+O0366,1,Asistencia médica,4
+O0366,1,Herramientas de trabajo,5
+O0366,1,Equipo de protección,6
+O0366,2,Vivienda,1
+O0366,2,Agua potable,2
+O0366,2,Servicio sanitario,3
+O0366,2,Asistencia médica,4
+O0366,2,Herramientas de trabajo,5
+O0366,2,Equipo de protección,6
+O0367,1,Agua potable,2
+O0367,1,Servicio sanitario,3
+O0367,1,Asistencia médica,4
+O0367,1,Herramientas de trabajo,5
+O0367,1,Equipo de protección,6
+O0367,2,Agua potable,2
+O0367,2,Servicio sanitario,3
+O0367,2,Herramientas de trabajo,5
+O0367,2,Equipo de protección,6
+O0368,1,Agua potable,2
+O0368,1,Servicio sanitario,3
+O0368,1,Herramientas de trabajo,5
+O0368,2,Agua potable,2
+O0368,2,Servicio sanitario,3
+O0368,2,Herramientas de trabajo,5
+O0369,1,Agua potable,2
+O0369,1,Servicio sanitario,3
+O0369,1,Asistencia médica,4
+O0369,1,Herramientas de trabajo,5
+O0369,1,Equipo de protección,6
+O0369,2,Agua potable,2
+O0369,2,Servicio sanitario,3
+O0369,2,Asistencia médica,4
+O0369,2,Herramientas de trabajo,5
+O0369,2,Equipo de protección,6
+O0369,3,Agua potable,2
+O0369,3,Asistencia médica,4
+O0369,3,Herramientas de trabajo,5
+O0369,3,Equipo de protección,6
+O0370,1,Vivienda,1
+O0370,1,Agua potable,2
+O0370,1,Servicio sanitario,3
+O0370,1,Asistencia médica,4
+O0370,1,Herramientas de trabajo,5
+O0370,1,Equipo de protección,6
+O0370,1,Transporte,7
+O0370,2,Agua potable,2
+O0370,2,Servicio sanitario,3
+O0370,2,Asistencia médica,4
+O0370,2,Herramientas de trabajo,5
+O0370,2,Equipo de protección,6
+O0370,2,Transporte,7
+O0371,1,Agua potable,2
+O0371,1,Servicio sanitario,3
+O0371,1,Asistencia médica,4
+O0371,1,Herramientas de trabajo,5
+O0371,1,Equipo de protección,6
+O0371,2,Agua potable,2
+O0371,2,Servicio sanitario,3
+O0371,2,Asistencia médica,4
+O0371,2,Herramientas de trabajo,5
+O0371,2,Equipo de protección,6
+O0372,1,Agua potable,2
+O0372,1,Herramientas de trabajo,5
+O0372,1,Equipo de protección,6
+O0372,2,Agua potable,2
+O0372,2,Herramientas de trabajo,5
+O0372,2,Equipo de protección,6
+O0372,2,Transporte,7
+O0372,2,Comida,8
+O0373,1,Agua potable,2
+O0373,1,Servicio sanitario,3
+O0373,1,Asistencia médica,4
+O0373,1,Herramientas de trabajo,5
+O0373,1,Comida,8
+O0373,2,Agua potable,2
+O0373,2,Servicio sanitario,3
+O0373,2,Asistencia médica,4
+O0373,2,Herramientas de trabajo,5
+O0373,2,Comida,8
+O0374,1,Herramientas de trabajo,5
+O0374,2,Herramientas de trabajo,5
+O0374,2,Comida,8
+O0375,1,Vivienda,1
+O0375,1,Agua potable,2
+O0375,1,Servicio sanitario,3
+O0375,1,Asistencia médica,4
+O0375,1,Herramientas de trabajo,5
+O0375,1,Equipo de protección,6
+O0375,1,Transporte,7
+O0375,1,Comida,8
+O0375,2,Vivienda,1
+O0375,2,Agua potable,2
+O0375,2,Servicio sanitario,3
+O0375,2,Asistencia médica,4
+O0375,2,Herramientas de trabajo,5
+O0375,2,Equipo de protección,6
+O0375,2,Transporte,7
+O0375,2,Comida,8
+O0376,1,Servicio sanitario,3
+O0376,1,Asistencia médica,4
+O0376,1,Herramientas de trabajo,5
+O0376,1,Equipo de protección,6
+O0376,2,Servicio sanitario,3
+O0376,2,Asistencia médica,4
+O0376,2,Herramientas de trabajo,5
+O0376,2,Equipo de protección,6
+O0377,1,Agua potable,2
+O0377,1,Servicio sanitario,3
+O0377,1,Herramientas de trabajo,5
+O0377,1,Equipo de protección,6
+O0377,1,Transporte,7
+O0377,1,Comida,8
+O0377,2,Agua potable,2
+O0377,2,Servicio sanitario,3
+O0377,2,Herramientas de trabajo,5
+O0377,2,Equipo de protección,6
+O0377,2,Transporte,7
+O0377,2,Comida,8
+O0378,2,Servicio sanitario,3
+O0378,2,Herramientas de trabajo,5
+O0379,1,Agua potable,2
+O0379,1,Servicio sanitario,3
+O0379,1,Asistencia médica,4
+O0379,2,Agua potable,2
+O0379,2,Servicio sanitario,3
+O0379,2,Asistencia médica,4
+O0380,1,Agua potable,2
+O0380,1,Servicio sanitario,3
+O0380,1,Asistencia médica,4
+O0380,1,Herramientas de trabajo,5
+O0380,1,Equipo de protección,6
+O0380,2,Agua potable,2
+O0380,2,Servicio sanitario,3
+O0380,2,Asistencia médica,4
+O0380,2,Herramientas de trabajo,5
+O0380,2,Equipo de protección,6
+O0381,2,Ninguno,900
+O0382,2,Agua potable,2
+O0382,2,Servicio sanitario,3
+O0382,2,Herramientas de trabajo,5
+O0383,1,Herramientas de trabajo,5
+O0383,1,Equipo de protección,6
+O0383,2,Herramientas de trabajo,5
+O0383,2,Equipo de protección,6
+O0384,1,Herramientas de trabajo,5
+O0384,1,Equipo de protección,6
+O0384,2,Herramientas de trabajo,5
+O0384,3,Ninguno,900
+O0385,1,Equipo de protección,6
+O0385,2,Ninguno,900
+O0386,1,Agua potable,2
+O0386,1,Servicio sanitario,3
+O0386,1,Asistencia médica,4
+O0386,2,Vivienda,1
+O0386,2,Agua potable,2
+O0386,2,Servicio sanitario,3
+O0386,2,Asistencia médica,4
+O0386,2,Herramientas de trabajo,5
+O0387,1,Servicio sanitario,3
+O0387,1,Asistencia médica,4
+O0387,1,Herramientas de trabajo,5
+O0387,2,Servicio sanitario,3
+O0388,2,Ninguno,900
+O0389,1,Agua potable,2
+O0389,2,Ninguno,900
+O0390,1,Agua potable,2
+O0390,1,Servicio sanitario,3
+O0390,1,Asistencia médica,4
+O0390,1,Herramientas de trabajo,5
+O0390,1,Equipo de protección,6
+O0390,2,Agua potable,2
+O0390,2,Servicio sanitario,3
+O0390,2,Asistencia médica,4
+O0390,2,Herramientas de trabajo,5
+O0390,2,Equipo de protección,6
+O0391,1,Agua potable,2
+O0391,1,Servicio sanitario,3
+O0391,1,Asistencia médica,4
+O0391,1,Herramientas de trabajo,5
+O0391,1,Equipo de protección,6
+O0391,1,Transporte,7
+O0391,2,Agua potable,2
+O0391,2,Servicio sanitario,3
+O0391,2,Asistencia médica,4
+O0391,2,Herramientas de trabajo,5
+O0391,2,Equipo de protección,6
+O0391,2,Transporte,7
+O0392,1,Agua potable,2
+O0392,1,Servicio sanitario,3
+O0392,1,Asistencia médica,4
+O0392,1,Herramientas de trabajo,5
+O0392,1,Equipo de protección,6
+O0392,1,Transporte,7
+O0392,2,Agua potable,2
+O0392,2,Servicio sanitario,3
+O0392,2,Asistencia médica,4
+O0392,2,Herramientas de trabajo,5
+O0392,2,Equipo de protección,6
+O0392,2,Transporte,7
+O0393,1,Agua potable,2
+O0393,1,Servicio sanitario,3
+O0393,1,Herramientas de trabajo,5
+O0393,1,Equipo de protección,6
+O0393,1,Transporte,7
+O0393,1,Comida,8
+O0393,2,Agua potable,2
+O0393,2,Servicio sanitario,3
+O0393,2,Herramientas de trabajo,5
+O0393,2,Equipo de protección,6
+O0393,2,Transporte,7
+O0393,2,Comida,8
+O0394,1,Agua potable,2
+O0394,1,Servicio sanitario,3
+O0394,1,Asistencia médica,4
+O0394,1,Herramientas de trabajo,5
+O0394,1,Equipo de protección,6
+O0394,1,Comida,8
+O0394,2,Agua potable,2
+O0394,2,Servicio sanitario,3
+O0394,2,Asistencia médica,4
+O0394,2,Herramientas de trabajo,5
+O0394,2,Equipo de protección,6
+O0394,2,Comida,8
+O0395,1,Asistencia médica,4
+O0395,1,Equipo de protección,6
+O0395,1,Transporte,7
+O0395,2,Equipo de protección,6
+O0396,2,Servicio sanitario,3
+O0396,2,Herramientas de trabajo,5
+O0396,2,Comida,8
+O0397,2,Agua potable,2
+O0398,1,Agua potable,2
+O0398,1,Servicio sanitario,3
+O0398,1,Herramientas de trabajo,5
+O0398,1,Comida,8
+O0398,2,Vivienda,1
+O0398,2,Agua potable,2
+O0398,2,Servicio sanitario,3
+O0398,2,Herramientas de trabajo,5
+O0398,2,Comida,8
+O0399,1,Servicio sanitario,3
+O0399,1,Asistencia médica,4
+O0399,1,Equipo de protección,6
+O0399,1,Transporte,7
+O0399,2,Agua potable,2
+O0399,2,Servicio sanitario,3
+O0399,2,Asistencia médica,4
+O0399,2,Herramientas de trabajo,5
+O0399,2,Equipo de protección,6
+O0400,1,Agua potable,2
+O0400,1,Servicio sanitario,3
+O0400,1,Asistencia médica,4
+O0400,1,Herramientas de trabajo,5
+O0400,1,Equipo de protección,6
+O0400,1,Otro,980
+O0400,2,Agua potable,2
+O0400,2,Servicio sanitario,3
+O0400,2,Asistencia médica,4
+O0400,2,Herramientas de trabajo,5
+O0400,2,Equipo de protección,6
+O0400,2,Otro,980
+O0401,1,Agua potable,2
+O0401,1,Servicio sanitario,3
+O0401,1,Asistencia médica,4
+O0401,1,Herramientas de trabajo,5
+O0401,1,Equipo de protección,6
+O0401,2,Agua potable,2
+O0401,2,Servicio sanitario,3
+O0401,2,Asistencia médica,4
+O0401,2,Herramientas de trabajo,5
+O0401,2,Equipo de protección,6
+O0402,1,Agua potable,2
+O0402,1,Servicio sanitario,3
+O0402,1,Asistencia médica,4
+O0402,1,Herramientas de trabajo,5
+O0402,2,Agua potable,2
+O0402,2,Servicio sanitario,3
+O0402,2,Asistencia médica,4
+O0402,2,Herramientas de trabajo,5
+O0403,1,Agua potable,2
+O0403,1,Servicio sanitario,3
+O0403,1,Comida,8
+O0403,2,Agua potable,2
+O0403,2,Servicio sanitario,3
+O0403,2,Comida,8
+O0404,1,Agua potable,2
+O0404,1,Servicio sanitario,3
+O0404,1,Asistencia médica,4
+O0404,1,Herramientas de trabajo,5
+O0404,1,Equipo de protección,6
+O0404,2,Agua potable,2
+O0404,2,Servicio sanitario,3
+O0404,2,Asistencia médica,4
+O0404,2,Herramientas de trabajo,5
+O0404,2,Equipo de protección,6
+O0405,1,Agua potable,2
+O0405,1,Servicio sanitario,3
+O0405,1,Asistencia médica,4
+O0405,1,Herramientas de trabajo,5
+O0405,1,Equipo de protección,6
+O0405,2,Agua potable,2
+O0405,2,Servicio sanitario,3
+O0405,2,Asistencia médica,4
+O0405,2,Herramientas de trabajo,5
+O0405,2,Equipo de protección,6
+O0406,1,Agua potable,2
+O0406,1,Servicio sanitario,3
+O0406,1,Asistencia médica,4
+O0406,1,Herramientas de trabajo,5
+O0406,1,Equipo de protección,6
+O0406,2,Vivienda,1
+O0406,2,Agua potable,2
+O0406,2,Servicio sanitario,3
+O0406,2,Asistencia médica,4
+O0406,2,Herramientas de trabajo,5
+O0406,2,Equipo de protección,6
+O0407,2,Servicio sanitario,3
+O0407,2,Herramientas de trabajo,5
+O0407,2,Transporte,7
+O0408,1,Agua potable,2
+O0408,1,Servicio sanitario,3
+O0408,1,Herramientas de trabajo,5
+O0408,2,Servicio sanitario,3
+O0409,1,Agua potable,2
+O0409,1,Servicio sanitario,3
+O0409,1,Herramientas de trabajo,5
+O0409,1,Equipo de protección,6
+O0409,2,Agua potable,2
+O0409,2,Servicio sanitario,3
+O0409,2,Equipo de protección,6
+O0410,1,Agua potable,2
+O0410,1,Servicio sanitario,3
+O0410,1,Asistencia médica,4
+O0410,1,Herramientas de trabajo,5
+O0410,1,Equipo de protección,6
+O0410,2,Vivienda,1
+O0410,2,Agua potable,2
+O0410,2,Asistencia médica,4
+O0410,2,Herramientas de trabajo,5
+O0410,2,Equipo de protección,6
+O0410,2,Comida,8
+O0411,1,Servicio sanitario,3
+O0411,1,Herramientas de trabajo,5
+O0411,2,Ninguno,900
+O0412,2,Vivienda,1
+O0412,2,Agua potable,2
+O0412,2,Servicio sanitario,3
+O0412,2,Asistencia médica,4
+O0412,2,Herramientas de trabajo,5
+O0412,2,Equipo de protección,6
+O0412,2,Transporte,7
+O0413,2,Herramientas de trabajo,5
+O0414,1,Agua potable,2
+O0414,1,Servicio sanitario,3
+O0414,1,Asistencia médica,4
+O0414,1,Equipo de protección,6
+O0414,2,Vivienda,1
+O0414,2,Agua potable,2
+O0414,2,Servicio sanitario,3
+O0414,2,Asistencia médica,4
+O0414,2,Herramientas de trabajo,5
+O0414,2,Equipo de protección,6
+O0415,1,Ninguno,900
+O0415,2,Ninguno,900
+O0416,1,Agua potable,2
+O0416,1,Servicio sanitario,3
+O0416,1,Herramientas de trabajo,5
+O0416,1,Equipo de protección,6
+O0416,2,Agua potable,2
+O0416,2,Servicio sanitario,3
+O0416,2,Herramientas de trabajo,5
+O0416,2,Equipo de protección,6
+O0416,3,Agua potable,2
+O0416,3,Servicio sanitario,3
+O0416,3,Asistencia médica,4
+O0416,3,Herramientas de trabajo,5
+O0416,3,Equipo de protección,6
+O0417,1,Agua potable,2
+O0417,1,Servicio sanitario,3
+O0417,1,Asistencia médica,4
+O0417,1,Herramientas de trabajo,5
+O0417,1,Equipo de protección,6
+O0417,2,Agua potable,2
+O0417,2,Servicio sanitario,3
+O0417,2,Asistencia médica,4
+O0417,2,Herramientas de trabajo,5
+O0417,2,Equipo de protección,6
+O0418,1,Ninguno,900
+O0418,2,Ninguno,900
+O0419,1,Agua potable,2
+O0419,1,Servicio sanitario,3
+O0419,1,Asistencia médica,4
+O0419,1,Herramientas de trabajo,5
+O0419,1,Equipo de protección,6
+O0419,2,Agua potable,2
+O0419,2,Servicio sanitario,3
+O0419,2,Asistencia médica,4
+O0419,2,Herramientas de trabajo,5
+O0419,2,Equipo de protección,6
+O0420,1,Agua potable,2
+O0420,1,Servicio sanitario,3
+O0420,1,Asistencia médica,4
+O0420,1,Herramientas de trabajo,5
+O0420,1,Equipo de protección,6
+O0420,1,Transporte,7
+O0420,1,Comida,8
+O0420,2,Agua potable,2
+O0420,2,Servicio sanitario,3
+O0421,1,Agua potable,2
+O0421,2,Agua potable,2
+O0422,1,Agua potable,2
+O0422,1,Asistencia médica,4
+O0422,1,Herramientas de trabajo,5
+O0422,1,Equipo de protección,6
+O0422,1,Transporte,7
+O0422,1,Comida,8
+O0422,2,Agua potable,2
+O0422,2,Servicio sanitario,3
+O0422,2,Asistencia médica,4
+O0422,2,Herramientas de trabajo,5
+O0422,2,Equipo de protección,6
+O0422,2,Transporte,7
+O0422,2,Comida,8
+O0423,1,Comida,8
+O0423,2,Comida,8
+O0424,1,Agua potable,2
+O0424,1,Servicio sanitario,3
+O0424,1,Herramientas de trabajo,5
+O0424,1,Equipo de protección,6
+O0424,2,Agua potable,2
+O0424,2,Herramientas de trabajo,5
+O0425,2,Servicio sanitario,3
+O0426,1,Agua potable,2
+O0426,1,Herramientas de trabajo,5
+O0426,2,Agua potable,2
+O0426,2,Herramientas de trabajo,5
+O0426,2,Comida,8
+O0427,1,Agua potable,2
+O0427,1,Herramientas de trabajo,5
+O0427,2,Agua potable,2
+O0428,1,Agua potable,2
+O0428,1,Servicio sanitario,3
+O0428,1,Asistencia médica,4
+O0428,1,Herramientas de trabajo,5
+O0428,1,Equipo de protección,6
+O0428,2,Agua potable,2
+O0428,2,Servicio sanitario,3
+O0428,2,Asistencia médica,4
+O0428,2,Herramientas de trabajo,5
+O0428,2,Equipo de protección,6
+O0429,1,Agua potable,2
+O0429,1,Servicio sanitario,3
+O0429,2,Agua potable,2
+O0429,2,Servicio sanitario,3
+O0429,2,Asistencia médica,4
+O0429,2,Herramientas de trabajo,5
+O0429,2,Equipo de protección,6
+O0429,2,Comida,8
+O0430,2,Asistencia médica,4
+O0430,2,Herramientas de trabajo,5
+O0430,2,Equipo de protección,6
+O0430,2,Comida,8
+O0431,2,Vivienda,1
+O0431,2,Agua potable,2
+O0431,2,Servicio sanitario,3
+O0431,2,Asistencia médica,4
+O0431,2,Herramientas de trabajo,5
+O0432,1,Agua potable,2
+O0432,1,Servicio sanitario,3
+O0432,1,Herramientas de trabajo,5
+O0432,2,Agua potable,2
+O0432,2,Servicio sanitario,3
+O0432,2,Equipo de protección,6
+O0433,1,Agua potable,2
+O0433,1,Servicio sanitario,3
+O0433,1,Herramientas de trabajo,5
+O0433,1,Equipo de protección,6
+O0433,2,Agua potable,2
+O0433,2,Servicio sanitario,3
+O0433,2,Herramientas de trabajo,5
+O0433,2,Equipo de protección,6
+O0434,1,Ninguno,900
+O0434,2,Ninguno,900
+O0435,1,Agua potable,2
+O0435,1,Servicio sanitario,3
+O0435,2,Agua potable,2
+O0435,2,Servicio sanitario,3
+O0436,1,Ninguno,900
+O0436,2,Ninguno,900
+O0437,1,Agua potable,2
+O0437,1,Asistencia médica,4
+O0437,1,Comida,8
+O0437,2,Vivienda,1
+O0437,2,Agua potable,2
+O0437,2,Comida,8
+O0438,2,Agua potable,2
+O0438,2,Herramientas de trabajo,5
+O0439,1,Herramientas de trabajo,5
+O0439,1,Comida,8
+O0439,2,Agua potable,2
+O0439,2,Herramientas de trabajo,5
+O0439,2,Comida,8
+O0440,2,Ninguno,900
+O0441,1,Agua potable,2
+O0441,1,Servicio sanitario,3
+O0441,1,Asistencia médica,4
+O0441,1,Herramientas de trabajo,5
+O0441,1,Equipo de protección,6
+O0441,1,Transporte,7
+O0441,1,Comida,8
+O0441,2,Agua potable,2
+O0441,2,Servicio sanitario,3
+O0441,2,Asistencia médica,4
+O0441,2,Herramientas de trabajo,5
+O0441,2,Equipo de protección,6
+O0441,2,Transporte,7
+O0441,2,Comida,8
+O0442,2,Herramientas de trabajo,5
+O0442,2,Equipo de protección,6
+O0443,2,Herramientas de trabajo,5
+O0443,2,Equipo de protección,6
+O0443,2,Comida,8
+O0444,1,Servicio sanitario,3
+O0444,1,Asistencia médica,4
+O0444,1,Herramientas de trabajo,5
+O0444,1,Equipo de protección,6
+O0444,1,Transporte,7
+O0444,2,Agua potable,2
+O0444,2,Servicio sanitario,3
+O0445,1,Agua potable,2
+O0445,1,Servicio sanitario,3
+O0445,2,Servicio sanitario,3
+O0446,1,Vivienda,1
+O0446,1,Agua potable,2
+O0446,1,Servicio sanitario,3
+O0446,1,Asistencia médica,4
+O0446,1,Herramientas de trabajo,5
+O0446,2,Vivienda,1
+O0446,2,Agua potable,2
+O0446,2,Servicio sanitario,3
+O0446,2,Asistencia médica,4
+O0446,2,Herramientas de trabajo,5
+O0447,1,Ninguno,900
+O0447,2,Ninguno,900
+O0448,1,Vivienda,1
+O0448,2,Vivienda,1
+O0448,2,Servicio sanitario,3
+O0448,2,Asistencia médica,4
+O0448,2,Equipo de protección,6
+O0449,1,Vivienda,1
+O0449,2,Vivienda,1
+O0450,2,Agua potable,2
+O0450,2,Servicio sanitario,3
+O0450,2,Comida,8
+O0451,2,Ninguno,900
+O0452,1,Agua potable,2
+O0452,1,Servicio sanitario,3
+O0452,1,Herramientas de trabajo,5
+O0452,2,Servicio sanitario,3
+O0453,1,Equipo de protección,6
+O0453,2,Agua potable,2
+O0454,1,Agua potable,2
+O0454,2,Agua potable,2
+O0455,1,Agua potable,2
+O0455,1,Asistencia médica,4
+O0455,2,Vivienda,1
+O0455,2,Asistencia médica,4
+O0456,1,Agua potable,2
+O0456,2,Agua potable,2
+O0457,1,Comida,8
+O0457,2,Comida,8
+O0458,1,Agua potable,2
+O0458,1,Servicio sanitario,3
+O0458,1,Asistencia médica,4
+O0458,1,Herramientas de trabajo,5
+O0458,1,Equipo de protección,6
+O0458,1,Transporte,7
+O0458,1,Comida,8
+O0458,2,No responde,999
+O0459,1,Agua potable,2
+O0459,1,Transporte,7
+O0459,2,Vivienda,1
+O0459,2,Agua potable,2
+O0459,2,Transporte,7
+O0460,1,Comida,8
+O0460,2,No responde,999
+O0461,1,Agua potable,2
+O0461,1,Servicio sanitario,3
+O0461,2,Agua potable,2
+O0461,2,Servicio sanitario,3
+O0462,1,Agua potable,2
+O0462,1,Servicio sanitario,3
+O0462,1,Asistencia médica,4
+O0462,1,Herramientas de trabajo,5
+O0462,1,Equipo de protección,6
+O0462,1,Comida,8
+O0462,2,Agua potable,2
+O0462,2,Servicio sanitario,3
+O0462,2,Asistencia médica,4
+O0462,2,Herramientas de trabajo,5
+O0462,2,Equipo de protección,6
+O0462,2,Comida,8
+O0463,1,Agua potable,2
+O0463,1,Servicio sanitario,3
+O0463,1,Herramientas de trabajo,5
+O0463,1,Transporte,7
+O0463,1,Comida,8
+O0463,2,Agua potable,2
+O0463,2,Transporte,7
+O0463,2,Comida,8
+O0464,1,Agua potable,2
+O0464,1,Herramientas de trabajo,5
+O0464,1,Equipo de protección,6
+O0464,1,Comida,8
+O0464,2,Agua potable,2
+O0464,2,Asistencia médica,4
+O0464,2,Herramientas de trabajo,5
+O0464,2,Equipo de protección,6
+O0464,2,Transporte,7
+O0464,2,Comida,8
+O0465,1,Transporte,7
+O0465,1,Comida,8
+O0465,2,Transporte,7
+O0465,2,Comida,8
+O0466,1,Agua potable,2
+O0466,2,Agua potable,2
+O0467,1,Ninguno,900
+O0467,2,Ninguno,900
+O0468,1,Vivienda,1
+O0468,2,Agua potable,2
+O0468,2,Servicio sanitario,3
+O0468,2,Asistencia médica,4
+O0468,2,Herramientas de trabajo,5
+O0468,2,Equipo de protección,6
+O0468,2,Transporte,7
+O0468,2,Comida,8
+O0469,1,Agua potable,2
+O0469,1,Servicio sanitario,3
+O0469,1,Asistencia médica,4
+O0469,1,Herramientas de trabajo,5
+O0469,1,Equipo de protección,6
+O0469,1,Otro,980
+O0469,2,Agua potable,2
+O0469,2,Servicio sanitario,3
+O0469,2,Asistencia médica,4
+O0469,2,Herramientas de trabajo,5
+O0469,2,Equipo de protección,6
+O0469,2,Otro,980
+O0470,1,Agua potable,2
+O0470,1,Servicio sanitario,3
+O0470,1,Asistencia médica,4
+O0470,1,Herramientas de trabajo,5
+O0470,2,Agua potable,2
+O0470,2,Servicio sanitario,3
+O0470,2,Asistencia médica,4
+O0470,2,Herramientas de trabajo,5
+O0471,1,Agua potable,2
+O0471,1,Servicio sanitario,3
+O0471,1,Asistencia médica,4
+O0471,2,Agua potable,2
+O0471,2,Servicio sanitario,3
+O0471,2,Asistencia médica,4
+O0472,1,Agua potable,2
+O0472,1,Servicio sanitario,3
+O0472,1,Asistencia médica,4
+O0472,1,Herramientas de trabajo,5
+O0472,1,Equipo de protección,6
+O0472,2,Vivienda,1
+O0472,2,Agua potable,2
+O0472,2,Servicio sanitario,3
+O0472,2,Asistencia médica,4
+O0472,2,Herramientas de trabajo,5
+O0472,2,Equipo de protección,6
+O0473,1,Agua potable,2
+O0473,1,Servicio sanitario,3
+O0473,1,Asistencia médica,4
+O0473,1,Herramientas de trabajo,5
+O0473,1,Equipo de protección,6
+O0473,2,Agua potable,2
+O0473,2,Servicio sanitario,3
+O0473,2,Asistencia médica,4
+O0473,2,Herramientas de trabajo,5
+O0473,2,Equipo de protección,6
+O0474,1,Agua potable,2
+O0474,1,Servicio sanitario,3
+O0474,1,Asistencia médica,4
+O0474,2,Agua potable,2
+O0474,2,Servicio sanitario,3
+O0474,2,Asistencia médica,4
+O0475,1,Agua potable,2
+O0475,1,Servicio sanitario,3
+O0475,1,Asistencia médica,4
+O0475,2,Agua potable,2
+O0475,2,Servicio sanitario,3
+O0475,2,Asistencia médica,4
+O0476,1,Agua potable,2
+O0476,2,Agua potable,2
+O0477,1,Vivienda,1
+O0477,1,Agua potable,2
+O0477,2,Agua potable,2
+O0478,1,Vivienda,1
+O0478,1,Agua potable,2
+O0478,2,Vivienda,1
+O0479,1,Agua potable,2
+O0479,1,Herramientas de trabajo,5
+O0479,2,Agua potable,2
+O0479,2,Herramientas de trabajo,5
+O0480,1,Agua potable,2
+O0480,1,Servicio sanitario,3
+O0480,1,Herramientas de trabajo,5
+O0480,2,Servicio sanitario,3
+O0481,1,Ninguno,900
+O0481,2,Agua potable,2
+O0481,2,Servicio sanitario,3
+O0482,2,Agua potable,2
+O0482,2,Servicio sanitario,3
+O0482,2,Asistencia médica,4
+O0483,1,Servicio sanitario,3
+O0483,1,Asistencia médica,4
+O0483,1,Herramientas de trabajo,5
+O0483,1,Equipo de protección,6
+O0483,2,Servicio sanitario,3
+O0483,2,Asistencia médica,4
+O0483,2,Herramientas de trabajo,5
+O0483,2,Equipo de protección,6
+O0484,1,Servicio sanitario,3
+O0484,2,Servicio sanitario,3
+O0484,2,Herramientas de trabajo,5
+O0485,1,Ninguno,900
+O0485,2,Ninguno,900
+O0486,2,Ninguno,900
+O0487,1,Ninguno,900
+O0487,2,Ninguno,900
+O0488,2,Agua potable,2
+O0488,2,Servicio sanitario,3
+O0488,2,Comida,8
+O0489,1,Agua potable,2
+O0489,1,Servicio sanitario,3
+O0489,1,Asistencia médica,4
+O0489,1,Herramientas de trabajo,5
+O0489,1,Equipo de protección,6
+O0489,1,Transporte,7
+O0489,2,Vivienda,1
+O0489,2,Agua potable,2
+O0489,2,Servicio sanitario,3
+O0489,2,Herramientas de trabajo,5
+O0489,2,Equipo de protección,6
+O0490,2,Agua potable,2
+O0490,2,Servicio sanitario,3
+O0490,2,Asistencia médica,4
+O0490,2,Herramientas de trabajo,5
+O0490,2,Equipo de protección,6
+O0491,1,Ninguno,900
+O0491,2,Ninguno,900
+O0492,1,Agua potable,2
+O0492,1,Servicio sanitario,3
+O0492,1,Asistencia médica,4
+O0492,1,Herramientas de trabajo,5
+O0492,1,Equipo de protección,6
+O0492,2,Vivienda,1
+O0492,2,Agua potable,2
+O0492,2,Servicio sanitario,3
+O0492,2,Asistencia médica,4
+O0492,2,Herramientas de trabajo,5
+O0492,2,Equipo de protección,6
+O0493,1,Servicio sanitario,3
+O0493,1,Asistencia médica,4
+O0493,1,Herramientas de trabajo,5
+O0493,1,Equipo de protección,6
+O0493,1,Transporte,7
+O0493,2,Agua potable,2
+O0493,2,Servicio sanitario,3
+O0493,2,Asistencia médica,4
+O0493,2,Herramientas de trabajo,5
+O0493,2,Equipo de protección,6
+O0494,1,Vivienda,1
+O0494,1,Servicio sanitario,3
+O0494,1,Herramientas de trabajo,5
+O0494,1,Comida,8
+O0494,2,Vivienda,1
+O0494,2,Agua potable,2
+O0494,2,Servicio sanitario,3
+O0494,2,Asistencia médica,4
+O0494,2,Comida,8
+O0495,1,Agua potable,2
+O0495,1,Servicio sanitario,3
+O0495,1,Asistencia médica,4
+O0495,1,Herramientas de trabajo,5
+O0495,1,Equipo de protección,6
+O0495,2,Agua potable,2
+O0495,2,Servicio sanitario,3
+O0495,2,Asistencia médica,4
+O0495,2,Herramientas de trabajo,5
+O0495,2,Equipo de protección,6
+O0496,1,Asistencia médica,4
+O0496,1,Equipo de protección,6
+O0496,2,Asistencia médica,4
+O0496,2,Equipo de protección,6
+O0497,1,Agua potable,2
+O0497,1,Servicio sanitario,3
+O0497,1,Asistencia médica,4
+O0497,1,Herramientas de trabajo,5
+O0497,1,Equipo de protección,6
+O0497,2,Agua potable,2
+O0497,2,Servicio sanitario,3
+O0497,2,Asistencia médica,4
+O0497,2,Herramientas de trabajo,5
+O0497,2,Equipo de protección,6
+O0498,1,Agua potable,2
+O0498,1,Servicio sanitario,3
+O0498,1,Asistencia médica,4
+O0498,1,Herramientas de trabajo,5
+O0498,2,Agua potable,2
+O0498,2,Asistencia médica,4
+O0498,2,Herramientas de trabajo,5
+O0499,1,Agua potable,2
+O0499,1,Servicio sanitario,3
+O0499,1,Asistencia médica,4
+O0499,1,Herramientas de trabajo,5
+O0499,1,Equipo de protección,6
+O0499,2,Agua potable,2
+O0499,2,Servicio sanitario,3
+O0499,2,Asistencia médica,4
+O0499,2,Herramientas de trabajo,5
+O0499,2,Equipo de protección,6
+O0500,1,Agua potable,2
+O0500,1,Servicio sanitario,3
+O0500,1,Asistencia médica,4
+O0500,1,Herramientas de trabajo,5
+O0500,1,Equipo de protección,6
+O0500,2,Agua potable,2
+O0500,2,Servicio sanitario,3
+O0500,2,Asistencia médica,4
+O0500,2,Herramientas de trabajo,5
+O0500,2,Equipo de protección,6
+O0501,1,Agua potable,2
+O0501,1,Servicio sanitario,3
+O0501,1,Asistencia médica,4
+O0501,1,Herramientas de trabajo,5
+O0501,1,Equipo de protección,6
+O0501,1,Transporte,7
+O0501,1,Comida,8
+O0501,2,Agua potable,2
+O0501,2,Servicio sanitario,3
+O0501,2,Asistencia médica,4
+O0501,2,Herramientas de trabajo,5
+O0501,2,Equipo de protección,6
+O0501,2,Transporte,7
+O0501,2,Comida,8
+O0502,1,Agua potable,2
+O0502,1,Servicio sanitario,3
+O0502,1,Asistencia médica,4
+O0502,1,Herramientas de trabajo,5
+O0502,1,Equipo de protección,6
+O0502,2,Agua potable,2
+O0502,2,Servicio sanitario,3
+O0502,2,Asistencia médica,4
+O0502,2,Herramientas de trabajo,5
+O0502,2,Equipo de protección,6
+O0503,1,Agua potable,2
+O0503,2,Agua potable,2
+O0504,1,No responde,999
+O0504,2,No responde,999
+O0505,1,Agua potable,2
+O0505,1,Servicio sanitario,3
+O0505,1,Herramientas de trabajo,5
+O0505,2,Agua potable,2
+O0505,2,Servicio sanitario,3
+O0505,2,Herramientas de trabajo,5
+O0506,1,Agua potable,2
+O0506,1,Servicio sanitario,3
+O0506,1,Asistencia médica,4
+O0506,1,Herramientas de trabajo,5
+O0506,1,Equipo de protección,6
+O0506,1,Transporte,7
+O0506,1,Comida,8
+O0506,2,Agua potable,2
+O0506,2,Servicio sanitario,3
+O0506,2,Asistencia médica,4
+O0506,2,Herramientas de trabajo,5
+O0506,2,Equipo de protección,6
+O0506,2,Transporte,7
+O0506,2,Comida,8
+O0507,2,Agua potable,2
+O0507,2,Herramientas de trabajo,5
+O0507,2,Transporte,7
+O0507,2,Comida,8
+O0508,2,Agua potable,2
+O0508,2,Herramientas de trabajo,5
+O0508,2,Equipo de protección,6
+O0509,2,Agua potable,2
+O0509,2,Servicio sanitario,3
+O0509,2,Herramientas de trabajo,5
+O0509,2,Transporte,7
+O0509,2,Comida,8
+O0510,1,Agua potable,2
+O0510,1,Servicio sanitario,3
+O0510,1,Herramientas de trabajo,5
+O0510,2,Agua potable,2
+O0510,2,Servicio sanitario,3
+O0510,2,Herramientas de trabajo,5
+O0511,1,Agua potable,2
+O0511,1,Servicio sanitario,3
+O0511,1,Herramientas de trabajo,5
+O0511,2,Agua potable,2
+O0511,2,Servicio sanitario,3
+O0511,2,Herramientas de trabajo,5
+O0512,1,Servicio sanitario,3
+O0512,1,Herramientas de trabajo,5
+O0512,2,Servicio sanitario,3
+O0512,2,Herramientas de trabajo,5
+O0513,1,Servicio sanitario,3
+O0513,2,Servicio sanitario,3
+O0514,1,Agua potable,2
+O0514,2,Agua potable,2
+O0514,3,Agua potable,2
+O0515,1,Vivienda,1
+O0515,2,Vivienda,1
+O0515,2,Agua potable,2
+O0515,2,Servicio sanitario,3
+O0515,2,Asistencia médica,4
+O0515,2,Herramientas de trabajo,5
+O0515,2,Equipo de protección,6
+O0515,2,Comida,8
+O0516,1,Agua potable,2
+O0516,1,Herramientas de trabajo,5
+O0516,1,Equipo de protección,6
+O0516,2,Vivienda,1
+O0516,2,Herramientas de trabajo,5
+O0516,2,Equipo de protección,6
+O0517,1,Agua potable,2
+O0517,1,Servicio sanitario,3
+O0517,1,Herramientas de trabajo,5
+O0517,1,Equipo de protección,6
+O0517,2,Agua potable,2
+O0517,2,Servicio sanitario,3
+O0517,2,Herramientas de trabajo,5
+O0517,2,Equipo de protección,6
+O0518,1,Agua potable,2
+O0518,1,Herramientas de trabajo,5
+O0518,1,Equipo de protección,6
+O0518,1,Comida,8
+O0518,2,Agua potable,2
+O0518,2,Herramientas de trabajo,5
+O0518,2,Equipo de protección,6
+O0518,2,Comida,8
+O0519,1,Agua potable,2
+O0519,1,Servicio sanitario,3
+O0519,1,Herramientas de trabajo,5
+O0519,1,Equipo de protección,6
+O0519,2,Vivienda,1
+O0519,2,Agua potable,2
+O0519,2,Servicio sanitario,3
+O0519,2,Herramientas de trabajo,5
+O0519,2,Equipo de protección,6
+O0520,1,Agua potable,2
+O0520,1,Servicio sanitario,3
+O0520,1,Herramientas de trabajo,5
+O0520,1,Comida,8
+O0520,2,Agua potable,2
+O0520,2,Servicio sanitario,3
+O0520,2,Herramientas de trabajo,5
+O0521,1,Agua potable,2
+O0521,1,Servicio sanitario,3
+O0521,2,Vivienda,1
+O0521,2,Servicio sanitario,3
+O0522,1,Herramientas de trabajo,5
+O0522,1,Equipo de protección,6
+O0522,2,Herramientas de trabajo,5
+O0522,2,Equipo de protección,6
+O0523,1,Agua potable,2
+O0523,2,Agua potable,2
+O0524,1,Herramientas de trabajo,5
+O0524,1,Transporte,7
+O0524,1,Comida,8
+O0524,2,Herramientas de trabajo,5
+O0524,2,Transporte,7
+O0524,2,Comida,8
+O0525,1,Agua potable,2
+O0525,1,Servicio sanitario,3
+O0525,2,Agua potable,2
+O0525,2,Servicio sanitario,3
+O0526,1,Agua potable,2
+O0526,1,Servicio sanitario,3
+O0526,1,Herramientas de trabajo,5
+O0526,1,Equipo de protección,6
+O0526,2,Agua potable,2
+O0526,2,Servicio sanitario,3
+O0526,2,Herramientas de trabajo,5
+O0526,2,Equipo de protección,6
+O0527,1,Agua potable,2
+O0527,1,Servicio sanitario,3
+O0527,2,Agua potable,2
+O0528,1,Agua potable,2
+O0528,1,Servicio sanitario,3
+O0528,2,Agua potable,2
+O0528,2,Servicio sanitario,3
+O0529,1,No responde,999
+O0529,2,No responde,999
+O0530,1,Servicio sanitario,3
+O0530,2,Vivienda,1
+O0530,2,Servicio sanitario,3
+O0531,1,No responde,999
+O0531,2,No responde,999
+O0532,1,Ninguno,900
+O0532,2,Ninguno,900
+O0533,1,Servicio sanitario,3
+O0533,1,Asistencia médica,4
+O0533,1,Herramientas de trabajo,5
+O0533,2,Agua potable,2
+O0533,2,Servicio sanitario,3
+O0533,2,Asistencia médica,4
+O0533,2,Herramientas de trabajo,5
+O0533,2,Equipo de protección,6
+O0534,1,Servicio sanitario,3
+O0534,1,Asistencia médica,4
+O0534,1,Herramientas de trabajo,5
+O0534,1,Equipo de protección,6
+O0534,2,Servicio sanitario,3
+O0534,2,Asistencia médica,4
+O0535,1,Vivienda,1
+O0535,1,Agua potable,2
+O0535,1,Servicio sanitario,3
+O0535,1,Asistencia médica,4
+O0535,1,Herramientas de trabajo,5
+O0535,1,Equipo de protección,6
+O0535,1,Transporte,7
+O0535,2,Agua potable,2
+O0535,2,Servicio sanitario,3
+O0535,2,Asistencia médica,4
+O0535,2,Herramientas de trabajo,5
+O0535,2,Equipo de protección,6
+O0535,2,Transporte,7
+O0536,1,Agua potable,2
+O0536,1,Servicio sanitario,3
+O0536,1,Asistencia médica,4
+O0536,1,Herramientas de trabajo,5
+O0536,1,Equipo de protección,6
+O0536,2,Vivienda,1
+O0536,2,Agua potable,2
+O0536,2,Servicio sanitario,3
+O0536,2,Asistencia médica,4
+O0536,2,Herramientas de trabajo,5
+O0536,2,Equipo de protección,6
+O0537,1,Herramientas de trabajo,5
+O0537,1,Equipo de protección,6
+O0537,2,Equipo de protección,6
+O0538,1,Agua potable,2
+O0538,1,Servicio sanitario,3
+O0538,1,Asistencia médica,4
+O0538,1,Herramientas de trabajo,5
+O0538,1,Equipo de protección,6
+O0538,2,Agua potable,2
+O0538,2,Servicio sanitario,3
+O0538,2,Asistencia médica,4
+O0538,2,Herramientas de trabajo,5
+O0538,2,Equipo de protección,6
+O0539,1,Agua potable,2
+O0539,1,Servicio sanitario,3
+O0539,1,Asistencia médica,4
+O0539,1,Herramientas de trabajo,5
+O0539,1,Equipo de protección,6
+O0539,2,Agua potable,2
+O0539,2,Servicio sanitario,3
+O0539,2,Asistencia médica,4
+O0539,2,Herramientas de trabajo,5
+O0539,2,Equipo de protección,6
+O0540,1,Agua potable,2
+O0540,1,Servicio sanitario,3
+O0540,2,Agua potable,2
+O0540,2,Servicio sanitario,3
+O0541,1,Servicio sanitario,3
+O0541,2,No responde,999
+O0542,1,Agua potable,2
+O0542,1,Herramientas de trabajo,5
+O0542,1,Equipo de protección,6
+O0542,2,Agua potable,2
+O0542,2,Servicio sanitario,3
+O0542,2,Asistencia médica,4
+O0542,2,Herramientas de trabajo,5
+O0543,1,Agua potable,2
+O0543,1,Servicio sanitario,3
+O0543,1,Asistencia médica,4
+O0543,1,Herramientas de trabajo,5
+O0543,1,Equipo de protección,6
+O0543,2,Agua potable,2
+O0543,2,Servicio sanitario,3
+O0543,2,Asistencia médica,4
+O0543,2,Herramientas de trabajo,5
+O0543,2,Equipo de protección,6
+O0544,1,Agua potable,2
+O0544,1,Servicio sanitario,3
+O0544,1,Asistencia médica,4
+O0544,1,Herramientas de trabajo,5
+O0544,1,Equipo de protección,6
+O0544,1,Transporte,7
+O0544,2,Vivienda,1
+O0544,2,Agua potable,2
+O0544,2,Servicio sanitario,3
+O0544,2,Herramientas de trabajo,5
+O0544,2,Equipo de protección,6
+O0545,1,Agua potable,2
+O0545,1,Servicio sanitario,3
+O0545,1,Asistencia médica,4
+O0545,1,Herramientas de trabajo,5
+O0545,1,Equipo de protección,6
+O0545,2,Agua potable,2
+O0545,2,Servicio sanitario,3
+O0545,2,Asistencia médica,4
+O0545,2,Herramientas de trabajo,5
+O0545,2,Equipo de protección,6
+O0546,1,Ninguno,900
+O0546,2,Ninguno,900
+O0547,1,Agua potable,2
+O0547,1,Servicio sanitario,3
+O0547,1,Herramientas de trabajo,5
+O0547,1,Equipo de protección,6
+O0547,2,Agua potable,2
+O0547,2,Servicio sanitario,3
+O0547,2,Herramientas de trabajo,5
+O0547,2,Equipo de protección,6
+O0548,1,Servicio sanitario,3
+O0548,1,Asistencia médica,4
+O0548,1,Herramientas de trabajo,5
+O0548,1,Equipo de protección,6
+O0548,2,Servicio sanitario,3
+O0548,2,Asistencia médica,4
+O0549,1,Agua potable,2
+O0549,1,Comida,8
+O0549,2,Agua potable,2
+O0549,2,Herramientas de trabajo,5
+O0549,2,Equipo de protección,6
+O0549,2,Comida,8
+O0550,1,Vivienda,1
+O0550,2,Agua potable,2
+O0550,2,Servicio sanitario,3
+O0551,2,Agua potable,2
+O0551,2,Servicio sanitario,3
+O0551,2,Herramientas de trabajo,5
+O0552,2,Equipo de protección,6
+O0553,1,Agua potable,2
+O0553,1,Servicio sanitario,3
+O0553,1,Herramientas de trabajo,5
+O0553,1,Equipo de protección,6
+O0553,1,Transporte,7
+O0553,1,Comida,8
+O0553,2,Agua potable,2
+O0553,2,Servicio sanitario,3
+O0553,2,Herramientas de trabajo,5
+O0553,2,Equipo de protección,6
+O0553,2,Transporte,7
+O0553,2,Comida,8
+O0554,1,Agua potable,2
+O0554,1,Servicio sanitario,3
+O0554,1,Herramientas de trabajo,5
+O0554,1,Equipo de protección,6
+O0554,2,Agua potable,2
+O0554,2,Servicio sanitario,3
+O0554,2,Herramientas de trabajo,5
+O0554,2,Equipo de protección,6
+O0555,1,Agua potable,2
+O0555,1,Servicio sanitario,3
+O0555,1,Herramientas de trabajo,5
+O0555,1,Equipo de protección,6
+O0555,2,Agua potable,2
+O0555,2,Servicio sanitario,3
+O0555,2,Herramientas de trabajo,5
+O0555,2,Equipo de protección,6
+O0556,2,Agua potable,2
+O0556,2,Servicio sanitario,3
+O0556,2,Herramientas de trabajo,5
+O0556,2,Equipo de protección,6
+O0557,1,Vivienda,1
+O0557,1,Servicio sanitario,3
+O0557,2,Agua potable,2
+O0557,2,Herramientas de trabajo,5
+O0557,2,Equipo de protección,6
+O0557,2,Comida,8
+O0558,1,Herramientas de trabajo,5
+O0558,2,No responde,999
+O0559,1,Herramientas de trabajo,5
+O0559,2,No responde,999
+O0560,1,Herramientas de trabajo,5
+O0560,1,Equipo de protección,6
+O0560,2,Herramientas de trabajo,5
+O0560,2,Equipo de protección,6
+O0561,1,Vivienda,1
+O0561,1,Agua potable,2
+O0561,1,Servicio sanitario,3
+O0561,1,Asistencia médica,4
+O0561,1,Herramientas de trabajo,5
+O0561,1,Equipo de protección,6
+O0561,2,Vivienda,1
+O0562,1,Agua potable,2
+O0562,1,Equipo de protección,6
+O0562,2,Agua potable,2
+O0562,2,Servicio sanitario,3
+O0562,2,Equipo de protección,6
+O0563,1,Vivienda,1
+O0563,1,Agua potable,2
+O0563,1,Servicio sanitario,3
+O0563,1,Asistencia médica,4
+O0563,1,Herramientas de trabajo,5
+O0563,1,Equipo de protección,6
+O0563,1,Transporte,7
+O0563,1,Comida,8
+O0563,2,Vivienda,1
+O0563,2,Agua potable,2
+O0563,2,Servicio sanitario,3
+O0563,2,Asistencia médica,4
+O0563,2,Herramientas de trabajo,5
+O0563,2,Equipo de protección,6
+O0564,1,Agua potable,2
+O0564,1,Servicio sanitario,3
+O0564,1,Equipo de protección,6
+O0564,2,Agua potable,2
+O0564,2,Herramientas de trabajo,5
+O0564,2,Equipo de protección,6
+O0565,1,Agua potable,2
+O0565,1,Servicio sanitario,3
+O0565,1,Herramientas de trabajo,5
+O0565,1,Equipo de protección,6
+O0565,2,Agua potable,2
+O0565,2,Servicio sanitario,3
+O0565,2,Herramientas de trabajo,5
+O0565,2,Equipo de protección,6
+O0565,3,Agua potable,2
+O0565,3,Servicio sanitario,3
+O0565,3,Herramientas de trabajo,5
+O0565,3,Equipo de protección,6
+O0566,1,Servicio sanitario,3
+O0566,1,Herramientas de trabajo,5
+O0566,1,Equipo de protección,6
+O0566,2,Servicio sanitario,3
+O0566,2,Herramientas de trabajo,5
+O0566,2,Equipo de protección,6
+O0567,1,Agua potable,2
+O0567,1,Herramientas de trabajo,5
+O0567,2,Vivienda,1
+O0567,2,Agua potable,2
+O0567,2,Servicio sanitario,3
+O0568,1,Ninguno,900
+O0568,2,Ninguno,900
+O0569,1,Ninguno,900
+O0569,2,Ninguno,900
+O0570,2,Ninguno,900
+O0571,1,Ninguno,900
+O0571,2,Ninguno,900
+O0572,1,Comida,8
+O0572,2,Comida,8
+O0573,1,Agua potable,2
+O0573,1,Asistencia médica,4
+O0573,1,Comida,8
+O0573,2,Agua potable,2
+O0573,2,Servicio sanitario,3
+O0573,2,Asistencia médica,4
+O0573,2,Comida,8
+O0574,1,Agua potable,2
+O0574,1,Comida,8
+O0574,2,No responde,999
+O0575,1,Agua potable,2
+O0575,1,Comida,8
+O0575,2,Agua potable,2
+O0575,2,Servicio sanitario,3
+O0575,2,Comida,8
+O0576,1,Agua potable,2
+O0576,1,Servicio sanitario,3
+O0576,1,Comida,8
+O0576,2,Servicio sanitario,3
+O0576,2,Asistencia médica,4
+O0576,2,Comida,8
+O0577,2,Ninguno,900
+O0578,2,Ninguno,900
+O0579,2,Ninguno,900
+O0580,2,Ninguno,900
+O0581,1,Ninguno,900
+O0581,2,Ninguno,900
+O0582,1,Ninguno,900
+O0582,2,Ninguno,900
+O0583,1,Agua potable,2
+O0583,1,Servicio sanitario,3
+O0583,1,Herramientas de trabajo,5
+O0583,1,Equipo de protección,6
+O0583,1,Comida,8
+O0583,2,Servicio sanitario,3
+O0583,2,Herramientas de trabajo,5
+O0583,2,Equipo de protección,6
+O0583,2,Comida,8
+O0584,1,Herramientas de trabajo,5
+O0584,2,Herramientas de trabajo,5
+O0585,1,Herramientas de trabajo,5
+O0585,1,Equipo de protección,6
+O0585,2,Herramientas de trabajo,5
+O0585,2,Equipo de protección,6
+O0586,1,Agua potable,2
+O0586,1,Servicio sanitario,3
+O0586,1,Asistencia médica,4
+O0586,1,Equipo de protección,6
+O0586,2,Agua potable,2
+O0586,2,Servicio sanitario,3
+O0586,2,Asistencia médica,4
+O0586,2,Herramientas de trabajo,5
+O0586,2,Equipo de protección,6
+O0587,1,Agua potable,2
+O0587,1,Equipo de protección,6
+O0587,2,Agua potable,2
+O0588,1,Agua potable,2
+O0588,1,Asistencia médica,4
+O0588,1,Equipo de protección,6
+O0588,2,Agua potable,2
+O0588,2,Servicio sanitario,3
+O0588,2,Asistencia médica,4
+O0588,2,Herramientas de trabajo,5
+O0588,2,Equipo de protección,6
+O0589,1,Agua potable,2
+O0589,1,Servicio sanitario,3
+O0589,1,Herramientas de trabajo,5
+O0589,2,Agua potable,2
+O0589,2,Servicio sanitario,3
+O0589,2,Herramientas de trabajo,5
+O0590,1,Agua potable,2
+O0590,1,Transporte,7
+O0590,1,Comida,8
+O0590,2,Agua potable,2
+O0590,2,Servicio sanitario,3
+O0590,2,Transporte,7
+O0590,2,Comida,8
+O0591,1,Agua potable,2
+O0591,1,Servicio sanitario,3
+O0591,1,Herramientas de trabajo,5
+O0591,2,Vivienda,1
+O0591,2,Agua potable,2
+O0591,2,Servicio sanitario,3
+O0591,2,Asistencia médica,4
+O0592,1,Agua potable,2
+O0592,1,Equipo de protección,6
+O0592,2,Agua potable,2
+O0592,2,Equipo de protección,6
+O0593,2,Servicio sanitario,3
+O0593,2,Equipo de protección,6
+O0594,1,Servicio sanitario,3
+O0594,1,Equipo de protección,6
+O0594,2,Agua potable,2
+O0594,2,Herramientas de trabajo,5
+O0594,2,Equipo de protección,6
+O0595,2,Equipo de protección,6
+O0596,1,Agua potable,2
+O0596,2,Agua potable,2
+O0596,2,Comida,8
+O0597,1,Agua potable,2
+O0597,2,Agua potable,2
+O0598,1,Ninguno,900
+O0598,2,Ninguno,900
+O0599,1,Agua potable,2
+O0599,1,Comida,8
+O0599,2,Agua potable,2
+O0599,2,Comida,8
+O0600,1,Agua potable,2
+O0600,1,Comida,8
+O0600,2,Agua potable,2
+O0600,2,Comida,8
+O0601,1,Agua potable,2
+O0601,1,Servicio sanitario,3
+O0601,1,Asistencia médica,4
+O0601,1,Herramientas de trabajo,5
+O0601,1,Equipo de protección,6
+O0601,1,Comida,8
+O0601,2,Agua potable,2
+O0601,2,Servicio sanitario,3
+O0601,2,Asistencia médica,4
+O0601,2,Herramientas de trabajo,5
+O0601,2,Equipo de protección,6
+O0601,2,Comida,8
+O0602,1,Agua potable,2
+O0602,1,Servicio sanitario,3
+O0602,1,Asistencia médica,4
+O0602,1,Herramientas de trabajo,5
+O0602,1,Equipo de protección,6
+O0602,1,Comida,8
+O0602,2,Agua potable,2
+O0602,2,Servicio sanitario,3
+O0602,2,Asistencia médica,4
+O0602,2,Herramientas de trabajo,5
+O0602,2,Equipo de protección,6
+O0602,2,Transporte,7
+O0602,2,Comida,8
+O0603,1,Agua potable,2
+O0603,1,Servicio sanitario,3
+O0603,1,Asistencia médica,4
+O0603,1,Herramientas de trabajo,5
+O0603,1,Equipo de protección,6
+O0603,1,Comida,8
+O0603,2,Agua potable,2
+O0603,2,Servicio sanitario,3
+O0603,2,Asistencia médica,4
+O0603,2,Herramientas de trabajo,5
+O0603,2,Equipo de protección,6
+O0603,2,Transporte,7
+O0604,1,Agua potable,2
+O0604,1,Servicio sanitario,3
+O0604,1,Asistencia médica,4
+O0604,1,Herramientas de trabajo,5
+O0604,1,Equipo de protección,6
+O0604,1,Comida,8
+O0604,2,Agua potable,2
+O0604,2,Servicio sanitario,3
+O0604,2,Asistencia médica,4
+O0604,2,Herramientas de trabajo,5
+O0604,2,Equipo de protección,6
+O0604,2,Comida,8
+O0605,1,Agua potable,2
+O0605,1,Servicio sanitario,3
+O0605,1,Asistencia médica,4
+O0605,1,Herramientas de trabajo,5
+O0605,1,Equipo de protección,6
+O0605,1,Comida,8
+O0605,2,Agua potable,2
+O0605,2,Servicio sanitario,3
+O0605,2,Asistencia médica,4
+O0605,2,Herramientas de trabajo,5
+O0605,2,Equipo de protección,6
+O0605,2,Comida,8
+O0606,1,Ninguno,900
+O0606,2,Ninguno,900
+O0607,1,Transporte,7
+O0607,1,Comida,8
+O0607,2,Ninguno,900
+O0608,1,Servicio sanitario,3
+O0608,1,Herramientas de trabajo,5
+O0608,1,Equipo de protección,6
+O0608,2,Ninguno,900
+O0609,1,Vivienda,1
+O0609,1,Agua potable,2
+O0609,1,Servicio sanitario,3
+O0609,2,Vivienda,1
+O0609,2,Agua potable,2
+O0609,2,Servicio sanitario,3
+O0610,1,Ninguno,900
+O0610,2,Ninguno,900
+O0611,2,Agua potable,2
+O0611,2,Transporte,7
+O0611,2,Comida,8
+O0612,1,Vivienda,1
+O0612,2,Vivienda,1
+O0613,1,Agua potable,2
+O0613,2,Agua potable,2
+O0614,2,Servicio sanitario,3
+O0615,2,Ninguno,900
+O0616,2,Comida,8
+O0617,2,Vivienda,1
+O0618,2,Agua potable,2
+O0618,2,Servicio sanitario,3
+O0619,1,Herramientas de trabajo,5
+O0619,1,Equipo de protección,6
+O0619,2,Herramientas de trabajo,5
+O0619,2,Equipo de protección,6
+O0620,2,Vivienda,1
+O0620,2,Agua potable,2
+O0621,1,Agua potable,2
+O0621,1,Servicio sanitario,3
+O0621,2,Agua potable,2
+O0621,2,Servicio sanitario,3
+O0622,1,Vivienda,1
+O0622,2,Vivienda,1
+O0623,2,Vivienda,1
+O0624,2,Vivienda,1
+O0624,2,Agua potable,2
+O0624,2,Servicio sanitario,3
+O0625,2,Agua potable,2
+O0626,1,Agua potable,2
+O0626,1,Servicio sanitario,3
+O0626,1,Asistencia médica,4
+O0626,1,Herramientas de trabajo,5
+O0626,1,Equipo de protección,6
+O0626,2,Agua potable,2
+O0626,2,Servicio sanitario,3
+O0626,2,Asistencia médica,4
+O0626,2,Herramientas de trabajo,5
+O0626,2,Equipo de protección,6
+O0627,2,Herramientas de trabajo,5
+O0627,2,Comida,8
+O0628,1,Agua potable,2
+O0628,1,Servicio sanitario,3
+O0628,2,Agua potable,2
+O0628,2,Servicio sanitario,3
+O0629,1,Agua potable,2
+O0629,1,Herramientas de trabajo,5
+O0629,1,Equipo de protección,6
+O0629,2,Agua potable,2
+O0629,2,Herramientas de trabajo,5
+O0629,2,Equipo de protección,6
+O0630,1,Agua potable,2
+O0630,1,Herramientas de trabajo,5
+O0630,1,Equipo de protección,6
+O0630,1,Transporte,7
+O0630,1,Comida,8
+O0630,2,Agua potable,2
+O0630,2,Servicio sanitario,3
+O0630,2,Transporte,7
+O0631,1,Herramientas de trabajo,5
+O0631,1,Equipo de protección,6
+O0631,2,Herramientas de trabajo,5
+O0631,2,Equipo de protección,6
+O0632,2,Herramientas de trabajo,5
+O0633,2,Vivienda,1
+O0634,1,Vivienda,1
+O0634,1,Agua potable,2
+O0634,1,Servicio sanitario,3
+O0634,2,Vivienda,1
+O0634,2,Agua potable,2
+O0634,2,Servicio sanitario,3
+O0635,1,Vivienda,1
+O0635,1,Agua potable,2
+O0635,1,Servicio sanitario,3
+O0635,2,Vivienda,1
+O0635,2,Agua potable,2
+O0635,2,Servicio sanitario,3
+O0636,1,Agua potable,2
+O0636,1,Servicio sanitario,3
+O0636,1,Asistencia médica,4
+O0636,1,Herramientas de trabajo,5
+O0636,1,Equipo de protección,6
+O0636,1,Comida,8
+O0636,2,Agua potable,2
+O0636,2,Servicio sanitario,3
+O0636,2,Asistencia médica,4
+O0636,2,Herramientas de trabajo,5
+O0636,2,Equipo de protección,6
+O0636,2,Comida,8
+O0637,1,Vivienda,1
+O0637,2,Vivienda,1
+O0637,2,Agua potable,2
