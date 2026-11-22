@@ -1,0 +1,2056 @@
+﻿Empresa_ID,Tipo,Item,Facilidad,Facilidad_Orden
+E0001,Idioma,Inglés,4,4
+E0001,Habilidad,Comunicación,1 · Nada fácil,1
+E0002,Idioma,Español,5 · Muy fácil,5
+E0002,Habilidad,Resolución de problemas,4,4
+E0003,Idioma,Español,5 · Muy fácil,5
+E0003,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0004,Idioma,Español,4,4
+E0004,Habilidad,Atención al cliente,3,3
+E0005,Idioma,Español,5 · Muy fácil,5
+E0005,Idioma,Inglés,3,3
+E0005,Habilidad,Comunicación,3,3
+E0005,Habilidad,Trabajo en equipo,4,4
+E0005,Habilidad,Liderazgo,4,4
+E0005,Habilidad,Ética de trabajo,3,3
+E0005,Habilidad,Manejo del tiempo,3,3
+E0005,Habilidad,Atención al cliente,4,4
+E0005,Habilidad,Creatividad,3,3
+E0006,Idioma,Español,4,4
+E0006,Idioma,Creole,2,2
+E0006,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0006,Habilidad,Manejo del tiempo,2,2
+E0007,Idioma,Español,1 · Nada fácil,1
+E0007,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0008,Idioma,Español,5 · Muy fácil,5
+E0008,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0009,Idioma,Español,5 · Muy fácil,5
+E0009,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0009,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0010,Idioma,Inglés,2,2
+E0010,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0011,Idioma,Español,5 · Muy fácil,5
+E0011,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0012,Idioma,Inglés,1 · Nada fácil,1
+E0012,Habilidad,Trabajo en equipo,3,3
+E0013,Idioma,Español,4,4
+E0013,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0014,Idioma,Español,1 · Nada fácil,1
+E0014,Habilidad,Manejo del tiempo,3,3
+E0015,Idioma,Inglés,4,4
+E0015,Habilidad,Atención al cliente,4,4
+E0016,Idioma,Español,5 · Muy fácil,5
+E0016,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0016,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0017,Idioma,Español,4,4
+E0017,Habilidad,Trabajo en equipo,4,4
+E0018,Idioma,Español,1 · Nada fácil,1
+E0018,Idioma,Inglés,3,3
+E0018,Habilidad,Trabajo en equipo,3,3
+E0019,Idioma,Español,3,3
+E0019,Habilidad,Trabajo en equipo,3,3
+E0020,Idioma,Español,5 · Muy fácil,5
+E0020,Idioma,Inglés,3,3
+E0020,Idioma,Creole,1 · Nada fácil,1
+E0020,Habilidad,Comunicación,4,4
+E0020,Habilidad,Trabajo en equipo,3,3
+E0020,Habilidad,Resolución de problemas,4,4
+E0020,Habilidad,Manejo del tiempo,3,3
+E0020,Habilidad,Atención al cliente,4,4
+E0021,Idioma,Inglés,1 · Nada fácil,1
+E0021,Habilidad,Manejo del tiempo,3,3
+E0021,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0022,Idioma,Inglés,5 · Muy fácil,5
+E0022,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0022,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0022,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0022,Habilidad,Negociación,5 · Muy fácil,5
+E0023,Idioma,Inglés,1 · Nada fácil,1
+E0023,Idioma,Francés,3,3
+E0023,Idioma,Italiano,1 · Nada fácil,1
+E0023,Idioma,Alemán,1 · Nada fácil,1
+E0023,Habilidad,Comunicación,2,2
+E0023,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0023,Habilidad,Inteligencia emocional,3,3
+E0023,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0023,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0023,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0024,Idioma,Español,5 · Muy fácil,5
+E0024,Habilidad,Atención al cliente,2,2
+E0025,Idioma,Español,1 · Nada fácil,1
+E0025,Idioma,Inglés,5 · Muy fácil,5
+E0025,Idioma,Francés,1 · Nada fácil,1
+E0025,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0026,Idioma,Inglés,5 · Muy fácil,5
+E0026,Habilidad,Trabajo en equipo,4,4
+E0026,Habilidad,Atención al cliente,4,4
+E0027,Idioma,Inglés,1 · Nada fácil,1
+E0027,Idioma,Francés,1 · Nada fácil,1
+E0027,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0028,Idioma,Inglés,1 · Nada fácil,1
+E0028,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0029,Idioma,Inglés,1 · Nada fácil,1
+E0029,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0030,Idioma,Español,5 · Muy fácil,5
+E0030,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0031,Idioma,Inglés,1 · Nada fácil,1
+E0031,Habilidad,Comunicación,1 · Nada fácil,1
+E0031,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0031,Habilidad,Liderazgo,1 · Nada fácil,1
+E0031,Habilidad,Adaptabilidad,2,2
+E0031,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0031,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0031,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0031,Habilidad,Manejo del tiempo,2,2
+E0031,Habilidad,Atención al cliente,2,2
+E0031,Habilidad,Creatividad,2,2
+E0031,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0032,Idioma,Español,5 · Muy fácil,5
+E0032,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0033,Idioma,Inglés,4,4
+E0033,Habilidad,Comunicación,1 · Nada fácil,1
+E0034,Idioma,Español,5 · Muy fácil,5
+E0034,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0035,Idioma,Español,5 · Muy fácil,5
+E0035,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0035,Habilidad,Liderazgo,5 · Muy fácil,5
+E0036,Idioma,Español,1 · Nada fácil,1
+E0036,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0037,Idioma,Inglés,1 · Nada fácil,1
+E0037,Habilidad,Atención al cliente,3,3
+E0038,Idioma,Español,5 · Muy fácil,5
+E0038,Habilidad,Trabajo en equipo,2,2
+E0039,Idioma,Inglés,1 · Nada fácil,1
+E0039,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0039,Habilidad,Manejo del tiempo,3,3
+E0039,Habilidad,Atención al cliente,2,2
+E0040,Idioma,Español,3,3
+E0040,Idioma,Inglés,3,3
+E0040,Habilidad,Resolución de problemas,2,2
+E0041,Idioma,Español,3,3
+E0041,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0042,Idioma,Inglés,4,4
+E0042,Habilidad,Comunicación,3,3
+E0042,Habilidad,Liderazgo,3,3
+E0043,Idioma,Inglés,3,3
+E0043,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0043,Habilidad,Liderazgo,5 · Muy fácil,5
+E0043,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0044,Idioma,Español,5 · Muy fácil,5
+E0044,Habilidad,Resolución de problemas,4,4
+E0045,Idioma,Inglés,3,3
+E0045,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0046,Idioma,Creole,5 · Muy fácil,5
+E0046,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0047,Idioma,Inglés,3,3
+E0047,Habilidad,Atención al cliente,2,2
+E0048,Idioma,Inglés,2,2
+E0048,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0049,Idioma,Inglés,1 · Nada fácil,1
+E0049,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0049,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0050,Idioma,Español,5 · Muy fácil,5
+E0050,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0051,Idioma,Español,4,4
+E0051,Habilidad,Atención al cliente,3,3
+E0052,Idioma,Español,1 · Nada fácil,1
+E0052,Idioma,Inglés,1 · Nada fácil,1
+E0052,Idioma,Francés,1 · Nada fácil,1
+E0052,Idioma,Italiano,1 · Nada fácil,1
+E0052,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0053,Idioma,Inglés,1 · Nada fácil,1
+E0053,Idioma,Francés,1 · Nada fácil,1
+E0053,Idioma,Alemán,1 · Nada fácil,1
+E0053,Habilidad,Trabajo en equipo,2,2
+E0054,Idioma,Español,1 · Nada fácil,1
+E0054,Habilidad,Trabajo en equipo,3,3
+E0055,Idioma,Español,1 · Nada fácil,1
+E0055,Idioma,Creole,5 · Muy fácil,5
+E0055,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0056,Idioma,Español,1 · Nada fácil,1
+E0056,Idioma,Francés,1 · Nada fácil,1
+E0056,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0057,Idioma,Español,5 · Muy fácil,5
+E0057,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0058,Idioma,Español,5 · Muy fácil,5
+E0058,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0059,Idioma,Español,3,3
+E0059,Idioma,Inglés,5 · Muy fácil,5
+E0059,Habilidad,Trabajo en equipo,3,3
+E0060,Idioma,Español,1 · Nada fácil,1
+E0060,Idioma,Coreano,1 · Nada fácil,1
+E0060,Habilidad,Comunicación,3,3
+E0060,Habilidad,Trabajo en equipo,4,4
+E0060,Habilidad,Resolución de problemas,3,3
+E0060,Habilidad,Inteligencia emocional,3,3
+E0060,Habilidad,Ética de trabajo,4,4
+E0060,Habilidad,Manejo del tiempo,4,4
+E0060,Habilidad,Atención al cliente,3,3
+E0060,Habilidad,Negociación,4,4
+E0061,Idioma,Español,1 · Nada fácil,1
+E0061,Idioma,Creole,1 · Nada fácil,1
+E0061,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0062,Idioma,Español,1 · Nada fácil,1
+E0062,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0062,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0063,Idioma,Inglés,1 · Nada fácil,1
+E0063,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0064,Idioma,Español,4,4
+E0064,Habilidad,Manejo del tiempo,4,4
+E0065,Idioma,Inglés,1 · Nada fácil,1
+E0065,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0066,Idioma,Español,5 · Muy fácil,5
+E0066,Habilidad,Trabajo en equipo,2,2
+E0067,Idioma,Inglés,1 · Nada fácil,1
+E0067,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0068,Idioma,Inglés,3,3
+E0068,Habilidad,Trabajo en equipo,2,2
+E0068,Habilidad,Atención al cliente,3,3
+E0069,Idioma,Español,1 · Nada fácil,1
+E0069,Habilidad,Comunicación,3,3
+E0070,Idioma,Inglés,2,2
+E0070,Habilidad,Comunicación,1 · Nada fácil,1
+E0070,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0071,Idioma,Español,5 · Muy fácil,5
+E0071,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0072,Idioma,Español,5 · Muy fácil,5
+E0072,Idioma,Inglés,1 · Nada fácil,1
+E0072,Habilidad,Atención al cliente,3,3
+E0073,Idioma,Inglés,1 · Nada fácil,1
+E0073,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0073,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0074,Idioma,Español,1 · Nada fácil,1
+E0074,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0075,Idioma,Español,1 · Nada fácil,1
+E0075,Idioma,Inglés,3,3
+E0075,Habilidad,Atención al cliente,4,4
+E0076,Idioma,Inglés,2,2
+E0076,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0077,Idioma,Español,4,4
+E0077,Idioma,Inglés,4,4
+E0077,Idioma,Creole,1 · Nada fácil,1
+E0077,Habilidad,Trabajo en equipo,4,4
+E0078,Idioma,Inglés,3,3
+E0078,Habilidad,Atención al cliente,3,3
+E0079,Idioma,Español,5 · Muy fácil,5
+E0079,Habilidad,Trabajo en equipo,2,2
+E0080,Idioma,Español,4,4
+E0080,Habilidad,Comunicación,5 · Muy fácil,5
+E0080,Habilidad,Trabajo en equipo,4,4
+E0080,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0080,Habilidad,Atención al cliente,4,4
+E0081,Idioma,Español,5 · Muy fácil,5
+E0081,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0082,Idioma,Español,5 · Muy fácil,5
+E0082,Habilidad,Comunicación,1 · Nada fácil,1
+E0082,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0082,Habilidad,Liderazgo,5 · Muy fácil,5
+E0082,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0082,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0082,Habilidad,Inteligencia emocional,5 · Muy fácil,5
+E0082,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0082,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0082,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0082,Habilidad,Negociación,5 · Muy fácil,5
+E0082,Habilidad,Creatividad,5 · Muy fácil,5
+E0082,Habilidad,Networking,5 · Muy fácil,5
+E0082,Habilidad,Autoeficacia percibida,5 · Muy fácil,5
+E0083,Idioma,Español,1 · Nada fácil,1
+E0083,Idioma,Portugués,5 · Muy fácil,5
+E0083,Idioma,Húngaro,5 · Muy fácil,5
+E0083,Habilidad,Comunicación,5 · Muy fácil,5
+E0083,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0083,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0083,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0083,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0084,Idioma,Inglés,4,4
+E0084,Habilidad,Atención al cliente,3,3
+E0085,Idioma,Inglés,1 · Nada fácil,1
+E0085,Idioma,Francés,1 · Nada fácil,1
+E0085,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0086,Idioma,Inglés,1 · Nada fácil,1
+E0086,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0086,Habilidad,Ética de trabajo,3,3
+E0086,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0087,Idioma,Español,1 · Nada fácil,1
+E0087,Habilidad,Manejo del tiempo,3,3
+E0087,Habilidad,Atención al cliente,3,3
+E0088,Idioma,Español,1 · Nada fácil,1
+E0088,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0089,Idioma,Inglés,3,3
+E0089,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0089,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0089,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0090,Idioma,Español,1 · Nada fácil,1
+E0090,Idioma,Inglés,1 · Nada fácil,1
+E0090,Idioma,Francés,1 · Nada fácil,1
+E0090,Habilidad,Liderazgo,1 · Nada fácil,1
+E0091,Idioma,Español,1 · Nada fácil,1
+E0091,Idioma,Inglés,1 · Nada fácil,1
+E0091,Habilidad,Negociación,1 · Nada fácil,1
+E0092,Idioma,Español,5 · Muy fácil,5
+E0092,Idioma,Inglés,3,3
+E0092,Habilidad,Comunicación,3,3
+E0092,Habilidad,Trabajo en equipo,4,4
+E0092,Habilidad,Liderazgo,4,4
+E0092,Habilidad,Ética de trabajo,3,3
+E0092,Habilidad,Manejo del tiempo,3,3
+E0092,Habilidad,Atención al cliente,4,4
+E0092,Habilidad,Creatividad,3,3
+E0093,Idioma,Español,5 · Muy fácil,5
+E0093,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0093,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0093,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0094,Idioma,Español,4,4
+E0094,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0094,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0095,Idioma,Español,5 · Muy fácil,5
+E0095,Habilidad,Atención al cliente,3,3
+E0096,Idioma,Español,5 · Muy fácil,5
+E0096,Idioma,Inglés,3,3
+E0096,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0096,Habilidad,Liderazgo,5 · Muy fácil,5
+E0096,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0096,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0096,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0096,Habilidad,Atención al cliente,2,2
+E0096,Habilidad,Negociación,3,3
+E0096,Habilidad,Creatividad,2,2
+E0097,Idioma,Inglés,2,2
+E0097,Habilidad,Atención al cliente,3,3
+E0098,Idioma,Español,1 · Nada fácil,1
+E0098,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0099,Idioma,Español,2,2
+E0099,Habilidad,Atención al cliente,4,4
+E0100,Idioma,Inglés,5 · Muy fácil,5
+E0100,Habilidad,Autoeficacia percibida,5 · Muy fácil,5
+E0101,Idioma,Español,5 · Muy fácil,5
+E0101,Habilidad,Resolución de problemas,3,3
+E0102,Idioma,Español,1 · Nada fácil,1
+E0102,Habilidad,Comunicación,2,2
+E0103,Idioma,Inglés,3,3
+E0103,Idioma,Francés,1 · Nada fácil,1
+E0103,Idioma,Alemán,1 · Nada fácil,1
+E0103,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0103,Habilidad,Negociación,1 · Nada fácil,1
+E0104,Idioma,Español,3,3
+E0104,Idioma,Inglés,1 · Nada fácil,1
+E0104,Idioma,Francés,1 · Nada fácil,1
+E0104,Habilidad,Manejo del tiempo,3,3
+E0104,Habilidad,Atención al cliente,3,3
+E0105,Idioma,Inglés,4,4
+E0105,Habilidad,Trabajo en equipo,3,3
+E0106,Idioma,Español,5 · Muy fácil,5
+E0106,Idioma,Inglés,2,2
+E0106,Habilidad,Manejo del tiempo,2,2
+E0107,Idioma,Español,1 · Nada fácil,1
+E0107,Idioma,Inglés,1 · Nada fácil,1
+E0107,Habilidad,Liderazgo,1 · Nada fácil,1
+E0107,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0107,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0108,Idioma,Español,5 · Muy fácil,5
+E0108,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0109,Idioma,Inglés,3,3
+E0109,Habilidad,Comunicación,1 · Nada fácil,1
+E0109,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0110,Idioma,Inglés,1 · Nada fácil,1
+E0110,Habilidad,Comunicación,1 · Nada fácil,1
+E0111,Idioma,Español,3,3
+E0111,Idioma,Inglés,2,2
+E0111,Idioma,Francés,2,2
+E0111,Idioma,Creole,1 · Nada fácil,1
+E0111,Habilidad,Comunicación,1 · Nada fácil,1
+E0111,Habilidad,Liderazgo,1 · Nada fácil,1
+E0111,Habilidad,Negociación,3,3
+E0112,Idioma,Español,5 · Muy fácil,5
+E0112,Habilidad,Trabajo en equipo,3,3
+E0113,Idioma,Español,5 · Muy fácil,5
+E0113,Habilidad,Creatividad,5 · Muy fácil,5
+E0114,Idioma,Español,5 · Muy fácil,5
+E0114,Idioma,Inglés,3,3
+E0114,Idioma,Creole,2,2
+E0114,Habilidad,Trabajo en equipo,3,3
+E0114,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0114,Habilidad,Resolución de problemas,3,3
+E0114,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0114,Habilidad,Negociación,5 · Muy fácil,5
+E0115,Idioma,Inglés,1 · Nada fácil,1
+E0115,Idioma,Francés,1 · Nada fácil,1
+E0115,Habilidad,Trabajo en equipo,3,3
+E0115,Habilidad,Ética de trabajo,3,3
+E0115,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0116,Idioma,Español,5 · Muy fácil,5
+E0116,Idioma,Inglés,5 · Muy fácil,5
+E0116,Idioma,Francés,5 · Muy fácil,5
+E0116,Idioma,Alemán,5 · Muy fácil,5
+E0116,Habilidad,Negociación,5 · Muy fácil,5
+E0117,Idioma,Inglés,5 · Muy fácil,5
+E0117,Idioma,Francés,5 · Muy fácil,5
+E0117,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0118,Idioma,Español,1 · Nada fácil,1
+E0118,Idioma,Creole,1 · Nada fácil,1
+E0118,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0119,Idioma,Español,5 · Muy fácil,5
+E0119,Idioma,Inglés,4,4
+E0119,Idioma,Francés,1 · Nada fácil,1
+E0119,Habilidad,Atención al cliente,3,3
+E0120,Idioma,Inglés,2,2
+E0120,Habilidad,Atención al cliente,3,3
+E0121,Idioma,Inglés,3,3
+E0121,Habilidad,Inteligencia emocional,2,2
+E0122,Idioma,Español,5 · Muy fácil,5
+E0122,Habilidad,Trabajo en equipo,3,3
+E0122,Habilidad,Atención al cliente,3,3
+E0123,Idioma,Español,3,3
+E0123,Habilidad,Adaptabilidad,2,2
+E0124,Idioma,Español,1 · Nada fácil,1
+E0124,Habilidad,Trabajo en equipo,2,2
+E0124,Habilidad,Liderazgo,2,2
+E0125,Idioma,Inglés,3,3
+E0125,Idioma,Francés,2,2
+E0125,Habilidad,Atención al cliente,3,3
+E0126,Idioma,Español,5 · Muy fácil,5
+E0126,Idioma,Inglés,2,2
+E0126,Idioma,Portugués,1 · Nada fácil,1
+E0126,Habilidad,Trabajo en equipo,4,4
+E0126,Habilidad,Atención al cliente,2,2
+E0126,Habilidad,Negociación,1 · Nada fácil,1
+E0126,Habilidad,Creatividad,2,2
+E0127,Idioma,Español,5 · Muy fácil,5
+E0127,Habilidad,Creatividad,1 · Nada fácil,1
+E0128,Idioma,Español,3,3
+E0128,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0129,Idioma,Inglés,1 · Nada fácil,1
+E0129,Habilidad,Trabajo en equipo,3,3
+E0129,Habilidad,Inteligencia emocional,3,3
+E0129,Habilidad,Ética de trabajo,3,3
+E0129,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0130,Idioma,Español,5 · Muy fácil,5
+E0130,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0131,Idioma,Inglés,5 · Muy fácil,5
+E0131,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0132,Idioma,Inglés,1 · Nada fácil,1
+E0132,Idioma,Francés,1 · Nada fácil,1
+E0132,Habilidad,Trabajo en equipo,3,3
+E0132,Habilidad,Inteligencia emocional,3,3
+E0133,Idioma,Español,5 · Muy fácil,5
+E0133,Habilidad,Trabajo en equipo,2,2
+E0134,Idioma,Español,5 · Muy fácil,5
+E0134,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0135,Idioma,Español,1 · Nada fácil,1
+E0135,Habilidad,Ética de trabajo,4,4
+E0136,Idioma,Inglés,3,3
+E0136,Habilidad,Ética de trabajo,3,3
+E0137,Idioma,Español,5 · Muy fácil,5
+E0137,Idioma,Inglés,2,2
+E0137,Habilidad,Adaptabilidad,2,2
+E0138,Idioma,Inglés,1 · Nada fácil,1
+E0138,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0138,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0138,Habilidad,Negociación,1 · Nada fácil,1
+E0139,Idioma,Inglés,3,3
+E0139,Habilidad,Trabajo en equipo,2,2
+E0139,Habilidad,Atención al cliente,3,3
+E0140,Idioma,Inglés,1 · Nada fácil,1
+E0140,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0141,Idioma,Español,5 · Muy fácil,5
+E0141,Idioma,Inglés,2,2
+E0141,Habilidad,Trabajo en equipo,4,4
+E0141,Habilidad,Adaptabilidad,4,4
+E0141,Habilidad,Ética de trabajo,3,3
+E0142,Idioma,Inglés,3,3
+E0142,Habilidad,Trabajo en equipo,3,3
+E0143,Idioma,Español,3,3
+E0143,Idioma,Inglés,3,3
+E0143,Habilidad,Trabajo en equipo,3,3
+E0143,Habilidad,Atención al cliente,3,3
+E0144,Idioma,Español,5 · Muy fácil,5
+E0144,Idioma,Inglés,3,3
+E0144,Habilidad,Ética de trabajo,3,3
+E0145,Idioma,Inglés,5 · Muy fácil,5
+E0145,Idioma,Francés,5 · Muy fácil,5
+E0145,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0145,Habilidad,Negociación,5 · Muy fácil,5
+E0146,Idioma,Español,5 · Muy fácil,5
+E0146,Habilidad,Comunicación,3,3
+E0147,Idioma,Inglés,5 · Muy fácil,5
+E0147,Habilidad,Comunicación,5 · Muy fácil,5
+E0148,Idioma,Inglés,3,3
+E0148,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0149,Idioma,Inglés,1 · Nada fácil,1
+E0149,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0150,Idioma,Español,5 · Muy fácil,5
+E0150,Idioma,Inglés,5 · Muy fácil,5
+E0150,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0151,Idioma,Español,3,3
+E0151,Habilidad,Atención al cliente,3,3
+E0152,Idioma,Inglés,3,3
+E0152,Habilidad,Atención al cliente,3,3
+E0152,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0153,Idioma,Inglés,3,3
+E0153,Idioma,Italiano,2,2
+E0153,Habilidad,Ética de trabajo,3,3
+E0153,Habilidad,Atención al cliente,2,2
+E0154,Idioma,Inglés,1 · Nada fácil,1
+E0154,Habilidad,Ética de trabajo,3,3
+E0154,Habilidad,Autoeficacia percibida,3,3
+E0155,Idioma,Inglés,3,3
+E0155,Habilidad,Comunicación,1 · Nada fácil,1
+E0155,Habilidad,Atención al cliente,4,4
+E0156,Idioma,Inglés,3,3
+E0156,Habilidad,Ética de trabajo,3,3
+E0156,Habilidad,Atención al cliente,3,3
+E0157,Idioma,Español,1 · Nada fácil,1
+E0157,Idioma,Inglés,1 · Nada fácil,1
+E0157,Habilidad,Comunicación,5 · Muy fácil,5
+E0158,Idioma,Español,1 · Nada fácil,1
+E0158,Idioma,Inglés,1 · Nada fácil,1
+E0158,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0159,Idioma,Español,1 · Nada fácil,1
+E0159,Idioma,Inglés,1 · Nada fácil,1
+E0159,Habilidad,Atención al cliente,3,3
+E0160,Idioma,Inglés,5 · Muy fácil,5
+E0160,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0161,Idioma,Español,5 · Muy fácil,5
+E0161,Idioma,Inglés,3,3
+E0161,Idioma,Francés,2,2
+E0161,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0162,Idioma,Español,5 · Muy fácil,5
+E0162,Idioma,Inglés,3,3
+E0162,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0163,Idioma,Español,1 · Nada fácil,1
+E0163,Idioma,Inglés,1 · Nada fácil,1
+E0163,Idioma,Francés,1 · Nada fácil,1
+E0163,Habilidad,Trabajo en equipo,4,4
+E0163,Habilidad,Liderazgo,4,4
+E0163,Habilidad,Manejo del tiempo,3,3
+E0164,Idioma,Inglés,5 · Muy fácil,5
+E0164,Idioma,Francés,5 · Muy fácil,5
+E0164,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0164,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0165,Idioma,Español,5 · Muy fácil,5
+E0165,Idioma,Inglés,5 · Muy fácil,5
+E0165,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0166,Idioma,Español,1 · Nada fácil,1
+E0166,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0167,Idioma,Español,3,3
+E0167,Habilidad,Trabajo en equipo,2,2
+E0168,Idioma,Español,5 · Muy fácil,5
+E0168,Habilidad,Atención al cliente,2,2
+E0169,Idioma,Español,3,3
+E0169,Habilidad,Trabajo en equipo,3,3
+E0170,Idioma,Español,1 · Nada fácil,1
+E0170,Habilidad,Atención al cliente,3,3
+E0171,Idioma,Inglés,5 · Muy fácil,5
+E0171,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0172,Idioma,Español,1 · Nada fácil,1
+E0172,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0173,Idioma,Inglés,1 · Nada fácil,1
+E0173,Habilidad,Atención al cliente,4,4
+E0174,Idioma,Español,5 · Muy fácil,5
+E0174,Idioma,Inglés,5 · Muy fácil,5
+E0174,Idioma,Francés,5 · Muy fácil,5
+E0174,Idioma,Italiano,5 · Muy fácil,5
+E0174,Idioma,Ruso,5 · Muy fácil,5
+E0174,Idioma,Alemán,5 · Muy fácil,5
+E0174,Habilidad,Comunicación,5 · Muy fácil,5
+E0175,Idioma,Inglés,1 · Nada fácil,1
+E0175,Idioma,Francés,1 · Nada fácil,1
+E0175,Habilidad,Comunicación,3,3
+E0175,Habilidad,Trabajo en equipo,4,4
+E0175,Habilidad,Resolución de problemas,4,4
+E0175,Habilidad,Atención al cliente,3,3
+E0176,Idioma,Español,1 · Nada fácil,1
+E0176,Idioma,Inglés,1 · Nada fácil,1
+E0176,Idioma,Francés,1 · Nada fácil,1
+E0176,Habilidad,Atención al cliente,3,3
+E0177,Idioma,Inglés,5 · Muy fácil,5
+E0177,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0178,Idioma,Español,5 · Muy fácil,5
+E0178,Idioma,Inglés,4,4
+E0178,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0179,Idioma,Español,5 · Muy fácil,5
+E0179,Habilidad,Comunicación,4,4
+E0179,Habilidad,Resolución de problemas,4,4
+E0180,Idioma,Inglés,1 · Nada fácil,1
+E0180,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0180,Habilidad,Liderazgo,1 · Nada fácil,1
+E0180,Habilidad,Inteligencia emocional,3,3
+E0180,Habilidad,Ética de trabajo,3,3
+E0180,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0180,Habilidad,Atención al cliente,4,4
+E0180,Habilidad,Creatividad,2,2
+E0181,Idioma,Español,5 · Muy fácil,5
+E0181,Idioma,Inglés,3,3
+E0181,Habilidad,Atención al cliente,3,3
+E0182,Idioma,Español,4,4
+E0182,Idioma,Inglés,1 · Nada fácil,1
+E0182,Idioma,Francés,1 · Nada fácil,1
+E0182,Idioma,Italiano,1 · Nada fácil,1
+E0182,Idioma,Portugués,1 · Nada fácil,1
+E0182,Idioma,Creole,5 · Muy fácil,5
+E0182,Habilidad,Creatividad,5 · Muy fácil,5
+E0183,Idioma,Español,3,3
+E0183,Habilidad,Ética de trabajo,3,3
+E0184,Idioma,Español,5 · Muy fácil,5
+E0184,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0185,Idioma,Inglés,5 · Muy fácil,5
+E0185,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0186,Idioma,Español,5 · Muy fácil,5
+E0186,Habilidad,Trabajo en equipo,3,3
+E0186,Habilidad,Atención al cliente,3,3
+E0187,Idioma,Español,1 · Nada fácil,1
+E0187,Idioma,Inglés,1 · Nada fácil,1
+E0187,Habilidad,Comunicación,3,3
+E0187,Habilidad,Trabajo en equipo,3,3
+E0188,Idioma,Español,5 · Muy fácil,5
+E0188,Habilidad,Ética de trabajo,2,2
+E0188,Habilidad,Atención al cliente,3,3
+E0189,Idioma,Español,5 · Muy fácil,5
+E0189,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0190,Idioma,Inglés,2,2
+E0190,Habilidad,Comunicación,5 · Muy fácil,5
+E0190,Habilidad,Liderazgo,5 · Muy fácil,5
+E0190,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0190,Habilidad,Negociación,5 · Muy fácil,5
+E0191,Idioma,Inglés,1 · Nada fácil,1
+E0191,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0191,Habilidad,Creatividad,1 · Nada fácil,1
+E0192,Idioma,Español,5 · Muy fácil,5
+E0192,Idioma,Inglés,3,3
+E0192,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0192,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0193,Idioma,Inglés,3,3
+E0193,Habilidad,Trabajo en equipo,2,2
+E0193,Habilidad,Atención al cliente,2,2
+E0194,Idioma,Español,5 · Muy fácil,5
+E0194,Idioma,Inglés,5 · Muy fácil,5
+E0194,Habilidad,Trabajo en equipo,3,3
+E0195,Idioma,Español,5 · Muy fácil,5
+E0195,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0195,Habilidad,Negociación,1 · Nada fácil,1
+E0196,Idioma,Inglés,2,2
+E0196,Idioma,Francés,1 · Nada fácil,1
+E0196,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0197,Idioma,Español,4,4
+E0197,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0198,Idioma,Inglés,5 · Muy fácil,5
+E0198,Habilidad,Trabajo en equipo,2,2
+E0199,Idioma,Español,5 · Muy fácil,5
+E0199,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0200,Idioma,Español,5 · Muy fácil,5
+E0200,Idioma,Inglés,1 · Nada fácil,1
+E0200,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0201,Idioma,Inglés,1 · Nada fácil,1
+E0201,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0202,Idioma,Español,3,3
+E0202,Idioma,Inglés,4,4
+E0202,Habilidad,Atención al cliente,3,3
+E0203,Idioma,Inglés,3,3
+E0203,Habilidad,Comunicación,3,3
+E0203,Habilidad,Trabajo en equipo,3,3
+E0204,Idioma,Inglés,5 · Muy fácil,5
+E0204,Habilidad,Trabajo en equipo,2,2
+E0205,Idioma,Inglés,3,3
+E0205,Habilidad,Atención al cliente,4,4
+E0206,Idioma,Inglés,4,4
+E0206,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0207,Idioma,Inglés,4,4
+E0207,Habilidad,Comunicación,5 · Muy fácil,5
+E0207,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0207,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0207,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0207,Habilidad,Manejo del tiempo,4,4
+E0207,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0208,Idioma,Español,5 · Muy fácil,5
+E0208,Idioma,Inglés,1 · Nada fácil,1
+E0208,Habilidad,Comunicación,2,2
+E0208,Habilidad,Trabajo en equipo,2,2
+E0208,Habilidad,Liderazgo,1 · Nada fácil,1
+E0208,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0208,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0208,Habilidad,Inteligencia emocional,2,2
+E0208,Habilidad,Ética de trabajo,3,3
+E0208,Habilidad,Manejo del tiempo,2,2
+E0208,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0208,Habilidad,Negociación,1 · Nada fácil,1
+E0208,Habilidad,Creatividad,2,2
+E0208,Habilidad,Networking,1 · Nada fácil,1
+E0208,Habilidad,Autoeficacia percibida,4,4
+E0209,Idioma,Inglés,2,2
+E0209,Habilidad,Atención al cliente,3,3
+E0210,Idioma,Inglés,1 · Nada fácil,1
+E0210,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0211,Idioma,Inglés,4,4
+E0211,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0212,Idioma,Español,5 · Muy fácil,5
+E0212,Idioma,Inglés,5 · Muy fácil,5
+E0212,Idioma,Francés,5 · Muy fácil,5
+E0212,Idioma,Italiano,5 · Muy fácil,5
+E0212,Idioma,Ruso,5 · Muy fácil,5
+E0212,Idioma,Alemán,5 · Muy fácil,5
+E0212,Idioma,Portugués,5 · Muy fácil,5
+E0212,Idioma,Húngaro,5 · Muy fácil,5
+E0212,Idioma,Griego,5 · Muy fácil,5
+E0212,Idioma,Mandarín / chino,5 · Muy fácil,5
+E0212,Idioma,Japonés,5 · Muy fácil,5
+E0212,Idioma,Coreano,5 · Muy fácil,5
+E0212,Idioma,Creole,5 · Muy fácil,5
+E0212,Habilidad,Atención al cliente,3,3
+E0213,Idioma,Español,3,3
+E0213,Idioma,Francés,4,4
+E0213,Habilidad,Trabajo en equipo,3,3
+E0214,Idioma,Inglés,1 · Nada fácil,1
+E0214,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0214,Habilidad,Liderazgo,1 · Nada fácil,1
+E0214,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0214,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0215,Idioma,Inglés,2,2
+E0215,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0216,Idioma,Español,5 · Muy fácil,5
+E0216,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0216,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0217,Idioma,Inglés,4,4
+E0217,Habilidad,Atención al cliente,4,4
+E0218,Idioma,Español,4,4
+E0218,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0219,Idioma,Español,3,3
+E0219,Idioma,Inglés,3,3
+E0219,Habilidad,Atención al cliente,4,4
+E0220,Idioma,Inglés,5 · Muy fácil,5
+E0220,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0221,Idioma,Inglés,2,2
+E0221,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0221,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0221,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0221,Habilidad,Creatividad,1 · Nada fácil,1
+E0221,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0222,Idioma,Español,5 · Muy fácil,5
+E0222,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0223,Idioma,Inglés,3,3
+E0223,Habilidad,Trabajo en equipo,4,4
+E0224,Idioma,Español,3,3
+E0224,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0225,Idioma,Inglés,1 · Nada fácil,1
+E0225,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0226,Idioma,Español,5 · Muy fácil,5
+E0226,Habilidad,Liderazgo,3,3
+E0227,Idioma,Inglés,1 · Nada fácil,1
+E0227,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0228,Idioma,Español,2,2
+E0228,Habilidad,Trabajo en equipo,3,3
+E0229,Idioma,Español,3,3
+E0229,Habilidad,Atención al cliente,4,4
+E0230,Idioma,Inglés,3,3
+E0230,Habilidad,Ética de trabajo,3,3
+E0230,Habilidad,Atención al cliente,3,3
+E0231,Idioma,Español,5 · Muy fácil,5
+E0231,Idioma,Inglés,3,3
+E0231,Habilidad,Trabajo en equipo,2,2
+E0231,Habilidad,Adaptabilidad,3,3
+E0232,Idioma,Inglés,2,2
+E0232,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0233,Idioma,Español,5 · Muy fácil,5
+E0233,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0234,Idioma,Inglés,1 · Nada fácil,1
+E0234,Idioma,Francés,1 · Nada fácil,1
+E0234,Habilidad,Comunicación,3,3
+E0234,Habilidad,Trabajo en equipo,4,4
+E0234,Habilidad,Resolución de problemas,4,4
+E0234,Habilidad,Manejo del tiempo,4,4
+E0234,Habilidad,Atención al cliente,3,3
+E0235,Idioma,Español,4,4
+E0235,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0236,Idioma,Español,5 · Muy fácil,5
+E0236,Habilidad,Comunicación,4,4
+E0236,Habilidad,Atención al cliente,3,3
+E0237,Idioma,Español,5 · Muy fácil,5
+E0237,Habilidad,Comunicación,5 · Muy fácil,5
+E0238,Idioma,Español,5 · Muy fácil,5
+E0238,Habilidad,Negociación,1 · Nada fácil,1
+E0239,Idioma,Inglés,5 · Muy fácil,5
+E0239,Habilidad,Liderazgo,1 · Nada fácil,1
+E0240,Idioma,Español,5 · Muy fácil,5
+E0240,Idioma,Inglés,1 · Nada fácil,1
+E0240,Habilidad,Trabajo en equipo,2,2
+E0241,Idioma,Inglés,3,3
+E0241,Habilidad,Liderazgo,4,4
+E0241,Habilidad,Adaptabilidad,3,3
+E0241,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0242,Idioma,Español,5 · Muy fácil,5
+E0242,Idioma,Inglés,4,4
+E0242,Habilidad,Trabajo en equipo,4,4
+E0243,Idioma,Inglés,5 · Muy fácil,5
+E0243,Idioma,Francés,4,4
+E0243,Idioma,Ruso,3,3
+E0243,Idioma,Alemán,3,3
+E0243,Habilidad,Comunicación,5 · Muy fácil,5
+E0243,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0243,Habilidad,Liderazgo,5 · Muy fácil,5
+E0243,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0244,Idioma,Inglés,3,3
+E0244,Idioma,Francés,3,3
+E0244,Habilidad,Negociación,3,3
+E0245,Idioma,Español,5 · Muy fácil,5
+E0245,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0246,Idioma,Español,5 · Muy fácil,5
+E0246,Idioma,Inglés,3,3
+E0246,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0246,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0247,Idioma,Inglés,4,4
+E0247,Habilidad,Adaptabilidad,4,4
+E0247,Habilidad,Ética de trabajo,3,3
+E0247,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0247,Habilidad,Atención al cliente,4,4
+E0248,Idioma,Español,1 · Nada fácil,1
+E0248,Habilidad,Trabajo en equipo,3,3
+E0249,Idioma,Inglés,3,3
+E0249,Habilidad,Trabajo en equipo,3,3
+E0249,Habilidad,Resolución de problemas,3,3
+E0249,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0250,Idioma,Español,5 · Muy fácil,5
+E0250,Habilidad,Comunicación,5 · Muy fácil,5
+E0250,Habilidad,Liderazgo,3,3
+E0250,Habilidad,Adaptabilidad,3,3
+E0250,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0250,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0251,Idioma,Español,5 · Muy fácil,5
+E0251,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0251,Habilidad,Atención al cliente,4,4
+E0252,Idioma,Español,5 · Muy fácil,5
+E0252,Habilidad,Comunicación,3,3
+E0252,Habilidad,Atención al cliente,4,4
+E0253,Idioma,Español,4,4
+E0253,Habilidad,Liderazgo,3,3
+E0254,Idioma,Inglés,5 · Muy fácil,5
+E0254,Idioma,Francés,3,3
+E0254,Idioma,Ruso,3,3
+E0254,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0255,Idioma,Inglés,1 · Nada fácil,1
+E0255,Idioma,Francés,1 · Nada fácil,1
+E0255,Habilidad,Comunicación,5 · Muy fácil,5
+E0256,Idioma,Inglés,3,3
+E0256,Habilidad,Atención al cliente,3,3
+E0257,Idioma,Español,1 · Nada fácil,1
+E0257,Habilidad,Trabajo en equipo,3,3
+E0258,Idioma,Inglés,3,3
+E0258,Idioma,Francés,3,3
+E0258,Idioma,Italiano,3,3
+E0258,Habilidad,Atención al cliente,3,3
+E0259,Idioma,Español,1 · Nada fácil,1
+E0259,Idioma,Inglés,1 · Nada fácil,1
+E0259,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0260,Idioma,Inglés,1 · Nada fácil,1
+E0260,Idioma,Francés,3,3
+E0260,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0261,Idioma,Inglés,3,3
+E0261,Idioma,Francés,2,2
+E0261,Habilidad,Comunicación,5 · Muy fácil,5
+E0262,Idioma,Inglés,3,3
+E0262,Habilidad,Comunicación,1 · Nada fácil,1
+E0263,Idioma,Inglés,3,3
+E0263,Idioma,Francés,2,2
+E0263,Habilidad,Atención al cliente,4,4
+E0264,Idioma,Inglés,1 · Nada fácil,1
+E0264,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0265,Idioma,Inglés,3,3
+E0265,Habilidad,Ética de trabajo,3,3
+E0266,Idioma,Inglés,1 · Nada fácil,1
+E0266,Idioma,Francés,2,2
+E0266,Habilidad,Comunicación,1 · Nada fácil,1
+E0266,Habilidad,Trabajo en equipo,2,2
+E0266,Habilidad,Liderazgo,1 · Nada fácil,1
+E0266,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0266,Habilidad,Resolución de problemas,2,2
+E0266,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0266,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0266,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0266,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0266,Habilidad,Negociación,1 · Nada fácil,1
+E0266,Habilidad,Creatividad,1 · Nada fácil,1
+E0266,Habilidad,Autoeficacia percibida,2,2
+E0267,Idioma,Español,5 · Muy fácil,5
+E0267,Idioma,Inglés,3,3
+E0267,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0268,Idioma,Español,4,4
+E0268,Idioma,Inglés,3,3
+E0268,Habilidad,Atención al cliente,3,3
+E0268,Habilidad,Negociación,4,4
+E0269,Idioma,Español,1 · Nada fácil,1
+E0269,Habilidad,Atención al cliente,2,2
+E0270,Idioma,Inglés,1 · Nada fácil,1
+E0270,Idioma,Alemán,1 · Nada fácil,1
+E0270,Habilidad,Trabajo en equipo,3,3
+E0270,Habilidad,Atención al cliente,3,3
+E0271,Idioma,Español,5 · Muy fácil,5
+E0271,Habilidad,Atención al cliente,3,3
+E0272,Idioma,Español,1 · Nada fácil,1
+E0272,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0272,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0273,Idioma,Español,1 · Nada fácil,1
+E0273,Habilidad,Trabajo en equipo,2,2
+E0273,Habilidad,Atención al cliente,2,2
+E0274,Idioma,Inglés,4,4
+E0274,Habilidad,Atención al cliente,4,4
+E0275,Idioma,Español,3,3
+E0275,Idioma,Inglés,1 · Nada fácil,1
+E0275,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0276,Idioma,Inglés,5 · Muy fácil,5
+E0276,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0277,Idioma,Español,5 · Muy fácil,5
+E0277,Habilidad,Trabajo en equipo,3,3
+E0278,Idioma,Español,4,4
+E0278,Habilidad,Manejo del tiempo,4,4
+E0278,Habilidad,Atención al cliente,4,4
+E0279,Idioma,Español,4,4
+E0279,Habilidad,Trabajo en equipo,3,3
+E0280,Idioma,Español,4,4
+E0280,Habilidad,Inteligencia emocional,4,4
+E0281,Idioma,Español,5 · Muy fácil,5
+E0281,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0282,Idioma,Inglés,1 · Nada fácil,1
+E0282,Habilidad,Atención al cliente,2,2
+E0283,Idioma,Español,1 · Nada fácil,1
+E0283,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0284,Idioma,Español,5 · Muy fácil,5
+E0284,Habilidad,Atención al cliente,3,3
+E0285,Idioma,Español,1 · Nada fácil,1
+E0285,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0286,Idioma,Inglés,1 · Nada fácil,1
+E0286,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0287,Idioma,Inglés,1 · Nada fácil,1
+E0287,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0288,Idioma,Inglés,5 · Muy fácil,5
+E0288,Habilidad,Comunicación,3,3
+E0288,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0289,Idioma,Español,5 · Muy fácil,5
+E0289,Idioma,Inglés,1 · Nada fácil,1
+E0289,Habilidad,Comunicación,1 · Nada fácil,1
+E0289,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0289,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0290,Idioma,Español,5 · Muy fácil,5
+E0290,Habilidad,Manejo del tiempo,4,4
+E0290,Habilidad,Atención al cliente,4,4
+E0291,Idioma,Inglés,3,3
+E0291,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0291,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0292,Idioma,Inglés,3,3
+E0292,Habilidad,Comunicación,2,2
+E0293,Idioma,Inglés,3,3
+E0293,Habilidad,Atención al cliente,3,3
+E0294,Idioma,Español,5 · Muy fácil,5
+E0294,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0294,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0295,Idioma,Español,3,3
+E0295,Habilidad,Atención al cliente,3,3
+E0296,Idioma,Español,5 · Muy fácil,5
+E0296,Habilidad,Trabajo en equipo,3,3
+E0296,Habilidad,Creatividad,4,4
+E0297,Idioma,Español,1 · Nada fácil,1
+E0297,Habilidad,Manejo del tiempo,4,4
+E0298,Idioma,Español,1 · Nada fácil,1
+E0298,Idioma,Inglés,5 · Muy fácil,5
+E0298,Habilidad,Autoeficacia percibida,3,3
+E0299,Idioma,Español,3,3
+E0299,Habilidad,Trabajo en equipo,3,3
+E0300,Idioma,Español,3,3
+E0300,Idioma,Francés,4,4
+E0300,Habilidad,Trabajo en equipo,3,3
+E0301,Idioma,Español,5 · Muy fácil,5
+E0301,Idioma,Inglés,5 · Muy fácil,5
+E0301,Idioma,Francés,5 · Muy fácil,5
+E0301,Idioma,Italiano,5 · Muy fácil,5
+E0301,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0301,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0301,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0301,Habilidad,Negociación,4,4
+E0302,Idioma,Inglés,5 · Muy fácil,5
+E0302,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0303,Idioma,Inglés,5 · Muy fácil,5
+E0303,Habilidad,Comunicación,5 · Muy fácil,5
+E0303,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0303,Habilidad,Liderazgo,5 · Muy fácil,5
+E0303,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0303,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0303,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0303,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0303,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0303,Habilidad,Negociación,5 · Muy fácil,5
+E0303,Habilidad,Creatividad,5 · Muy fácil,5
+E0303,Habilidad,Autoeficacia percibida,5 · Muy fácil,5
+E0304,Idioma,Inglés,4,4
+E0304,Idioma,Francés,4,4
+E0304,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0305,Idioma,Español,1 · Nada fácil,1
+E0305,Idioma,Inglés,4,4
+E0305,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0306,Idioma,Español,3,3
+E0306,Idioma,Inglés,2,2
+E0306,Habilidad,Comunicación,5 · Muy fácil,5
+E0307,Idioma,Inglés,5 · Muy fácil,5
+E0307,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0308,Idioma,Inglés,2,2
+E0308,Habilidad,Trabajo en equipo,3,3
+E0308,Habilidad,Inteligencia emocional,3,3
+E0308,Habilidad,Atención al cliente,3,3
+E0309,Idioma,Español,5 · Muy fácil,5
+E0309,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0310,Idioma,Español,5 · Muy fácil,5
+E0310,Idioma,Inglés,3,3
+E0310,Habilidad,Creatividad,1 · Nada fácil,1
+E0311,Idioma,Español,3,3
+E0311,Habilidad,Atención al cliente,3,3
+E0312,Idioma,Español,3,3
+E0312,Idioma,Inglés,2,2
+E0312,Habilidad,Trabajo en equipo,3,3
+E0313,Idioma,Inglés,3,3
+E0313,Idioma,Francés,3,3
+E0313,Habilidad,Manejo del tiempo,3,3
+E0314,Idioma,Español,4,4
+E0314,Habilidad,Atención al cliente,4,4
+E0315,Idioma,Español,5 · Muy fácil,5
+E0315,Habilidad,Trabajo en equipo,3,3
+E0315,Habilidad,Atención al cliente,3,3
+E0316,Idioma,Español,1 · Nada fácil,1
+E0316,Habilidad,Atención al cliente,3,3
+E0317,Idioma,Español,5 · Muy fácil,5
+E0317,Habilidad,Comunicación,3,3
+E0317,Habilidad,Trabajo en equipo,3,3
+E0317,Habilidad,Liderazgo,3,3
+E0317,Habilidad,Adaptabilidad,3,3
+E0317,Habilidad,Ética de trabajo,3,3
+E0318,Idioma,Español,5 · Muy fácil,5
+E0318,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0319,Idioma,Español,5 · Muy fácil,5
+E0319,Idioma,Inglés,3,3
+E0319,Habilidad,Atención al cliente,3,3
+E0320,Idioma,Español,5 · Muy fácil,5
+E0320,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0321,Idioma,Inglés,5 · Muy fácil,5
+E0321,Habilidad,Manejo del tiempo,4,4
+E0322,Idioma,Español,5 · Muy fácil,5
+E0322,Idioma,Inglés,3,3
+E0322,Habilidad,Trabajo en equipo,3,3
+E0323,Idioma,Inglés,3,3
+E0323,Idioma,Francés,1 · Nada fácil,1
+E0323,Idioma,Italiano,1 · Nada fácil,1
+E0323,Habilidad,Trabajo en equipo,3,3
+E0323,Habilidad,Adaptabilidad,4,4
+E0324,Idioma,Inglés,3,3
+E0324,Habilidad,Trabajo en equipo,2,2
+E0324,Habilidad,Negociación,4,4
+E0325,Idioma,Inglés,1 · Nada fácil,1
+E0325,Habilidad,Trabajo en equipo,3,3
+E0325,Habilidad,Liderazgo,4,4
+E0325,Habilidad,Manejo del tiempo,4,4
+E0326,Idioma,Español,5 · Muy fácil,5
+E0326,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0327,Idioma,Español,3,3
+E0327,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0327,Habilidad,Liderazgo,5 · Muy fácil,5
+E0328,Idioma,Inglés,3,3
+E0328,Habilidad,Atención al cliente,4,4
+E0329,Idioma,Español,5 · Muy fácil,5
+E0329,Habilidad,Atención al cliente,3,3
+E0330,Idioma,Español,5 · Muy fácil,5
+E0330,Idioma,Inglés,5 · Muy fácil,5
+E0330,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0331,Idioma,Inglés,1 · Nada fácil,1
+E0331,Idioma,Alemán,1 · Nada fácil,1
+E0331,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0332,Idioma,Español,5 · Muy fácil,5
+E0332,Idioma,Alemán,1 · Nada fácil,1
+E0332,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0333,Idioma,Español,4,4
+E0333,Habilidad,Atención al cliente,3,3
+E0334,Idioma,Inglés,5 · Muy fácil,5
+E0334,Idioma,Francés,4,4
+E0334,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0334,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0335,Idioma,Español,3,3
+E0335,Idioma,Inglés,1 · Nada fácil,1
+E0335,Habilidad,Liderazgo,1 · Nada fácil,1
+E0336,Idioma,Inglés,3,3
+E0336,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0337,Idioma,Español,5 · Muy fácil,5
+E0337,Idioma,Inglés,5 · Muy fácil,5
+E0337,Habilidad,Comunicación,4,4
+E0337,Habilidad,Trabajo en equipo,4,4
+E0337,Habilidad,Liderazgo,5 · Muy fácil,5
+E0337,Habilidad,Adaptabilidad,4,4
+E0337,Habilidad,Resolución de problemas,4,4
+E0337,Habilidad,Inteligencia emocional,4,4
+E0337,Habilidad,Negociación,5 · Muy fácil,5
+E0337,Habilidad,Creatividad,5 · Muy fácil,5
+E0338,Idioma,Inglés,1 · Nada fácil,1
+E0338,Habilidad,Liderazgo,5 · Muy fácil,5
+E0339,Idioma,Inglés,5 · Muy fácil,5
+E0339,Idioma,Francés,3,3
+E0339,Idioma,Ruso,3,3
+E0339,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0340,Idioma,Español,1 · Nada fácil,1
+E0340,Idioma,Inglés,1 · Nada fácil,1
+E0340,Idioma,Francés,1 · Nada fácil,1
+E0340,Habilidad,Liderazgo,1 · Nada fácil,1
+E0340,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0340,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0341,Idioma,Inglés,1 · Nada fácil,1
+E0341,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0342,Idioma,Inglés,1 · Nada fácil,1
+E0342,Habilidad,Trabajo en equipo,3,3
+E0343,Idioma,Español,5 · Muy fácil,5
+E0343,Idioma,Inglés,4,4
+E0343,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0343,Habilidad,Atención al cliente,3,3
+E0344,Idioma,Español,5 · Muy fácil,5
+E0344,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0345,Idioma,Inglés,1 · Nada fácil,1
+E0345,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0346,Idioma,Español,5 · Muy fácil,5
+E0346,Habilidad,Adaptabilidad,3,3
+E0347,Idioma,Español,1 · Nada fácil,1
+E0347,Idioma,Inglés,3,3
+E0347,Habilidad,Trabajo en equipo,3,3
+E0348,Idioma,Inglés,1 · Nada fácil,1
+E0348,Habilidad,Atención al cliente,2,2
+E0349,Idioma,Español,1 · Nada fácil,1
+E0349,Habilidad,Trabajo en equipo,4,4
+E0350,Idioma,Español,1 · Nada fácil,1
+E0350,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0350,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0350,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0350,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0351,Idioma,Inglés,5 · Muy fácil,5
+E0351,Idioma,Francés,5 · Muy fácil,5
+E0351,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0351,Habilidad,Negociación,5 · Muy fácil,5
+E0352,Idioma,Español,1 · Nada fácil,1
+E0352,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0353,Idioma,Español,5 · Muy fácil,5
+E0353,Habilidad,Trabajo en equipo,4,4
+E0353,Habilidad,Inteligencia emocional,2,2
+E0353,Habilidad,Atención al cliente,4,4
+E0354,Idioma,Español,5 · Muy fácil,5
+E0354,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0355,Idioma,Inglés,5 · Muy fácil,5
+E0355,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0356,Idioma,Inglés,1 · Nada fácil,1
+E0356,Idioma,Italiano,1 · Nada fácil,1
+E0356,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0357,Idioma,Inglés,5 · Muy fácil,5
+E0357,Idioma,Francés,5 · Muy fácil,5
+E0357,Habilidad,Comunicación,1 · Nada fácil,1
+E0357,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0357,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0358,Idioma,Inglés,5 · Muy fácil,5
+E0358,Idioma,Francés,5 · Muy fácil,5
+E0358,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0359,Idioma,Inglés,3,3
+E0359,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0360,Idioma,Español,3,3
+E0360,Idioma,Inglés,5 · Muy fácil,5
+E0360,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0361,Idioma,Inglés,4,4
+E0361,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0362,Idioma,Inglés,3,3
+E0362,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0363,Idioma,Inglés,3,3
+E0363,Idioma,Francés,3,3
+E0363,Habilidad,Trabajo en equipo,4,4
+E0363,Habilidad,Autoeficacia percibida,4,4
+E0364,Idioma,Español,5 · Muy fácil,5
+E0364,Idioma,Inglés,5 · Muy fácil,5
+E0364,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0365,Idioma,Español,5 · Muy fácil,5
+E0365,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0366,Idioma,Inglés,2,2
+E0366,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0366,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0367,Idioma,Español,5 · Muy fácil,5
+E0367,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0368,Idioma,Español,5 · Muy fácil,5
+E0368,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0369,Idioma,Español,5 · Muy fácil,5
+E0369,Habilidad,Atención al cliente,3,3
+E0370,Idioma,Inglés,2,2
+E0370,Idioma,Francés,1 · Nada fácil,1
+E0370,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0371,Idioma,Español,5 · Muy fácil,5
+E0371,Idioma,Inglés,1 · Nada fácil,1
+E0371,Habilidad,Inteligencia emocional,3,3
+E0371,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0372,Idioma,Inglés,1 · Nada fácil,1
+E0372,Idioma,Francés,1 · Nada fácil,1
+E0372,Habilidad,Atención al cliente,3,3
+E0372,Habilidad,Negociación,3,3
+E0372,Habilidad,Creatividad,5 · Muy fácil,5
+E0373,Idioma,Inglés,3,3
+E0373,Habilidad,Trabajo en equipo,2,2
+E0374,Idioma,Inglés,5 · Muy fácil,5
+E0374,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0374,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0375,Idioma,Inglés,1 · Nada fácil,1
+E0375,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0375,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0376,Idioma,Inglés,2,2
+E0376,Idioma,Francés,1 · Nada fácil,1
+E0376,Habilidad,Atención al cliente,2,2
+E0377,Idioma,Inglés,4,4
+E0377,Habilidad,Trabajo en equipo,3,3
+E0378,Idioma,Inglés,1 · Nada fácil,1
+E0378,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0378,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0379,Idioma,Español,5 · Muy fácil,5
+E0379,Habilidad,Comunicación,3,3
+E0380,Idioma,Inglés,1 · Nada fácil,1
+E0380,Habilidad,Trabajo en equipo,3,3
+E0380,Habilidad,Liderazgo,3,3
+E0380,Habilidad,Inteligencia emocional,3,3
+E0380,Habilidad,Ética de trabajo,3,3
+E0380,Habilidad,Creatividad,4,4
+E0381,Idioma,Español,4,4
+E0381,Idioma,Inglés,4,4
+E0381,Habilidad,Comunicación,3,3
+E0381,Habilidad,Liderazgo,3,3
+E0381,Habilidad,Atención al cliente,3,3
+E0382,Idioma,Español,5 · Muy fácil,5
+E0382,Idioma,Inglés,3,3
+E0382,Idioma,Francés,2,2
+E0382,Idioma,Alemán,1 · Nada fácil,1
+E0382,Habilidad,Atención al cliente,4,4
+E0383,Idioma,Inglés,4,4
+E0383,Habilidad,Comunicación,5 · Muy fácil,5
+E0384,Idioma,Inglés,2,2
+E0384,Habilidad,Networking,3,3
+E0385,Idioma,Inglés,5 · Muy fácil,5
+E0385,Idioma,Francés,1 · Nada fácil,1
+E0385,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0386,Idioma,Español,5 · Muy fácil,5
+E0386,Idioma,Inglés,3,3
+E0386,Habilidad,Ética de trabajo,3,3
+E0387,Idioma,Inglés,5 · Muy fácil,5
+E0387,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0388,Idioma,Español,3,3
+E0388,Idioma,Inglés,3,3
+E0388,Habilidad,Atención al cliente,3,3
+E0389,Idioma,Inglés,4,4
+E0389,Habilidad,Comunicación,4,4
+E0389,Habilidad,Trabajo en equipo,4,4
+E0389,Habilidad,Liderazgo,4,4
+E0389,Habilidad,Adaptabilidad,4,4
+E0389,Habilidad,Resolución de problemas,4,4
+E0389,Habilidad,Inteligencia emocional,4,4
+E0389,Habilidad,Ética de trabajo,4,4
+E0389,Habilidad,Manejo del tiempo,4,4
+E0389,Habilidad,Atención al cliente,4,4
+E0389,Habilidad,Negociación,4,4
+E0389,Habilidad,Autoeficacia percibida,4,4
+E0390,Idioma,Inglés,1 · Nada fácil,1
+E0390,Habilidad,Autoeficacia percibida,5 · Muy fácil,5
+E0391,Idioma,Español,5 · Muy fácil,5
+E0391,Habilidad,Trabajo en equipo,2,2
+E0392,Idioma,Español,5 · Muy fácil,5
+E0392,Idioma,Inglés,4,4
+E0392,Habilidad,Trabajo en equipo,3,3
+E0393,Idioma,Inglés,2,2
+E0393,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0394,Idioma,Inglés,3,3
+E0394,Idioma,Alemán,1 · Nada fácil,1
+E0394,Habilidad,Trabajo en equipo,4,4
+E0395,Idioma,Inglés,1 · Nada fácil,1
+E0395,Idioma,Alemán,1 · Nada fácil,1
+E0395,Habilidad,Comunicación,3,3
+E0396,Idioma,Inglés,1 · Nada fácil,1
+E0396,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0397,Idioma,Inglés,3,3
+E0397,Idioma,Francés,4,4
+E0397,Habilidad,Comunicación,4,4
+E0397,Habilidad,Liderazgo,4,4
+E0397,Habilidad,Networking,1 · Nada fácil,1
+E0398,Idioma,Inglés,5 · Muy fácil,5
+E0398,Habilidad,Liderazgo,5 · Muy fácil,5
+E0399,Idioma,Inglés,3,3
+E0399,Habilidad,Trabajo en equipo,3,3
+E0400,Idioma,Inglés,3,3
+E0400,Habilidad,Negociación,3,3
+E0401,Idioma,Inglés,1 · Nada fácil,1
+E0401,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0401,Habilidad,Manejo del tiempo,2,2
+E0401,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0401,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0402,Idioma,Español,5 · Muy fácil,5
+E0402,Habilidad,Atención al cliente,3,3
+E0403,Idioma,Inglés,5 · Muy fácil,5
+E0403,Habilidad,Comunicación,1 · Nada fácil,1
+E0403,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0403,Habilidad,Liderazgo,5 · Muy fácil,5
+E0403,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0403,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0403,Habilidad,Inteligencia emocional,5 · Muy fácil,5
+E0403,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0403,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0403,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0403,Habilidad,Creatividad,5 · Muy fácil,5
+E0403,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0404,Idioma,Español,1 · Nada fácil,1
+E0404,Idioma,Inglés,1 · Nada fácil,1
+E0404,Habilidad,Atención al cliente,2,2
+E0405,Idioma,Español,5 · Muy fácil,5
+E0405,Idioma,Inglés,1 · Nada fácil,1
+E0405,Habilidad,Adaptabilidad,3,3
+E0406,Idioma,Español,5 · Muy fácil,5
+E0406,Habilidad,Trabajo en equipo,3,3
+E0407,Idioma,Español,5 · Muy fácil,5
+E0407,Habilidad,Atención al cliente,3,3
+E0408,Idioma,Español,1 · Nada fácil,1
+E0408,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0409,Idioma,Español,5 · Muy fácil,5
+E0409,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0410,Idioma,Inglés,3,3
+E0410,Idioma,Francés,2,2
+E0410,Idioma,Alemán,1 · Nada fácil,1
+E0410,Habilidad,Ética de trabajo,3,3
+E0411,Idioma,Español,4,4
+E0411,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0412,Idioma,Español,5 · Muy fácil,5
+E0412,Idioma,Inglés,5 · Muy fácil,5
+E0412,Habilidad,Comunicación,3,3
+E0412,Habilidad,Trabajo en equipo,3,3
+E0412,Habilidad,Liderazgo,4,4
+E0412,Habilidad,Adaptabilidad,3,3
+E0412,Habilidad,Resolución de problemas,3,3
+E0412,Habilidad,Inteligencia emocional,4,4
+E0412,Habilidad,Ética de trabajo,3,3
+E0412,Habilidad,Manejo del tiempo,4,4
+E0412,Habilidad,Atención al cliente,3,3
+E0412,Habilidad,Negociación,4,4
+E0412,Habilidad,Creatividad,3,3
+E0413,Idioma,Español,5 · Muy fácil,5
+E0413,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0414,Idioma,Inglés,3,3
+E0414,Habilidad,Comunicación,1 · Nada fácil,1
+E0414,Habilidad,Atención al cliente,4,4
+E0415,Idioma,Inglés,1 · Nada fácil,1
+E0415,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0416,Idioma,Inglés,5 · Muy fácil,5
+E0416,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0416,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0417,Idioma,Español,1 · Nada fácil,1
+E0417,Habilidad,Comunicación,1 · Nada fácil,1
+E0417,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0417,Habilidad,Networking,1 · Nada fácil,1
+E0417,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0418,Idioma,Inglés,5 · Muy fácil,5
+E0418,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0419,Idioma,Español,5 · Muy fácil,5
+E0419,Habilidad,Comunicación,5 · Muy fácil,5
+E0420,Idioma,Español,5 · Muy fácil,5
+E0420,Habilidad,Atención al cliente,4,4
+E0421,Idioma,Español,5 · Muy fácil,5
+E0421,Habilidad,Comunicación,1 · Nada fácil,1
+E0421,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0421,Habilidad,Creatividad,1 · Nada fácil,1
+E0422,Idioma,Inglés,1 · Nada fácil,1
+E0422,Habilidad,Manejo del tiempo,2,2
+E0423,Idioma,Español,5 · Muy fácil,5
+E0423,Idioma,Inglés,5 · Muy fácil,5
+E0423,Habilidad,Creatividad,5 · Muy fácil,5
+E0424,Idioma,Español,5 · Muy fácil,5
+E0424,Habilidad,Comunicación,5 · Muy fácil,5
+E0425,Idioma,Español,1 · Nada fácil,1
+E0425,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0426,Idioma,Español,3,3
+E0426,Idioma,Inglés,3,3
+E0426,Habilidad,Trabajo en equipo,3,3
+E0427,Idioma,Español,1 · Nada fácil,1
+E0427,Habilidad,Trabajo en equipo,3,3
+E0428,Idioma,Español,5 · Muy fácil,5
+E0428,Habilidad,Negociación,1 · Nada fácil,1
+E0429,Idioma,Español,1 · Nada fácil,1
+E0429,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0429,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0430,Idioma,Español,5 · Muy fácil,5
+E0430,Idioma,Inglés,1 · Nada fácil,1
+E0430,Habilidad,Comunicación,2,2
+E0430,Habilidad,Trabajo en equipo,2,2
+E0430,Habilidad,Resolución de problemas,2,2
+E0430,Habilidad,Ética de trabajo,2,2
+E0431,Idioma,Inglés,1 · Nada fácil,1
+E0431,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0432,Idioma,Español,2,2
+E0432,Habilidad,Trabajo en equipo,3,3
+E0433,Idioma,Español,5 · Muy fácil,5
+E0433,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0434,Idioma,Español,4,4
+E0434,Habilidad,Resolución de problemas,3,3
+E0435,Idioma,Español,4,4
+E0435,Habilidad,Adaptabilidad,3,3
+E0435,Habilidad,Atención al cliente,3,3
+E0436,Idioma,Español,5 · Muy fácil,5
+E0436,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0437,Idioma,Español,5 · Muy fácil,5
+E0437,Habilidad,Atención al cliente,3,3
+E0438,Idioma,Inglés,5 · Muy fácil,5
+E0438,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0438,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0438,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0439,Idioma,Inglés,5 · Muy fácil,5
+E0439,Idioma,Francés,5 · Muy fácil,5
+E0439,Idioma,Alemán,1 · Nada fácil,1
+E0439,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0440,Idioma,Inglés,4,4
+E0440,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0440,Habilidad,Liderazgo,4,4
+E0440,Habilidad,Resolución de problemas,4,4
+E0440,Habilidad,Ética de trabajo,4,4
+E0440,Habilidad,Manejo del tiempo,4,4
+E0440,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0441,Idioma,Inglés,1 · Nada fácil,1
+E0441,Habilidad,Ética de trabajo,3,3
+E0442,Idioma,Inglés,2,2
+E0442,Habilidad,Trabajo en equipo,3,3
+E0442,Habilidad,Liderazgo,1 · Nada fácil,1
+E0442,Habilidad,Resolución de problemas,3,3
+E0443,Idioma,Inglés,5 · Muy fácil,5
+E0443,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0443,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0444,Idioma,Inglés,4,4
+E0444,Habilidad,Trabajo en equipo,3,3
+E0445,Idioma,Español,5 · Muy fácil,5
+E0445,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0446,Idioma,Español,5 · Muy fácil,5
+E0446,Habilidad,Trabajo en equipo,3,3
+E0447,Idioma,Inglés,1 · Nada fácil,1
+E0447,Habilidad,Trabajo en equipo,3,3
+E0447,Habilidad,Atención al cliente,2,2
+E0448,Idioma,Inglés,3,3
+E0448,Habilidad,Trabajo en equipo,4,4
+E0449,Idioma,Español,1 · Nada fácil,1
+E0449,Habilidad,Atención al cliente,3,3
+E0450,Idioma,Inglés,1 · Nada fácil,1
+E0450,Habilidad,Comunicación,3,3
+E0450,Habilidad,Trabajo en equipo,3,3
+E0450,Habilidad,Liderazgo,2,2
+E0450,Habilidad,Adaptabilidad,2,2
+E0450,Habilidad,Resolución de problemas,2,2
+E0450,Habilidad,Ética de trabajo,3,3
+E0450,Habilidad,Manejo del tiempo,3,3
+E0450,Habilidad,Atención al cliente,2,2
+E0451,Idioma,Español,5 · Muy fácil,5
+E0451,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0451,Habilidad,Liderazgo,1 · Nada fácil,1
+E0451,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0451,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0452,Idioma,Español,5 · Muy fácil,5
+E0452,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0453,Idioma,Inglés,5 · Muy fácil,5
+E0453,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0454,Idioma,Inglés,2,2
+E0454,Habilidad,Ética de trabajo,2,2
+E0455,Idioma,Inglés,1 · Nada fácil,1
+E0455,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0456,Idioma,Inglés,1 · Nada fácil,1
+E0456,Habilidad,Comunicación,2,2
+E0456,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0456,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0457,Idioma,Inglés,1 · Nada fácil,1
+E0457,Idioma,Francés,1 · Nada fácil,1
+E0457,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0457,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0458,Idioma,Español,4,4
+E0458,Idioma,Creole,2,2
+E0458,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0458,Habilidad,Manejo del tiempo,2,2
+E0459,Idioma,Español,3,3
+E0459,Habilidad,Atención al cliente,4,4
+E0460,Idioma,Inglés,1 · Nada fácil,1
+E0460,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0461,Idioma,Inglés,3,3
+E0461,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0462,Idioma,Español,5 · Muy fácil,5
+E0462,Idioma,Inglés,3,3
+E0462,Idioma,Francés,1 · Nada fácil,1
+E0462,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0463,Idioma,Español,1 · Nada fácil,1
+E0463,Idioma,Inglés,3,3
+E0463,Idioma,Francés,3,3
+E0463,Habilidad,Negociación,1 · Nada fácil,1
+E0464,Idioma,Inglés,3,3
+E0464,Idioma,Francés,3,3
+E0464,Idioma,Alemán,1 · Nada fácil,1
+E0464,Habilidad,Creatividad,4,4
+E0465,Idioma,Español,1 · Nada fácil,1
+E0465,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0466,Idioma,Inglés,3,3
+E0466,Habilidad,Atención al cliente,3,3
+E0467,Idioma,Inglés,4,4
+E0467,Habilidad,Trabajo en equipo,3,3
+E0467,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0468,Idioma,Inglés,1 · Nada fácil,1
+E0468,Idioma,Francés,1 · Nada fácil,1
+E0468,Habilidad,Comunicación,5 · Muy fácil,5
+E0468,Habilidad,Adaptabilidad,5 · Muy fácil,5
+E0469,Idioma,Español,4,4
+E0469,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0470,Idioma,Español,5 · Muy fácil,5
+E0470,Idioma,Inglés,2,2
+E0470,Idioma,Francés,5 · Muy fácil,5
+E0470,Habilidad,Atención al cliente,2,2
+E0471,Idioma,Español,1 · Nada fácil,1
+E0471,Idioma,Inglés,1 · Nada fácil,1
+E0471,Habilidad,Atención al cliente,4,4
+E0472,Idioma,Español,4,4
+E0472,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0473,Idioma,Español,1 · Nada fácil,1
+E0473,Idioma,Inglés,5 · Muy fácil,5
+E0473,Habilidad,Manejo del tiempo,4,4
+E0474,Idioma,Español,3,3
+E0474,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0475,Idioma,Inglés,5 · Muy fácil,5
+E0475,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0476,Idioma,Inglés,5 · Muy fácil,5
+E0476,Idioma,Francés,2,2
+E0476,Idioma,Alemán,1 · Nada fácil,1
+E0476,Habilidad,Trabajo en equipo,2,2
+E0476,Habilidad,Manejo del tiempo,2,2
+E0476,Habilidad,Atención al cliente,2,2
+E0477,Idioma,Coreano,4,4
+E0477,Habilidad,Ética de trabajo,3,3
+E0478,Idioma,Inglés,5 · Muy fácil,5
+E0478,Idioma,Francés,1 · Nada fácil,1
+E0478,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0478,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0478,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0478,Habilidad,Creatividad,3,3
+E0479,Idioma,Inglés,2,2
+E0479,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0479,Habilidad,Liderazgo,5 · Muy fácil,5
+E0479,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0480,Idioma,Inglés,5 · Muy fácil,5
+E0480,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0480,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0481,Idioma,Inglés,5 · Muy fácil,5
+E0481,Idioma,Francés,5 · Muy fácil,5
+E0481,Idioma,Alemán,5 · Muy fácil,5
+E0481,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0481,Habilidad,Negociación,5 · Muy fácil,5
+E0482,Idioma,Inglés,5 · Muy fácil,5
+E0482,Habilidad,Ética de trabajo,3,3
+E0482,Habilidad,Atención al cliente,4,4
+E0483,Idioma,Inglés,5 · Muy fácil,5
+E0483,Idioma,Francés,5 · Muy fácil,5
+E0483,Habilidad,Atención al cliente,2,2
+E0484,Idioma,Inglés,5 · Muy fácil,5
+E0484,Idioma,Francés,5 · Muy fácil,5
+E0484,Idioma,Italiano,5 · Muy fácil,5
+E0484,Habilidad,Trabajo en equipo,3,3
+E0485,Idioma,Español,5 · Muy fácil,5
+E0485,Idioma,Inglés,3,3
+E0485,Habilidad,Ética de trabajo,3,3
+E0485,Habilidad,Atención al cliente,3,3
+E0486,Idioma,Francés,5 · Muy fácil,5
+E0486,Idioma,Italiano,5 · Muy fácil,5
+E0486,Idioma,Alemán,5 · Muy fácil,5
+E0486,Habilidad,Creatividad,5 · Muy fácil,5
+E0487,Idioma,Español,1 · Nada fácil,1
+E0487,Idioma,Alemán,1 · Nada fácil,1
+E0487,Idioma,Portugués,1 · Nada fácil,1
+E0487,Habilidad,Comunicación,1 · Nada fácil,1
+E0487,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0487,Habilidad,Liderazgo,1 · Nada fácil,1
+E0487,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0487,Habilidad,Resolución de problemas,1 · Nada fácil,1
+E0487,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0487,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0487,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0487,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0487,Habilidad,Negociación,1 · Nada fácil,1
+E0487,Habilidad,Creatividad,1 · Nada fácil,1
+E0487,Habilidad,Networking,1 · Nada fácil,1
+E0487,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0488,Idioma,Español,1 · Nada fácil,1
+E0488,Idioma,Inglés,1 · Nada fácil,1
+E0488,Idioma,Italiano,1 · Nada fácil,1
+E0488,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0488,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0488,Habilidad,Creatividad,1 · Nada fácil,1
+E0489,Idioma,Español,1 · Nada fácil,1
+E0489,Idioma,Inglés,1 · Nada fácil,1
+E0489,Idioma,Francés,1 · Nada fácil,1
+E0489,Idioma,Italiano,1 · Nada fácil,1
+E0489,Idioma,Ruso,1 · Nada fácil,1
+E0489,Idioma,Alemán,5 · Muy fácil,5
+E0489,Idioma,Portugués,1 · Nada fácil,1
+E0489,Idioma,Creole,1 · Nada fácil,1
+E0489,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0490,Idioma,Español,1 · Nada fácil,1
+E0490,Habilidad,Trabajo en equipo,3,3
+E0490,Habilidad,Resolución de problemas,3,3
+E0491,Idioma,Español,1 · Nada fácil,1
+E0491,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0492,Idioma,Español,1 · Nada fácil,1
+E0492,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0492,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0493,Idioma,Español,5 · Muy fácil,5
+E0493,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0494,Idioma,Español,4,4
+E0494,Idioma,Inglés,4,4
+E0494,Habilidad,Comunicación,5 · Muy fácil,5
+E0494,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0494,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0494,Habilidad,Autoeficacia percibida,5 · Muy fácil,5
+E0495,Idioma,Español,5 · Muy fácil,5
+E0495,Idioma,Inglés,4,4
+E0495,Idioma,Francés,4,4
+E0495,Habilidad,Trabajo en equipo,4,4
+E0495,Habilidad,Resolución de problemas,4,4
+E0495,Habilidad,Atención al cliente,3,3
+E0496,Idioma,Francés,5 · Muy fácil,5
+E0496,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0496,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0497,Idioma,Inglés,5 · Muy fácil,5
+E0497,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0497,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0498,Idioma,Español,5 · Muy fácil,5
+E0498,Habilidad,Comunicación,5 · Muy fácil,5
+E0499,Idioma,Español,1 · Nada fácil,1
+E0499,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0500,Idioma,Español,1 · Nada fácil,1
+E0500,Habilidad,Manejo del tiempo,3,3
+E0501,Idioma,Español,4,4
+E0501,Habilidad,Atención al cliente,3,3
+E0502,Idioma,Español,5 · Muy fácil,5
+E0502,Habilidad,Atención al cliente,4,4
+E0503,Idioma,Español,5 · Muy fácil,5
+E0503,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0504,Idioma,Español,5 · Muy fácil,5
+E0504,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0505,Idioma,Español,5 · Muy fácil,5
+E0505,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0506,Idioma,Creole,1 · Nada fácil,1
+E0506,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0507,Idioma,Español,4,4
+E0507,Idioma,Inglés,3,3
+E0507,Habilidad,Trabajo en equipo,3,3
+E0508,Idioma,Español,5 · Muy fácil,5
+E0508,Idioma,Inglés,2,2
+E0508,Habilidad,Comunicación,3,3
+E0508,Habilidad,Trabajo en equipo,4,4
+E0509,Idioma,Español,1 · Nada fácil,1
+E0509,Idioma,Inglés,1 · Nada fácil,1
+E0509,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0510,Idioma,Español,5 · Muy fácil,5
+E0510,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0511,Idioma,Español,5 · Muy fácil,5
+E0511,Habilidad,Networking,5 · Muy fácil,5
+E0512,Idioma,Inglés,1 · Nada fácil,1
+E0512,Idioma,Creole,1 · Nada fácil,1
+E0512,Habilidad,Creatividad,1 · Nada fácil,1
+E0513,Idioma,Inglés,1 · Nada fácil,1
+E0513,Habilidad,Comunicación,3,3
+E0513,Habilidad,Atención al cliente,4,4
+E0513,Habilidad,Creatividad,3,3
+E0514,Idioma,Español,3,3
+E0514,Habilidad,Comunicación,2,2
+E0514,Habilidad,Creatividad,3,3
+E0515,Idioma,Español,3,3
+E0515,Habilidad,Atención al cliente,3,3
+E0516,Idioma,Inglés,1 · Nada fácil,1
+E0516,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0516,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0517,Idioma,Español,5 · Muy fácil,5
+E0517,Habilidad,Comunicación,4,4
+E0518,Idioma,Inglés,1 · Nada fácil,1
+E0518,Idioma,Francés,1 · Nada fácil,1
+E0518,Idioma,Italiano,1 · Nada fácil,1
+E0518,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0518,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0519,Idioma,Español,5 · Muy fácil,5
+E0519,Idioma,Inglés,1 · Nada fácil,1
+E0519,Idioma,Francés,1 · Nada fácil,1
+E0519,Idioma,Italiano,1 · Nada fácil,1
+E0519,Habilidad,Atención al cliente,3,3
+E0520,Idioma,Inglés,1 · Nada fácil,1
+E0520,Idioma,Francés,1 · Nada fácil,1
+E0520,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0521,Idioma,Español,1 · Nada fácil,1
+E0521,Habilidad,Atención al cliente,4,4
+E0522,Idioma,Inglés,1 · Nada fácil,1
+E0522,Habilidad,Creatividad,5 · Muy fácil,5
+E0523,Idioma,Inglés,1 · Nada fácil,1
+E0523,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0524,Idioma,Inglés,3,3
+E0524,Habilidad,Trabajo en equipo,2,2
+E0525,Idioma,Inglés,1 · Nada fácil,1
+E0525,Idioma,Francés,1 · Nada fácil,1
+E0525,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0525,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0525,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0525,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0526,Idioma,Español,3,3
+E0526,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0527,Idioma,Español,3,3
+E0527,Habilidad,Manejo del tiempo,2,2
+E0527,Habilidad,Atención al cliente,3,3
+E0528,Idioma,Español,5 · Muy fácil,5
+E0528,Idioma,Inglés,5 · Muy fácil,5
+E0528,Idioma,Francés,3,3
+E0528,Idioma,Italiano,2,2
+E0528,Habilidad,Atención al cliente,3,3
+E0529,Idioma,Español,3,3
+E0529,Habilidad,Atención al cliente,3,3
+E0530,Idioma,Inglés,3,3
+E0530,Habilidad,Ética de trabajo,2,2
+E0531,Idioma,Español,5 · Muy fácil,5
+E0531,Idioma,Inglés,4,4
+E0531,Habilidad,Trabajo en equipo,3,3
+E0531,Habilidad,Atención al cliente,2,2
+E0532,Idioma,Inglés,1 · Nada fácil,1
+E0532,Idioma,Francés,1 · Nada fácil,1
+E0532,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0532,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0532,Habilidad,Atención al cliente,3,3
+E0533,Idioma,Español,5 · Muy fácil,5
+E0533,Idioma,Inglés,4,4
+E0533,Habilidad,Trabajo en equipo,3,3
+E0534,Idioma,Español,3,3
+E0534,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0534,Habilidad,Atención al cliente,3,3
+E0534,Habilidad,Creatividad,3,3
+E0535,Idioma,Español,5 · Muy fácil,5
+E0535,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0536,Idioma,Inglés,1 · Nada fácil,1
+E0536,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0537,Idioma,Inglés,1 · Nada fácil,1
+E0537,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0538,Idioma,Inglés,3,3
+E0538,Habilidad,Manejo del tiempo,4,4
+E0538,Habilidad,Atención al cliente,3,3
+E0539,Idioma,Español,5 · Muy fácil,5
+E0539,Idioma,Inglés,1 · Nada fácil,1
+E0539,Idioma,Alemán,1 · Nada fácil,1
+E0539,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0540,Idioma,Inglés,5 · Muy fácil,5
+E0540,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0541,Idioma,Inglés,5 · Muy fácil,5
+E0541,Idioma,Francés,2,2
+E0541,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0542,Idioma,Inglés,5 · Muy fácil,5
+E0542,Habilidad,Comunicación,5 · Muy fácil,5
+E0542,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0542,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0543,Idioma,Inglés,5 · Muy fácil,5
+E0543,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0544,Idioma,Inglés,1 · Nada fácil,1
+E0544,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0544,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0545,Idioma,Español,5 · Muy fácil,5
+E0545,Habilidad,Trabajo en equipo,3,3
+E0545,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0546,Idioma,Inglés,3,3
+E0546,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0546,Habilidad,Inteligencia emocional,3,3
+E0546,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0547,Idioma,Español,5 · Muy fácil,5
+E0547,Idioma,Inglés,3,3
+E0547,Habilidad,Inteligencia emocional,4,4
+E0548,Idioma,Español,5 · Muy fácil,5
+E0548,Habilidad,Ética de trabajo,4,4
+E0549,Idioma,Español,5 · Muy fácil,5
+E0549,Idioma,Inglés,3,3
+E0549,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0550,Idioma,Español,5 · Muy fácil,5
+E0550,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0550,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0551,Idioma,Inglés,5 · Muy fácil,5
+E0551,Habilidad,Atención al cliente,2,2
+E0552,Idioma,Inglés,5 · Muy fácil,5
+E0552,Idioma,Francés,2,2
+E0552,Idioma,Alemán,1 · Nada fácil,1
+E0552,Habilidad,Inteligencia emocional,5 · Muy fácil,5
+E0553,Idioma,Inglés,5 · Muy fácil,5
+E0553,Habilidad,Comunicación,5 · Muy fácil,5
+E0553,Habilidad,Ética de trabajo,3,3
+E0553,Habilidad,Atención al cliente,4,4
+E0554,Idioma,Inglés,1 · Nada fácil,1
+E0554,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0554,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0554,Habilidad,Atención al cliente,3,3
+E0555,Idioma,Español,5 · Muy fácil,5
+E0555,Habilidad,Atención al cliente,4,4
+E0556,Idioma,Español,5 · Muy fácil,5
+E0556,Habilidad,Atención al cliente,4,4
+E0557,Idioma,Español,5 · Muy fácil,5
+E0557,Idioma,Inglés,1 · Nada fácil,1
+E0557,Idioma,Francés,1 · Nada fácil,1
+E0557,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0557,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0557,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0558,Idioma,Inglés,1 · Nada fácil,1
+E0558,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0559,Idioma,Inglés,3,3
+E0559,Habilidad,Trabajo en equipo,4,4
+E0560,Idioma,Español,5 · Muy fácil,5
+E0560,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0561,Idioma,Inglés,1 · Nada fácil,1
+E0561,Idioma,Francés,1 · Nada fácil,1
+E0561,Habilidad,Comunicación,1 · Nada fácil,1
+E0561,Habilidad,Trabajo en equipo,2,2
+E0561,Habilidad,Adaptabilidad,1 · Nada fácil,1
+E0561,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0561,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0561,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0561,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0561,Habilidad,Networking,1 · Nada fácil,1
+E0561,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0562,Idioma,Español,5 · Muy fácil,5
+E0562,Idioma,Inglés,3,3
+E0562,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0563,Idioma,Español,3,3
+E0563,Habilidad,Trabajo en equipo,3,3
+E0564,Idioma,Inglés,4,4
+E0564,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0565,Idioma,Inglés,1 · Nada fácil,1
+E0565,Habilidad,Liderazgo,1 · Nada fácil,1
+E0565,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0565,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0566,Idioma,Inglés,1 · Nada fácil,1
+E0566,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0567,Idioma,Español,5 · Muy fácil,5
+E0567,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0568,Idioma,Español,5 · Muy fácil,5
+E0568,Idioma,Inglés,3,3
+E0568,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0569,Idioma,Español,5 · Muy fácil,5
+E0569,Idioma,Inglés,5 · Muy fácil,5
+E0569,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0570,Idioma,Español,5 · Muy fácil,5
+E0570,Idioma,Inglés,3,3
+E0570,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0570,Habilidad,Ética de trabajo,4,4
+E0571,Idioma,Inglés,1 · Nada fácil,1
+E0571,Idioma,Francés,1 · Nada fácil,1
+E0571,Habilidad,Comunicación,1 · Nada fácil,1
+E0571,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0571,Habilidad,Liderazgo,5 · Muy fácil,5
+E0571,Habilidad,Resolución de problemas,5 · Muy fácil,5
+E0571,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0571,Habilidad,Manejo del tiempo,5 · Muy fácil,5
+E0572,Idioma,Inglés,1 · Nada fácil,1
+E0572,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0572,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0573,Idioma,Inglés,1 · Nada fácil,1
+E0573,Idioma,Francés,1 · Nada fácil,1
+E0573,Habilidad,Atención al cliente,3,3
+E0574,Idioma,Inglés,3,3
+E0574,Habilidad,Ética de trabajo,3,3
+E0575,Idioma,Inglés,5 · Muy fácil,5
+E0575,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0575,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0576,Idioma,Inglés,3,3
+E0576,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0577,Idioma,Inglés,5 · Muy fácil,5
+E0577,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0577,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0577,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0577,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0578,Idioma,Español,5 · Muy fácil,5
+E0578,Idioma,Inglés,3,3
+E0578,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0579,Idioma,Inglés,1 · Nada fácil,1
+E0579,Habilidad,Manejo del tiempo,4,4
+E0579,Habilidad,Atención al cliente,4,4
+E0580,Idioma,Español,5 · Muy fácil,5
+E0580,Idioma,Inglés,5 · Muy fácil,5
+E0580,Idioma,Francés,2,2
+E0580,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0581,Idioma,Inglés,1 · Nada fácil,1
+E0581,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0582,Idioma,Inglés,1 · Nada fácil,1
+E0582,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0583,Idioma,Español,5 · Muy fácil,5
+E0583,Habilidad,Networking,4,4
+E0584,Idioma,Inglés,1 · Nada fácil,1
+E0584,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0585,Idioma,Español,5 · Muy fácil,5
+E0585,Idioma,Inglés,5 · Muy fácil,5
+E0585,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0586,Idioma,Inglés,1 · Nada fácil,1
+E0586,Habilidad,Comunicación,4,4
+E0586,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0587,Idioma,Inglés,5 · Muy fácil,5
+E0587,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0588,Idioma,Inglés,1 · Nada fácil,1
+E0588,Habilidad,Liderazgo,1 · Nada fácil,1
+E0588,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0589,Idioma,Español,5 · Muy fácil,5
+E0589,Idioma,Inglés,1 · Nada fácil,1
+E0589,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0590,Idioma,Inglés,3,3
+E0590,Habilidad,Atención al cliente,4,4
+E0591,Idioma,Español,5 · Muy fácil,5
+E0591,Idioma,Inglés,5 · Muy fácil,5
+E0591,Idioma,Francés,5 · Muy fácil,5
+E0591,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0591,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0592,Idioma,Español,5 · Muy fácil,5
+E0592,Idioma,Inglés,3,3
+E0592,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0593,Idioma,Inglés,1 · Nada fácil,1
+E0593,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0594,Idioma,Inglés,2,2
+E0594,Habilidad,Trabajo en equipo,3,3
+E0594,Habilidad,Adaptabilidad,3,3
+E0595,Idioma,Español,3,3
+E0595,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0595,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0596,Idioma,Español,5 · Muy fácil,5
+E0596,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0597,Idioma,Inglés,5 · Muy fácil,5
+E0597,Idioma,Creole,1 · Nada fácil,1
+E0597,Habilidad,Inteligencia emocional,1 · Nada fácil,1
+E0598,Idioma,Inglés,1 · Nada fácil,1
+E0598,Habilidad,Creatividad,2,2
+E0599,Idioma,Inglés,1 · Nada fácil,1
+E0599,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0600,Idioma,Inglés,1 · Nada fácil,1
+E0600,Habilidad,Comunicación,1 · Nada fácil,1
+E0600,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0600,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0600,Habilidad,Manejo del tiempo,1 · Nada fácil,1
+E0600,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0600,Habilidad,Autoeficacia percibida,1 · Nada fácil,1
+E0601,Idioma,Inglés,5 · Muy fácil,5
+E0601,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0602,Idioma,Español,5 · Muy fácil,5
+E0602,Idioma,Inglés,3,3
+E0602,Habilidad,Trabajo en equipo,3,3
+E0602,Habilidad,Resolución de problemas,3,3
+E0603,Idioma,Español,5 · Muy fácil,5
+E0603,Idioma,Inglés,3,3
+E0603,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0603,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0604,Idioma,Inglés,4,4
+E0604,Habilidad,Trabajo en equipo,3,3
+E0605,Idioma,Inglés,5 · Muy fácil,5
+E0605,Habilidad,Trabajo en equipo,3,3
+E0605,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0606,Idioma,Español,5 · Muy fácil,5
+E0606,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0607,Idioma,Inglés,1 · Nada fácil,1
+E0607,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0607,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0607,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0608,Idioma,Español,1 · Nada fácil,1
+E0608,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0609,Idioma,Español,5 · Muy fácil,5
+E0609,Idioma,Inglés,1 · Nada fácil,1
+E0609,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0610,Idioma,Inglés,1 · Nada fácil,1
+E0610,Idioma,Francés,3,3
+E0610,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0610,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0611,Idioma,Español,1 · Nada fácil,1
+E0611,Idioma,Inglés,1 · Nada fácil,1
+E0611,Idioma,Francés,1 · Nada fácil,1
+E0611,Habilidad,Atención al cliente,3,3
+E0612,Idioma,Español,5 · Muy fácil,5
+E0612,Habilidad,Atención al cliente,3,3
+E0613,Idioma,Español,5 · Muy fácil,5
+E0613,Idioma,Inglés,3,3
+E0613,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0613,Habilidad,Liderazgo,5 · Muy fácil,5
+E0614,Idioma,Inglés,5 · Muy fácil,5
+E0614,Idioma,Francés,1 · Nada fácil,1
+E0614,Idioma,Alemán,5 · Muy fácil,5
+E0614,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0614,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0615,Idioma,Inglés,5 · Muy fácil,5
+E0615,Idioma,Francés,5 · Muy fácil,5
+E0615,Habilidad,Ética de trabajo,4,4
+E0616,Idioma,Inglés,1 · Nada fácil,1
+E0616,Habilidad,Trabajo en equipo,3,3
+E0617,Idioma,Inglés,1 · Nada fácil,1
+E0617,Idioma,Francés,1 · Nada fácil,1
+E0617,Habilidad,Atención al cliente,2,2
+E0618,Idioma,Inglés,1 · Nada fácil,1
+E0618,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0619,Idioma,Inglés,2,2
+E0619,Habilidad,Trabajo en equipo,2,2
+E0620,Idioma,Español,5 · Muy fácil,5
+E0620,Idioma,Inglés,5 · Muy fácil,5
+E0620,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0621,Idioma,Español,5 · Muy fácil,5
+E0621,Idioma,Inglés,5 · Muy fácil,5
+E0621,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0622,Idioma,Inglés,3,3
+E0622,Habilidad,Atención al cliente,3,3
+E0623,Idioma,Español,5 · Muy fácil,5
+E0623,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0624,Idioma,Español,5 · Muy fácil,5
+E0624,Idioma,Inglés,1 · Nada fácil,1
+E0624,Idioma,Francés,1 · Nada fácil,1
+E0624,Idioma,Creole,1 · Nada fácil,1
+E0624,Habilidad,Atención al cliente,3,3
+E0625,Idioma,Inglés,1 · Nada fácil,1
+E0625,Habilidad,Trabajo en equipo,5 · Muy fácil,5
+E0625,Habilidad,Ética de trabajo,5 · Muy fácil,5
+E0625,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0626,Idioma,Inglés,1 · Nada fácil,1
+E0626,Habilidad,Atención al cliente,3,3
+E0627,Idioma,Inglés,1 · Nada fácil,1
+E0627,Habilidad,Comunicación,3,3
+E0627,Habilidad,Ética de trabajo,3,3
+E0628,Idioma,Inglés,1 · Nada fácil,1
+E0628,Habilidad,Trabajo en equipo,2,2
+E0628,Habilidad,Ética de trabajo,2,2
+E0629,Idioma,Inglés,1 · Nada fácil,1
+E0629,Habilidad,Trabajo en equipo,1 · Nada fácil,1
+E0629,Habilidad,Ética de trabajo,1 · Nada fácil,1
+E0629,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0630,Idioma,Francés,5 · Muy fácil,5
+E0630,Habilidad,Trabajo en equipo,3,3
+E0630,Habilidad,Manejo del tiempo,3,3
+E0631,Idioma,Inglés,1 · Nada fácil,1
+E0631,Habilidad,Atención al cliente,3,3
+E0632,Idioma,Español,5 · Muy fácil,5
+E0632,Habilidad,Trabajo en equipo,3,3
+E0632,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0633,Idioma,Inglés,1 · Nada fácil,1
+E0633,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0634,Idioma,Inglés,1 · Nada fácil,1
+E0634,Habilidad,Atención al cliente,1 · Nada fácil,1
+E0635,Idioma,Español,5 · Muy fácil,5
+E0635,Idioma,Inglés,5 · Muy fácil,5
+E0635,Idioma,Francés,3,3
+E0635,Habilidad,Trabajo en equipo,4,4
+E0635,Habilidad,Atención al cliente,4,4
+E0636,Idioma,Inglés,5 · Muy fácil,5
+E0636,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0637,Idioma,Inglés,1 · Nada fácil,1
+E0637,Idioma,Francés,1 · Nada fácil,1
+E0637,Habilidad,Atención al cliente,5 · Muy fácil,5
+E0638,Idioma,Inglés,2,2
+E0638,Idioma,Alemán,4,4
+E0638,Habilidad,Comunicación,3,3
+E0638,Habilidad,Trabajo en equipo,3,3
+E0638,Habilidad,Atención al cliente,3,3
+E0639,Idioma,Inglés,4,4
+E0639,Habilidad,Comunicación,4,4
+E0639,Habilidad,Trabajo en equipo,3,3
+E0639,Habilidad,Atención al cliente,3,3
+E0640,Idioma,Español,5 · Muy fácil,5
+E0640,Idioma,Inglés,5 · Muy fácil,5
+E0640,Idioma,Francés,3,3
+E0640,Habilidad,Liderazgo,3,3
+E0640,Habilidad,Inteligencia emocional,2,2
+E0640,Habilidad,Ética de trabajo,4,4
+E0641,Idioma,Inglés,4,4
+E0641,Habilidad,Comunicación,4,4
+E0641,Habilidad,Trabajo en equipo,4,4
+E0641,Habilidad,Atención al cliente,4,4
+E0642,Idioma,Español,5 · Muy fácil,5
+E0642,Idioma,Inglés,5 · Muy fácil,5
+E0642,Idioma,Francés,4,4
+E0642,Idioma,Alemán,3,3
+E0642,Habilidad,Comunicación,5 · Muy fácil,5
